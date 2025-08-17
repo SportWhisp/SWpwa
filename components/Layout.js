@@ -8,7 +8,7 @@ export default function Layout({ children }) {
     <div className="app-container">
       <header className="header">
         <Banner position="left" />
-        <img src="/logo.png" alt="SportWhisp Logo" className="logo" />
+        <img src="/Logo.png" alt="SportWhisp Logo" className="logo" />
         <Banner position="right" />
       </header>
 
