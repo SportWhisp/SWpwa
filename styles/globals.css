@@ -202,22 +202,32 @@
   color: #006400;
   font-weight: bold;
 }
-/* --- SOLO MOBILE: navbar piena larghezza, avvolgimento, allineata a sinistra --- */
+/* —— SOLO su mobile —— */
 @media (max-width: 768px) {
-  .navbar {
+  .app-container {
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  .header, .navbar, .content, .footer {
     width: 100%;
     box-sizing: border-box;
+  }
+
+  .navbar {
     display: flex;
-    flex-wrap: wrap;          /* manda a capo quando serve */
-    justify-content: flex-start; /* allinea a sinistra */
-    gap: 8px 12px;            /* spazio tra link (riga,colonna) */
+    flex-wrap: wrap;          
+    justify-content: flex-start;
+    gap: 8px 12px;            /* spazio fra link */
     padding: 10px;
   }
 
   .navbar a,
   .dropbtn {
     padding: 6px 8px;
-    font-size: 0.95em;
-    flex: 0 1 auto;           /* permette il wrap naturale */
+    font-size: 0.95em;        /* leggermente più piccolo */
+    flex: 0 1 auto;
   }
 }
