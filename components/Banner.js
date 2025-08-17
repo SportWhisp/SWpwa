@@ -64,7 +64,7 @@ export default function Banner({ position = "middle" }) {
 
   const bannerClass =
     position === "sticky"
-      ? "banner banner-sticky"
+      ? "banner-sticky"
       : position === "middle"
       ? "banner banner-middle"
       : "banner";
@@ -75,17 +75,22 @@ export default function Banner({ position = "middle" }) {
   const adSlot = SLOT_BY_POSITION[position] || SLOT_BY_POSITION.default;
 
   // ✅ Render di uno slot AdSense:
-  // - se AdSense non è ancora pronto, il testo fallback dentro <ins> rimane visibile
+  // - se AdSense non è ancora pronto, il testo fallbackdentro  <ins> rimane visibile
   // - quando l’annuncio si carica, sostituisce il contenuto dell’<ins>
+
+// Sticky: per policy AdSense, non serviamo un annuncio qui.
+// Mostriamo solo il fallback testuale (o un tuo house-ad) fino all'attivazione degli Anchor Ads.
+if (position === "sticky") {
+  return <div className="banner-sticky">{bannerSet[current]}</div>;
+}
+
   return (
     <ins
       className={`adsbygoogle ${bannerClass}`}
       // Lasciamo le dimensioni ai tuoi CSS (.banner, .banner-middle, .banner-sticky)
-      style={{ display: "block" }}
+      style={{ display: "block", width: 728, height: 90 }} // forza 728x90
       data-ad-client={AD_CLIENT}
       data-ad-slot={adSlot}
-      data-ad-format="auto"
-      data-full-width-responsive="false"
     >
       {bannerSet[current]}
     </ins>
