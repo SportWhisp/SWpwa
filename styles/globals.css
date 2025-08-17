@@ -204,15 +204,17 @@
 }
 /* —— SOLO su mobile —— */
 @media (max-width: 768px) {
+   :root { --mobile-page-width: 980px; } /* 👈 cambia qui: 900 / 980 / 1100 ... */
+
   .app-container {
-    width: 100%;
-    max-width: none;
-    margin: 0;
+    width: var(--mobile-page-width);
+    min-width: var(--mobile-page-width);
+    margin: 0 auto;               /* centra rispetto al viewport */
     box-sizing: border-box;
   }
 
   .header, .navbar, .content, .footer {
-    width: 100%;
+    width: var(--mobile-page-width);
     box-sizing: border-box;
   }
 
