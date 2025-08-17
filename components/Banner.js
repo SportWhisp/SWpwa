@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 
 // ⚠️ Sostituisci col tuo Publisher ID AdSense (formato: pub-1234567890123456)
-const AD_CLIENT = "pub-2796727413305777";
+const AD_CLIENT = "ca-pub-2796727413305777";
 
 // (facoltativo ma consigliato) ID slot diversi per posizione
 const SLOT_BY_POSITION = {

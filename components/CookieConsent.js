@@ -51,7 +51,7 @@ export default function CookieConsent() {
       }
 
       // 2) carichiamo sempre AdSense: con "denied" servirà NPA/contestuali
-      loadAdSense("pub-XXXXXXXXXXXXXXXX"); // <-- METTI IL TUO PUBLISHER ID
+      loadAdSense("ca-pub-2796727413305777"); // <-- METTI IL TUO PUBLISHER ID
 
       // 3) mostra il banner solo se non c'è consenso valido
       setVisible(expired);
@@ -59,14 +59,14 @@ export default function CookieConsent() {
       // Nessun consenso salvato → default "denied" + carico AdSense NPA + mostro banner
       ensureGtag();
       setConsent("denied");
-      loadAdSense("pub-XXXXXXXXXXXXXXXX"); // <-- METTI IL TUO PUBLISHER ID
+      loadAdSense("ca-pub-2796727413305777"); // <-- METTI IL TUO PUBLISHER ID
       setVisible(true);
     }
   } catch {
     // In caso di errore: fallback sicuro
     ensureGtag();
     setConsent("denied");
-    loadAdSense("pub-XXXXXXXXXXXXXXXX"); // <-- METTI IL TUO PUBLISHER ID
+    loadAdSense("ca-pub-2796727413305777"); // <-- METTI IL TUO PUBLISHER ID
     setVisible(true);
   }
 }, []);
