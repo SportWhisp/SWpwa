@@ -1,0 +1,204 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #383C3F;
+  padding: 10px 20px;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  height: 120px; /* altezza compatta */
+}
+
+.logo {
+  height: 130px; /* logo più proporzionato */
+}
+
+/* BANNER HEAD (placeholder pubblicità) */
+.banner {
+  width: 728px;    /* banner largo */
+  height: 90px;   /* banner basso */
+  background: #dcdcdc; /* grigio neutro */
+  color: #333333;
+  text-align: center;
+  line-height: 90px; /* centra il testo verticalmente */
+  font-weight: bold;
+}
+.navbar {
+  background: #2f3336;
+  color: #fff;
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+}
+/* LINK NAVBAR */
+.navbar a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.navbar a:hover {
+  color: #64b5f6; /* azzurro hover */
+}
+/* CONTENUTO */
+.content {
+  flex: 1;
+  padding: 20px;
+  padding-bottom: 120px; /* 👈 aggiunto spazio extra per non coprire il contenuto */
+}
+.banner-sticky {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 90px;      /* standard altezza */
+   margin: 0 auto;
+  background: #eeeeee;
+  border-top: 1px solid #cccccc;
+  text-align: center;
+  line-height: 90px;
+  font-weight: bold;
+  color: #222222;
+}
+.banner-middle {
+  margin: 40px auto;
+  max-width: 728px;
+}
+/* DROPDOWN "ALTRI CAMPIONATI" */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropbtn {
+  color: #ffffff;
+  cursor: pointer;
+  padding: 5px 10px;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background: #444444;
+  min-width: 150px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+  border-radius: 3px;
+}
+
+.dropdown-content a {
+  color: #ffffff;
+  padding: 8px 10px;
+  text-decoration: none;
+  display: block;
+  font-weight: normal;
+}
+
+.dropdown-content a:hover {
+  background: #666666;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.footer {
+  background-color: #f9f9f9;
+  padding: 10px;
+  padding-bottom: 90px; /* 👈 spazio per non essere coperto dal banner */
+  font-size: 0.75em;
+  text-align: center;
+  border-top: 1px solid #ccc;
+}
+
+.disclaimer {
+  color: #555;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.cookie-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #222;
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+  z-index: 2000;
+  font-size: 0.9em;
+}
+.cookie-banner a {
+  color: #64b5f6;
+  text-decoration: underline;
+  margin-left: 5px;
+}
+.cookie-buttons {
+  margin-top: 10px;
+}
+.cookie-buttons button {
+  margin: 0 10px;
+  padding: 8px 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.cookie-buttons button:first-of-type {
+  background: #4caf50;
+  color: white;
+}
+.cookie-buttons button:last-of-type {
+  background: #f44336;
+  color: white;
+}
+
+.footer-links {
+  margin-top: 10px;
+  font-size: 0.8em;
+  color: #666;
+}
+
+.footer-links a {
+  color: #666;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.whisp-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  font-size: 0.95em;
+}
+
+.whisp-table th,
+.whisp-table td {
+  border: 1px solid #ccc;
+  padding: 4px 10px;
+  height: 8px;
+  text-align: center;
+}
+
+.whisp-table th {
+  background-color: #2f3336;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.affidabile {
+  color: #006400;
+  font-weight: bold;
+}

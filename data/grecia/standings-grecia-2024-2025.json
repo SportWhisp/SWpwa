@@ -1,0 +1,206 @@
+{
+  "country": {
+    "id": 12,
+    "name": "greece"
+  },
+  "league": {
+    "id": 245,
+    "name": "Super League 1"
+  },
+  "season": {
+    "is_active": false,
+    "year": "2024-2025"
+  },
+  "stage": [
+    {
+      "stage_id": 13526,
+      "stage_name": "Super League 1: Regular Season",
+      "has_groups": false,
+      "is_active": true,
+      "standings": [
+        {
+          "team_id": 3544,
+          "team_name": "Olympiakos",
+          "games_played": 26,
+          "points": 60,
+          "wins": 18,
+          "draws": 6,
+          "losses": 2,
+          "goals_for": 45,
+          "goals_against": 16,
+          "position": 1,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3181,
+          "team_name": "AEK Athens",
+          "games_played": 26,
+          "points": 53,
+          "wins": 16,
+          "draws": 5,
+          "losses": 5,
+          "goals_for": 44,
+          "goals_against": 16,
+          "position": 2,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 2822,
+          "team_name": "Panathinaikos",
+          "games_played": 26,
+          "points": 50,
+          "wins": 14,
+          "draws": 8,
+          "losses": 4,
+          "goals_for": 31,
+          "goals_against": 22,
+          "position": 3,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3493,
+          "team_name": "PAOK",
+          "games_played": 26,
+          "points": 46,
+          "wins": 14,
+          "draws": 4,
+          "losses": 8,
+          "goals_for": 51,
+          "goals_against": 26,
+          "position": 4,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 2900,
+          "team_name": "Aris Women",
+          "games_played": 26,
+          "points": 42,
+          "wins": 12,
+          "draws": 6,
+          "losses": 8,
+          "goals_for": 31,
+          "goals_against": 28,
+          "position": 5,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3524,
+          "team_name": "OFI",
+          "games_played": 26,
+          "points": 36,
+          "wins": 10,
+          "draws": 6,
+          "losses": 10,
+          "goals_for": 37,
+          "goals_against": 38,
+          "position": 6,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3115,
+          "team_name": "Atromitos",
+          "games_played": 26,
+          "points": 35,
+          "wins": 10,
+          "draws": 5,
+          "losses": 11,
+          "goals_for": 32,
+          "goals_against": 32,
+          "position": 7,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4319,
+          "team_name": "Asteras Tripolis",
+          "games_played": 26,
+          "points": 35,
+          "wins": 10,
+          "draws": 5,
+          "losses": 11,
+          "goals_for": 27,
+          "goals_against": 29,
+          "position": 8,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3095,
+          "team_name": "Panaitolikos",
+          "games_played": 26,
+          "points": 33,
+          "wins": 9,
+          "draws": 6,
+          "losses": 11,
+          "goals_for": 20,
+          "goals_against": 22,
+          "position": 9,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3495,
+          "team_name": "Levadiakos",
+          "games_played": 26,
+          "points": 28,
+          "wins": 6,
+          "draws": 10,
+          "losses": 10,
+          "goals_for": 30,
+          "goals_against": 34,
+          "position": 10,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 5066,
+          "team_name": "Panserraikos",
+          "games_played": 26,
+          "points": 28,
+          "wins": 8,
+          "draws": 4,
+          "losses": 14,
+          "goals_for": 30,
+          "goals_against": 47,
+          "position": 11,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 2906,
+          "team_name": "Volos NFC",
+          "games_played": 26,
+          "points": 22,
+          "wins": 6,
+          "draws": 4,
+          "losses": 16,
+          "goals_for": 20,
+          "goals_against": 42,
+          "position": 12,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 11773,
+          "team_name": "Kallithea",
+          "games_played": 26,
+          "points": 21,
+          "wins": 4,
+          "draws": 9,
+          "losses": 13,
+          "goals_for": 24,
+          "goals_against": 40,
+          "position": 13,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3111,
+          "team_name": "Lamia",
+          "games_played": 26,
+          "points": 15,
+          "wins": 3,
+          "draws": 6,
+          "losses": 17,
+          "goals_for": 14,
+          "goals_against": 44,
+          "position": 14,
+          "position_attribute": ""
+        }
+      ]
+    }
+  ]
+}

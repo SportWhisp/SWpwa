@@ -1,0 +1,180 @@
+{
+  "country": {
+    "id": 14,
+    "name": "austria"
+  },
+  "league": {
+    "id": 209,
+    "name": "Bundesliga"
+  },
+  "season": {
+    "is_active": false,
+    "year": "2024-2025"
+  },
+  "stage": [
+    {
+      "stage_id": 13479,
+      "stage_name": "Regular Season",
+      "has_groups": false,
+      "is_active": true,
+      "standings": [
+        {
+          "team_id": 3880,
+          "team_name": "Sturm Graz",
+          "games_played": 22,
+          "points": 46,
+          "wins": 14,
+          "draws": 4,
+          "losses": 4,
+          "goals_for": 51,
+          "goals_against": 28,
+          "position": 1,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3584,
+          "team_name": "Austria Vienna",
+          "games_played": 22,
+          "points": 46,
+          "wins": 14,
+          "draws": 4,
+          "losses": 4,
+          "goals_for": 36,
+          "goals_against": 19,
+          "position": 2,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 2996,
+          "team_name": "Salzburg",
+          "games_played": 22,
+          "points": 38,
+          "wins": 10,
+          "draws": 8,
+          "losses": 4,
+          "goals_for": 33,
+          "goals_against": 22,
+          "position": 3,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3107,
+          "team_name": "Wolfsberger AC",
+          "games_played": 22,
+          "points": 36,
+          "wins": 11,
+          "draws": 3,
+          "losses": 8,
+          "goals_for": 44,
+          "goals_against": 30,
+          "position": 4,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 2927,
+          "team_name": "Rapid Vienna",
+          "games_played": 22,
+          "points": 34,
+          "wins": 9,
+          "draws": 7,
+          "losses": 6,
+          "goals_for": 32,
+          "goals_against": 24,
+          "position": 5,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 5057,
+          "team_name": "Blau-Weiss Linz",
+          "games_played": 22,
+          "points": 33,
+          "wins": 10,
+          "draws": 3,
+          "losses": 9,
+          "goals_for": 30,
+          "goals_against": 29,
+          "position": 6,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3112,
+          "team_name": "LASK",
+          "games_played": 22,
+          "points": 31,
+          "wins": 9,
+          "draws": 4,
+          "losses": 9,
+          "goals_for": 32,
+          "goals_against": 33,
+          "position": 7,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3389,
+          "team_name": "Hartberg",
+          "games_played": 22,
+          "points": 26,
+          "wins": 6,
+          "draws": 8,
+          "losses": 8,
+          "goals_for": 24,
+          "goals_against": 31,
+          "position": 8,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 2833,
+          "team_name": "Austria Klagenfurt",
+          "games_played": 22,
+          "points": 21,
+          "wins": 5,
+          "draws": 6,
+          "losses": 11,
+          "goals_for": 22,
+          "goals_against": 44,
+          "position": 9,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3886,
+          "team_name": "WSG Tirol",
+          "games_played": 22,
+          "points": 19,
+          "wins": 4,
+          "draws": 7,
+          "losses": 11,
+          "goals_for": 20,
+          "goals_against": 31,
+          "position": 10,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3883,
+          "team_name": "Rheindorf Altach",
+          "games_played": 22,
+          "points": 16,
+          "wins": 3,
+          "draws": 7,
+          "losses": 12,
+          "goals_for": 20,
+          "goals_against": 35,
+          "position": 11,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 5742,
+          "team_name": "Grazer AK",
+          "games_played": 22,
+          "points": 16,
+          "wins": 3,
+          "draws": 7,
+          "losses": 12,
+          "goals_for": 27,
+          "goals_against": 45,
+          "position": 12,
+          "position_attribute": ""
+        }
+      ]
+    }
+  ]
+}

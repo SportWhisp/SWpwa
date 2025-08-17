@@ -1,0 +1,180 @@
+{
+  "country": {
+    "id": 16,
+    "name": "switzerland"
+  },
+  "league": {
+    "id": 302,
+    "name": "Super League"
+  },
+  "season": {
+    "is_active": false,
+    "year": "2024-2025"
+  },
+  "stage": [
+    {
+      "stage_id": 13465,
+      "stage_name": "Regular Season",
+      "has_groups": false,
+      "is_active": true,
+      "standings": [
+        {
+          "team_id": 3286,
+          "team_name": "Basel",
+          "games_played": 33,
+          "points": 61,
+          "wins": 18,
+          "draws": 7,
+          "losses": 8,
+          "goals_for": 72,
+          "goals_against": 32,
+          "position": 1,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3786,
+          "team_name": "Servette",
+          "games_played": 33,
+          "points": 55,
+          "wins": 15,
+          "draws": 10,
+          "losses": 8,
+          "goals_for": 52,
+          "goals_against": 43,
+          "position": 2,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3120,
+          "team_name": "Young Boys",
+          "games_played": 33,
+          "points": 53,
+          "wins": 15,
+          "draws": 8,
+          "losses": 10,
+          "goals_for": 49,
+          "goals_against": 42,
+          "position": 3,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3633,
+          "team_name": "Luzern",
+          "games_played": 33,
+          "points": 51,
+          "wins": 14,
+          "draws": 9,
+          "losses": 10,
+          "goals_for": 61,
+          "goals_against": 51,
+          "position": 4,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3597,
+          "team_name": "Lugano",
+          "games_played": 33,
+          "points": 49,
+          "wins": 14,
+          "draws": 7,
+          "losses": 12,
+          "goals_for": 48,
+          "goals_against": 47,
+          "position": 5,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3288,
+          "team_name": "Lausanne-Sport",
+          "games_played": 33,
+          "points": 47,
+          "wins": 13,
+          "draws": 8,
+          "losses": 12,
+          "goals_for": 52,
+          "goals_against": 44,
+          "position": 6,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4945,
+          "team_name": "St.Gallen",
+          "games_played": 33,
+          "points": 47,
+          "wins": 12,
+          "draws": 11,
+          "losses": 10,
+          "goals_for": 46,
+          "goals_against": 43,
+          "position": 7,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4946,
+          "team_name": "Zurich",
+          "games_played": 33,
+          "points": 47,
+          "wins": 13,
+          "draws": 8,
+          "losses": 12,
+          "goals_for": 44,
+          "goals_against": 48,
+          "position": 8,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3293,
+          "team_name": "Sion",
+          "games_played": 33,
+          "points": 36,
+          "wins": 9,
+          "draws": 9,
+          "losses": 15,
+          "goals_for": 41,
+          "goals_against": 51,
+          "position": 9,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4947,
+          "team_name": "Grasshoppers",
+          "games_played": 33,
+          "points": 33,
+          "wins": 7,
+          "draws": 12,
+          "losses": 14,
+          "goals_for": 35,
+          "goals_against": 46,
+          "position": 10,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4951,
+          "team_name": "Yverdon Sport",
+          "games_played": 33,
+          "points": 33,
+          "wins": 8,
+          "draws": 9,
+          "losses": 16,
+          "goals_for": 33,
+          "goals_against": 57,
+          "position": 11,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3128,
+          "team_name": "Winterthur",
+          "games_played": 33,
+          "points": 30,
+          "wins": 8,
+          "draws": 6,
+          "losses": 19,
+          "goals_for": 32,
+          "goals_against": 61,
+          "position": 12,
+          "position_attribute": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "country": {
+    "id": 34,
+    "name": "poland"
+  },
+  "league": {
+    "id": 279,
+    "name": "Ekstraklasa"
+  },
+  "season": {
+    "is_active": true,
+    "year": "2025-2026"
+  },
+  "stage": [
+    {
+      "stage_id": 13950,
+      "stage_name": "Ekstraklasa",
+      "has_groups": false,
+      "is_active": true,
+      "standings": [
+        {
+          "position": 1,
+          "team_id": 3179,
+          "team_name": "Wisla Plock",
+          "position_attribute": "Championsleaguequal",
+          "games_played": 4,
+          "points": 10,
+          "wins": 3,
+          "draws": 1,
+          "losses": 0,
+          "goals_for": 7,
+          "goals_against": 2
+        },
+        {
+          "position": 2,
+          "team_id": 3176,
+          "team_name": "Cracovia",
+          "position_attribute": "Championsleaguequal",
+          "games_played": 5,
+          "points": 10,
+          "wins": 3,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 11,
+          "goals_against": 8
+        },
+        {
+          "position": 3,
+          "team_id": 2899,
+          "team_name": "Legia Warsaw",
+          "position_attribute": "Europaconfleaguequal",
+          "games_played": 3,
+          "points": 7,
+          "wins": 2,
+          "draws": 1,
+          "losses": 0,
+          "goals_for": 5,
+          "goals_against": 1
+        },
+        {
+          "position": 4,
+          "team_id": 2964,
+          "team_name": "Radomiak Radom",
+          "position_attribute": "Europaconfleaguequal",
+          "games_played": 4,
+          "points": 7,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 9,
+          "goals_against": 6
+        },
+        {
+          "position": 5,
+          "team_id": 4713,
+          "team_name": "Nieciecza",
+          "position_attribute": "",
+          "games_played": 4,
+          "points": 7,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 6,
+          "goals_against": 3
+        },
+        {
+          "position": 6,
+          "team_id": 4715,
+          "team_name": "Widzew Lodz",
+          "position_attribute": "",
+          "games_played": 5,
+          "points": 7,
+          "wins": 2,
+          "draws": 1,
+          "losses": 2,
+          "goals_for": 7,
+          "goals_against": 5
+        },
+        {
+          "position": 7,
+          "team_id": 2956,
+          "team_name": "Lech Poznan",
+          "position_attribute": "",
+          "games_played": 4,
+          "points": 7,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 8,
+          "goals_against": 9
+        },
+        {
+          "position": 8,
+          "team_id": 3500,
+          "team_name": "Jagiellonia Bialystok",
+          "position_attribute": "",
+          "games_played": 3,
+          "points": 6,
+          "wins": 2,
+          "draws": 0,
+          "losses": 1,
+          "goals_for": 8,
+          "goals_against": 8
+        },
+        {
+          "position": 9,
+          "team_id": 3185,
+          "team_name": "Gornik Zabrze",
+          "position_attribute": "",
+          "games_played": 4,
+          "points": 6,
+          "wins": 2,
+          "draws": 0,
+          "losses": 2,
+          "goals_for": 4,
+          "goals_against": 4
+        },
+        {
+          "position": 10,
+          "team_id": 3123,
+          "team_name": "Zaglebie Lubin",
+          "position_attribute": "",
+          "games_played": 4,
+          "points": 5,
+          "wins": 1,
+          "draws": 2,
+          "losses": 1,
+          "goals_for": 9,
+          "goals_against": 6
+        },
+        {
+          "position": 11,
+          "team_id": 3186,
+          "team_name": "Korona Kielce",
+          "position_attribute": "",
+          "games_played": 5,
+          "points": 5,
+          "wins": 1,
+          "draws": 2,
+          "losses": 2,
+          "goals_for": 5,
+          "goals_against": 6
+        },
+        {
+          "position": 12,
+          "team_id": 3190,
+          "team_name": "Motor Lublin",
+          "position_attribute": "",
+          "games_played": 4,
+          "points": 5,
+          "wins": 1,
+          "draws": 2,
+          "losses": 1,
+          "goals_for": 5,
+          "goals_against": 7
+        },
+        {
+          "position": 13,
+          "team_id": 4709,
+          "team_name": "Arka Gdynia",
+          "position_attribute": "",
+          "games_played": 5,
+          "points": 5,
+          "wins": 1,
+          "draws": 2,
+          "losses": 2,
+          "goals_for": 4,
+          "goals_against": 7
+        },
+        {
+          "position": 14,
+          "team_id": 3183,
+          "team_name": "Pogon Szczecin",
+          "position_attribute": "",
+          "games_played": 4,
+          "points": 4,
+          "wins": 1,
+          "draws": 1,
+          "losses": 2,
+          "goals_for": 7,
+          "goals_against": 9
+        },
+        {
+          "position": 15,
+          "team_id": 2967,
+          "team_name": "GKS Katowice",
+          "position_attribute": "",
+          "games_played": 5,
+          "points": 4,
+          "wins": 1,
+          "draws": 1,
+          "losses": 3,
+          "goals_for": 7,
+          "goals_against": 10
+        },
+        {
+          "position": 16,
+          "team_id": 3173,
+          "team_name": "Rakow Czestochowa",
+          "position_attribute": "Relegation",
+          "games_played": 3,
+          "points": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goals_for": 3,
+          "goals_against": 5
+        },
+        {
+          "position": 17,
+          "team_id": 4710,
+          "team_name": "Piast Gliwice",
+          "position_attribute": "Relegation",
+          "games_played": 3,
+          "points": 1,
+          "wins": 0,
+          "draws": 1,
+          "losses": 2,
+          "goals_for": 0,
+          "goals_against": 3
+        },
+        {
+          "position": 18,
+          "team_id": 3180,
+          "team_name": "Lechia Gdansk",
+          "position_attribute": "Relegation",
+          "games_played": 5,
+          "points": -3,
+          "wins": 0,
+          "draws": 2,
+          "losses": 3,
+          "goals_for": 11,
+          "goals_against": 17
+        }
+      ]
+    }
+  ]
+}

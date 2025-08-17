@@ -1,0 +1,258 @@
+{
+  "country": {
+    "id": 34,
+    "name": "poland"
+  },
+  "league": {
+    "id": 279,
+    "name": "Ekstraklasa"
+  },
+  "season": {
+    "is_active": false,
+    "year": "2024-2025"
+  },
+  "stage": [
+    {
+      "stage_id": 13415,
+      "stage_name": "Ekstraklasa",
+      "has_groups": false,
+      "is_active": true,
+      "standings": [
+        {
+          "team_id": 2956,
+          "team_name": "Lech Poznan",
+          "games_played": 34,
+          "points": 70,
+          "wins": 22,
+          "draws": 4,
+          "losses": 8,
+          "goals_for": 68,
+          "goals_against": 31,
+          "position": 1,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3173,
+          "team_name": "Rakow Czestochowa",
+          "games_played": 34,
+          "points": 69,
+          "wins": 20,
+          "draws": 9,
+          "losses": 5,
+          "goals_for": 51,
+          "goals_against": 23,
+          "position": 2,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3500,
+          "team_name": "Jagiellonia Bialystok",
+          "games_played": 34,
+          "points": 61,
+          "wins": 17,
+          "draws": 10,
+          "losses": 7,
+          "goals_for": 56,
+          "goals_against": 42,
+          "position": 3,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3183,
+          "team_name": "Pogon Szczecin",
+          "games_played": 34,
+          "points": 58,
+          "wins": 17,
+          "draws": 7,
+          "losses": 10,
+          "goals_for": 59,
+          "goals_against": 40,
+          "position": 4,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 2899,
+          "team_name": "Legia Warsaw",
+          "games_played": 34,
+          "points": 54,
+          "wins": 15,
+          "draws": 9,
+          "losses": 10,
+          "goals_for": 60,
+          "goals_against": 45,
+          "position": 5,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3176,
+          "team_name": "Cracovia",
+          "games_played": 34,
+          "points": 51,
+          "wins": 14,
+          "draws": 9,
+          "losses": 11,
+          "goals_for": 58,
+          "goals_against": 53,
+          "position": 6,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 2967,
+          "team_name": "GKS Katowice",
+          "games_played": 34,
+          "points": 49,
+          "wins": 14,
+          "draws": 7,
+          "losses": 13,
+          "goals_for": 49,
+          "goals_against": 47,
+          "position": 7,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3190,
+          "team_name": "Motor Lublin",
+          "games_played": 34,
+          "points": 49,
+          "wins": 14,
+          "draws": 7,
+          "losses": 13,
+          "goals_for": 48,
+          "goals_against": 59,
+          "position": 8,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3185,
+          "team_name": "Gornik Zabrze",
+          "games_played": 34,
+          "points": 47,
+          "wins": 13,
+          "draws": 8,
+          "losses": 13,
+          "goals_for": 43,
+          "goals_against": 39,
+          "position": 9,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4710,
+          "team_name": "Piast Gliwice",
+          "games_played": 34,
+          "points": 45,
+          "wins": 11,
+          "draws": 12,
+          "losses": 11,
+          "goals_for": 37,
+          "goals_against": 36,
+          "position": 10,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3186,
+          "team_name": "Korona Kielce",
+          "games_played": 34,
+          "points": 45,
+          "wins": 11,
+          "draws": 12,
+          "losses": 11,
+          "goals_for": 37,
+          "goals_against": 45,
+          "position": 11,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 2964,
+          "team_name": "Radomiak Radom",
+          "games_played": 34,
+          "points": 41,
+          "wins": 11,
+          "draws": 8,
+          "losses": 15,
+          "goals_for": 48,
+          "goals_against": 52,
+          "position": 12,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4715,
+          "team_name": "Widzew Lodz",
+          "games_played": 34,
+          "points": 40,
+          "wins": 11,
+          "draws": 7,
+          "losses": 16,
+          "goals_for": 38,
+          "goals_against": 49,
+          "position": 13,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3180,
+          "team_name": "Lechia Gdansk",
+          "games_played": 34,
+          "points": 37,
+          "wins": 10,
+          "draws": 7,
+          "losses": 17,
+          "goals_for": 44,
+          "goals_against": 59,
+          "position": 14,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3123,
+          "team_name": "Zaglebie Lubin",
+          "games_played": 34,
+          "points": 36,
+          "wins": 10,
+          "draws": 6,
+          "losses": 18,
+          "goals_for": 33,
+          "goals_against": 51,
+          "position": 15,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 2960,
+          "team_name": "Stal Mielec",
+          "games_played": 34,
+          "points": 31,
+          "wins": 7,
+          "draws": 10,
+          "losses": 17,
+          "goals_for": 39,
+          "goals_against": 56,
+          "position": 16,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3174,
+          "team_name": "Slask Wroclaw",
+          "games_played": 34,
+          "points": 30,
+          "wins": 6,
+          "draws": 12,
+          "losses": 16,
+          "goals_for": 38,
+          "goals_against": 53,
+          "position": 17,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3513,
+          "team_name": "Puszcza Niepolomice",
+          "games_played": 34,
+          "points": 28,
+          "wins": 6,
+          "draws": 10,
+          "losses": 18,
+          "goals_for": 37,
+          "goals_against": 63,
+          "position": 18,
+          "position_attribute": ""
+        }
+      ]
+    }
+  ]
+}

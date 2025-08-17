@@ -1,0 +1,67 @@
+[
+  {
+    "data": "23/08/2025",
+    "partita": "Zurich vs Thun",
+    "risultato": "",
+    "previsione": "1 - 2",
+    "p1": "30,29%",
+    "pX": "18,82%",
+    "p2": "50,88%",
+    "pUnder": "25,59%",
+    "pOver": "74,41%",
+    "pGG": "74,41%",
+    "pNG": "25,59%"
+  },
+  {
+    "data": "23/08/2025",
+    "partita": "Sion vs Servette",
+    "risultato": "",
+    "previsione": "2 - 1",
+    "p1": "40,33%",
+    "pX": "31,33%",
+    "p2": "28,33%",
+    "pUnder": "38,33%",
+    "pOver": "61,67%",
+    "pGG": "73,67%",
+    "pNG": "26,33%"
+  },
+  {
+    "data": "24/08/2025",
+    "partita": "Grasshoppers vs Winterthur",
+    "risultato": "",
+    "previsione": "2 - 1",
+    "p1": "46,94%",
+    "pX": "23,23%",
+    "p2": "29,84%",
+    "pUnder": "35,00%",
+    "pOver": "65,00%",
+    "pGG": "62,42%",
+    "pNG": "37,58%"
+  },
+  {
+    "data": "24/08/2025",
+    "partita": "Lugano vs Lausanne-Sport",
+    "risultato": "",
+    "previsione": "2 - 2",
+    "p1": "35,91%",
+    "pX": "33,48%",
+    "p2": "30,61%",
+    "pUnder": "36,72%",
+    "pOver": "63,28%",
+    "pGG": "72,55%",
+    "pNG": "27,45%"
+  },
+  {
+    "data": "24/08/2025",
+    "partita": "St.Gallen vs Luzern",
+    "risultato": "",
+    "previsione": "2 - 2",
+    "p1": "43,20%",
+    "pX": "30,83%",
+    "p2": "25,98%",
+    "pUnder": "32,09%",
+    "pOver": "67,91%",
+    "pGG": "74,54%",
+    "pNG": "25,46%"
+  }
+]

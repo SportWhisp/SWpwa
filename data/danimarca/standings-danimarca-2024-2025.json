@@ -1,0 +1,180 @@
+{
+  "country": {
+    "id": 17,
+    "name": "denmark"
+  },
+  "league": {
+    "id": 225,
+    "name": "Superliga"
+  },
+  "season": {
+    "is_active": false,
+    "year": "2024-2025"
+  },
+  "stage": [
+    {
+      "stage_id": 13418,
+      "stage_name": "Superliga: Regular Season",
+      "has_groups": false,
+      "is_active": true,
+      "standings": [
+        {
+          "team_id": 3046,
+          "team_name": "Midtjylland",
+          "games_played": 22,
+          "points": 45,
+          "wins": 14,
+          "draws": 3,
+          "losses": 5,
+          "goals_for": 42,
+          "goals_against": 27,
+          "position": 1,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3772,
+          "team_name": "FC Copenhagen",
+          "games_played": 22,
+          "points": 41,
+          "wins": 11,
+          "draws": 8,
+          "losses": 3,
+          "goals_for": 38,
+          "goals_against": 24,
+          "position": 2,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3636,
+          "team_name": "AGF",
+          "games_played": 22,
+          "points": 36,
+          "wins": 9,
+          "draws": 9,
+          "losses": 4,
+          "goals_for": 42,
+          "goals_against": 23,
+          "position": 3,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3773,
+          "team_name": "Randers",
+          "games_played": 22,
+          "points": 35,
+          "wins": 9,
+          "draws": 8,
+          "losses": 5,
+          "goals_for": 39,
+          "goals_against": 28,
+          "position": 4,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3337,
+          "team_name": "Nordsjaelland",
+          "games_played": 22,
+          "points": 35,
+          "wins": 10,
+          "draws": 5,
+          "losses": 7,
+          "goals_for": 39,
+          "goals_against": 36,
+          "position": 5,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 2986,
+          "team_name": "Brondby",
+          "games_played": 22,
+          "points": 33,
+          "wins": 8,
+          "draws": 9,
+          "losses": 5,
+          "goals_for": 42,
+          "goals_against": 32,
+          "position": 6,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3039,
+          "team_name": "Silkeborg",
+          "games_played": 22,
+          "points": 33,
+          "wins": 8,
+          "draws": 9,
+          "losses": 5,
+          "goals_for": 38,
+          "goals_against": 29,
+          "position": 7,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3591,
+          "team_name": "Viborg",
+          "games_played": 22,
+          "points": 28,
+          "wins": 7,
+          "draws": 7,
+          "losses": 8,
+          "goals_for": 38,
+          "goals_against": 39,
+          "position": 8,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3048,
+          "team_name": "AaB",
+          "games_played": 22,
+          "points": 21,
+          "wins": 5,
+          "draws": 6,
+          "losses": 11,
+          "goals_for": 23,
+          "goals_against": 41,
+          "position": 9,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 2726,
+          "team_name": "Lyngby",
+          "games_played": 22,
+          "points": 18,
+          "wins": 3,
+          "draws": 9,
+          "losses": 10,
+          "goals_for": 15,
+          "goals_against": 26,
+          "position": 10,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3044,
+          "team_name": "SonderjyskE",
+          "games_played": 22,
+          "points": 17,
+          "wins": 4,
+          "draws": 5,
+          "losses": 13,
+          "goals_for": 26,
+          "goals_against": 51,
+          "position": 11,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4085,
+          "team_name": "Vejle",
+          "games_played": 22,
+          "points": 13,
+          "wins": 3,
+          "draws": 4,
+          "losses": 15,
+          "goals_for": 24,
+          "goals_against": 50,
+          "position": 12,
+          "position_attribute": ""
+        }
+      ]
+    }
+  ]
+}
