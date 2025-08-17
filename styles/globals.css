@@ -67,7 +67,7 @@
 }
 .banner-middle {
   margin: 40px auto;
-  max-width: 728px;
+  width: 728px;
   height: 90px;   /* 728x90 */
   line-height: 90px;
 }
@@ -265,5 +265,9 @@
   .whisp-table td {
     word-wrap: break-word;
     overflow-wrap: anywhere; /* spezza stringhe lunghe */
+  }
+    .banner-sticky {
+    height: 60px;
+    line-height: 60px;
   }
 }
