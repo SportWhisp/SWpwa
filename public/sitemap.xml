@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://sportwhisp.it/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Principali nazioni -->
+  <url><loc>https://sportwhisp.it/italia</loc></url>
+  <url><loc>https://sportwhisp.it/francia</loc></url>
+  <url><loc>https://sportwhisp.it/germania</loc></url>
+  <url><loc>https://sportwhisp.it/spagna</loc></url>
+  <url><loc>https://sportwhisp.it/inghilterra</loc></url>
+  <url><loc>https://sportwhisp.it/portogallo</loc></url>
+  <url><loc>https://sportwhisp.it/olanda</loc></url>
+  <url><loc>https://sportwhisp.it/turchia</loc></url>
+
+  <!-- Altri campionati -->
+  <url><loc>https://sportwhisp.it/altricampionati/austria</loc></url>
+  <url><loc>https://sportwhisp.it/altricampionati/belgio</loc></url>
+  <url><loc>https://sportwhisp.it/altricampionati/danimarca</loc></url>
+  <url><loc>https://sportwhisp.it/altricampionati/grecia</loc></url>
+  <url><loc>https://sportwhisp.it/altricampionati/polonia</loc></url>
+  <url><loc>https://sportwhisp.it/altricampionati/romania</loc></url>
+  <url><loc>https://sportwhisp.it/altricampionati/svizzera</loc></url>
+  <url><loc>https://sportwhisp.it/altricampionati/ungheria</loc></url>
+
+  <!-- Privacy & Cookie Policy -->
+  <url><loc>https://sportwhisp.it/privacy-policy</loc></url>
+  <url><loc>https://sportwhisp.it/cookie-policy</loc></url>
+</urlset>
