@@ -270,6 +270,12 @@
     height: 60px;
     line-height: 60px;
   }
+/* Evita che l'ad "sbordi" sopra la navbar */
+  .header { overflow: hidden; }
+
+  /* La navbar “vince” in z-index per i click */
+  .navbar { position: relative; z-index: 20; }
+
   .content { padding-bottom: 68px; }
   .footer  { padding-bottom: 68px; }
 }
