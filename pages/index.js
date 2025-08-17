@@ -127,7 +127,7 @@ export async function getStaticProps() {
     const rows = [];
 
     for (const fileName of fileList) {
-      const nationFolder = fileName.replace("show", "").replace(".json", "").toLowerCase();
+      const nationFolder = fileName.replace(/show/i, "").replace(/\.json$/i, "").toLowerCase();
       const filePath = path.join(folderBase, nationFolder, fileName);
       if (!fs.existsSync(filePath)) continue;
 
@@ -164,25 +164,25 @@ export async function getStaticProps() {
   };
 
   const principaliFiles = [
-    "showItalia.json",
-    "showFrancia.json",
-    "showGermania.json",
-    "showInghilterra.json",
-    "showSpagna.json",
-    "showPortogallo.json",
-    "showOlanda.json",
+    "ShowItalia.json",
+    "ShowFrancia.json",
+    "ShowGermania.json",
+    "ShowInghilterra.json",
+    "ShowSpagna.json",
+    "ShowPortogallo.json",
+    "ShowOlanda.json",
   ];
 
   const minoriFiles = [
-    "showAustria.json",
-    "showBelgio.json",
-    "showDanimarca.json",
-    "showGrecia.json",
-    "showPolonia.json",
-    "showRomania.json",
-    "showSvizzera.json",
-    "showTurchia.json",
-    "showUngheria.json",
+    "ShowAustria.json",
+    "ShowBelgio.json",
+    "ShowDanimarca.json",
+    "ShowGrecia.json",
+    "ShowPolonia.json",
+    "ShowRomania.json",
+    "ShowSvizzera.json",
+    "ShowTurchia.json",
+    "ShowUngheria.json",
   ];
 
   return {
