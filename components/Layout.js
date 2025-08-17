@@ -6,70 +6,55 @@ import CookieConsent from "./CookieConsent";
 export default function Layout({ children }) {
   return (
     <div className="app-container">
-      {/* HEADER */}
       <header className="header">
-        <div className="container header-inner">
-          <Banner position="left" />
-          <img src="/Logo.png" alt="SportWhisp Logo" className="logo" />
-          <Banner position="right" />
-        </div>
+        <Banner position="left" />
+        <img src="/Logo.png" alt="SportWhisp Logo" className="logo" />
+        <Banner position="right" />
       </header>
 
-      {/* NAVBAR */}
+      {/* ✅ NAVBAR aggiornata con menu a tendina */}
       <nav className="navbar">
-        <div className="container">
-          <Link href="/">Home</Link>
-          <Link href="/italia">Italia</Link>
-          <Link href="/francia">Francia</Link>
-          <Link href="/germania">Germania</Link>
-          <Link href="/spagna">Spagna</Link>
-          <Link href="/inghilterra">Inghilterra</Link>
-          <Link href="/portogallo">Portogallo</Link>
-          <Link href="/olanda">Olanda</Link>
-          <Link href="/turchia">Turchia</Link>
+        <Link href="/">Home</Link>
+        <Link href="/italia">Italia</Link>
+        <Link href="/francia">Francia</Link>
+        <Link href="/germania">Germania</Link>
+        <Link href="/spagna">Spagna</Link>
+        <Link href="/inghilterra">Inghilterra</Link>
+        <Link href="/portogallo">Portogallo</Link>
+        <Link href="/olanda">Olanda</Link>
+        <Link href="/turchia">Turchia</Link>
 
-          {/* 🔽 Dropdown "Altri Campionati" */}
-          <div className="dropdown" style={{ marginLeft: 12 }}>
-            <span className="dropbtn">Altri Campionati ▾</span>
-            <div className="dropdown-content">
-              <Link href="/altricampionati/austria">Austria</Link>
-              <Link href="/altricampionati/belgio">Belgio</Link>
-              <Link href="/altricampionati/danimarca">Danimarca</Link>
-              <Link href="/altricampionati/grecia">Grecia</Link>
-              <Link href="/altricampionati/polonia">Polonia</Link>
-              <Link href="/altricampionati/romania">Romania</Link>
-              <Link href="/altricampionati/svizzera">Svizzera</Link>
-              <Link href="/altricampionati/ungheria">Ungheria</Link>
-            </div>
+        {/* 🔽 Dropdown "Altri Campionati" */}
+        <div className="dropdown">
+          <span className="dropbtn">Altri Campionati ▾</span>
+          <div className="dropdown-content">
+            <Link href="/altricampionati/austria">Austria</Link>
+            <Link href="/altricampionati/belgio">Belgio</Link>
+            <Link href="/altricampionati/danimarca">Danimarca</Link>
+            <Link href="/altricampionati/grecia">Grecia</Link>
+            <Link href="/altricampionati/polonia">Polonia</Link>
+            <Link href="/altricampionati/romania">Romania</Link>
+            <Link href="/altricampionati/svizzera">Svizzera</Link>
+            <Link href="/altricampionati/ungheria">Ungheria</Link>
           </div>
         </div>
       </nav>
 
-      {/* CONTENUTO */}
-      <main className="content">
-        <div className="container">{children}</div>
-      </main>
+      <main className="content">{children}</main>
 
-      {/* FOOTER */}
       <footer className="footer">
-        <div className="container">
-          <p className="disclaimer">
-            Le previsioni pubblicate su questo sito sono frutto di elaborazioni personali
-            basate su modelli statistici non ufficiali. I dati e i contenuti hanno scopo
-            esclusivamente informativo e di intrattenimento. L’autore non garantisce
-            l’esattezza delle previsioni e declina ogni responsabilità per decisioni prese
-            dagli utenti sulla base delle informazioni fornite.
-          </p>
-          <p className="footer-links">
-            <a href="/privacy-policy">Privacy Policy</a> |{" "}
-            <a href="/cookie-policy">Cookie Policy</a> | © {new Date().getFullYear()} SportWhisp.it
-          </p>
-
-          {/* Sticky banner (verrà centrato e limitato dalla CSS .banner-sticky) */}
-          <Banner position="sticky" />
-        </div>
+        <p className="disclaimer">
+          Le previsioni pubblicate su questo sito sono frutto di elaborazioni personali
+          basate su modelli statistici non ufficiali. I dati e i contenuti hanno scopo
+          esclusivamente informativo e di intrattenimento. L’autore non garantisce
+          l’esattezza delle previsioni e declina ogni responsabilità per decisioni prese
+          dagli utenti sulla base delle informazioni fornite.
+        </p>
+        <p className="footer-links">
+          <a href="/privacy-policy">Privacy Policy</a> | <a href="/cookie-policy">Cookie Policy</a> | © {new Date().getFullYear()} SportWhisp.it
+        </p>
+        <Banner position="sticky" />
       </footer>
-
       <CookieConsent />
     </div>
   );
