@@ -3,39 +3,90 @@ import { useEffect, useState } from "react";
 const CONSENT_KEY = "cookieConsentInfo";
 const EXPIRY_MS = 1000 * 60 * 60 * 24 * 180; // 6 mesi in millisecondi
 
+// ——— Consent Mode v2: helper minimal ———
+function ensureGtag() {
+  if (window.gtag) return;
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = function(){ window.dataLayer.push(arguments); };
+}
+
+// Imposta i segnali di consenso (ad_storage, ad_user_data, ad_personalization)
+function setConsent(status /* "granted" | "denied" */) {
+  ensureGtag();
+  const v = status === "granted" ? "granted" : "denied";
+  window.gtag('consent', 'update', {
+    ad_storage: v,
+    ad_user_data: v,
+    ad_personalization: v,
+  });
+}
+
+// Carica AdSense (una sola volta)
+function loadAdSense(pubId) {
+  if (document.getElementById('adsbygoogle-js')) return;
+  const s = document.createElement('script');
+  s.id = 'adsbygoogle-js';
+  s.async = true;
+  s.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${pubId}`;
+  s.crossOrigin = 'anonymous';
+  document.head.appendChild(s);
+}
+
 export default function CookieConsent() {
   const [visible, setVisible] = useState(false);
 
   useEffect(() => {
-    try {
-      const item = localStorage.getItem(CONSENT_KEY);
-      if (item) {
-        const { date } = JSON.parse(item);
-        const expired = Date.now() - date > EXPIRY_MS;
-        if (expired) {
-          setVisible(true);
-        }
+  try {
+    const item = localStorage.getItem(CONSENT_KEY);
+    if (item) {
+      const { status, date } = JSON.parse(item);
+      const expired = Date.now() - date > EXPIRY_MS;
+
+      // 1) definiamo gtag e impostiamo il consenso in base allo stato salvato (o scaduto)
+      ensureGtag();
+      if (!expired && status === "accepted") {
+        setConsent("granted");
       } else {
-        // Nessun consenso salvato → mostra banner
-        setVisible(true);
+        setConsent("denied"); // default/expired → annunci NON personalizzati
       }
-    } catch {
-      // Qualsiasi errore nella lettura → mostra banner
+
+      // 2) carichiamo sempre AdSense: con "denied" servirà NPA/contestuali
+      loadAdSense("pub-XXXXXXXXXXXXXXXX"); // <-- METTI IL TUO PUBLISHER ID
+
+      // 3) mostra il banner solo se non c'è consenso valido
+      setVisible(expired);
+    } else {
+      // Nessun consenso salvato → default "denied" + carico AdSense NPA + mostro banner
+      ensureGtag();
+      setConsent("denied");
+      loadAdSense("pub-XXXXXXXXXXXXXXXX"); // <-- METTI IL TUO PUBLISHER ID
       setVisible(true);
     }
-  }, []);
+  } catch {
+    // In caso di errore: fallback sicuro
+    ensureGtag();
+    setConsent("denied");
+    loadAdSense("pub-XXXXXXXXXXXXXXXX"); // <-- METTI IL TUO PUBLISHER ID
+    setVisible(true);
+  }
+}, []);
 
   const handleConsent = (accepted) => {
-    localStorage.setItem(
-      CONSENT_KEY,
-      JSON.stringify({
-        status: accepted ? "accepted" : "rejected",
-        date: Date.now(),
-      })
-    );
-    setVisible(false);
-    // 👉 Qui puoi attivare gli script (Google Ads ecc.) se accepted === true
-  };
+  localStorage.setItem(
+    CONSENT_KEY,
+    JSON.stringify({
+      status: accepted ? "accepted" : "rejected",
+      date: Date.now(),
+    })
+  );
+  // aggiorna i segnali
+  setConsent(accepted ? "granted" : "denied");
+  setVisible(false);
+
+  // (ri)inizializza eventuali slot già presenti
+  window.adsbygoogle = window.adsbygoogle || [];
+  try { window.adsbygoogle.push({}); } catch (e) {}
+};
 
   if (!visible) return null;
 

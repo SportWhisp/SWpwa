@@ -1,20 +1,33 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 
-export default function Banner({ position }) {
-  const bannerSet = ["Pubblicità A", "Pubblicità B", "Pubblicità C", "Pubblicità D", "Pubblicità E"];
+// ⚠️ Sostituisci col tuo Publisher ID AdSense (formato: pub-1234567890123456)
+const AD_CLIENT = "pub-2796727413305777";
+
+// (facoltativo ma consigliato) ID slot diversi per posizione
+const SLOT_BY_POSITION = {
+  left:   "1234560001",   // metti l'ID dello slot creato su AdSense
+  right:  "1234560002",
+  middle: "1234560003",
+  sticky: "1234560004",
+  default:"1234560099",
+};
+
+export default function Banner({ position = "middle" }) {
   const [current, setCurrent] = useState(0);
   const [isClient, setIsClient] = useState(false);
+  const pushedRef = useRef(false);
+
+  // Fallback testuale (come avevi tu)
+  const bannerSet = ["Pubblicità A", "Pubblicità B", "Pubblicità C", "Pubblicità D", "Pubblicità E"];
 
   useEffect(() => {
-    // ✅ siamo lato client
     setIsClient(true);
 
-    // ✅ inizializza con pubblicità casuale
+    // inizializza con pubblicità casuale
     setCurrent(Math.floor(Math.random() * bannerSet.length));
 
-    // ✅ ritardo casuale per sfalsare i cambi
+    // rotazione ogni 60s con un piccolo delay casuale (come avevi tu)
     const delay = Math.floor(Math.random() * 5000);
-
     const timer = setTimeout(() => {
       const interval = setInterval(() => {
         setCurrent((prev) => (prev + 1) % bannerSet.length);
@@ -23,16 +36,58 @@ export default function Banner({ position }) {
     }, delay);
 
     return () => clearTimeout(timer);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  // Prova a "pushare" lo slot quando disponibile
+  useEffect(() => {
+    if (!isClient || pushedRef.current) return;
+
+    const tryPush = () => {
+      if (typeof window === "undefined") return;
+      // se lo script AdSense è caricato, window.adsbygoogle esiste
+      if (window.adsbygoogle) {
+        try {
+          (window.adsbygoogle = window.adsbygoogle || []).push({});
+          pushedRef.current = true;
+        } catch (e) {
+          // ignora errori ripetitivi tipo "already processed"
+        }
+      }
+    };
+
+    tryPush();
+    // un secondo tentativo dopo 1.5s (se lo script arriva in ritardo)
+    const t = setTimeout(tryPush, 1500);
+    return () => clearTimeout(t);
+  }, [isClient]);
+
   const bannerClass =
-  position === "sticky"
-    ? "banner banner-sticky"
-    : position === "middle"
-    ? "banner banner-middle"
-    : "banner";
+    position === "sticky"
+      ? "banner banner-sticky"
+      : position === "middle"
+      ? "banner banner-middle"
+      : "banner";
 
   if (!isClient) return null;
 
-  return <div className={bannerClass}>{bannerSet[current]}</div>;
+  // Scegli lo slot in base alla posizione (se non c'è, usa default)
+  const adSlot = SLOT_BY_POSITION[position] || SLOT_BY_POSITION.default;
+
+  // ✅ Render di uno slot AdSense:
+  // - se AdSense non è ancora pronto, il testo fallback dentro <ins> rimane visibile
+  // - quando l’annuncio si carica, sostituisce il contenuto dell’<ins>
+  return (
+    <ins
+      className={`adsbygoogle ${bannerClass}`}
+      // Lasciamo le dimensioni ai tuoi CSS (.banner, .banner-middle, .banner-sticky)
+      style={{ display: "block" }}
+      data-ad-client={AD_CLIENT}
+      data-ad-slot={adSlot}
+      data-ad-format="auto"
+      data-full-width-responsive="true"
+    >
+      {bannerSet[current]}
+    </ins>
+  );
 }
