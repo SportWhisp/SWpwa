@@ -1,11 +1,11 @@
 import React, { useEffect, useRef, useState } from "react";
 
-// ⚠️ Sostituisci col tuo Publisher ID AdSense (formato: pub-1234567890123456)
+// ⚠️ Sostituisci col tuo Publisher ID AdSense
 const AD_CLIENT = "ca-pub-2796727413305777";
 
-// (facoltativo ma consigliato) ID slot diversi per posizione
+// ID slot diversi per posizione
 const SLOT_BY_POSITION = {
-  left:   "1796807484",   // metti l'ID dello slot creato su AdSense
+  left:   "1796807484",
   right:  "5090304793",
   middle: "1350084920",
   sticky: "2060531364",
@@ -17,16 +17,20 @@ export default function Banner({ position = "middle" }) {
   const [isClient, setIsClient] = useState(false);
   const pushedRef = useRef(false);
 
-  // Fallback testuale (come avevi tu)
-  const bannerSet = ["Pubblicità A", "Pubblicità B", "Pubblicità C", "Pubblicità D", "Pubblicità E"];
+  // fallback testuale
+  const bannerSet = [
+    "Pubblicità A",
+    "Pubblicità B",
+    "Pubblicità C",
+    "Pubblicità D",
+    "Pubblicità E"
+  ];
 
   useEffect(() => {
     setIsClient(true);
 
-    // inizializza con pubblicità casuale
     setCurrent(Math.floor(Math.random() * bannerSet.length));
 
-    // rotazione ogni 60s con un piccolo delay casuale (come avevi tu)
     const delay = Math.floor(Math.random() * 5000);
     const timer = setTimeout(() => {
       const interval = setInterval(() => {
@@ -36,16 +40,14 @@ export default function Banner({ position = "middle" }) {
     }, delay);
 
     return () => clearTimeout(timer);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  // Prova a "pushare" lo slot quando disponibile
+  // push dello slot AdSense
   useEffect(() => {
     if (!isClient || pushedRef.current) return;
 
     const tryPush = () => {
       if (typeof window === "undefined") return;
-      // se lo script AdSense è caricato, window.adsbygoogle esiste
       if (window.adsbygoogle) {
         try {
           (window.adsbygoogle = window.adsbygoogle || []).push({});
@@ -57,7 +59,6 @@ export default function Banner({ position = "middle" }) {
     };
 
     tryPush();
-    // un secondo tentativo dopo 1.5s (se lo script arriva in ritardo)
     const t = setTimeout(tryPush, 1500);
     return () => clearTimeout(t);
   }, [isClient]);
@@ -71,24 +72,18 @@ export default function Banner({ position = "middle" }) {
 
   if (!isClient) return null;
 
-  // Scegli lo slot in base alla posizione (se non c'è, usa default)
   const adSlot = SLOT_BY_POSITION[position] || SLOT_BY_POSITION.default;
 
-  // ✅ Render di uno slot AdSense:
-  // - se AdSense non è ancora pronto, il testo fallbackdentro  <ins> rimane visibile
-  // - quando l’annuncio si carica, sostituisce il contenuto dell’<ins>
+  // Sticky: per ora mostriamo solo fallback
+  if (position === "sticky") {
+    return <div className="banner-sticky">{bannerSet[current]}</div>;
+  }
 
-// Sticky: per policy AdSense, non serviamo un annuncio qui.
-// Mostriamo solo il fallback testuale (o un tuo house-ad) fino all'attivazione degli Anchor Ads.
-if (position === "sticky") {
-  return <div className="banner-sticky">{bannerSet[current]}</div>;
-}
-
+  // ✅ Render slot AdSense con dimensioni fisse 728x90
   return (
     <ins
       className={`adsbygoogle ${bannerClass}`}
-      // Lasciamo le dimensioni ai tuoi CSS (.banner, .banner-middle, .banner-sticky)
-      style={{ display: "block", width: 728, height: 90 }} // forza 728x90
+      style={{ display: "block", width: "728px", height: "90px" }}
       data-ad-client={AD_CLIENT}
       data-ad-slot={adSlot}
     >

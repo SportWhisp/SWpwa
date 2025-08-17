@@ -270,4 +270,6 @@
     height: 60px;
     line-height: 60px;
   }
+  .content { padding-bottom: 68px; }
+  .footer  { padding-bottom: 68px; }
 }
