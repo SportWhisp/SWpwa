@@ -68,6 +68,8 @@
 .banner-middle {
   margin: 40px auto;
   max-width: 728px;
+  height: 90px;   /* 728x90 */
+  line-height: 90px;
 }
 /* DROPDOWN "ALTRI CAMPIONATI" */
 .dropdown {
@@ -231,6 +233,12 @@
     padding: 6px 8px;
     font-size: 0.95em;        /* leggermente più piccolo */
     flex: 0 1 auto;
+  }
+   /* left/right su mobile: 320x100 */
+  .banner {
+    width: 320px;
+    height: 100px;
+    line-height: 100px;
   }
   /* Middle banner a piena larghezza viewport */
   .banner-middle {

@@ -85,7 +85,7 @@ export default function Banner({ position = "middle" }) {
       data-ad-client={AD_CLIENT}
       data-ad-slot={adSlot}
       data-ad-format="auto"
-      data-full-width-responsive="true"
+      data-full-width-responsive="false"
     >
       {bannerSet[current]}
     </ins>
