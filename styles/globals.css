@@ -230,4 +230,30 @@
     font-size: 0.95em;        /* leggermente più piccolo */
     flex: 0 1 auto;
   }
+  /* Middle banner a piena larghezza viewport */
+  .banner-middle {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 6px 8px;        /* evita line-height fisso */
+  }
+
+  /* Se il Banner rende <img> o <iframe>, adattali */
+  .banner-middle img,
+  .banner-middle iframe {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  /* Tabelle: occupa 100% e evita overflow orizzontale */
+  .whisp-table {
+    width: 100%;
+    table-layout: fixed;     /* distribuisce le colonne */
+  }
+  .whisp-table th,
+  .whisp-table td {
+    word-wrap: break-word;
+    overflow-wrap: anywhere; /* spezza stringhe lunghe */
+  }
 }
