@@ -5,11 +5,11 @@ const AD_CLIENT = "ca-pub-2796727413305777";
 
 // (facoltativo ma consigliato) ID slot diversi per posizione
 const SLOT_BY_POSITION = {
-  left:   "1234560001",   // metti l'ID dello slot creato su AdSense
-  right:  "1234560002",
-  middle: "1234560003",
-  sticky: "1234560004",
-  default:"1234560099",
+  left:   "1796807484",   // metti l'ID dello slot creato su AdSense
+  right:  "5090304793",
+  middle: "1350084920",
+  sticky: "2060531364",
+  default:"8434368025",
 };
 
 export default function Banner({ position = "middle" }) {
