@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Layout from "../../components/Layout";
 import Link from "next/link";
 import Banner from "../../components/Banner";
+import Head from "next/head";
 
 let showData = [];
 try {
@@ -36,6 +37,23 @@ export default function Italia() {
 
   return (
     <Layout>
+      <Head>
+  <title>Serie A: Pronostici & Statistiche | SportWhisp</title>
+  <meta
+    name="description"
+    content="Pronostici statistici Serie A: percentuali 1-X-2, Under/Over, Gol/NoGol e risultati previsti. Dati aggiornati e modelli originali."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/italia" />
+  <meta property="og:title" content="Serie A: Pronostici & Statistiche | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Previsioni Serie A basate su modelli statistici: probabilità esito, Under/Over e Gol/NoGol per ogni partita."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/italia" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
       <h1>Serie A - Statistiche e Previsioni</h1>
       <p>In questa sezione verranno mostrate le previsioni statistiche per la Serie A.</p>
 

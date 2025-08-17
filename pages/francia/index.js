@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Layout from "../../components/Layout";
 import Link from "next/link";
 import Banner from "../../components/Banner";
+import Head from "next/head";
 
 let showData = [];
 try {
@@ -35,6 +36,23 @@ export default function Francia() {
 
   return (
     <Layout>
+      <Head>
+  <title>Ligue 1: Pronostici & Statistiche | SportWhisp</title>
+  <meta
+    name="description"
+    content="Pronostici statistici Ligue 1: percentuali 1-X-2, Under/Over, Gol/NoGol e risultati previsti. Dati aggiornati e modelli originali."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/francia" />
+  <meta property="og:title" content="Ligue 1: Pronostici & Statistiche | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Previsioni Ligue 1 basate su modelli statistici: probabilità esito, Under/Over e Gol/NoGol per ogni partita."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/francia" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
       <h1>Ligue 1 - Statistiche e Previsioni</h1>
       <p>In questa sezione verranno mostrate le previsioni statistiche per la Ligue 1.</p>
 

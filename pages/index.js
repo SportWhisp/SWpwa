@@ -34,6 +34,9 @@ export default function Home({ whispPrincipali, whispMinori }) {
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://sportwhisp.it" />
+        <link rel="canonical" href="https://sportwhisp.it/" />
+        <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+        <meta property="og:site_name" content="SportWhisp" />
       </Head>
 
       <h1>Benvenuto su SportWhisp</h1>

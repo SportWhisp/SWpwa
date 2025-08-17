@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Layout from "../../components/Layout";
 import Link from "next/link";
 import Banner from "../../components/Banner";
+import Head from "next/head";
 
 let showData = [];
 try {
@@ -37,6 +38,23 @@ export default function Turchia() {
 
   return (
     <Layout>
+      <Head>
+  <title>Super Lig: Pronostici & Statistiche | SportWhisp</title>
+  <meta
+    name="description"
+    content="Pronostici statistici Super Lig turca: percentuali 1-X-2, Under/Over, Gol/NoGol e risultati previsti. Dati aggiornati e modelli originali."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/turchia" />
+  <meta property="og:title" content="Super Lig: Pronostici & Statistiche | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Previsioni Super Lig basate su modelli statistici: probabilità esito, Under/Over e Gol/NoGol per ogni partita."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/turchia" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
       <h1>Süper Lig - Statistiche e Previsioni</h1>
       <p>In questa sezione verranno mostrate le previsioni statistiche per la Süper Lig.</p>
 

@@ -1,5 +1,26 @@
+import Head from "next/head";
+
 export default function PrivacyPolicy() {
   return (
+    <>
+      <Head>
+        <title>Privacy Policy | SportWhisp</title>
+        <meta
+          name="description"
+          content="Informativa sulla privacy di SportWhisp: trattamento dei dati personali, finalità, base giuridica, diritti degli utenti e contatti."
+        />
+        <meta name="robots" content="index, follow" />
+        <link rel="canonical" href="https://sportwhisp.it/privacy-policy" />
+        <meta property="og:title" content="Privacy Policy | SportWhisp" />
+        <meta
+          property="og:description"
+          content="Scopri come SportWhisp gestisce i dati personali, i tuoi diritti e le modalità di contatto."
+        />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://sportwhisp.it/privacy-policy" />
+        <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+      </Head>
+
     <div style={{ padding: "20px", maxWidth: "800px", margin: "0 auto" }}>
       <h1>Privacy Policy</h1>
       <p>Ultimo aggiornamento: agosto 2025</p>
@@ -50,5 +71,6 @@ export default function PrivacyPolicy() {
         La presente informativa può essere soggetta a modifiche. Si consiglia di consultarla periodicamente.
       </p>
     </div>
+        </>
   );
 }

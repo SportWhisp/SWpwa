@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Layout from "../../components/Layout";
 import Link from "next/link";
 import Banner from "../../components/Banner";
+import Head from "next/head";
 
 let showData = [];
 try {
@@ -35,6 +36,23 @@ export default function Olanda() {
 
   return (
     <Layout>
+      <Head>
+  <title>Eredivisie: Pronostici & Statistiche | SportWhisp</title>
+  <meta
+    name="description"
+    content="Pronostici statistici Eredivisie: percentuali 1-X-2, Under/Over, Gol/NoGol e risultati previsti. Dati aggiornati e modelli originali."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/olanda" />
+  <meta property="og:title" content="Eredivisie: Pronostici & Statistiche | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Previsioni Eredivisie basate su modelli statistici: probabilità esito, Under/Over e Gol/NoGol per ogni partita."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/olanda" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
       <h1>Eredivisie - Statistiche e Previsioni</h1>
       <p>In questa sezione verranno mostrate le previsioni statistiche per l'Eredivisie.</p>
 

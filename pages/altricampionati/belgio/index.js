@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Layout from "../../../components/Layout";
 import Link from "next/link";
 import Banner from "../../../components/Banner";
+import Head from "next/head";
 
 let showData = [];
 try {
@@ -37,6 +38,23 @@ export default function Belgio() {
 
   return (
     <Layout>
+      <Head>
+  <title>Belgio Pro League: Pronostici & Statistiche | SportWhisp</title>
+  <meta
+    name="description"
+    content="Pronostici statistici Pro League belga: percentuali 1-X-2, Under/Over, Gol/NoGol e risultati previsti."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/altricampionati/belgio" />
+  <meta property="og:title" content="Belgio Pro League: Pronostici & Statistiche | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Previsioni Pro League belga basate su modelli statistici: probabilità esito, Under/Over e Gol/NoGol."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/altricampionati/belgio" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
       <h1>Pro League - Statistiche e Previsioni</h1>
       <p>In questa sezione verranno mostrate le previsioni statistiche per la Pro League belga.</p>
 

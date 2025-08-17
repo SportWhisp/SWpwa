@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Layout from "../../../components/Layout";
 import Link from "next/link";
 import Banner from "../../../components/Banner";
+import Head from "next/head";
 
 let showData = [];
 try {
@@ -36,6 +37,23 @@ export default function Svizzera() {
 
   return (
     <Layout>
+      <Head>
+  <title>Svizzera Super League: Pronostici & Statistiche | SportWhisp</title>
+  <meta
+    name="description"
+    content="Pronostici statistici Super League svizzera: percentuali 1-X-2, Under/Over, Gol/NoGol e risultati previsti."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/altricampionati/svizzera" />
+  <meta property="og:title" content="Svizzera Super League: Pronostici & Statistiche | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Previsioni Super League svizzera basate su modelli statistici: probabilità esito, Under/Over e Gol/NoGol."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/altricampionati/svizzera" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
       <h1>Super League Svizzera - Statistiche e Previsioni</h1>
       <p>In questa sezione verranno mostrate le previsioni statistiche per la Super League svizzera.</p>
 
