@@ -39,17 +39,41 @@ export default function Home({ whispPrincipali, whispMinori }) {
         <meta property="og:site_name" content="SportWhisp" />
       </Head>
 
-      <h1>Benvenuto su SportWhisp</h1>
+      <h1>SportWhisp - Il calcio visto dai numeri</h1>
       <p>
-        Qui troverai i migliori <strong>WHISP</strong>, ovvero le previsioni
-        con il più alto tasso di affidabilità basate su modelli statistici
-        personali realizzati dal nostro team di esperti.
+        Benvenuto su <strong>SPORTWHISP</strong>, la piattaforma dedicata a chi vuole vivere il calcio con 
+        uno sguardo diverso: quello delle <strong>statistiche</strong> e delle analisi <strong>predittive</strong>.
         <br />
-        Per approfondire i dati e le analisi, puoi navigare nelle sezioni
-        dedicate a ciascuna nazione.
+        Ogni settimana elaboriamo migliaia di dati sugli incontri dei principali campionati europei e non, per offrirti 
+        i nostri <strong>WHISP</strong>: previsioni basate su modelli matematici sviluppati dal nostro team di analisti.
+        <br />
+        Che tu sia un tifoso curioso, un appassionato di statistiche o semplicemente voglia capire meglio le probabilità 
+        dietro a un match, qui troverai un supporto affidabile e facile da consultare.
+      </p>
+      <h2>Come funzionano i WHISP</h2>
+      <p>
+        Un <strong>WHISP</strong> è una previsione statistica che nasce dall’analisi di diversi fattori:
+        <br />
+        andamento complessivo, prestazioni in casa e trasferta, numero dei gol fatti e subiti, trend storici, ed altri indicatori
+         <br />
+        Il risultato finale è un <strong>indice di affidabilità</strong>: più è alto, maggiore è la confidenza che il modello 
+        attribuisce a quell’esito.
+         <br />
+        👉 Questo significa che in questa sezione non troverai mai una lista infinita di partite, 
+        ma solo le selezioni più forti secondo i nostri calcoli.
       </p>
 
       <h2>WHISP PRINCIPALI</h2>
+      <p>
+       Nella sezione WHISP principali raccogliamo i pronostici più affidabili dei campionati “top 7”:
+       <br />
+       Italia (Serie A), Inghilterra (Premier League), Spagna (LaLiga), Germania (Bundesliga), 
+       Francia (Ligue 1), Portogallo (Primeira Liga), Olanda (Eredivisie)
+       <br />
+       Questi sono i tornei più seguiti e con il maggior numero di dati storici disponibili: 
+       ecco perché le previsioni tendono a essere più solide.
+      </p>
+
 <table className="whisp-table">
   <thead>
     <tr style={{ backgroundColor: "#2f3336", color: "#fff", height: "30px" }}>
@@ -83,6 +107,16 @@ export default function Home({ whispPrincipali, whispMinori }) {
       <Banner position="middle" />
 
       <h2>WHISP CAMPIONATI MINORI</h2>
+      <p>
+        Nella sezione WHISP campionati minori diamo spazio a quelle leghe spesso trascurate 
+        dai media, ma che offrono spunti interessanti:
+        <br />
+        Austria, Belgio, Danimarca, Grecia, Polonia, Romania, Svizzera, Ungheria, 
+        Turchia (Super Lig), con sempre più squadre protagoniste nel panorama calcistico
+        <br />
+        Anche qui selezioniamo i match più rilevanti in base all’affidabilità delle nostre analisi.
+      </p>
+
 <table className="whisp-table">
   <thead>
     <tr>
@@ -108,6 +142,25 @@ export default function Home({ whispPrincipali, whispMinori }) {
 
       {/* Banner finale */}
       <Banner position="middle" />
+
+      <h2>Perché scegliere SportWhisp</h2>
+      <p>
+        Oggettività: niente sensazioni o opinioni, solo numeri.
+        <br />
+        Accessibilità: tabelle semplici e immediate, comprensibili anche senza conoscenze avanzate di statistica.
+        <br />
+        Completezza: copriamo più di 15 campionati europei ogni settimana (per ora...).
+        <br />
+        Aggiornamenti costanti: i dati vengono aggiornati quotidianamente per offrirti sempre le previsioni più fresche.
+      </p>
+
+      <h2>Call to action</h2>
+      <p>
+      Vuoi approfondire le singole giornate e consultare le classifiche aggiornate?
+      <br />
+      ➡️ Naviga nel menu e scegli la nazione che ti interessa: 
+      scoprirai tutte le partite in programma, con le nostre analisi e le classifiche complete.
+      </p>
 
     </Layout>
   );
