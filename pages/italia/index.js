@@ -110,6 +110,9 @@ export default function Italia() {
         </div>
       )}
        
+       {/* Banner finale */}
+      <Banner position="middle" />
+
       <h2>Come leggere la tabella</h2>
       <p>
        Ogni percentuale rappresenta il livello di affidabilità calcolato dai nostri modelli.
@@ -145,9 +148,6 @@ export default function Italia() {
           Consulta la Classifica della Serie A
         </a>
       </Link>
-
-      {/* Banner finale */}
-      <Banner position="middle" />
 
     </Layout>
   );
