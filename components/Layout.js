@@ -38,6 +38,8 @@ export default function Layout({ children }) {
             <Link href="/altricampionati/ungheria">Ungheria</Link>
           </div>
         </div>
+        <Link href="/commenti">Whisp Precedenti</Link>
+
       </nav>
 
       <main className="content">{children}</main>
