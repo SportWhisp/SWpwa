@@ -55,8 +55,25 @@ export default function Belgio() {
   <meta property="og:url" content="https://sportwhisp.it/altricampionati/belgio" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>Pro League - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per la Pro League belga.</p>
+      <h1>Pro League - Statistiche e Whisp</h1>
+      <p>
+        Il massimo campionato belga è una competizione vibrante e imprevedibile, da sempre terreno fertile per la 
+        crescita di giovani talenti. Club storici come Anderlecht, Club Brugge e Standard Liegi si contendono il 
+        primato, mentre nuove realtà come Genk e Union Saint-Gilloise hanno dato ulteriore fascino al torneo.
+        <br />
+        Grazie a <strong>SportWhisp</strong> puoi osservare la Pro League da un punto di vista diverso: non solo 
+        risultati e classifiche, ma anche <strong>Whisp</strong>, le nostre previsioni basate su dati statistici avanzati.
+      </p>
+
+      <h2>Una competizione dal format particolare</h2>
+      <p>
+        La Jupiler Pro League è caratterizzata da una stagione regolare seguita da playoff, sia per l’assegnazione 
+        del titolo che per le qualificazioni alle coppe europee. Questa formula mantiene alta la competitività fino 
+        all’ultimo, con classifiche spesso rivoluzionate nella fase finale.
+      <br />
+        In un contesto così dinamico, i numeri ed i <strong>Whisp</strong> aiutano a leggere meglio le probabilità e ad 
+        individuare tendenze nascoste dietro la superficie dei risultati.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -98,6 +115,20 @@ export default function Belgio() {
         </div>
       )}
 
+       {/* Banner finale */}
+      <Banner position="middle" />
+
+      <h2>I WHISP come chiave di lettura</h2>
+      <p>
+       I nostri <strong>Whisp</strong> ti offrono una panoramica immediata delle sfide più interessanti del 
+       campionato belga. Basati su dati oggettivi – rendimento in casa e in trasferta, gol segnati e subiti, 
+       andamento recente e scontri diretti – non sono predizioni certe, ma strumenti per orientarti in un torneo 
+       che cambia rapidamente.
+       <br />
+       Se vuoi confrontare in prima persona i progressi delle squadre e seguire la corsa al titolo e ai playoff 
+       europei, consulta la classifica aggiornata della Jupiler Pro League.
+      </p>       
+
       <Link href="/altricampionati/belgio/classifica" legacyBehavior>
         <a
           target="_blank"
@@ -115,13 +146,10 @@ export default function Belgio() {
             textDecoration: "none"
           }}
         >
-          Clicca qui per visualizzare la Classifica
+          Consulta la Classifica Jupiler Pro League
         </a>
       </Link>
-      
-            {/* Banner finale */}
-            <Banner position="middle" />
-      
+            
     </Layout>
   );
 }

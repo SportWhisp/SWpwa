@@ -55,8 +55,25 @@ export default function Grecia() {
   <meta property="og:url" content="https://sportwhisp.it/altricampionati/grecia" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>Super League - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per la Super League greca.</p>
+      <h1>Super League - Analisi e Whisp</h1>
+      <p>
+        Il campionato greco, la Super League Ellada, è una competizione ricca di tradizione e rivalità accese. 
+        Squadre storiche come Olympiacos, Panathinaikos, AEK Atene e PAOK Salonicco si contendono ogni anno la 
+        vetta, in un torneo in cui il tifo caldo e gli stadi infuocati fanno parte integrante dello spettacolo.
+        <br />
+        Con <strong>SportWhisp</strong> puoi guardare alla Super League con un approccio diverso: i nostri 
+        <strong>WHISP</strong>, previsioni statistiche basate su dati concreti e modelli predittivi.
+      </p>
+
+      <h2>Una competizione intensa e ricca di rivalità</h2>
+      <p>
+        La Super League è conosciuta per le sue sfide ad alta tensione, soprattutto i derby ateniesi e il confronto 
+        tra le grandi rivali di Salonicco e del Pireo. La formula, con stagione regolare e successivi playoff per 
+        il titolo e per la salvezza, garantisce equilibrio e colpi di scena fino alla fine.
+      <br />
+        In un contesto in cui l’aspetto emotivo è fortissimo, i dati offrono un contrappunto razionale e aiutano a 
+        leggere con maggiore chiarezza le possibilità delle squadre.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -98,6 +115,20 @@ export default function Grecia() {
         </div>
       )}
 
+       {/* Banner finale */}
+      <Banner position="middle" />
+
+      <h2>Perchè affidarsi ai WHISP</h2>
+      <p>
+       I <strong>Whisp</strong> raccolgono e sintetizzano elementi come rendimento recente, differenza reti, 
+       prestazioni casalinghe e in trasferta, oltre agli scontri diretti. Non sono predizioni certe, ma strumenti 
+       che ti permettono di interpretare con maggiore lucidità un campionato dove il fattore campo e la tradizione 
+       pesano molto.
+       <br />
+       Se vuoi verificare direttamente l’andamento delle squadre, consulta la classifica aggiornata della 
+       Super League greca.
+      </p>         
+
       <Link href="/altricampionati/grecia/classifica" legacyBehavior>
         <a
           target="_blank"
@@ -115,13 +146,10 @@ export default function Grecia() {
             textDecoration: "none"
           }}
         >
-          Clicca qui per visualizzare la Classifica
+          CConsulta la Classifica SuperLeague Grecia
         </a>
       </Link>
-      
-            {/* Banner finale */}
-            <Banner position="middle" />
-      
+           
     </Layout>
   );
 }

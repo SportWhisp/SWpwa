@@ -55,8 +55,25 @@ export default function Danimarca() {
   <meta property="og:url" content="https://sportwhisp.it/altricampionati/danimarca" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>Superliga Danese - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per la Superliga danese.</p>
+      <h1>Superliga Danese - Analisi e Whisp</h1>
+      <p>
+        La Superliga è il campionato di vertice della Danimarca, una lega che unisce equilibrio e passione. 
+        Squadre come FC Copenhagen, Brøndby e Midtjylland guidano da anni la competizione, ma non mancano outsider 
+        pronte a sorprendere e a inserirsi nella corsa al titolo.
+        <br />
+        Con <strong>SportWhisp</strong> puoi seguire la Superliga attraverso i nostri <strong>WHISP</strong>, previsioni 
+        basate su modelli statistici che vanno oltre le semplici sensazioni di campo.
+      </p>
+
+      <h2>Una lega giovane e competitiva</h2>
+      <p>
+        Il campionato danese è noto per l’attenzione alla formazione dei talenti: molti calciatori che oggi militano 
+        nei grandi club europei hanno mosso i primi passi proprio qui. La formula del torneo, con regular season 
+        seguita da playoff scudetto e playout salvezza, mantiene vivo l’interesse fino all’ultima giornata.
+      <br />
+        In un contesto dove i margini sono spesso ridotti, i dati aiutano a leggere meglio le tendenze e a 
+        capire dove può indirizzarsi la stagione.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -98,6 +115,19 @@ export default function Danimarca() {
         </div>
       )}
 
+       {/* Banner finale */}
+      <Banner position="middle" />
+
+      <h2>I WHISP come strumento di analisi</h2>
+      <p>
+       I nostri <strong>Whisp</strong> sintetizzano i numeri del campionato danese per offrirti una bussola affidabile: 
+       rendimento recente, solidità difensiva, gol realizzati e storici degli scontri diretti. Non sono previsioni 
+       assolute, ma un supporto per interpretare meglio un torneo equilibrato e in costante crescita.
+       <br />
+       Se desideri avere una visione diretta della situazione delle squadre, puoi sempre consultare la classifica 
+       aggiornata della Superliga danese.
+      </p>        
+
       <Link href="/altricampionati/danimarca/classifica" legacyBehavior>
         <a
           target="_blank"
@@ -115,12 +145,9 @@ export default function Danimarca() {
             textDecoration: "none"
           }}
         >
-          Clicca qui per visualizzare la Classifica
+          Consulta la Classifica Superliga Danese
         </a>
       </Link>
-      
-            {/* Banner finale */}
-            <Banner position="middle" />
       
     </Layout>
   );
