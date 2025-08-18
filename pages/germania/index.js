@@ -53,8 +53,22 @@ export default function Germania() {
   <meta property="og:url" content="https://sportwhisp.it/germania" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>Bundesliga - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per la Bundesliga.</p>
+      <h1>Bundesliga - Statistiche e WHISP</h1>
+      <p>La Bundesliga è il campionato tedesco per eccellenza, famoso per il calcio spettacolare, gli stadi gremiti 
+        e le squadre che ogni anno propongono giovani talenti al panorama internazionale. Bayern Monaco, 
+        Borussia Dortmund, Lipsia e tante altre società rendono questa lega una delle più seguite al mondo.
+        <br />
+        Con <strong>SportWhisp</strong> puoi scoprire la Bundesliga non solo attraverso i risultati, ma tramite un approccio 
+        basato su numeri e dati oggettivi: i nostri <strong>WHISP</strong>.
+      </p>
+
+      <h2>Cosa include questa sezione</h2>
+      <p>
+        L’elenco aggiornato delle gare della prossima giornata, con l’indicazione dei risultati già disputati.
+      <br />
+        I <strong>Whisp Bundesliga</strong>, cioè le previsioni probabilistiche sui principali esiti di ciascun 
+        incontro: 1, X, 2, Under 2.5 / Over 2.5, Gol / NoGol.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -96,6 +110,31 @@ export default function Germania() {
         </div>
       )}
 
+                  {/* Banner finale */}
+            <Banner position="middle" />
+      
+      <h2>Come leggere i WHISP</h2>
+      <p>
+       Ogni esito è accompagnato da una percentuale calcolata dai nostri modelli statistici:
+       <br />
+       <strong>sopra il 55%</strong> → la cella è evidenziata in verde chiaro: il WHISP è promettente.
+       <br />
+       <strong>sopra il 70%</strong> → verde scuro: il WHISP ha un alto livello di affidabilità.
+       <br />
+       Questa rappresentazione visiva ti consente di capire in un istante dove i nostri algoritmi individuano i 
+       trend più forti.
+      </p>
+
+      <h2>Perché i WHISP non sono solo numeri</h2>
+      <p>
+       Il calcio tedesco è imprevedibile e ricco di sorprese: le nostre analisi non sono verità assolute, ma 
+       strumenti per interpretare meglio il torneo. Considerano andamento recente, differenza reti, rendimento 
+       casalingo/esterno e scontri diretti.
+       <br />
+       Se preferisci valutare in autonomia il percorso delle squadre, puoi sempre consultare la classifica 
+       aggiornata della Bundesliga: uno strumento essenziale per contestualizzare i WHISP.
+      </p>
+
       <Link href="/germania/classifica" legacyBehavior>
         <a
           target="_blank"
@@ -112,13 +151,10 @@ export default function Germania() {
             textDecoration: "none"
           }}
         >
-          Clicca qui per visualizzare la Classifica della Bundesliga
+          Consulta la Classifica della Bundesliga
         </a>
       </Link>
-      
-            {/* Banner finale */}
-            <Banner position="middle" />
-      
+           
     </Layout>
   );
 }
