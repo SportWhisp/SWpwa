@@ -26,19 +26,33 @@ export default function Commenti() {
 
       <h1>Analisi dei WHISP del weekend precedente</h1>
       <p>
-        In questa sezione trovi un <strong>resoconto personale</strong> sui WHISP della
-        settimana precedente: valutazioni sull’accuratezza, riflessioni e spunti per
-        interpretare al meglio le prossime giornate.
-      </p>
+        Questa sezione è dedicata al <strong>controllo puntuale dell’affidabilità dei nostri WHISP</strong>: 
+        qui confrontiamo le percentuali previste con i risultati reali delle partite.
+        <br />
+        Non si tratta solo di verificare se un pronostico è stato azzeccato o meno, ma di leggere il dato nel 
+        suo contesto, evidenziando:
+        </p>
+        <ul>
+      <li>quando il WHISP si è confermato con ampio margine</li>
+      <li>quando la previsione era corretta ma la partita è stata decisa da episodi o dettagli</li>
+      <li>quando invece il dato ha sorpreso, smentendo le aspettative statistiche</li>
+    </ul>
+    <p>
+        Ogni settimana vengono analizzati dai 15 ai 20 eventi tra i principali campionati ed i campionati minori. 
+        Per ciascuno riportiamo l'affidabilità prevista, l’esito della gara e un breve commento tecnico.
+        <br />
+        La pagina si conclude sempre con un resoconto complessivo, utile a comprendere i trend emersi e a 
+        migliorare l’interpretazione dei WHISP nelle giornate successive.
+        </p>
 
       {/* 🔵 INSERISCI QUI IL TUO COMMENTO SETTIMANALE 🔵 */}
       <section style={{ marginTop: 24 }}>
-        <h2>18/08/2025 Elche CF vs Real Betis Balompié - GOL 79.63%</h2>
+        <h3>18/08/2025 Elche CF vs Real Betis Balompié - GOL 79.63%</h3>
         <p>
           In attesa di esito.
         </p>
 
-        <h2>✅ 16/08/2025 Brighton & Hove Albion FC vs Fulham FC - GOL 77.54%</h2>
+        <h3>✅ 16/08/2025 Brighton & Hove Albion FC vs Fulham FC - GOL 77.54%</h3>
         <p>
           Risultato: 1 - 1
           <br />
@@ -47,7 +61,7 @@ export default function Commenti() {
           Alla fine, ciò che conta è il risultato.
         </p>
 
-        <h2>✅ 16/08/2025 Tottenham Hotspur FC vs Burnley FC - OVER2.5 74.33%</h2>
+        <h3>✅ 16/08/2025 Tottenham Hotspur FC vs Burnley FC - OVER2.5 74.33%</h3>
         <p>
           Risultato: 3 - 0
           <br />
@@ -55,7 +69,7 @@ export default function Commenti() {
           al 66’ la previsione è ormai blindata. Il resto conta poco.
         </p>
 
-        <h2>❌ 17/08/2025 FC Nantes vs Paris Saint-Germain FC - GOL 73.85%</h2>
+        <h3>❌ 17/08/2025 FC Nantes vs Paris Saint-Germain FC - GOL 73.85%</h3>
         <p>
           Risultato: 0 - 1
           <br />
@@ -64,7 +78,7 @@ export default function Commenti() {
           dei padroni di casa, troppo poco coraggio.
         </p>
 
-        <h2>✅ 15/08/2025 Liverpool FC vs AFC Bournemouth - GOL 73.31%</h2>
+        <h3>✅ 15/08/2025 Liverpool FC vs AFC Bournemouth - GOL 73.31%</h3>
         <p>
           Risultato: 4 - 2
           <br />
@@ -72,7 +86,7 @@ export default function Commenti() {
           Il 4-2 finale esalta l’intuizione, con entrambe le squadre protagoniste di un match senza pause.
         </p>
 
-        <h2>❌ 17/08/2025 FC Twente '65 vs PSV - OVER2.5 73.25%</h2>
+        <h3>❌ 17/08/2025 FC Twente '65 vs PSV - OVER2.5 73.25%</h3>
         <p>
           Risultato: 0 - 2
           <br />
@@ -82,12 +96,12 @@ export default function Commenti() {
         </p>
               <Banner position="middle" />
 
-        <h2>18/08/2025 Leeds United FC vs Everton FC - UNDER2.5 72.16%</h2>
+        <h3>18/08/2025 Leeds United FC vs Everton FC - UNDER2.5 72.16%</h3>
         <p>
           In attesa di esito.
         </p>
 
-        <h2>❌ 16/08/2025 Deportivo Alavés vs Levante UD - UNDER2.5 71.67%</h2>
+        <h3>❌ 16/08/2025 Deportivo Alavés vs Levante UD - UNDER2.5 71.67%</h3>
         <p>
           Risultato: 2 - 1
           <br />
@@ -95,7 +109,7 @@ export default function Commenti() {
           il 2-1 e fa saltare tutto. Amaro epilogo per un match che sembrava già incanalato.
         </p>
 
-        <h2>✅ 15/08/2025 Galatasaray vs Fatih Karagumruk - 1 92.84%</h2>
+        <h3>✅ 15/08/2025 Galatasaray vs Fatih Karagumruk - 1 92.84%</h3>
         <p>
           Risultato: 3 - 0
           <br />
@@ -103,7 +117,7 @@ export default function Commenti() {
           ha trovato piena conferma.
         </p>
 
-        <h2>✅ 18/08/2025 OB vs AGF - GOL 78.17%</h2>
+        <h3>✅ 18/08/2025 OB vs AGF - GOL 78.17%</h3>
         <p>
           Risultato: 1 - 5
           <br />
@@ -111,7 +125,7 @@ export default function Commenti() {
           rendendo la previsione mai in pericolo.
         </p>
 
-        <h2>✅ 16/08/2025 Paksi FC vs Zalaegerszegi TE - GOL 74.40%</h2>
+        <h3>✅ 16/08/2025 Paksi FC vs Zalaegerszegi TE - GOL 74.40%</h3>
         <p>
           Risultato: 2 - 2
           <br />
@@ -119,7 +133,7 @@ export default function Commenti() {
           spettacolare, entrambe le squadre a segno come previsto.
         </p>
 
-        <h2>✅ 15/08/2025 Zaglebie Lubin vs Lechia Gdansk - GOL 73.00%</h2>
+        <h3>✅ 15/08/2025 Zaglebie Lubin vs Lechia Gdansk - GOL 73.00%</h3>
         <p>
           Risultato: 6 - 2
           <br />
@@ -128,7 +142,7 @@ export default function Commenti() {
         </p>
       <Banner position="middle" />
 
-        <h2>✅ 17/08/2025 Radomiak Radom vs Jagiellonia Bialystok - GOL 72.14%</h2>
+        <h3>✅ 17/08/2025 Radomiak Radom vs Jagiellonia Bialystok - GOL 72.14%</h3>
         <p>
           Risultato: 1 - 2
           <br />
@@ -136,7 +150,7 @@ export default function Commenti() {
           Imaz (50’) dopo il pareggio immediato, in una partita vivace e combattuta sotto la pioggia di occasioni.
         </p>
 
-        <h2>✅ 17/08/2025 Viborg vs Silkeborg - GOL 71.90%</h2>
+        <h3>✅ 17/08/2025 Viborg vs Silkeborg - GOL 71.90%</h3>
         <p>
           Risultato: 2 - 3
           <br />
@@ -144,7 +158,7 @@ export default function Commenti() {
           reti da entrambe le parti e pronostico confermato senza esitazioni.
         </p>
 
-        <h2>Rendicontazione settimanale</h2>
+        <h3>Rendicontazione settimanale</h3>
         <p>
           COMMENTO.
         </p>
