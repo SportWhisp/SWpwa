@@ -55,8 +55,23 @@ export default function Austria() {
   <meta property="og:url" content="https://sportwhisp.it/altricampionati/austria" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>Bundesliga Austriaca - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per la Bundesliga austriaca.</p>
+      <h1>Bundesliga Austriaca - Statistiche e Whisp</h1>
+      <p>
+        Il campionato austriaco è una lega in costante crescita, resa popolare dal dominio recente del 
+        Red Bull Salisburgo ma anche dalla competitività di club come Rapid Vienna, Sturm Graz e LASK Linz. 
+        L’atmosfera negli stadi e la valorizzazione dei giovani talenti hanno reso la Bundesliga austriaca un 
+        laboratorio calcistico sempre più seguito in Europa.
+      </p>
+
+      <h2>Un torneo con una formula unica</h2>
+      <p>
+        La stagione è divisa in due fasi: una regular season e, successivamente, due gironi distinti per il titolo 
+        e per la salvezza. Questa struttura rende ogni punto importante e mantiene alta la tensione fino 
+        all’ultima giornata.
+      <br />
+        In un contesto così equilibrato, i dati statistici ed i <strong>Whisp</strong> diventano fondamentali per 
+        interpretare le partite e anticipare i possibili sviluppi.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -98,6 +113,21 @@ export default function Austria() {
         </div>
       )}
 
+       {/* Banner finale */}
+      <Banner position="middle" />
+
+      <h2>I WHISP come bussola del campionato</h2>
+      <p>
+       I nostri <strong>Whisp</strong> offrono una lettura immediata dei match, andando oltre le sensazioni e le ipotesi. 
+       L’analisi dei numeri di rendimento, dei gol segnati e subiti e degli scontri diretti ti permette di cogliere 
+       dettagli che spesso sfuggono a un occhio non allenato.
+       <br />
+       Non si tratta di certezze, ma di indicatori preziosi per capire in quale direzione si muove il torneo.
+       <br />
+       Se vuoi confrontare direttamente le performance delle squadre e valutare in autonomia la corsa al titolo o alla 
+       salvezza, puoi consultare la classifica aggiornata della Bundesliga austriaca.
+      </p>      
+
       <Link href="/altricampionati/austria/classifica" legacyBehavior>
         <a
           target="_blank"
@@ -115,12 +145,9 @@ export default function Austria() {
             textDecoration: "none"
           }}
         >
-          Clicca qui per visualizzare la Classifica
+          Consulta la Classifica Bundesliga Austria
         </a>
       </Link>
-      
-            {/* Banner finale */}
-            <Banner position="middle" />
       
     </Layout>
   );

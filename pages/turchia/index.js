@@ -125,7 +125,7 @@ export default function Turchia() {
        <br />
        valori <strong>oltre il 70%</strong> → cella verde scuro: WHISP con elevata attendibilità.
        <br />
-       Così puoi individuare subito i trend più significativi della giornata turca..
+       Così puoi individuare subito i trend più significativi della giornata turca.
       </p>
 
       <h2>Perchè i Whisp fanno la differenza</h2>
