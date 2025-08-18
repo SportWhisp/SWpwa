@@ -35,79 +35,120 @@ export default function Commenti() {
       <section style={{ marginTop: 24 }}>
         <h2>18/08/2025 Elche CF vs Real Betis Balompié - GOL 79.63%</h2>
         <p>
-          I WHISP della prima giornata di Ligue 1 hanno mostrato una buona precisione
-          sugli esiti <strong>1X2</strong>, in particolare nelle partite casalinghe.
-          Più incerti invece gli <em>Over 2.5</em>, dove si sono registrate alcune sorprese.
+          In attesa di esito.
         </p>
 
-        <h2>16/08/2025 Brighton & Hove Albion FC vs Fulham FC - GOL 77.54%</h2>
+        <h2>✅ 16/08/2025 Brighton & Hove Albion FC vs Fulham FC - GOL 77.54%</h2>
         <p>
-          In Serie A i WHISP hanno colto correttamente la vittoria della Juventus e
-          dell’Inter, mentre hanno sottovalutato la prestazione del Napoli in trasferta.
-          Nel complesso l’accuratezza è stata buona, con trend positivi sul mercato dei gol.
+          Risultato: 1 - 1
+          <br />
+          Nonostante l’inizio promettente, con un gol annullato alla squadra di casa al 4’, il match è rimasto in bilico 
+          fino all’ultimo istante ed è stato deciso soltanto al 97’ da una rete della formazione ospite.
+          Alla fine, ciò che conta è il risultato.
         </p>
 
-        <h2>16/08/2025 Tottenham Hotspur FC vs Burnley FC - OVER2.5 74.33%</h2>
+        <h2>✅ 16/08/2025 Tottenham Hotspur FC vs Burnley FC - OVER2.5 74.33%</h2>
         <p>
-          COMMENTO.
+          Risultato: 3 - 0
+          <br />
+          Whisp mai in discussione: gara a senso unico per la squadra di casa, subito in vantaggio al 10’. Con il 3-0 
+          al 66’ la previsione è ormai blindata. Il resto conta poco.
         </p>
 
-        <h2>17/08/2025 FC Nantes vs Paris Saint-Germain FC - GOL 73.85%</h2>
+        <h2>❌ 17/08/2025 FC Nantes vs Paris Saint-Germain FC - GOL 73.85%</h2>
         <p>
-          COMMENTO.
+          Risultato: 0 - 1
+          <br />
+          Whisp tradito dalla sterilità offensiva del Nantes, incapace di creare vere occasioni. Il PSG domina ma 
+          sblocca solo con Vitinha e una deviazione decisiva. La previsione “gol di entrambe” sfuma: troppa difesa 
+          dei padroni di casa, troppo poco coraggio.
         </p>
 
-        <h2>15/08/2025 Liverpool FC vs AFC Bournemouth - GOL 73.31%</h2>
+        <h2>✅ 15/08/2025 Liverpool FC vs AFC Bournemouth - GOL 73.31%</h2>
         <p>
-          COMMENTO.
+          Risultato: 4 - 2
+          <br />
+          WWhisp perfetto: la previsione “Gol” trova piena conferma in una gara spettacolare e ricca di reti. 
+          Il 4-2 finale esalta l’intuizione, con entrambe le squadre protagoniste di un match senza pause.
         </p>
 
-        <h2>17/08/2025 FC Twente '65 vs PSV - OVER2.5 73.25%</h2>
+        <h2>❌ 17/08/2025 FC Twente '65 vs PSV - OVER2.5 73.25%</h2>
         <p>
-          COMMENTO.
+          Risultato: 0 - 2
+          <br />
+          Whisp ingannato dal blocco difensivo del PSV: la previsione “over 2.5” naufraga sotto il 0-2 netto 
+          della squadra ospite. Troppa chiusura tra le linee, troppo poco spettacolo offensivo.
+          Sarebbe stato più saggio puntare sull’“esito 2”, con un’affidabilità del 60,56%, premiata dal successo netto del PSV.
         </p>
               <Banner position="middle" />
 
         <h2>18/08/2025 Leeds United FC vs Everton FC - UNDER2.5 72.16%</h2>
         <p>
-          COMMENTO.
+          In attesa di esito.
         </p>
 
-        <h2>16/08/2025 Deportivo Alavés vs Levante UD - UNDER2.5 71.67%</h2>
+        <h2>❌ 16/08/2025 Deportivo Alavés vs Levante UD - UNDER2.5 71.67%</h2>
         <p>
-          COMMENTO.
+          Risultato: 2 - 1
+          <br />
+          Whisp beffato nel finale: la previsione “under 2.5” resiste fino al 92’, quando arriva il gol che fissa 
+          il 2-1 e fa saltare tutto. Amaro epilogo per un match che sembrava già incanalato.
         </p>
 
-        <h2>15/08/2025 Galatasaray vs Fatih Karagumruk - 1 92.84%</h2>
+        <h2>✅ 15/08/2025 Galatasaray vs Fatih Karagumruk - 1 92.84%</h2>
         <p>
-          COMMENTO.
+          Risultato: 3 - 0
+          <br />
+          Whisp impeccabile: esito “1” centrato con stile — il Galatasaray travolge per 3-0. L'affidabilità del 92,84% 
+          ha trovato piena conferma.
         </p>
 
-        <h2>18/08/2025 OB vs AGF - GOL 78.17%</h2>
+        <h2>✅ 18/08/2025 OB vs AGF - GOL 78.17%</h2>
         <p>
-          COMMENTO.
+          Risultato: 1 - 5
+          <br />
+          Whisp sereno: il rigore dell’OB toglie subito i dubbi e il “Gol” si concretizza. Poi l’AGF dilaga fino al 1-5, 
+          rendendo la previsione mai in pericolo.
         </p>
 
-        <h2>16/08/2025 Paksi FC vs Zalaegerszegi TE - GOL 74.40%</h2>
+        <h2>✅ 16/08/2025 Paksi FC vs Zalaegerszegi TE - GOL 74.40%</h2>
         <p>
-          COMMENTO.
+          Risultato: 2 - 2
+          <br />
+          Whisp centrato: la previsione “Gol” con affidabilità del 74,40% trova conferma nel 2-2 finale. Gara aperta e 
+          spettacolare, entrambe le squadre a segno come previsto.
         </p>
 
-        <h2>15/08/2025 Zaglebie Lubin vs Lechia Gdansk - GOL 73.00%</h2>
+        <h2>✅ 15/08/2025 Zaglebie Lubin vs Lechia Gdansk - GOL 73.00%</h2>
         <p>
-          COMMENTO.
+          Risultato: 6 - 2
+          <br />
+          Whisp trionfale: la previsione “Gol” non solo si conferma, ma esplode in un clamoroso 6-2. Partita senza freni, 
+          con reti a raffica e spettacolo continuo: pronostico azzeccato in grande stile.
         </p>
       <Banner position="middle" />
 
-        <h2>17/08/2025 Radomiak Radom vs Jagiellonia Bialystok - GOL 72.14%</h2>
+        <h2>✅ 17/08/2025 Radomiak Radom vs Jagiellonia Bialystok - GOL 72.14%</h2>
+        <p>
+          Risultato: 1 - 2
+          <br />
+          Whisp azzeccato: “Gol” centrato nel 1‑2 finale. Jagiellonia ribalta il match nel secondo tempo con la rete di 
+          Imaz (50’) dopo il pareggio immediato, in una partita vivace e combattuta sotto la pioggia di occasioni.
+        </p>
+
+        <h2>✅ 17/08/2025 Viborg vs Silkeborg - GOL 71.90%</h2>
+        <p>
+          Risultato: 2 - 3
+          <br />
+          Whisp limpido: il “Gol” non è mai stato in discussione nel 2-3 tra Viborg e Silkeborg. Gara subito aperta, con 
+          reti da entrambe le parti e pronostico confermato senza esitazioni.
+        </p>
+
+        <h2>Rendicontazione settimanale</h2>
         <p>
           COMMENTO.
         </p>
-
-        <h2>17/08/2025 Viborg vs Silkeborg - GOL 71.90%</h2>
-        <p>
-          COMMENTO.
-        </p>   
+           
       </section>
       {/* 🔵 FINE COMMENTO SETTIMANALE 🔵 */}
 
