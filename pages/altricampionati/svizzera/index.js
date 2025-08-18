@@ -54,8 +54,20 @@ export default function Svizzera() {
   <meta property="og:url" content="https://sportwhisp.it/altricampionati/svizzera" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>Super League Svizzera - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per la Super League svizzera.</p>
+      <h1>Super League Svizzera - Analisi e Whisp</h1>
+      <p>
+       La Super League svizzera è una competizione dinamica che negli ultimi anni ha conquistato visibilità grazie 
+       a club come Basilea, Young Boys e Zurigo. Nonostante la dimensione ridotta rispetto ad altri tornei, offre 
+       partite spettacolari e un livello tecnico sempre più alto.
+      </p>
+
+      <h2>Una fucina di talenti</h2>
+      <p>
+       Il campionato svizzero è conosciuto come trampolino di lancio per giovani promesse e giocatori destinati a 
+       emergere sulla scena internazionale. La cura dei vivai e l’attenzione alla crescita dei calciatori fanno della 
+       Super League un laboratorio calcistico di grande interesse. Questo rende ogni stagione un mix di certezze e 
+       sorprese, con squadre in grado di rinnovarsi costantemente.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -97,6 +109,20 @@ export default function Svizzera() {
         </div>
       )}
 
+       {/* Banner finale */}
+      <Banner position="middle" />
+
+      <h2>I WHISP per leggere il torneo</h2>
+      <p>
+       I nostri <strong>Whisp</strong> ti aiutano a interpretare l’andamento del campionato svizzero: numeri su 
+       rendimento recente, gol segnati e subiti, solidità difensiva e scontri diretti trasformati in indicatori 
+       utili. Non sono garanzie di risultato, ma strumenti per orientarsi in un torneo che valorizza giovani e in 
+       cui le dinamiche possono cambiare rapidamente.
+       <br />
+       Per avere una visione completa sulla corsa al titolo e sulla lotta salvezza, consulta la classifica aggiornata 
+       della Super League.
+      </p> 
+
       <Link href="/altricampionati/svizzera/classifica" legacyBehavior>
         <a
           target="_blank"
@@ -114,13 +140,10 @@ export default function Svizzera() {
             textDecoration: "none"
           }}
         >
-          Clicca qui per visualizzare la Classifica
+          Consulta la Classifica Super League Svizzera
         </a>
       </Link>
-      
-            {/* Banner finale */}
-            <Banner position="middle" />
-      
+
     </Layout>
   );
 }

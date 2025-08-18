@@ -146,7 +146,7 @@ export default function Grecia() {
             textDecoration: "none"
           }}
         >
-          CConsulta la Classifica SuperLeague Grecia
+          Consulta la Classifica SuperLeague Grecia
         </a>
       </Link>
            

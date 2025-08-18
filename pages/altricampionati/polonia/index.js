@@ -55,8 +55,20 @@ export default function Polonia() {
   <meta property="og:url" content="https://sportwhisp.it/altricampionati/polonia" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>Ekstraklasa Polacca - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per la Ekstraklasa polacca.</p>
+      <h1>Ekstraklasa Polacca - Statistiche e Whisp</h1>
+      <p>
+       L’Ekstraklasa è il massimo campionato polacco, una lega che unisce passione e imprevedibilità. 
+       Squadre come Legia Varsavia, Lech Poznań e Wisła Cracovia hanno scritto la storia del torneo, 
+       che negli ultimi anni ha visto crescere competitività e seguito anche a livello internazionale.
+      </p>
+
+      <h2>L’imprevedibilità come cifra del torneo</h2>
+      <p>
+       Una delle caratteristiche più interessanti dell’Ekstraklasa è la capacità di offrire colpi di scena continui: 
+       squadre di metà classifica capaci di sorprendere le big, corsa al titolo decisa spesso nelle ultime giornate, 
+       equilibrio marcato tra molte rivali. Questo rende il campionato affascinante per chi ama il calcio incerto e 
+       poco scontato, ma allo stesso tempo difficile da interpretare senza un supporto statistico.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -98,6 +110,20 @@ export default function Polonia() {
         </div>
       )}
 
+       {/* Banner finale */}
+      <Banner position="middle" />
+
+      <h2>I WHISP come strumento per orientarsi</h2>
+      <p>
+       Ed è qui che entrano in gioco i nostri <strong>Whisp</strong>: elaborazioni statistiche che leggono il 
+       campionato polacco attraverso i numeri, dal rendimento casalingo alla solidità difensiva, fino alle tendenze 
+       realizzative. Non sono certezze assolute, ma indicatori utili per chi vuole dare un senso ai tanti imprevisti 
+       che l’Ekstraklasa sa regalare.
+       <br />
+       Per avere un quadro ancora più chiaro sull’andamento delle squadre, puoi sempre consultare la classifica 
+       aggiornata dell’Ekstraklasa.
+      </p>        
+
       <Link href="/altricampionati/polonia/classifica" legacyBehavior>
         <a
           target="_blank"
@@ -115,13 +141,10 @@ export default function Polonia() {
             textDecoration: "none"
           }}
         >
-          Clicca qui per visualizzare la Classifica
+          Consulta la Classifica Ekstraklasa
         </a>
       </Link>
-      
-            {/* Banner finale */}
-            <Banner position="middle" />
-      
+  
     </Layout>
   );
 }

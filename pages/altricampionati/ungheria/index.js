@@ -55,8 +55,20 @@ export default function Ungheria() {
   <meta property="og:url" content="https://sportwhisp.it/altricampionati/ungheria" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>NB I Ungherese - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per la Nemzeti Bajnokság I ungherese.</p>
+      <h1>NB I Ungherese - Statistiche e Whisp</h1>
+      <p>
+      La Nemzeti Bajnokság I, meglio conosciuta come NB I, è il massimo campionato ungherese. Con una lunga tradizione 
+      che affonda le radici nel primo Novecento, ha visto protagonisti club storici come Ferencváros, Honvéd e MTK Budapest, 
+      che hanno contribuito a scrivere la storia del calcio magiaro.
+      </p>
+
+      <h2>Il peso della storia e delle rivalità</h2>
+      <p>
+       Il calcio ungherese conserva un fascino particolare: le rivalità cittadine di Budapest e le sfide tra i club 
+       storici mantengono vivo l’interesse dei tifosi, creando un’atmosfera unica. Pur non avendo la stessa risonanza 
+       internazionale delle grandi leghe europee, l’NB I resta un campionato fortemente identitario, legato alla 
+       tradizione e al calore del suo pubblico.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -98,6 +110,19 @@ export default function Ungheria() {
         </div>
       )}
 
+       {/* Banner finale */}
+      <Banner position="middle" />
+
+      <h2>I WHISP come supporto all’analisi</h2>
+      <p>
+       I nostri <strong>Whisp</strong> ti offrono una chiave di lettura statistica delle partite della NB I: rendimento 
+       in casa e in trasferta, solidità difensiva, gol realizzati e andamento degli scontri diretti. Non sono previsioni 
+       certe, ma strumenti per interpretare meglio un torneo che vive di storia, rivalità e passione.
+       <br />
+       Se vuoi avere un quadro chiaro della stagione e seguire da vicino la corsa al titolo e alla salvezza, 
+       consulta la classifica aggiornata della NB I.
+      </p> 
+
       <Link href="/altricampionati/ungheria/classifica" legacyBehavior>
         <a
           target="_blank"
@@ -115,12 +140,9 @@ export default function Ungheria() {
             textDecoration: "none"
           }}
         >
-          Clicca qui per visualizzare la Classifica
+          Consulta la Classifica NB I
         </a>
       </Link>
-      
-            {/* Banner finale */}
-            <Banner position="middle" />
       
     </Layout>
   );

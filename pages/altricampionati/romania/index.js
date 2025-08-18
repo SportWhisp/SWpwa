@@ -55,8 +55,20 @@ export default function Romania() {
   <meta property="og:url" content="https://sportwhisp.it/altricampionati/romania" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>Liga I Romena - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per la Liga I romena.</p>
+      <h1>Liga I Romena - Statistiche e Whisp</h1>
+      <p>
+       La Liga I è il massimo campionato rumeno, una competizione che affonda le radici nella storia calcistica 
+       dell’Europa orientale. Club come Steaua Bucarest (oggi FCSB), Dinamo Bucarest e CFR Cluj hanno contribuito 
+       a rendere la Romania un paese dal forte legame con il calcio e dalle rivalità intense.
+      </p>
+
+      <h2>Tradizione e rinnovamento</h2>
+      <p>
+       Negli ultimi anni la Liga I è stata un terreno di confronto tra la tradizione delle squadre storiche e l’ascesa 
+       di nuove realtà pronte a emergere. Accanto ai club più blasonati, infatti, sono emerse società con progetti solidi 
+       che hanno reso il torneo più equilibrato e combattuto. Questa fusione tra passato glorioso e nuove ambizioni 
+       mantiene alta l’incertezza e regala un campionato in continua evoluzione.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -98,6 +110,18 @@ export default function Romania() {
         </div>
       )}
 
+       {/* Banner finale */}
+      <Banner position="middle" />
+
+      <h2>I WHISP come chiave di lettura</h2>
+      <p>
+       I nostri <strong>Whisp</strong> interpretano le partite della Liga I basandosi su numeri e dati concreti: 
+       rendimento recente, differenza reti, risultati casa/trasferta e scontri diretti. Non sono predizioni certe, 
+       ma strumenti per orientarsi in un campionato che alterna tradizione e rinnovamento, con esiti spesso sorprendenti.
+       <br />
+       Se vuoi seguire da vicino la corsa al titolo o la lotta salvezza, consulta la classifica aggiornata della Liga I.
+      </p>  
+
       <Link href="/altricampionati/romania/classifica" legacyBehavior>
         <a
           target="_blank"
@@ -115,12 +139,9 @@ export default function Romania() {
             textDecoration: "none"
           }}
         >
-          Clicca qui per visualizzare la Classifica
+          Consulta la Classifica Liga I
         </a>
       </Link>
-      
-            {/* Banner finale */}
-            <Banner position="middle" />
       
     </Layout>
   );
