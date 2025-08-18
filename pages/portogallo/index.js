@@ -53,8 +53,23 @@ export default function Portogallo() {
   <meta property="og:url" content="https://sportwhisp.it/portogallo" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>Primeira Liga - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per la Primeira Liga.</p>
+      <h1>Primeira Liga - Statistiche e WHISP</h1>
+      <p>
+        La Primeira Liga è il massimo campionato del Portogallo, una lega che ha lanciato alcuni dei talenti 
+        più importanti della storia del calcio mondiale. Porto, Benfica e Sporting Lisbona dominano da anni la scena, 
+        ma ogni stagione riserva sorprese grazie a squadre emergenti pronte a sfidare le “tre grandi”.
+        <br />
+        Con <strong>SportWhisp</strong> puoi osservare la Primeira Liga attraverso la lente dei nostri <strong>WHISP</strong>, previsioni 
+        basate su analisi statistiche approfondite.
+      </p>
+
+      <h2>Cosa trovi in questa sezione</h2>
+      <p>
+        Il calendario delle partite della prossima giornata di Primeira Liga, con eventuali risultati aggiornati.
+      <br />
+        I <strong>Whisp Primeira Liga</strong>, cioè le percentuali calcolate dai nostri modelli per ciascun esito: 
+         1, X, 2, Under 2.5 / Over 2.5, Gol / NoGol.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -96,6 +111,29 @@ export default function Portogallo() {
         </div>
       )}
 
+             {/* Banner finale */}
+            <Banner position="middle" />
+      
+            <h2>Come leggere le percentuali</h2>
+            <p>
+             Per aiutarti a interpretare rapidamente le tendenze:
+             <br />
+             Valori <strong>sopra il 55%</strong> sono segnalati in verde chiaro: un WHISP interessante.
+             <br />
+             Valori <strong>sopra il 70%</strong> appaiono in verde scuro: WHISP con alta confidenza statistica.
+             <br />
+             Questo sistema ti permette di distinguere subito i pronostici più rilevanti senza perdere tempo tra i numeri.
+            </p>
+      
+            <h2>Perchè consultare i Whisp</h2>
+            <p>
+             I nostri modelli considerano forma delle squadre, differenza reti, rendimento in casa e in trasferta, oltre agli 
+             scontri diretti. Non sono certezze, ma uno strumento utile per capire meglio le dinamiche del campionato portoghese.
+             <br />
+             Se preferisci confrontare i dati con la realtà della classifica, ti basta cliccare qui sotto per vedere la 
+             classifica aggiornata della Primeira Liga.
+            </p>
+
       <Link href="/portogallo/classifica" legacyBehavior>
         <a
           target="_blank"
@@ -113,12 +151,10 @@ export default function Portogallo() {
             textDecoration: "none"
           }}
         >
-          Clicca qui per visualizzare la Classifica della Primeira Liga
+          Consulta la Classifica della Primeira Liga
         </a>
       </Link>
       
-            {/* Banner finale */}
-            <Banner position="middle" />
       
     </Layout>
   );

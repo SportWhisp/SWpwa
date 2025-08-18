@@ -55,8 +55,24 @@ export default function Turchia() {
   <meta property="og:url" content="https://sportwhisp.it/turchia" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>Süper Lig - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per la Süper Lig.</p>
+      <h1>Süper Lig - Statistiche e WHISP</h1>
+      <p>
+        La Süper Lig è il massimo campionato turco, conosciuto per l’atmosfera infuocata degli stadi e le 
+        rivalità storiche che infiammano Istanbul: Galatasaray, Fenerbahçe e Beşiktaş sono le protagoniste 
+        tradizionali, ma sempre più spesso club emergenti come Trabzonspor o Başakşehir riescono a dire la loro.
+        <br />
+        Con <strong>SportWhisp</strong> puoi vivere il calcio turco da una prospettiva diversa, grazie ai nostri <strong>Whisp</strong>, 
+        previsioni basate su dati oggettivi e modelli predittivi proprietari.
+      </p>
+
+      <h2>Cosa troverai in questa sezione</h2>
+      <p>
+        L’elenco completo delle partite della prossima giornata di Super Lig, 
+        con aggiornamento dei risultati non appena disponibili.
+      <br />
+        I <strong>Whisp Süper Lig</strong>, cioè le probabilità statistiche calcolate per i principali esiti:
+         1, X, 2, Under 2.5 / Over 2.5, Gol / NoGol.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -98,6 +114,30 @@ export default function Turchia() {
         </div>
       )}
 
+       {/* Banner finale */}
+      <Banner position="middle" />
+
+      <h2>Come interpretare le percentuali</h2>
+      <p>
+       Le nostre tabelle usano un sistema visivo per aiutarti a leggere i WHISP:
+       <br />
+       valori <strong>oltre il 55%</strong> → cella verde chiaro: segnale di previsione interessante.
+       <br />
+       valori <strong>oltre il 70%</strong> → cella verde scuro: WHISP con elevata attendibilità.
+       <br />
+       Così puoi individuare subito i trend più significativi della giornata turca..
+      </p>
+
+      <h2>Perchè i Whisp fanno la differenza</h2>
+      <p>
+       Il campionato turco è spesso imprevedibile: squadre forti in casa, trasferte difficili e partite 
+       dall’alto numero di gol. I nostri WHISP tengono conto di rendimento recente, solidità difensiva, 
+       prolificità offensiva e storici degli scontri diretti.
+       <br />
+       Se vuoi verificare tu stesso il percorso delle squadre, puoi sempre consultare la classifica 
+       aggiornata della Süper Lig.
+      </p>
+
       <Link href="/turchia/classifica" legacyBehavior>
         <a
           target="_blank"
@@ -115,12 +155,9 @@ export default function Turchia() {
             textDecoration: "none"
           }}
         >
-          Clicca qui per visualizzare la Classifica
+          Consulta la Classifica della Süper Lig
         </a>
       </Link>
-      
-            {/* Banner finale */}
-            <Banner position="middle" />
       
     </Layout>
   );

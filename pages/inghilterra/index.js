@@ -53,8 +53,25 @@ export default function Inghilterra() {
   <meta property="og:url" content="https://sportwhisp.it/inghilterra" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>Premier League - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per la Premier League.</p>
+      <h1>Premier League - Analisi e WHISP</h1>
+      <p>
+        La Premier League è il campionato più seguito al mondo: intensità, ritmo e spettacolo ne fanno una competizione 
+        unica, capace di attirare tifosi da ogni continente. Squadre come Manchester City, Liverpool, Chelsea, 
+        Arsenal e Manchester United scrivono ogni anno pagine indimenticabili di calcio inglese.
+        <br />
+        Con <strong>SportWhisp</strong> puoi scoprire la Premier non solo attraverso cronache e risultati, ma con i 
+        nostri <strong>WHISP</strong>: previsioni numeriche basate su dati reali e algoritmi proprietari.
+      </p>
+
+      <h2>Cosa offre questa sezione</h2>
+      <p>
+        Tutte le partite della prossima giornata di Premier League, con eventuali risultati già disponibili.
+      <br />
+        I <strong>Whisp Premier League</strong>, che sintetizzano le probabilità di ciascun esito: 
+         1, X, 2, Under 2.5 / Over 2.5, Gol / NoGol.
+      <br />
+        I risultati già disponibili, quando una partita è stata giocata.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -96,6 +113,29 @@ export default function Inghilterra() {
         </div>
       )}
 
+             {/* Banner finale */}
+            <Banner position="middle" />
+
+      <h2>Come interpretare le percentuali</h2>
+      <p>
+       Ogni cella della tabella contiene una probabilità calcolata dai nostri modelli:
+       <br />
+       <strong>sopra il 55%</strong> → evidenziata in verde chiaro, WHISP con buona attendibilità.
+       <br />
+       <strong>sopra il 70%</strong> → evidenziata in verde scuro, WHISP con elevata confidenza.
+       <br />
+       Un colpo d’occhio rapido ti consente di capire quali sono le tendenze più forti della giornata inglese.
+      </p>
+
+      <h2>Perchè affidarsi ai Whisp</h2>
+      <p>
+       Il calcio inglese è spesso imprevedibile, ma i numeri raccontano molto: i <strong>WHISP</strong> combinano rendimento 
+       recente, gol segnati e subiti, prestazioni casa/trasferta e andamento degli scontri diretti.
+       <br />
+       Se preferisci confrontare personalmente i progressi delle squadre, puoi sempre dare un’occhiata alla classifica 
+       aggiornata della Premier League.
+      </p>            
+
       <Link href="/inghilterra/classifica" legacyBehavior>
         <a
           target="_blank"
@@ -112,13 +152,10 @@ export default function Inghilterra() {
             textDecoration: "none"
           }}
         >
-          Clicca qui per visualizzare la Classifica della Premier League
+          Consulta la Classifica della Premier League
         </a>
       </Link>
-      
-            {/* Banner finale */}
-            <Banner position="middle" />
-      
+            
     </Layout>
   );
 }

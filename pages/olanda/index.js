@@ -53,8 +53,25 @@ export default function Olanda() {
   <meta property="og:url" content="https://sportwhisp.it/olanda" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>Eredivisie - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per l'Eredivisie.</p>
+      <h1>Eredivisie - Statistiche e WHISP</h1>
+      <p>
+        L’Eredivisie è il campionato nazionale dei Paesi Bassi, celebre per il suo calcio offensivo 
+        e spettacolare. Club storici come Ajax, PSV Eindhoven e Feyenoord hanno dato vita a rivalità 
+        leggendarie, ma anche squadre più piccole riescono spesso a sorprendere grazie alla tradizione 
+        olandese di valorizzare i giovani talenti.
+       <br />
+        Con <strong>SportWhisp</strong> puoi seguire la stagione con un approccio diverso: i nostri 
+        <strong>Whisp</strong>, previsioni statistiche costruite su dati aggiornati e modelli matematici esclusivi.
+      </p>
+
+      <h2>Cosa troverai in questa sezione</h2>
+      <p>
+        La lista delle partite della prossima giornata di Eredivisie, con i risultati disponibili quando gli 
+        incontri sono stati giocati.
+      <br />
+        I <strong>Whisp Eredivisie</strong>, che offrono percentuali di affidabilità per i principali esiti:
+         1, X, 2, Under 2.5 / Over 2.5, Gol / NoGol.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -96,6 +113,29 @@ export default function Olanda() {
         </div>
       )}
 
+       {/* Banner finale */}
+      <Banner position="middle" />
+
+      <h2>Come interpretare le percentuali</h2>
+      <p>
+       Ogni valore rappresenta la probabilità stimata dai nostri modelli:
+       <br />
+       <strong>oltre il 55%</strong> → cella verde chiaro: WHISP da monitorare con interesse.
+       <br />
+       <strong>oltre il 70%</strong> → lcella verde scuro: WHISP con alto livello di affidabilità.
+       <br />
+       Questo sistema cromatico ti consente di individuare a colpo d’occhio i pronostici più significativi della giornata.
+      </p>
+
+      <h2>Il valore dei Whisp</h2>
+      <p>
+       Le analisi considerano l’andamento recente, il rendimento casalingo e in trasferta, le medie gol e i 
+       precedenti tra le squadre. I WHISP non sono predizioni assolute, ma uno strumento utile per orientarsi 
+       in un campionato dinamico e ricco di sorprese come quello olandese.
+       <br />
+       Se vuoi verificare tu stesso la situazione delle squadre, consulta la classifica aggiornata dell’Eredivisie.
+      </p>
+
       <Link href="/olanda/classifica" legacyBehavior>
         <a
           target="_blank"
@@ -113,7 +153,7 @@ export default function Olanda() {
             textDecoration: "none"
           }}
         >
-          Clicca qui per visualizzare la Classifica della Eredivisie
+          Consulta la Classifica della Eredivisie
         </a>
       </Link>
       
