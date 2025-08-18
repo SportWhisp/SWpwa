@@ -54,8 +54,21 @@ export default function Italia() {
   <meta property="og:url" content="https://sportwhisp.it/italia" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>Serie A - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per la Serie A.</p>
+      <h1>Serie A - Statistiche e WHISP</h1>
+      <p>La Serie A è il cuore pulsante del calcio italiano: ogni settimana le 20 squadre si sfidano in partite che 
+        possono cambiare la stagione. Su <strong>SportWhisp</strong> non ti offriamo semplici numeri, ma una vera e 
+        propria <strong>mappa statistica</strong> di ciò che può accadere, grazie ai nostri modelli predittivi.
+      </p>
+
+      <h2>Cosa troverai in questa sezione</h2>
+      <p>
+        La prossima giornata di Serie A, con tutte le partite in programma.
+      <br />
+        I <strong>Whisp</strong>, ovvero le previsioni statistiche elaborate dai nostri algoritmi, 
+        per ogni possibile esito: 1, X, 2, Under 2.5 / Over 2.5, Gol / NoGol.
+      <br />
+        I risultati già disponibili, quando una partita è stata giocata.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -96,6 +109,26 @@ export default function Italia() {
           </table>
         </div>
       )}
+       
+      <h2>Come leggere la tabella</h2>
+      <p>
+       Ogni percentuale rappresenta il livello di affidabilità calcolato dai nostri modelli.
+       <br />
+       <strong>oltre il 55%</strong> → la cella si colora di verde chiaro: indica un WHISP interessante.
+       <br />
+       <strong>oltre il 70%</strong> → la cella diventa verde scuro: il WHISP è particolarmente forte.
+       <br />
+       In questo modo puoi individuare subito le previsioni più rilevanti senza perderti nei numeri.
+      </p>
+
+      <h2>Fidarsi o dubitare edi Whisp</h2>
+      <p>
+       I WHISP non sono verità assolute, ma <strong>previsioni basate sui dati</strong>: forma delle squadre, 
+       rendimento casa/trasferta, statistiche di gol segnati/subiti, scontri diretti e altri indicatori avanzati.
+       <br />
+       Se vuoi verificare di persona l’andamento della stagione, puoi sempre consultare la classifica aggiornata 
+       della Serie A: basta un clic qui sotto.
+      </p>
 
       <Link href="/italia/classifica" legacyBehavior>
         <a target="_blank" rel="noopener noreferrer" style={{
@@ -109,7 +142,7 @@ export default function Italia() {
           display: "inline-block",
           textDecoration: "none"
         }}>
-          Clicca qui per visualizzare la Classifica della Serie A
+          Consulta la Classifica della Serie A
         </a>
       </Link>
 
