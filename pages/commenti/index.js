@@ -24,7 +24,7 @@ export default function Commenti() {
         <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
       </Head>
 
-      <h1>Analisi dei WHISP del weekend precedente</h1>
+      <h1>Analisi dei WHISP appena conclusi</h1>
       <p>
         Questa sezione è dedicata al <strong>controllo puntuale dell’affidabilità dei nostri WHISP</strong>: 
         qui confrontiamo le percentuali previste con i risultati reali delle partite.
@@ -47,9 +47,12 @@ export default function Commenti() {
 
       {/* 🔵 INSERISCI QUI IL TUO COMMENTO SETTIMANALE 🔵 */}
       <section style={{ marginTop: 24 }}>
-        <h3>18/08/2025 Elche CF vs Real Betis Balompié - GOL 79.63%</h3>
+        <h3>✅ 18/08/2025 Elche CF vs Real Betis Balompié - GOL 79.63%</h3>
         <p>
-          In attesa di esito.
+          Risultato: 1 - 1
+          <br />
+          Whisp sofferto ma vincente: il “Gol” arriva tardi con l’1-1 firmato dall’Elche all’81’, che salva la previsione 
+          dopo il vantaggio del Betis.
         </p>
 
         <h3>✅ 16/08/2025 Brighton & Hove Albion FC vs Fulham FC - GOL 77.54%</h3>
@@ -96,9 +99,12 @@ export default function Commenti() {
         </p>
               <Banner position="middle" />
 
-        <h3>18/08/2025 Leeds United FC vs Everton FC - UNDER2.5 72.16%</h3>
+        <h3>✅ 18/08/2025 Leeds United FC vs Everton FC - UNDER2.5 72.16%</h3>
         <p>
-          In attesa di esito.
+          Risultato: 1 - 0
+          <br />
+          Whisp centrato: l’“Under 2.5” si conferma nel 1-0 tra Leeds ed Everton. Partita con poche conclusioni pericolose, nonostante 
+          il dominio statistico dei padroni di casa.
         </p>
 
         <h3>❌ 16/08/2025 Deportivo Alavés vs Levante UD - UNDER2.5 71.67%</h3>
