@@ -53,8 +53,21 @@ export default function Francia() {
   <meta property="og:url" content="https://sportwhisp.it/francia" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>Ligue 1 - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per la Ligue 1.</p>
+      <h1>Ligue 1 - Analisi e WHISP</h1>
+      <p>La Ligue 1 è il massimo campionato francese, una competizione in cui storia e talento si intrecciano: club 
+        leggendari come il Paris Saint-Germain, il Marsiglia o il Lione si sfidano ogni stagione per il titolo nazionale.
+        <br />
+        Con <strong>SportWhisp</strong> puoi seguire il torneo da un punto di vista diverso: non solo risultati e 
+        classifiche, ma anche <strong>previsioni statistiche</strong> costruite sui dati più aggiornati.
+      </p>
+
+      <h2>Cosa ti offriamo in questa sezione</h2>
+      <p>
+        L’elenco completo delle partite della prossima giornata, con risultati aggiornati quando i match vengono giocati.
+      <br />
+        I <strong>Whisp</strong>della Ligue 1, cioè le nostre previsioni numeriche su:: 1, X, 2, 
+        Under 2.5 / Over 2.5, Gol / NoGol.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -96,6 +109,34 @@ export default function Francia() {
         </div>
       )}
 
+             {/* Banner finale */}
+            <Banner position="middle" />
+
+      <h2>Come interpretare le percentuali</h2>
+      <p>
+       Nella tabella ogni esito è accompagnato da una probabilità calcolata dai nostri modelli.
+       <br />
+       Valori <strong>superiori al 55%</strong> vengono messi in evidenza con il verde chiaro: indicano un WHISP 
+       statisticamente interessante.
+       <br />
+       Valori <strong>superiori al 70%</strong>sono sottolineati in verde scuro: rappresentano i nostri WHISP più 
+       solidi e affidabili.
+       <br />
+       In questo modo puoi orientarti a colpo d’occhio tra i numeri e trovare subito le tendenze più forti della giornata.
+      </p>
+
+      <h2>Limiti e Forza dei Whisp</h2>
+      <p>
+       I WHISP non sono mai predizioni certe, ma uno strumento per leggere i dati del campionato francese da una 
+       prospettiva più oggettiva.
+       <br />
+       Le analisi prendono in considerazione rendimento recente, solidità difensiva, prolificità offensiva e 
+       andamento casa/trasferta.
+       <br />
+       Se vuoi verificare i progressi delle squadre senza basarti solo sui nostri calcoli, ti basta dare 
+       un’occhiata alla classifica Ligue 1 aggiornata.
+      </p>
+
       <Link href="/francia/classifica" legacyBehavior>
         <a target="_blank" rel="noopener noreferrer" style={{
           background: "#2f3336",
@@ -108,13 +149,10 @@ export default function Francia() {
           display: "inline-block",
           textDecoration: "none"
         }}>
-          Clicca qui per visualizzare la Classifica della Ligue 1
+          Consulta la Classifica della Ligue 1
         </a>
       </Link>
-      
-            {/* Banner finale */}
-            <Banner position="middle" />
-      
+           
     </Layout>
   );
 }

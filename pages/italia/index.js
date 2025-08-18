@@ -124,7 +124,7 @@ export default function Italia() {
        In questo modo puoi individuare subito le previsioni più rilevanti senza perderti nei numeri.
       </p>
 
-      <h2>Fidarsi o dubitare edi Whisp</h2>
+      <h2>Fidarsi o dubitare dei Whisp</h2>
       <p>
        I WHISP non sono verità assolute, ma <strong>previsioni basate sui dati</strong>: forma delle squadre, 
        rendimento casa/trasferta, statistiche di gol segnati/subiti, scontri diretti e altri indicatori avanzati.
