@@ -53,8 +53,22 @@ export default function Spagna() {
   <meta property="og:url" content="https://sportwhisp.it/spagna" />
   <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
 </Head>
-      <h1>La Liga - Statistiche e Previsioni</h1>
-      <p>In questa sezione verranno mostrate le previsioni statistiche per La Liga.</p>
+      <h1>La Liga - Statistiche e WHISP</h1>
+      <p>La Liga spagnola è una delle competizioni più affascinanti d’Europa: il duello storico tra 
+        Real Madrid e Barcellona, le sorprese dell’Atlético Madrid e l’ascesa di club emergenti come il 
+        Villarreal o la Real Sociedad rendono ogni giornata ricca di spunti.
+        <br />
+        Su <strong>SportWhisp</strong> puoi guardare oltre i semplici risultati, grazie ai nostri <strong>WHISP</strong>, 
+        le previsioni statistiche basate su dati e modelli avanzati.
+      </p>
+
+      <h2>Cosa troverai in questa sezione</h2>
+      <p>
+        L’elenco completo delle partite della prossima giornata di LaLiga, con i risultati aggiornati quando disponibili.
+      <br />
+        I <strong>Whisp La Liga</strong>, he ti mostrano le probabilità calcolate per ogni esito: 1, X, 2, 
+        Under 2.5 / Over 2.5, Gol / NoGol.
+      </p>
 
       {matches.length > 0 && (
         <div style={{ margin: "20px 0" }}>
@@ -96,6 +110,30 @@ export default function Spagna() {
         </div>
       )}
 
+                  {/* Banner finale */}
+            <Banner position="middle" />
+
+      <h2>Come leggere le percentuali</h2>
+      <p>
+       Ogni valore in tabella è frutto dei nostri algoritmi.
+       <br />
+       <strong>Oltre il 55%</strong> → la cella si illumina di verde chiaro: WHISP con buona affidabilità.
+       <br />
+       <strong>Oltre il 70%</strong> → verde scuro: WHISP con alta confidenza statistica.
+       <br />
+       Questa scala visiva ti permette di individuare subito le previsioni più forti e distinguere i semplici trend dalle 
+       vere tendenze dominanti della giornata.
+      </p>
+
+      <h2>Utilità dei Whisp</h2>
+      <p>
+       I nostri WHISP nascono da un’analisi che combina rendimento recente, forza offensiva e difensiva, storici degli 
+       scontri diretti e dati avanzati. Non sono certezze, ma strumenti per interpretare meglio LaLiga e anticiparne 
+       le possibili evoluzioni.
+       <br />
+       Se desideri un controllo diretto e immediato, puoi sempre consultare la classifica aggiornata della Liga spagnola.
+      </p>            
+
       <Link href="/spagna/classifica" legacyBehavior>
         <a
           target="_blank"
@@ -113,13 +151,10 @@ export default function Spagna() {
             textDecoration: "none"
           }}
         >
-          Clicca qui per visualizzare la Classifica de La Liga
+          Consulta la Classifica de La Liga
         </a>
       </Link>
-      
-            {/* Banner finale */}
-            <Banner position="middle" />
-      
+          
     </Layout>
   );
 }
