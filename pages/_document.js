@@ -5,6 +5,11 @@ export default function Document() {
     <Html lang="it">
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        {/* ✅ Favicon */}
+        <link rel="icon" href="/Logo.png" type="image/png" />
+        <link rel="apple-touch-icon" href="/Logo.png" />
+        
         {/* Codice di verifica Google AdSense */}
         <script
           async
