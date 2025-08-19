@@ -151,6 +151,16 @@ export default function ClassificaItaliaPubblica() {
   return (
     <Layout>
       <h1>Classifica Serie A {season}</h1>
+      <p>
+        La Serie A è il campionato che unisce tradizione, rivalità e grandi storie di calcio. Se per decenni lo 
+        scudetto è stato affare quasi esclusivo di Juventus, Inter e Milan, negli ultimi anni il dominio del Nord 
+        è stato spezzato dal ritorno al vertice del Napoli, capace di riportare il tricolore al Sud dopo oltre trent’anni.
+        <br />
+        Oggi la corsa al titolo vede protagoniste più squadre, con la Roma e la Lazio che inseguono costantemente un posto 
+        in Champions, mentre la lotta salvezza resta imprevedibile fino all’ultima giornata.
+        Derby iconici come quello di Milano, quello della Capitale e il Derby d’Italia continuano a scandire il calendario, 
+        trasformando ogni turno in una sfida carica di significato.
+      </p>
 
       {/* ✅ Selettore stagione */}
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
