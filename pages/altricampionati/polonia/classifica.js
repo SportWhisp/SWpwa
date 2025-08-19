@@ -108,6 +108,15 @@ export default function ClassificaPoloniaPubblica() {
   return (
     <Layout>
       <h1>Classifica Ekstraklasa Polacca {season}</h1>
+      <p>
+        L’Ekstraklasa è il massimo campionato polacco e negli ultimi anni ha visto un equilibrio crescente tra le sue 
+        protagoniste. Il Legia Varsavia resta la squadra più titolata, ma club come il Lech Poznań, il Raków Częstochowa 
+        e il Pogoń Szczecin hanno portato nuova competitività alla lotta per il vertice.
+        <br />
+        La classifica dell’Ekstraklasa racconta un torneo dinamico, in cui il tifo caloroso e la crescita delle 
+        infrastrutture calcistiche hanno reso il campionato polacco sempre più interessante anche a livello internazionale. 
+        La corsa al titolo, alle qualificazioni europee e alla salvezza mantiene vivo lo spettacolo per tutta la stagione.
+      </p>
 
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
 

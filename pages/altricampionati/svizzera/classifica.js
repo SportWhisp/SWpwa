@@ -132,6 +132,15 @@ export default function ClassificaSvizzeraPubblica() {
   return (
     <Layout>
       <h1>Classifica Super League Svizzera {season}</h1>
+      <p>
+        La Super League è il massimo campionato svizzero e negli ultimi anni è stata fortemente caratterizzata dal 
+        dominio dello Young Boys, capace di interrompere l’egemonia storica del Basilea. Alle loro spalle, club 
+        come il Zurigo, il Servette e il Lugano hanno reso la competizione più equilibrata e interessante.
+        <br />
+        La classifica della Super League riflette un torneo in crescita, che unisce tradizione e organizzazione moderna, 
+        e che rappresenta sempre più una vetrina per giovani talenti destinati a imporsi anche nei principali campionati 
+        europei.
+      </p>
 
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
 

@@ -134,6 +134,16 @@ export default function ClassificaDanimarcaPubblica() {
   return (
     <Layout>
       <h1>Classifica Superliga Danese {season}</h1>
+      <p>
+        La Superligaen è il principale campionato danese e negli ultimi anni ha visto alternarsi diverse protagoniste. 
+        Il FC Copenhagen resta la squadra più titolata e riconoscibile, ma realtà come il Midtjylland, il Brøndby e 
+        l’Aarhus hanno reso il torneo sempre più competitivo.
+        <br />
+        La classifica della Superligaen riflette un campionato in continua crescita, capace di unire tradizione e 
+        innovazione, con club che puntano molto sulla formazione dei giovani e sull’organizzazione tattica. La lotta 
+        per il titolo e per i posti europei si accompagna a una corsa salvezza sempre incerta, rendendo la stagione 
+        avvincente fino all’ultima giornata.
+      </p>
 
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
 

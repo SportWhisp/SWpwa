@@ -132,6 +132,15 @@ export default function ClassificaRomaniaPubblica() {
   return (
     <Layout>
       <h1>Classifica Liga 1 Romena {season}</h1>
+      <p>
+        La Liga I è il principale campionato di calcio rumeno, storicamente dominato da club come la Steaua Bucarest 
+        (oggi FCSB) e il Dinamo Bucarest, che hanno scritto alcune delle pagine più importanti del calcio dell’Est Europa. 
+        Negli ultimi anni anche il CFR Cluj e l’Universitatea Craiova hanno conquistato un ruolo di primo piano, 
+        aumentando l’equilibrio nelle zone alte della classifica.
+        <br />
+        La classifica della Liga I riflette un torneo combattuto, in cui tradizione e nuove realtà si intrecciano, 
+        offrendo una competizione intensa sia nella corsa al titolo che nella lotta per la salvezza.
+      </p>
 
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
 

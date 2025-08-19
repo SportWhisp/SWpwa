@@ -134,6 +134,16 @@ export default function ClassificaBelgioPubblica() {
   return (
     <Layout>
       <h1>Classifica Pro League Belga {season}</h1>
+      <p>
+        La Pro League è il massimo campionato belga, noto per l’equilibrio e per la capacità di lanciare giovani 
+        talenti che spesso spiccano poi nei grandi club europei. Storicamente la competizione è stata animata da 
+        squadre come Club Brugge, Anderlecht e Standard Liegi, ma negli ultimi anni anche formazioni come il Genk 
+        e l’Union Saint-Gilloise hanno conquistato un ruolo da protagoniste.
+        <br />
+        La classifica della Pro League non mostra soltanto la lotta per il titolo, ma anche l’intensa corsa alle 
+        coppe europee e la battaglia per la salvezza, che ogni stagione regala colpi di scena. Il formato con playoff 
+        rende il campionato ancora più avvincente e imprevedibile fino all’ultimo.
+      </p>
 
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
 

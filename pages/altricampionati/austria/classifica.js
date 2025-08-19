@@ -137,6 +137,16 @@ export default function ClassificaAustriaPubblica() {
   return (
     <Layout>
       <h1>Classifica Bundesliga Austriaca {season}</h1>
+      <p>
+        La Bundesliga austriaca è il massimo torneo calcistico nazionale e negli ultimi anni è stata dominata dal 
+        Red Bull Salisburgo, capace di imporre un modello di gioco moderno e vincente. Alle sue spalle, club storici 
+        come il Rapid Vienna, l’Austria Vienna e lo Sturm Graz cercano di interrompere l’egemonia e di ritagliarsi 
+        spazio in Europa.
+        <br />
+        La classifica della Bundesliga austriaca riflette un campionato che, pur meno mediatico rispetto ad altri, 
+        è diventato una fucina di giovani talenti destinati a emergere nei principali palcoscenici internazionali. 
+        La corsa al titolo, alle coppe europee e alla salvezza rende ogni stagione ricca di spunti e di sorprese.
+      </p>
 
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
 

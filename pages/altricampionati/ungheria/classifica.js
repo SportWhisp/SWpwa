@@ -108,6 +108,14 @@ export default function ClassificaUngheriaPubblica() {
   return (
     <Layout>
       <h1>Classifica NB I Ungherese {season}</h1>
+      <p>
+        La NB I, conosciuta anche come Nemzeti Bajnokság I, è il massimo campionato ungherese e rappresenta una delle 
+        leghe storiche dell’Europa centrale. Il torneo è stato a lungo dominato dal Ferencváros, ma club come il 
+        Videoton (Fehérvár), il Debrecen e l’Honvéd hanno scritto pagine importanti della competizione.
+        <br />
+        La classifica della NB I riflette un campionato che unisce tradizione e voglia di rilancio, con tifoserie 
+        appassionate e un livello che negli ultimi anni sta crescendo anche grazie all’investimento sui settori giovanili.
+      </p>
 
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
 

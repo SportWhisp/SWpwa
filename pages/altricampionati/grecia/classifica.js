@@ -132,6 +132,15 @@ export default function ClassificaGreciaPubblica() {
   return (
     <Layout>
       <h1>Classifica Super League Greca {season}</h1>
+      <p>
+        La Super League è il massimo campionato greco, caratterizzato da un forte legame con la tradizione e da 
+        tifoserie tra le più calde d’Europa. Storicamente dominata da club come Olympiacos, Panathinaikos e AEK Atene, 
+        negli ultimi anni anche il PAOK Salonicco ha consolidato il proprio ruolo da protagonista.
+        <br />
+        La classifica della Super League riflette un torneo combattuto, in cui rivalità secolari e derby infuocati danno 
+        vita a stagioni spesso imprevedibili. La corsa allo scudetto, alle competizioni europee e alla salvezza tiene 
+        alto l’interesse fino all’ultima giornata, confermando la passione che il calcio suscita in Grecia.
+      </p>
 
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
 
