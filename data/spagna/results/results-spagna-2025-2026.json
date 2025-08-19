@@ -6,7 +6,7 @@
     "count": 380,
     "first": "2025-08-15",
     "last": "2026-05-24",
-    "played": 5
+    "played": 9
   },
   "competition": {
     "id": 2014,
@@ -43,7 +43,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 298,
         "name": "Girona FC",
@@ -109,7 +109,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 94,
         "name": "Villarreal CF",
@@ -175,7 +175,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 89,
         "name": "RCD Mallorca",
@@ -241,7 +241,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -307,7 +307,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -369,11 +369,11 @@
       },
       "id": 544213,
       "utcDate": "2025-08-17T15:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T01:32:00Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 558,
         "name": "RC Celta de Vigo",
@@ -389,15 +389,15 @@
         "crest": "https://crests.football-data.org/82.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -428,11 +428,11 @@
       },
       "id": 544212,
       "utcDate": "2025-08-17T17:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T01:32:01Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 77,
         "name": "Athletic Club",
@@ -448,15 +448,15 @@
         "crest": "https://crests.football-data.org/559.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
@@ -487,11 +487,11 @@
       },
       "id": 544215,
       "utcDate": "2025-08-17T19:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T01:32:01Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -507,15 +507,15 @@
         "crest": "https://crests.football-data.org/78.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -546,11 +546,11 @@
       },
       "id": 544217,
       "utcDate": "2025-08-18T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T01:32:01Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 285,
         "name": "Elche CF",
@@ -566,21 +566,28 @@
         "crest": "https://crests.football-data.org/90.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 56995,
+          "name": "Víctor García Verdura",
+          "type": "REFEREE",
+          "nationality": "Spain"
+        }
+      ]
     },
     {
       "area": {
@@ -609,7 +616,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T01:32:02Z",
+      "lastUpdated": "2025-08-19T01:32:00Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -668,7 +675,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T01:32:03Z",
+      "lastUpdated": "2025-08-19T01:32:01Z",
       "homeTeam": {
         "id": 90,
         "name": "Real Betis Balompié",
@@ -727,7 +734,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T01:32:04Z",
+      "lastUpdated": "2025-08-18T01:32:03Z",
       "homeTeam": {
         "id": 89,
         "name": "RCD Mallorca",
@@ -786,7 +793,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T01:32:04Z",
+      "lastUpdated": "2025-08-19T01:32:02Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -845,7 +852,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T01:32:05Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 88,
         "name": "Levante UD",
@@ -904,7 +911,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-07-11T15:20:51Z",
+      "lastUpdated": "2025-08-19T01:32:04Z",
       "homeTeam": {
         "id": 79,
         "name": "CA Osasuna",
@@ -963,7 +970,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-07-11T15:20:52Z",
+      "lastUpdated": "2025-08-18T01:32:05Z",
       "homeTeam": {
         "id": 92,
         "name": "Real Sociedad de Fútbol",
@@ -1022,7 +1029,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-07-11T15:20:52Z",
+      "lastUpdated": "2025-08-18T01:32:05Z",
       "homeTeam": {
         "id": 94,
         "name": "Villarreal CF",
@@ -1081,7 +1088,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T01:32:04Z",
       "homeTeam": {
         "id": 1048,
         "name": "Real Oviedo",
@@ -1140,7 +1147,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-07-11T15:20:51Z",
+      "lastUpdated": "2025-08-19T01:32:05Z",
       "homeTeam": {
         "id": 77,
         "name": "Athletic Club",
@@ -1199,7 +1206,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-07-11T15:20:52Z",
+      "lastUpdated": "2025-08-19T01:32:05Z",
       "homeTeam": {
         "id": 559,
         "name": "Sevilla FC",
@@ -1435,7 +1442,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -1612,7 +1619,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -1848,7 +1855,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 87,
         "name": "Rayo Vallecano de Madrid",
@@ -2143,7 +2150,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -2202,7 +2209,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -2320,7 +2327,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 92,
         "name": "Real Sociedad de Fútbol",
@@ -2556,7 +2563,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 89,
         "name": "RCD Mallorca",
@@ -2674,7 +2681,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -2851,7 +2858,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -3146,7 +3153,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -3264,7 +3271,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 88,
         "name": "Levante UD",
@@ -3441,7 +3448,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 1048,
         "name": "Real Oviedo",
@@ -3618,7 +3625,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -3677,7 +3684,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -4385,7 +4392,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -4444,7 +4451,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 558,
         "name": "RC Celta de Vigo",
@@ -4503,7 +4510,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 559,
         "name": "Sevilla FC",
@@ -4857,7 +4864,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -4916,7 +4923,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -5034,7 +5041,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 82,
         "name": "Getafe CF",
@@ -5683,7 +5690,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 90,
         "name": "Real Betis Balompié",
@@ -5742,7 +5749,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -6037,7 +6044,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -6096,7 +6103,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -6273,7 +6280,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -6627,7 +6634,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -6804,7 +6811,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 87,
         "name": "Rayo Vallecano de Madrid",
@@ -6922,7 +6929,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 558,
         "name": "RC Celta de Vigo",
@@ -7276,7 +7283,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 285,
         "name": "Elche CF",
@@ -7512,7 +7519,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -7571,7 +7578,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 82,
         "name": "Getafe CF",
@@ -7748,7 +7755,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -7866,7 +7873,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 298,
         "name": "Girona FC",
@@ -8102,7 +8109,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -8397,7 +8404,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 77,
         "name": "Athletic Club",
@@ -8574,7 +8581,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 90,
         "name": "Real Betis Balompié",
@@ -8633,7 +8640,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -8928,7 +8935,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -8987,7 +8994,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -9046,7 +9053,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -9754,7 +9761,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -9872,7 +9879,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 298,
         "name": "Girona FC",
@@ -9931,7 +9938,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 94,
         "name": "Villarreal CF",
@@ -10344,7 +10351,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 92,
         "name": "Real Sociedad de Fútbol",
@@ -10403,7 +10410,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -10462,7 +10469,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -10698,7 +10705,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 77,
         "name": "Athletic Club",
@@ -10934,7 +10941,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -11642,7 +11649,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -11760,7 +11767,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 92,
         "name": "Real Sociedad de Fútbol",
@@ -11819,7 +11826,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -11937,7 +11944,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -11996,7 +12003,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -12409,7 +12416,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 94,
         "name": "Villarreal CF",
@@ -12763,7 +12770,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 88,
         "name": "Levante UD",
@@ -12822,7 +12829,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 285,
         "name": "Elche CF",
@@ -12999,7 +13006,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -13176,7 +13183,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -13235,7 +13242,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -13530,7 +13537,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -13825,7 +13832,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -14002,7 +14009,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 87,
         "name": "Rayo Vallecano de Madrid",
@@ -14061,7 +14068,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 298,
         "name": "Girona FC",
@@ -14356,7 +14363,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -14415,7 +14422,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -14651,7 +14658,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 79,
         "name": "CA Osasuna",
@@ -14828,7 +14835,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -15182,7 +15189,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 1048,
         "name": "Real Oviedo",
@@ -15300,7 +15307,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -15418,7 +15425,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 77,
         "name": "Athletic Club",
@@ -15477,7 +15484,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -15536,7 +15543,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 558,
         "name": "RC Celta de Vigo",
@@ -16067,7 +16074,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:46Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -16126,7 +16133,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -16362,7 +16369,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -16657,7 +16664,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -17011,7 +17018,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -17247,7 +17254,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -17424,7 +17431,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 89,
         "name": "RCD Mallorca",
@@ -17778,7 +17785,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -18073,7 +18080,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 559,
         "name": "Sevilla FC",
@@ -18250,7 +18257,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -18427,7 +18434,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 90,
         "name": "Real Betis Balompié",
@@ -18663,7 +18670,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -18722,7 +18729,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 82,
         "name": "Getafe CF",
@@ -19017,7 +19024,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -19253,7 +19260,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -19312,7 +19319,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 285,
         "name": "Elche CF",
@@ -19725,7 +19732,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 80,
         "name": "RCD Espanyol de Barcelona",
@@ -19902,7 +19909,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",
@@ -19961,7 +19968,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 79,
         "name": "CA Osasuna",
@@ -20197,7 +20204,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -20256,7 +20263,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -20728,7 +20735,7 @@
       "matchday": 36,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 263,
         "name": "Deportivo Alavés",
@@ -21082,7 +21089,7 @@
       "matchday": 36,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 79,
         "name": "CA Osasuna",
@@ -21259,7 +21266,7 @@
       "matchday": 36,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -21377,7 +21384,7 @@
       "matchday": 37,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 78,
         "name": "Club Atlético de Madrid",
@@ -21436,7 +21443,7 @@
       "matchday": 37,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 81,
         "name": "FC Barcelona",
@@ -21849,7 +21856,7 @@
       "matchday": 37,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 559,
         "name": "Sevilla FC",
@@ -22262,7 +22269,7 @@
       "matchday": 38,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 86,
         "name": "Real Madrid CF",
@@ -22321,7 +22328,7 @@
       "matchday": 38,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 94,
         "name": "Villarreal CF",
@@ -22380,7 +22387,7 @@
       "matchday": 38,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-17T00:20:47Z",
+      "lastUpdated": "2025-08-19T00:20:49Z",
       "homeTeam": {
         "id": 95,
         "name": "Valencia CF",

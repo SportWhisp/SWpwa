@@ -6629,39 +6629,228 @@
                 "name": "Midtjylland"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "away",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
               "home_ht_goals": 0,
               "away_ht_goals": 0,
               "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "away_ft_goals": 2,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "33",
+                "team": "home",
+                "player": {
+                  "id": 60145,
+                  "name": "S. Velkov"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "43",
+                "team": "away",
+                "player": {
+                  "id": 171404,
+                  "name": "Mikel Krüger-Johnsen"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "45",
+                "team": "away",
+                "player": {
+                  "id": 26818,
+                  "name": "Franculino Dju"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "57",
+                "team": "home",
+                "player_in": {
+                  "id": 228971,
+                  "name": "A. Chiakha"
+                },
+                "player_out": {
+                  "id": 267204,
+                  "name": "B. Edjeodji"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "66",
+                "team": "away",
+                "player_in": {
+                  "id": 26797,
+                  "name": "A. Simsir"
+                },
+                "player_out": {
+                  "id": 171404,
+                  "name": "Mikel Krüger-Johnsen"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "71",
+                "team": "home",
+                "player_in": {
+                  "id": 193554,
+                  "name": "L. Flø"
+                },
+                "player_out": {
+                  "id": 26370,
+                  "name": "A. Hjulsager"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "72",
+                "team": "home",
+                "player_in": {
+                  "id": 36572,
+                  "name": "J. Amon"
+                },
+                "player_out": {
+                  "id": 60166,
+                  "name": "C. Gammelgaard"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "76",
+                "team": "away",
+                "player": {
+                  "id": 26818,
+                  "name": "Franculino Dju"
+                },
+                "assist_player": {
+                  "id": 58507,
+                  "name": "D. Osorio"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "away",
+                "player_in": {
+                  "id": 32564,
+                  "name": "Dani Silva"
+                },
+                "player_out": {
+                  "id": 45143,
+                  "name": "D. Castillo"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "away",
+                "player_in": {
+                  "id": 26679,
+                  "name": "V. Byskov"
+                },
+                "player_out": {
+                  "id": 26818,
+                  "name": "Franculino Dju"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "83",
+                "team": "home",
+                "player_in": {
+                  "id": 66004,
+                  "name": "W. Faghir"
+                },
+                "player_out": {
+                  "id": 30021,
+                  "name": "M. Duelund"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "83",
+                "team": "home",
+                "player_in": {
+                  "id": 64431,
+                  "name": "A. Pitu"
+                },
+                "player_out": {
+                  "id": 60159,
+                  "name": "T. Lauritsen"
+                }
+              },
+              {
+                "event_type": "yellow_red_card",
+                "event_minute": "89",
+                "team": "home",
+                "player": {
+                  "id": 60145,
+                  "name": "S. Velkov"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "90",
+                "team": "away",
+                "player_in": {
+                  "id": 42035,
+                  "name": "Cho Gue-Sung"
+                },
+                "player_out": {
+                  "id": 46972,
+                  "name": "A. Buksa"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 78002,
+                  "name": "P. Bravo"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 58507,
+                  "name": "D. Osorio"
+                },
+                "assist_player": {
+                  "id": 26797,
+                  "name": "A. Simsir"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 3.9,
-                "draw": 3.9,
-                "away": 1.82
+                "home": 3.55,
+                "draw": 3.75,
+                "away": 1.91
               },
               "over_under": {
                 "total": 3,
-                "over": 1.83,
-                "under": 1.89
+                "over": 1.93,
+                "under": 1.91
               },
               "handicap": {
                 "market": "+0.5",
-                "home": 2.02,
-                "away": 1.83
+                "home": 1.92,
+                "away": 1.93
               },
-              "last_modified_timestamp": 1755426698
+              "last_modified_timestamp": 1755441111
             },
             "match_preview": {
               "has_preview": false,
@@ -6682,39 +6871,253 @@
                 "name": "Silkeborg"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "away",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "home_ht_goals": 2,
+              "away_ht_goals": 2,
+              "home_ft_goals": 2,
+              "away_ft_goals": 3,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "2",
+                "team": "away",
+                "player": {
+                  "id": 31706,
+                  "name": "A. Busch"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "11",
+                "team": "away",
+                "player": {
+                  "id": 31739,
+                  "name": "T. Adamsen"
+                },
+                "assist_player": {
+                  "id": 31728,
+                  "name": "C. McCowatt"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "18",
+                "team": "home",
+                "player": {
+                  "id": 32080,
+                  "name": "M. Sondergaard"
+                },
+                "assist_player": {
+                  "id": 65511,
+                  "name": "J.  Mbom"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "38",
+                "team": "home",
+                "player": {
+                  "id": 32084,
+                  "name": "J. Nielsen"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 32019,
+                  "name": "D. Anyembe"
+                },
+                "player_out": {
+                  "id": 26279,
+                  "name": "I. Nasberg"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "57",
+                "team": "home",
+                "player": {
+                  "id": 26544,
+                  "name": "T. Jorgensen"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "58",
+                "team": "home",
+                "player_in": {
+                  "id": 39594,
+                  "name": "C. Nouck"
+                },
+                "player_out": {
+                  "id": 32084,
+                  "name": "J. Nielsen"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "58",
+                "team": "home",
+                "player_in": {
+                  "id": 144313,
+                  "name": "Dorian Hanza"
+                },
+                "player_out": {
+                  "id": 131494,
+                  "name": "T. Freriks"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "62",
+                "team": "away",
+                "player": {
+                  "id": 31710,
+                  "name": "P. Mattsson"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "62",
+                "team": "away",
+                "player_in": {
+                  "id": 60189,
+                  "name": "M. Freundlich"
+                },
+                "player_out": {
+                  "id": 31752,
+                  "name": "Oskar Boesen"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "63",
+                "team": "away",
+                "player_in": {
+                  "id": 39586,
+                  "name": "R. Al Hajj"
+                },
+                "player_out": {
+                  "id": 31728,
+                  "name": "C. McCowatt"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "71",
+                "team": "away",
+                "player_in": {
+                  "id": 32065,
+                  "name": "S. Berger"
+                },
+                "player_out": {
+                  "id": 42055,
+                  "name": "Y. Bakiz"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "71",
+                "team": "away",
+                "player_in": {
+                  "id": 228690,
+                  "name": "Julius Nielsen"
+                },
+                "player_out": {
+                  "id": 31706,
+                  "name": "A. Busch"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "72",
+                "team": "home",
+                "player": {
+                  "id": 32080,
+                  "name": "M. Sondergaard"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "74",
+                "team": "home",
+                "player_in": {
+                  "id": 110059,
+                  "name": "A. Bech"
+                },
+                "player_out": {
+                  "id": 32080,
+                  "name": "M. Sondergaard"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "83",
+                "team": "home",
+                "player_in": {
+                  "id": 74787,
+                  "name": "M. Hoedemakers"
+                },
+                "player_out": {
+                  "id": 26544,
+                  "name": "T. Jorgensen"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "87",
+                "team": "away",
+                "player_in": {
+                  "id": 110054,
+                  "name": "A. Simmelhack"
+                },
+                "player_out": {
+                  "id": 31739,
+                  "name": "T. Adamsen"
+                }
+              },
+              {
+                "event_type": "penalty_goal",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 37063,
+                  "name": "J. Gammelby"
+                },
+                "assist_player": null
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 2.18,
-                "draw": 3.6,
-                "away": 3.06
+                "home": 2.3,
+                "draw": 3.5,
+                "away": 2.9
               },
               "over_under": {
-                "total": 2.75,
-                "over": 1.87,
-                "under": 1.98
+                "total": 2.5,
+                "over": 1.73,
+                "under": 2.07
               },
               "handicap": {
-                "market": -0.5,
-                "home": 2.2,
-                "away": 1.71
+                "market": -0.25,
+                "home": 2.05,
+                "away": 1.82
               },
-              "last_modified_timestamp": 1755426698
+              "last_modified_timestamp": 1755446493
             },
             "match_preview": {
               "has_preview": false,
@@ -6735,39 +7138,223 @@
                 "name": "Brondby"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "away",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
               "home_ht_goals": 0,
-              "away_ht_goals": 0,
+              "away_ht_goals": 2,
               "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "away_ft_goals": 2,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "13",
+                "team": "away",
+                "player": {
+                  "id": 26688,
+                  "name": "F. Bundgaard"
+                },
+                "assist_player": {
+                  "id": 43054,
+                  "name": "M. Köhlert"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "34",
+                "team": "away",
+                "player": {
+                  "id": 47131,
+                  "name": "S. Spierings"
+                },
+                "assist_player": {
+                  "id": 48005,
+                  "name": "O. Villadsen"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "36",
+                "team": "home",
+                "player": {
+                  "id": 43826,
+                  "name": "E. Mahmoud"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "40",
+                "team": "away",
+                "player": {
+                  "id": 199911,
+                  "name": "Clement Bischoff"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "away",
+                "player_in": {
+                  "id": 32585,
+                  "name": "M. Divkovic"
+                },
+                "player_out": {
+                  "id": 43054,
+                  "name": "M. Köhlert"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 43847,
+                  "name": "F. Danho"
+                },
+                "player_out": {
+                  "id": 41969,
+                  "name": "M. Themsen"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 26707,
+                  "name": "F. Lauenborg"
+                },
+                "player_out": {
+                  "id": 26722,
+                  "name": "L. Pedersen"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "57",
+                "team": "home",
+                "player": {
+                  "id": 43847,
+                  "name": "F. Danho"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "64",
+                "team": "away",
+                "player_in": {
+                  "id": 254927,
+                  "name": "Jacob Ambaek"
+                },
+                "player_out": {
+                  "id": 26688,
+                  "name": "F. Bundgaard"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "64",
+                "team": "away",
+                "player_in": {
+                  "id": 32504,
+                  "name": "N. Vallys"
+                },
+                "player_out": {
+                  "id": 199911,
+                  "name": "Clement Bischoff"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "home",
+                "player_in": {
+                  "id": 26668,
+                  "name": "S. Hansen"
+                },
+                "player_out": {
+                  "id": 26626,
+                  "name": "N. Dyhr"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "away",
+                "player_in": {
+                  "id": 32514,
+                  "name": "D. Wass"
+                },
+                "player_out": {
+                  "id": 39352,
+                  "name": "B. Tahirović"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "86",
+                "team": "away",
+                "player_in": {
+                  "id": 254926,
+                  "name": "Mathias Jensen"
+                },
+                "player_out": {
+                  "id": 40695,
+                  "name": "N. Nartey"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "88",
+                "team": "home",
+                "player_in": {
+                  "id": 26744,
+                  "name": "S. Odey"
+                },
+                "player_out": {
+                  "id": 80730,
+                  "name": "N. Campbell"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "88",
+                "team": "home",
+                "player_in": {
+                  "id": 222526,
+                  "name": "Max Albæk Andersen"
+                },
+                "player_out": {
+                  "id": 32509,
+                  "name": "M. Greve"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 2.68,
-                "draw": 3.5,
-                "away": 2.45
+                "home": 2.8,
+                "draw": 3.4,
+                "away": 2.4
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.8,
-                "under": 2.03
+                "over": 1.84,
+                "under": 1.96
               },
               "handicap": {
                 "market": "+0.0",
-                "home": 1.98,
-                "away": 1.82
+                "home": 2.05,
+                "away": 1.77
               },
-              "last_modified_timestamp": 1755426698
+              "last_modified_timestamp": 1755455518
             },
             "match_preview": {
               "has_preview": false,
@@ -6788,39 +7375,263 @@
                 "name": "AGF"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "away",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "home_ht_goals": 1,
+              "away_ht_goals": 2,
+              "home_ft_goals": 1,
+              "away_ft_goals": 5,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "21",
+                "team": "away",
+                "player": {
+                  "id": 30064,
+                  "name": "T. Bech"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "24",
+                "team": "away",
+                "player": {
+                  "id": 30064,
+                  "name": "T. Bech"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "26",
+                "team": "home",
+                "player": {
+                  "id": 39582,
+                  "name": "M. Ejdum"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "36",
+                "team": "home",
+                "player": {
+                  "id": 60092,
+                  "name": "J. Gomez"
+                }
+              },
+              {
+                "event_type": "penalty_goal",
+                "event_minute": "45",
+                "team": "home",
+                "player": {
+                  "id": 65773,
+                  "name": "J. Arp"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "57",
+                "team": "away",
+                "player": {
+                  "id": 27891,
+                  "name": "K. Arnstad"
+                },
+                "assist_player": {
+                  "id": 29909,
+                  "name": "F. Tingager"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "63",
+                "team": "home",
+                "player_in": {
+                  "id": 267219,
+                  "name": "William Martin"
+                },
+                "player_out": {
+                  "id": 39582,
+                  "name": "M. Ejdum"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "63",
+                "team": "home",
+                "player_in": {
+                  "id": 267217,
+                  "name": "Julius Berthel Askou"
+                },
+                "player_out": {
+                  "id": 60092,
+                  "name": "J. Gomez"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "64",
+                "team": "home",
+                "player_in": {
+                  "id": 173965,
+                  "name": "M. McCoy"
+                },
+                "player_out": {
+                  "id": 39575,
+                  "name": "L. Owusu"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "66",
+                "team": "away",
+                "player": {
+                  "id": 30069,
+                  "name": "P. Mortensen"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "68",
+                "team": "home",
+                "player": {
+                  "id": 65773,
+                  "name": "J. Arp"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "71",
+                "team": "away",
+                "player": {
+                  "id": 29999,
+                  "name": "G. Links"
+                },
+                "assist_player": {
+                  "id": 27891,
+                  "name": "K. Arnstad"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "72",
+                "team": "away",
+                "player_in": {
+                  "id": 49815,
+                  "name": "R. Carstensen"
+                },
+                "player_out": {
+                  "id": 30064,
+                  "name": "T. Bech"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "away",
+                "player_in": {
+                  "id": 34308,
+                  "name": "S. Jorgensen"
+                },
+                "player_out": {
+                  "id": 29894,
+                  "name": "F. Beijmo"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "away",
+                "player_in": {
+                  "id": 223863,
+                  "name": "F. Emmery"
+                },
+                "player_out": {
+                  "id": 29981,
+                  "name": "N. Poulsen"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "home",
+                "player_in": {
+                  "id": 221075,
+                  "name": "Yaya Bojang"
+                },
+                "player_out": {
+                  "id": 34502,
+                  "name": "J. Grot"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "76",
+                "team": "away",
+                "player_in": {
+                  "id": 30076,
+                  "name": "J. Serra"
+                },
+                "player_out": {
+                  "id": 30069,
+                  "name": "P. Mortensen"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "away",
+                "player_in": {
+                  "id": 221496,
+                  "name": "L. Callo"
+                },
+                "player_out": {
+                  "id": 29927,
+                  "name": "E. Kahl"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "87",
+                "team": "home",
+                "player_in": {
+                  "id": 267220,
+                  "name": "Elias Hansborg"
+                },
+                "player_out": {
+                  "id": 65773,
+                  "name": "J. Arp"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 2.81,
-                "draw": 3.6,
-                "away": 2.3
+                "home": 3.25,
+                "draw": 3.5,
+                "away": 2.08
               },
               "over_under": {
-                "total": 2.75,
-                "over": 1.78,
-                "under": 2.06
+                "total": 2.5,
+                "over": 1.7,
+                "under": 2.1
               },
               "handicap": {
                 "market": "+0.0",
-                "home": 2.1,
-                "away": 1.72
+                "home": 2.5,
+                "away": 1.55
               },
-              "last_modified_timestamp": 1755426698
+              "last_modified_timestamp": 1755545465
             },
             "match_preview": {
               "has_preview": false,
@@ -6858,9 +7669,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 1.4,
+                "draw": 4.9,
+                "away": 7
+              },
+              "over_under": {
+                "total": 3.5,
+                "over": 2,
+                "under": 1.8
+              },
+              "handicap": {
+                "market": -1.5,
+                "home": 2.01,
+                "away": 1.78
+              },
+              "last_modified_timestamp": 1755597685
             },
             "match_preview": {
               "has_preview": false,
@@ -6899,21 +7723,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.5,
-                "draw": 3,
-                "away": 1.5
+                "home": 1.64,
+                "draw": 4.33,
+                "away": 4.58
               },
               "over_under": {
-                "total": -1,
-                "over": -1,
-                "under": -1
+                "total": 3.5,
+                "over": 2.13,
+                "under": 1.7
               },
               "handicap": {
-                "market": -101,
-                "home": -1,
-                "away": -1
+                "market": -1,
+                "home": 2.05,
+                "away": 1.77
               },
-              "last_modified_timestamp": 1755426698
+              "last_modified_timestamp": 1755597685
             },
             "match_preview": {
               "has_preview": false,
@@ -6951,9 +7775,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 3.3,
+                "draw": 3.6,
+                "away": 2.08
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.7,
+                "under": 2.15
+              },
+              "handicap": {
+                "market": "+0.5",
+                "home": 1.78,
+                "away": 2.09
+              },
+              "last_modified_timestamp": 1755597685
             },
             "match_preview": {
               "has_preview": false,
@@ -6992,21 +7829,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.5,
-                "draw": 3,
-                "away": 1.5
+                "home": 4,
+                "draw": 3.8,
+                "away": 1.8
               },
               "over_under": {
-                "total": -1,
-                "over": -1,
-                "under": -1
+                "total": 2.75,
+                "over": 1.87,
+                "under": 1.95
               },
               "handicap": {
-                "market": -101,
-                "home": -1,
-                "away": -1
+                "market": "+0.5",
+                "home": 2.04,
+                "away": 1.8
               },
-              "last_modified_timestamp": 1755426698
+              "last_modified_timestamp": 1755597685
             },
             "match_preview": {
               "has_preview": false,
@@ -7045,21 +7882,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.5,
-                "draw": 3,
-                "away": 1.5
+                "home": 1.62,
+                "draw": 4,
+                "away": 5.05
               },
               "over_under": {
-                "total": -1,
-                "over": -1,
-                "under": -1
+                "total": 2.5,
+                "over": 1.77,
+                "under": 2.05
               },
               "handicap": {
-                "market": -101,
-                "home": -1,
-                "away": -1
+                "market": -1,
+                "home": 2.05,
+                "away": 1.78
               },
-              "last_modified_timestamp": 1755426698
+              "last_modified_timestamp": 1755597685
             },
             "match_preview": {
               "has_preview": false,
@@ -7097,9 +7934,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2,
+                "draw": 3.78,
+                "away": 3.41
+              },
+              "over_under": {
+                "total": 3,
+                "over": 1.88,
+                "under": 1.92
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 2,
+                "away": 1.85
+              },
+              "last_modified_timestamp": 1755597685
             },
             "match_preview": {
               "has_preview": false,
@@ -8267,6 +9117,46 @@
             }
           },
           {
+            "id": 955692,
+            "date": "22/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3337,
+                "name": "Nordsjaelland"
+              },
+              "away": {
+                "id": 4085,
+                "name": "Vejle"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 955694,
             "date": "22/02/2026",
             "time": "15:00",
@@ -8438,46 +9328,6 @@
               "away": {
                 "id": 3772,
                 "name": "FC Copenhagen"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955692,
-            "date": "22/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3337,
-                "name": "Nordsjaelland"
-              },
-              "away": {
-                "id": 4085,
-                "name": "Vejle"
               }
             },
             "status": "pre-match",

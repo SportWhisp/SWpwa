@@ -88,6 +88,44 @@
         {
           "position": 4,
           "team": {
+            "id": 82,
+            "name": "Getafe CF",
+            "shortName": "Getafe",
+            "tla": "GET",
+            "crest": "https://crests.football-data.org/82.png"
+          },
+          "playedGames": 1,
+          "form": "W",
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 0,
+          "goalDifference": 2
+        },
+        {
+          "position": 5,
+          "team": {
+            "id": 77,
+            "name": "Athletic Club",
+            "shortName": "Athletic",
+            "tla": "ATH",
+            "crest": "https://crests.football-data.org/77.png"
+          },
+          "playedGames": 1,
+          "form": "W",
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3,
+          "goalsFor": 3,
+          "goalsAgainst": 2,
+          "goalDifference": 1
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 263,
             "name": "Deportivo Alavés",
             "shortName": "Alavés",
@@ -105,7 +143,26 @@
           "goalDifference": 1
         },
         {
-          "position": 5,
+          "position": 7,
+          "team": {
+            "id": 80,
+            "name": "RCD Espanyol de Barcelona",
+            "shortName": "Espanyol",
+            "tla": "ESP",
+            "crest": "https://crests.football-data.org/80.png"
+          },
+          "playedGames": 1,
+          "form": "W",
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 1,
+          "goalDifference": 1
+        },
+        {
+          "position": 8,
           "team": {
             "id": 95,
             "name": "Valencia CF",
@@ -124,7 +181,7 @@
           "goalDifference": 0
         },
         {
-          "position": 6,
+          "position": 9,
           "team": {
             "id": 92,
             "name": "Real Sociedad de Fútbol",
@@ -143,121 +200,7 @@
           "goalDifference": 0
         },
         {
-          "position": 7,
-          "team": {
-            "id": 558,
-            "name": "RC Celta de Vigo",
-            "shortName": "Celta",
-            "tla": "CEL",
-            "crest": "https://crests.football-data.org/558.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 82,
-            "name": "Getafe CF",
-            "shortName": "Getafe",
-            "tla": "GET",
-            "crest": "https://crests.football-data.org/82.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 9,
-          "team": {
-            "id": 77,
-            "name": "Athletic Club",
-            "shortName": "Athletic",
-            "tla": "ATH",
-            "crest": "https://crests.football-data.org/77.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
           "position": 10,
-          "team": {
-            "id": 559,
-            "name": "Sevilla FC",
-            "shortName": "Sevilla FC",
-            "tla": "SEV",
-            "crest": "https://crests.football-data.org/559.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 11,
-          "team": {
-            "id": 80,
-            "name": "RCD Espanyol de Barcelona",
-            "shortName": "Espanyol",
-            "tla": "ESP",
-            "crest": "https://crests.football-data.org/80.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 78,
-            "name": "Club Atlético de Madrid",
-            "shortName": "Atleti",
-            "tla": "ATL",
-            "crest": "https://crests.football-data.org/78.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 13,
           "team": {
             "id": 285,
             "name": "Elche CF",
@@ -265,18 +208,18 @@
             "tla": "ELC",
             "crest": "https://crests.football-data.org/285.png"
           },
-          "playedGames": 0,
-          "form": "",
+          "playedGames": 1,
+          "form": "D",
           "won": 0,
-          "draw": 0,
+          "draw": 1,
           "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
+          "points": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 1,
           "goalDifference": 0
         },
         {
-          "position": 14,
+          "position": 11,
           "team": {
             "id": 90,
             "name": "Real Betis Balompié",
@@ -284,18 +227,18 @@
             "tla": "BET",
             "crest": "https://crests.football-data.org/90.png"
           },
-          "playedGames": 0,
-          "form": "",
+          "playedGames": 1,
+          "form": "D",
           "won": 0,
-          "draw": 0,
+          "draw": 1,
           "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
+          "points": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 1,
           "goalDifference": 0
         },
         {
-          "position": 15,
+          "position": 12,
           "team": {
             "id": 86,
             "name": "Real Madrid CF",
@@ -314,7 +257,7 @@
           "goalDifference": 0
         },
         {
-          "position": 16,
+          "position": 13,
           "team": {
             "id": 79,
             "name": "CA Osasuna",
@@ -333,7 +276,26 @@
           "goalDifference": 0
         },
         {
-          "position": 17,
+          "position": 14,
+          "team": {
+            "id": 559,
+            "name": "Sevilla FC",
+            "shortName": "Sevilla FC",
+            "tla": "SEV",
+            "crest": "https://crests.football-data.org/559.png"
+          },
+          "playedGames": 1,
+          "form": "L",
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "goalDifference": -1
+        },
+        {
+          "position": 15,
           "team": {
             "id": 88,
             "name": "Levante UD",
@@ -352,7 +314,26 @@
           "goalDifference": -1
         },
         {
-          "position": 18,
+          "position": 16,
+          "team": {
+            "id": 78,
+            "name": "Club Atlético de Madrid",
+            "shortName": "Atleti",
+            "tla": "ATL",
+            "crest": "https://crests.football-data.org/78.png"
+          },
+          "playedGames": 1,
+          "form": "L",
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0,
+          "goalsFor": 1,
+          "goalsAgainst": 2,
+          "goalDifference": -1
+        },
+        {
+          "position": 17,
           "team": {
             "id": 298,
             "name": "Girona FC",
@@ -371,13 +352,32 @@
           "goalDifference": -2
         },
         {
-          "position": 19,
+          "position": 18,
           "team": {
             "id": 1048,
             "name": "Real Oviedo",
             "shortName": "Real Oviedo",
             "tla": "OVI",
             "crest": "https://crests.football-data.org/1048.png"
+          },
+          "playedGames": 1,
+          "form": "L",
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0,
+          "goalsFor": 0,
+          "goalsAgainst": 2,
+          "goalDifference": -2
+        },
+        {
+          "position": 19,
+          "team": {
+            "id": 558,
+            "name": "RC Celta de Vigo",
+            "shortName": "Celta",
+            "tla": "CEL",
+            "crest": "https://crests.football-data.org/558.png"
           },
           "playedGames": 1,
           "form": "L",
@@ -437,6 +437,25 @@
         {
           "position": 2,
           "team": {
+            "id": 77,
+            "name": "Athletic Club",
+            "shortName": "Athletic",
+            "tla": "ATH",
+            "crest": "https://crests.football-data.org/77.png"
+          },
+          "playedGames": 1,
+          "form": "",
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3,
+          "goalsFor": 3,
+          "goalsAgainst": 2,
+          "goalDifference": 1
+        },
+        {
+          "position": 3,
+          "team": {
             "id": 263,
             "name": "Deportivo Alavés",
             "shortName": "Alavés",
@@ -454,7 +473,26 @@
           "goalDifference": 1
         },
         {
-          "position": 3,
+          "position": 4,
+          "team": {
+            "id": 80,
+            "name": "RCD Espanyol de Barcelona",
+            "shortName": "Espanyol",
+            "tla": "ESP",
+            "crest": "https://crests.football-data.org/80.png"
+          },
+          "playedGames": 1,
+          "form": "",
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 1,
+          "goalDifference": 1
+        },
+        {
+          "position": 5,
           "team": {
             "id": 95,
             "name": "Valencia CF",
@@ -473,7 +511,26 @@
           "goalDifference": 0
         },
         {
-          "position": 4,
+          "position": 6,
+          "team": {
+            "id": 285,
+            "name": "Elche CF",
+            "shortName": "Elche",
+            "tla": "ELC",
+            "crest": "https://crests.football-data.org/285.png"
+          },
+          "playedGames": 1,
+          "form": "",
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 1,
+          "goalDifference": 0
+        },
+        {
+          "position": 7,
           "team": {
             "id": 87,
             "name": "Rayo Vallecano de Madrid",
@@ -492,7 +549,7 @@
           "goalDifference": 0
         },
         {
-          "position": 5,
+          "position": 8,
           "team": {
             "id": 1048,
             "name": "Real Oviedo",
@@ -511,7 +568,7 @@
           "goalDifference": 0
         },
         {
-          "position": 6,
+          "position": 9,
           "team": {
             "id": 81,
             "name": "FC Barcelona",
@@ -530,7 +587,7 @@
           "goalDifference": 0
         },
         {
-          "position": 7,
+          "position": 10,
           "team": {
             "id": 88,
             "name": "Levante UD",
@@ -549,7 +606,7 @@
           "goalDifference": 0
         },
         {
-          "position": 8,
+          "position": 11,
           "team": {
             "id": 92,
             "name": "Real Sociedad de Fútbol",
@@ -568,26 +625,7 @@
           "goalDifference": 0
         },
         {
-          "position": 9,
-          "team": {
-            "id": 558,
-            "name": "RC Celta de Vigo",
-            "shortName": "Celta",
-            "tla": "CEL",
-            "crest": "https://crests.football-data.org/558.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 10,
+          "position": 12,
           "team": {
             "id": 82,
             "name": "Getafe CF",
@@ -606,51 +644,13 @@
           "goalDifference": 0
         },
         {
-          "position": 11,
-          "team": {
-            "id": 77,
-            "name": "Athletic Club",
-            "shortName": "Athletic",
-            "tla": "ATH",
-            "crest": "https://crests.football-data.org/77.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 559,
             "name": "Sevilla FC",
             "shortName": "Sevilla FC",
             "tla": "SEV",
             "crest": "https://crests.football-data.org/559.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 80,
-            "name": "RCD Espanyol de Barcelona",
-            "shortName": "Espanyol",
-            "tla": "ESP",
-            "crest": "https://crests.football-data.org/80.png"
           },
           "playedGames": 0,
           "form": "",
@@ -684,25 +684,6 @@
         {
           "position": 15,
           "team": {
-            "id": 285,
-            "name": "Elche CF",
-            "shortName": "Elche",
-            "tla": "ELC",
-            "crest": "https://crests.football-data.org/285.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 16,
-          "team": {
             "id": 90,
             "name": "Real Betis Balompié",
             "shortName": "Real Betis",
@@ -720,7 +701,7 @@
           "goalDifference": 0
         },
         {
-          "position": 17,
+          "position": 16,
           "team": {
             "id": 86,
             "name": "Real Madrid CF",
@@ -739,7 +720,7 @@
           "goalDifference": 0
         },
         {
-          "position": 18,
+          "position": 17,
           "team": {
             "id": 79,
             "name": "CA Osasuna",
@@ -758,7 +739,7 @@
           "goalDifference": 0
         },
         {
-          "position": 19,
+          "position": 18,
           "team": {
             "id": 298,
             "name": "Girona FC",
@@ -774,6 +755,25 @@
           "points": 0,
           "goalsFor": 1,
           "goalsAgainst": 3,
+          "goalDifference": -2
+        },
+        {
+          "position": 19,
+          "team": {
+            "id": 558,
+            "name": "RC Celta de Vigo",
+            "shortName": "Celta",
+            "tla": "CEL",
+            "crest": "https://crests.football-data.org/558.png"
+          },
+          "playedGames": 1,
+          "form": "",
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0,
+          "goalsFor": 0,
+          "goalsAgainst": 2,
           "goalDifference": -2
         },
         {
@@ -843,6 +843,25 @@
         {
           "position": 3,
           "team": {
+            "id": 82,
+            "name": "Getafe CF",
+            "shortName": "Getafe",
+            "tla": "GET",
+            "crest": "https://crests.football-data.org/82.png"
+          },
+          "playedGames": 1,
+          "form": "",
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 0,
+          "goalDifference": 2
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 92,
             "name": "Real Sociedad de Fútbol",
             "shortName": "Real Sociedad",
@@ -860,7 +879,26 @@
           "goalDifference": 0
         },
         {
-          "position": 4,
+          "position": 5,
+          "team": {
+            "id": 90,
+            "name": "Real Betis Balompié",
+            "shortName": "Real Betis",
+            "tla": "BET",
+            "crest": "https://crests.football-data.org/90.png"
+          },
+          "playedGames": 1,
+          "form": "",
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 1,
+          "goalDifference": 0
+        },
+        {
+          "position": 6,
           "team": {
             "id": 298,
             "name": "Girona FC",
@@ -879,7 +917,7 @@
           "goalDifference": 0
         },
         {
-          "position": 5,
+          "position": 7,
           "team": {
             "id": 94,
             "name": "Villarreal CF",
@@ -898,7 +936,7 @@
           "goalDifference": 0
         },
         {
-          "position": 6,
+          "position": 8,
           "team": {
             "id": 89,
             "name": "RCD Mallorca",
@@ -917,7 +955,7 @@
           "goalDifference": 0
         },
         {
-          "position": 7,
+          "position": 9,
           "team": {
             "id": 263,
             "name": "Deportivo Alavés",
@@ -936,7 +974,7 @@
           "goalDifference": 0
         },
         {
-          "position": 8,
+          "position": 10,
           "team": {
             "id": 95,
             "name": "Valencia CF",
@@ -955,7 +993,7 @@
           "goalDifference": 0
         },
         {
-          "position": 9,
+          "position": 11,
           "team": {
             "id": 558,
             "name": "RC Celta de Vigo",
@@ -974,51 +1012,13 @@
           "goalDifference": 0
         },
         {
-          "position": 10,
-          "team": {
-            "id": 82,
-            "name": "Getafe CF",
-            "shortName": "Getafe",
-            "tla": "GET",
-            "crest": "https://crests.football-data.org/82.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 77,
             "name": "Athletic Club",
             "shortName": "Athletic",
             "tla": "ATH",
             "crest": "https://crests.football-data.org/77.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 559,
-            "name": "Sevilla FC",
-            "shortName": "Sevilla FC",
-            "tla": "SEV",
-            "crest": "https://crests.football-data.org/559.png"
           },
           "playedGames": 0,
           "form": "",
@@ -1052,25 +1052,6 @@
         {
           "position": 14,
           "team": {
-            "id": 78,
-            "name": "Club Atlético de Madrid",
-            "shortName": "Atleti",
-            "tla": "ATL",
-            "crest": "https://crests.football-data.org/78.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 15,
-          "team": {
             "id": 285,
             "name": "Elche CF",
             "shortName": "Elche",
@@ -1088,26 +1069,7 @@
           "goalDifference": 0
         },
         {
-          "position": 16,
-          "team": {
-            "id": 90,
-            "name": "Real Betis Balompié",
-            "shortName": "Real Betis",
-            "tla": "BET",
-            "crest": "https://crests.football-data.org/90.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 17,
+          "position": 15,
           "team": {
             "id": 86,
             "name": "Real Madrid CF",
@@ -1126,7 +1088,7 @@
           "goalDifference": 0
         },
         {
-          "position": 18,
+          "position": 16,
           "team": {
             "id": 79,
             "name": "CA Osasuna",
@@ -1145,13 +1107,51 @@
           "goalDifference": 0
         },
         {
-          "position": 19,
+          "position": 17,
+          "team": {
+            "id": 559,
+            "name": "Sevilla FC",
+            "shortName": "Sevilla FC",
+            "tla": "SEV",
+            "crest": "https://crests.football-data.org/559.png"
+          },
+          "playedGames": 1,
+          "form": "",
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "goalDifference": -1
+        },
+        {
+          "position": 18,
           "team": {
             "id": 88,
             "name": "Levante UD",
             "shortName": "Levante",
             "tla": "LEV",
             "crest": "https://crests.football-data.org/88.png"
+          },
+          "playedGames": 1,
+          "form": "",
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0,
+          "goalsFor": 1,
+          "goalsAgainst": 2,
+          "goalDifference": -1
+        },
+        {
+          "position": 19,
+          "team": {
+            "id": 78,
+            "name": "Club Atlético de Madrid",
+            "shortName": "Atleti",
+            "tla": "ATL",
+            "crest": "https://crests.football-data.org/78.png"
           },
           "playedGames": 1,
           "form": "",

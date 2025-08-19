@@ -5973,7 +5973,7 @@
               },
               {
                 "event_type": "substitution",
-                "event_minute": "83",
+                "event_minute": "82",
                 "team": "home",
                 "player_in": {
                   "id": 64513,
@@ -6049,19 +6049,6 @@
                   "id": 34392,
                   "name": "Y. Sor"
                 }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "82",
-                "team": "home",
-                "player_in": {
-                  "id": 64513,
-                  "name": "Y. Maziz"
-                },
-                "player_out": {
-                  "id": 39416,
-                  "name": "J. Mijatović"
-                }
               }
             ],
             "odds": {
@@ -6101,16 +6088,16 @@
                 "name": "Club Brugge"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "away",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
               "home_ht_goals": 0,
               "away_ht_goals": 0,
               "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "away_ft_goals": 1,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
@@ -6312,16 +6299,16 @@
                 "name": "Gent"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "draw",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
+              "home_ht_goals": 1,
               "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "home_ft_goals": 1,
+              "away_ft_goals": 1,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
@@ -6549,15 +6536,15 @@
                 "name": "Standard Liege"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "home",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
+              "home_ht_goals": 1,
               "away_ht_goals": 0,
-              "home_ft_goals": 0,
+              "home_ft_goals": 3,
               "away_ft_goals": 0,
               "home_et_goals": -1,
               "away_et_goals": -1,
@@ -6783,39 +6770,227 @@
                 "name": "Anderlecht"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "away",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
               "home_ht_goals": 0,
               "away_ht_goals": 0,
               "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "away_ft_goals": 2,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "17",
+                "team": "away",
+                "player": {
+                  "id": 43202,
+                  "name": "E. Llansana"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "52",
+                "team": "home",
+                "player_in": {
+                  "id": 115335,
+                  "name": "B. Goncalves"
+                },
+                "player_out": {
+                  "id": 160323,
+                  "name": "J. Pupe"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "61",
+                "team": "away",
+                "player_in": {
+                  "id": 73846,
+                  "name": "C. Huerta"
+                },
+                "player_out": {
+                  "id": 27905,
+                  "name": "Y. Verschaeren"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "61",
+                "team": "away",
+                "player_in": {
+                  "id": 27944,
+                  "name": "K. Dolberg"
+                },
+                "player_out": {
+                  "id": 160231,
+                  "name": "A. Bertaccini"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "66",
+                "team": "home",
+                "player": {
+                  "id": 115335,
+                  "name": "B. Goncalves"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "71",
+                "team": "away",
+                "player": {
+                  "id": 73846,
+                  "name": "C. Huerta"
+                },
+                "assist_player": {
+                  "id": 27915,
+                  "name": "N. Angulo"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "74",
+                "team": "home",
+                "player_in": {
+                  "id": 104412,
+                  "name": "B. Nsimba"
+                },
+                "player_out": {
+                  "id": 65389,
+                  "name": "N. Mbamba"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "74",
+                "team": "home",
+                "player_in": {
+                  "id": 74615,
+                  "name": "R. Oratmangoen"
+                },
+                "player_out": {
+                  "id": 64853,
+                  "name": "M. Viltard"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "away",
+                "player_in": {
+                  "id": 21478,
+                  "name": "N. Saliba"
+                },
+                "player_out": {
+                  "id": 229538,
+                  "name": "Nathan De Cat"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "82",
+                "team": "home",
+                "player_in": {
+                  "id": 34360,
+                  "name": "D. Hrncar"
+                },
+                "player_out": {
+                  "id": 62031,
+                  "name": "L. De Fougerolles"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "82",
+                "team": "home",
+                "player_in": {
+                  "id": 64352,
+                  "name": "M. Sahi"
+                },
+                "player_out": {
+                  "id": 210503,
+                  "name": "Benjamin Fredrick"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "84",
+                "team": "away",
+                "player": {
+                  "id": 45309,
+                  "name": "T. Hazard"
+                },
+                "assist_player": {
+                  "id": 27915,
+                  "name": "N. Angulo"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "88",
+                "team": "away",
+                "player_in": {
+                  "id": 45038,
+                  "name": "T. Degreef"
+                },
+                "player_out": {
+                  "id": 27915,
+                  "name": "N. Angulo"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "88",
+                "team": "away",
+                "player_in": {
+                  "id": 27900,
+                  "name": "M. Stroeykens"
+                },
+                "player_out": {
+                  "id": 45309,
+                  "name": "T. Hazard"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "60",
+                "team": "away",
+                "player_in": {
+                  "id": 73846,
+                  "name": "C. Huerta"
+                },
+                "player_out": {
+                  "id": 27905,
+                  "name": "Y. Verschaeren"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 3.84,
-                "draw": 3.64,
-                "away": 1.91
+                "home": 3.17,
+                "draw": 3.5,
+                "away": 2.15
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.78,
-                "under": 2.03
+                "over": 1.82,
+                "under": 1.98
               },
               "handicap": {
                 "market": "+0.5",
-                "home": 1.94,
-                "away": 1.9
+                "home": 1.78,
+                "away": 2.14
               },
-              "last_modified_timestamp": 1755426694
+              "last_modified_timestamp": 1755441110
             },
             "match_preview": {
               "has_preview": false,
@@ -6836,39 +7011,197 @@
                 "name": "RAAL La Louviere"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "home",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
+              "home_ht_goals": 1,
               "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "home_ft_goals": 2,
+              "away_ft_goals": 1,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "20",
+                "team": "home",
+                "player": {
+                  "id": 40944,
+                  "name": "R. Vanwesemael"
+                },
+                "assist_player": {
+                  "id": 83306,
+                  "name": "A. Ferrari"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "54",
+                "team": "away",
+                "player": {
+                  "id": 271138,
+                  "name": "J. Liongola"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "57",
+                "team": "home",
+                "player_in": {
+                  "id": 70167,
+                  "name": "K. Goto"
+                },
+                "player_out": {
+                  "id": 83306,
+                  "name": "A. Ferrari"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "61",
+                "team": "away",
+                "player_in": {
+                  "id": 131528,
+                  "name": "S. Sidibe"
+                },
+                "player_out": {
+                  "id": 271138,
+                  "name": "J. Liongola"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "61",
+                "team": "away",
+                "player_in": {
+                  "id": 121126,
+                  "name": "O. Maes"
+                },
+                "player_out": {
+                  "id": 116307,
+                  "name": "M. Pau"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "70",
+                "team": "away",
+                "player": {
+                  "id": 162746,
+                  "name": "O. Mendy"
+                },
+                "assist_player": {
+                  "id": 104440,
+                  "name": "W. Faye"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "72",
+                "team": "home",
+                "player_in": {
+                  "id": 268017,
+                  "name": "Ryan Merlen"
+                },
+                "player_out": {
+                  "id": 75274,
+                  "name": "I. Sebaoui"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "72",
+                "team": "home",
+                "player_in": {
+                  "id": 78356,
+                  "name": "S. Taniguchi"
+                },
+                "player_out": {
+                  "id": 35705,
+                  "name": "L. Patris"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "80",
+                "team": "home",
+                "player": {
+                  "id": 44661,
+                  "name": "V. Musliu"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "84",
+                "team": "away",
+                "player_in": {
+                  "id": 115388,
+                  "name": "T. Epailly"
+                },
+                "player_out": {
+                  "id": 162746,
+                  "name": "O. Mendy"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "86",
+                "team": "away",
+                "player": {
+                  "id": 121126,
+                  "name": "O. Maes"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "87",
+                "team": "home",
+                "player_in": {
+                  "id": 70702,
+                  "name": "K. Matsuzawa"
+                },
+                "player_out": {
+                  "id": 40944,
+                  "name": "R. Vanwesemael"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "90",
+                "team": "home",
+                "player": {
+                  "id": 70167,
+                  "name": "K. Goto"
+                },
+                "assist_player": {
+                  "id": 40946,
+                  "name": "R. Yamamoto"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 1.67,
+                "home": 1.7,
                 "draw": 3.8,
-                "away": 5
+                "away": 4.9
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.83,
-                "under": 1.97
+                "over": 1.85,
+                "under": 1.95
               },
               "handicap": {
                 "market": -0.75,
-                "home": 1.89,
-                "away": 1.95
+                "home": 1.91,
+                "away": 1.93
               },
-              "last_modified_timestamp": 1755426694
+              "last_modified_timestamp": 1755446490
             },
             "match_preview": {
               "has_preview": false,
@@ -6889,39 +7222,207 @@
                 "name": "Antwerp"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "draw",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "home_ht_goals": 1,
+              "away_ht_goals": 1,
+              "home_ft_goals": 1,
+              "away_ft_goals": 1,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "13",
+                "team": "away",
+                "player": {
+                  "id": 240093,
+                  "name": "Farouck Adekami"
+                },
+                "assist_player": {
+                  "id": 212590,
+                  "name": "Mahamadou Doumbia"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "34",
+                "team": "home",
+                "player": {
+                  "id": 26613,
+                  "name": "P. Guiagon"
+                },
+                "assist_player": {
+                  "id": 75493,
+                  "name": "J. Romsaas"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "47",
+                "team": "home",
+                "player": {
+                  "id": 40029,
+                  "name": "A. Bernier"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "59",
+                "team": "away",
+                "player": {
+                  "id": 240093,
+                  "name": "Farouck Adekami"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "65",
+                "team": "home",
+                "player": {
+                  "id": 268932,
+                  "name": "N. Štulić"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "away",
+                "player_in": {
+                  "id": 260603,
+                  "name": "David Gabriel Jesus"
+                },
+                "player_out": {
+                  "id": 240093,
+                  "name": "Farouck Adekami"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "away",
+                "player_in": {
+                  "id": 40841,
+                  "name": "A. Verstraeten"
+                },
+                "player_out": {
+                  "id": 70803,
+                  "name": "Y. Tsunashima"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "74",
+                "team": "away",
+                "player": {
+                  "id": 32045,
+                  "name": "Z. Van Den Bosch"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "away",
+                "player_in": {
+                  "id": 252312,
+                  "name": "Youssef Hamdaoui"
+                },
+                "player_out": {
+                  "id": 32072,
+                  "name": "M. Balikwisha"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "home",
+                "player_in": {
+                  "id": 27935,
+                  "name": "A. Colassin"
+                },
+                "player_out": {
+                  "id": 75493,
+                  "name": "J. Romsaas"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "82",
+                "team": "home",
+                "player": {
+                  "id": 55527,
+                  "name": "M. Nzita"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "85",
+                "team": "home",
+                "player_in": {
+                  "id": 64939,
+                  "name": "F. Situmona Mbemba"
+                },
+                "player_out": {
+                  "id": 40029,
+                  "name": "A. Bernier"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "90",
+                "team": "away",
+                "player_in": {
+                  "id": 54041,
+                  "name": "M. Benítez"
+                },
+                "player_out": {
+                  "id": 26082,
+                  "name": "D. Praet"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "home",
+                "player": {
+                  "id": 27935,
+                  "name": "A. Colassin"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 260603,
+                  "name": "David Gabriel Jesus"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 2.41,
-                "draw": 3.2,
-                "away": 2.95
+                "home": 2.37,
+                "draw": 3.24,
+                "away": 3.02
               },
               "over_under": {
                 "total": 2.5,
-                "over": 2.04,
+                "over": 2.03,
                 "under": 1.78
               },
               "handicap": {
                 "market": "+0.0",
-                "home": 1.78,
-                "away": 2.09
+                "home": 1.7,
+                "away": 2.2
               },
-              "last_modified_timestamp": 1755426694
+              "last_modified_timestamp": 1755455516
             },
             "match_preview": {
               "has_preview": false,
@@ -6942,39 +7443,231 @@
                 "name": "Westerlo"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "home",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
+              "home_ht_goals": 3,
               "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "home_ft_goals": 4,
+              "away_ft_goals": 1,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "35",
+                "team": "home",
+                "player": {
+                  "id": 26364,
+                  "name": "P. Gerkens"
+                },
+                "assist_player": {
+                  "id": 77649,
+                  "name": "Flávio Nazinho"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "37",
+                "team": "home",
+                "player": {
+                  "id": 39736,
+                  "name": "A. Minda"
+                },
+                "assist_player": {
+                  "id": 43474,
+                  "name": "L. Agyekum"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "45",
+                "team": "home",
+                "player": {
+                  "id": 43969,
+                  "name": "S. Ngoura"
+                },
+                "assist_player": {
+                  "id": 55416,
+                  "name": "G. Magnée"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "away",
+                "player_in": {
+                  "id": 41402,
+                  "name": "K. Vaesen"
+                },
+                "player_out": {
+                  "id": 70737,
+                  "name": "I. Sakamoto"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "away",
+                "player_in": {
+                  "id": 70077,
+                  "name": "S. Kimura"
+                },
+                "player_out": {
+                  "id": 41382,
+                  "name": "R. Neustädter"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "60",
+                "team": "away",
+                "player_in": {
+                  "id": 41399,
+                  "name": "A. Mebude"
+                },
+                "player_out": {
+                  "id": 41363,
+                  "name": "G. Yow"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "70",
+                "team": "away",
+                "player": {
+                  "id": 59645,
+                  "name": "J. Alcócer"
+                },
+                "assist_player": {
+                  "id": 41402,
+                  "name": "K. Vaesen"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "home",
+                "player_in": {
+                  "id": 43502,
+                  "name": "O. Adewumi"
+                },
+                "player_out": {
+                  "id": 39736,
+                  "name": "A. Minda"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "home",
+                "player_in": {
+                  "id": 39702,
+                  "name": "E. Utkus"
+                },
+                "player_out": {
+                  "id": 222283,
+                  "name": "E. Kakou"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "74",
+                "team": "away",
+                "player_in": {
+                  "id": 204622,
+                  "name": "Antonio Cordero"
+                },
+                "player_out": {
+                  "id": 26129,
+                  "name": "B. Reynolds"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "78",
+                "team": "away",
+                "player": {
+                  "id": 84512,
+                  "name": "E. Bayram"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "82",
+                "team": "home",
+                "player_in": {
+                  "id": 267814,
+                  "name": "I. Diaby"
+                },
+                "player_out": {
+                  "id": 43969,
+                  "name": "S. Ngoura"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "87",
+                "team": "home",
+                "player_in": {
+                  "id": 48548,
+                  "name": "Erick"
+                },
+                "player_out": {
+                  "id": 43474,
+                  "name": "L. Agyekum"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "88",
+                "team": "home",
+                "player_in": {
+                  "id": 226343,
+                  "name": "A. Bayo"
+                },
+                "player_out": {
+                  "id": 26364,
+                  "name": "P. Gerkens"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "90",
+                "team": "home",
+                "player": {
+                  "id": 43502,
+                  "name": "O. Adewumi"
+                },
+                "assist_player": {
+                  "id": 48548,
+                  "name": "Erick"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 2.15,
+                "home": 2.12,
                 "draw": 3.65,
-                "away": 3.1
+                "away": 3.18
               },
               "over_under": {
-                "total": 3,
-                "over": 1.9,
-                "under": 1.91
+                "total": 2.75,
+                "over": 1.86,
+                "under": 2
               },
               "handicap": {
                 "market": -0.5,
                 "home": 2.14,
                 "away": 1.75
               },
-              "last_modified_timestamp": 1755426694
+              "last_modified_timestamp": 1755459097
             },
             "match_preview": {
               "has_preview": false,
@@ -7052,9 +7745,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.5,
+                "draw": 3.3,
+                "away": 2.74
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 2.13,
+                "under": 1.7
+              },
+              "handicap": {
+                "market": "+0.0",
+                "home": 1.84,
+                "away": 2
+              },
+              "last_modified_timestamp": 1755603025
             },
             "match_preview": {
               "has_preview": false,
@@ -7092,9 +7798,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.45,
+                "draw": 3.6,
+                "away": 2.65
+              },
+              "over_under": {
+                "total": 2.75,
+                "over": 1.81,
+                "under": 1.95
+              },
+              "handicap": {
+                "market": "+0.0",
+                "home": 1.83,
+                "away": 1.99
+              },
+              "last_modified_timestamp": 1755603025
             },
             "match_preview": {
               "has_preview": false,
@@ -7132,9 +7851,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.05,
+                "draw": 3.55,
+                "away": 3.45
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.73,
+                "under": 2.1
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 2,
+                "away": 1.84
+              },
+              "last_modified_timestamp": 1755603025
             },
             "match_preview": {
               "has_preview": false,
@@ -7172,9 +7904,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 1.67,
+                "draw": 4,
+                "away": 4.75
+              },
+              "over_under": {
+                "total": 2.75,
+                "over": 1.83,
+                "under": 2
+              },
+              "handicap": {
+                "market": -1,
+                "home": 2.08,
+                "away": 1.73
+              },
+              "last_modified_timestamp": 1755603025
             },
             "match_preview": {
               "has_preview": false,
@@ -7252,9 +7997,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 7.2,
+                "draw": 4.75,
+                "away": 1.41
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.71,
+                "under": 2.1
+              },
+              "handicap": {
+                "market": "+1.5",
+                "home": 1.7,
+                "away": 2.18
+              },
+              "last_modified_timestamp": 1755603025
             },
             "match_preview": {
               "has_preview": false,
@@ -7292,9 +8050,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.1,
+                "draw": 3.5,
+                "away": 3.31
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.91,
+                "under": 1.9
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 2.09,
+                "away": 1.77
+              },
+              "last_modified_timestamp": 1755603025
             },
             "match_preview": {
               "has_preview": false,
@@ -7902,17 +8673,57 @@
             }
           },
           {
-            "id": 955403,
+            "id": 955405,
             "date": "20/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2991,
-                "name": "Gent"
+                "id": 2958,
+                "name": "Sporting Charleroi"
               },
               "away": {
-                "id": 5831,
-                "name": "Dender"
+                "id": 2821,
+                "name": "Zulte Waregem"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955401,
+            "date": "20/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3427,
+                "name": "Genk"
+              },
+              "away": {
+                "id": 3911,
+                "name": "Union Saint-Gilloise"
               }
             },
             "status": "pre-match",
@@ -7982,17 +8793,97 @@
             }
           },
           {
-            "id": 955401,
+            "id": 955403,
             "date": "20/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3427,
-                "name": "Genk"
+                "id": 2991,
+                "name": "Gent"
               },
               "away": {
-                "id": 3911,
-                "name": "Union Saint-Gilloise"
+                "id": 5831,
+                "name": "Dender"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955404,
+            "date": "20/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3906,
+                "name": "Mechelen"
+              },
+              "away": {
+                "id": 2941,
+                "name": "Cercle Brugge"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955406,
+            "date": "20/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3015,
+                "name": "Westerlo"
+              },
+              "away": {
+                "id": 3905,
+                "name": "Standard Liege"
               }
             },
             "status": "pre-match",
@@ -8102,137 +8993,17 @@
             }
           },
           {
-            "id": 955406,
-            "date": "20/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3015,
-                "name": "Westerlo"
-              },
-              "away": {
-                "id": 3905,
-                "name": "Standard Liege"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955405,
-            "date": "20/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2958,
-                "name": "Sporting Charleroi"
-              },
-              "away": {
-                "id": 2821,
-                "name": "Zulte Waregem"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955404,
-            "date": "20/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3906,
-                "name": "Mechelen"
-              },
-              "away": {
-                "id": 2941,
-                "name": "Cercle Brugge"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955413,
+            "id": 955416,
             "date": "27/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3000,
-                "name": "Sint-Truiden"
+                "id": 3911,
+                "name": "Union Saint-Gilloise"
               },
               "away": {
-                "id": 3427,
-                "name": "Genk"
+                "id": 3015,
+                "name": "Westerlo"
               }
             },
             "status": "pre-match",
@@ -8273,46 +9044,6 @@
               "away": {
                 "id": 3906,
                 "name": "Mechelen"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955416,
-            "date": "27/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3911,
-                "name": "Union Saint-Gilloise"
-              },
-              "away": {
-                "id": 3015,
-                "name": "Westerlo"
               }
             },
             "status": "pre-match",
@@ -8502,6 +9233,46 @@
             }
           },
           {
+            "id": 955413,
+            "date": "27/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3000,
+                "name": "Sint-Truiden"
+              },
+              "away": {
+                "id": 3427,
+                "name": "Genk"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 955414,
             "date": "27/09/2025",
             "time": "15:00",
@@ -8513,6 +9284,46 @@
               "away": {
                 "id": 3193,
                 "name": "Anderlecht"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955417,
+            "date": "04/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3193,
+                "name": "Anderlecht"
+              },
+              "away": {
+                "id": 3905,
+                "name": "Standard Liege"
               }
             },
             "status": "pre-match",
@@ -8582,17 +9393,17 @@
             }
           },
           {
-            "id": 955422,
+            "id": 955423,
             "date": "04/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 6476,
-                "name": "RAAL La Louviere"
+                "id": 3427,
+                "name": "Genk"
               },
               "away": {
-                "id": 2821,
-                "name": "Zulte Waregem"
+                "id": 5831,
+                "name": "Dender"
               }
             },
             "status": "pre-match",
@@ -8622,17 +9433,17 @@
             }
           },
           {
-            "id": 955423,
+            "id": 955422,
             "date": "04/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3427,
-                "name": "Genk"
+                "id": 6476,
+                "name": "RAAL La Louviere"
               },
               "away": {
-                "id": 5831,
-                "name": "Dender"
+                "id": 2821,
+                "name": "Zulte Waregem"
               }
             },
             "status": "pre-match",
@@ -8822,17 +9633,97 @@
             }
           },
           {
-            "id": 955417,
-            "date": "04/10/2025",
+            "id": 955430,
+            "date": "18/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3193,
-                "name": "Anderlecht"
+                "id": 3911,
+                "name": "Union Saint-Gilloise"
               },
               "away": {
+                "id": 2958,
+                "name": "Sporting Charleroi"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955429,
+            "date": "18/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2821,
+                "name": "Zulte Waregem"
+              },
+              "away": {
+                "id": 2991,
+                "name": "Gent"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955428,
+            "date": "18/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
                 "id": 3905,
                 "name": "Standard Liege"
+              },
+              "away": {
+                "id": 2994,
+                "name": "Antwerp"
               }
             },
             "status": "pre-match",
@@ -9062,137 +9953,17 @@
             }
           },
           {
-            "id": 955430,
-            "date": "18/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3911,
-                "name": "Union Saint-Gilloise"
-              },
-              "away": {
-                "id": 2958,
-                "name": "Sporting Charleroi"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955429,
-            "date": "18/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2821,
-                "name": "Zulte Waregem"
-              },
-              "away": {
-                "id": 2991,
-                "name": "Gent"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955428,
-            "date": "18/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3905,
-                "name": "Standard Liege"
-              },
-              "away": {
-                "id": 2994,
-                "name": "Antwerp"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955434,
+            "id": 955440,
             "date": "25/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3427,
-                "name": "Genk"
+                "id": 3015,
+                "name": "Westerlo"
               },
               "away": {
-                "id": 6476,
-                "name": "RAAL La Louviere"
+                "id": 5831,
+                "name": "Dender"
               }
             },
             "status": "pre-match",
@@ -9233,6 +10004,46 @@
               "away": {
                 "id": 3000,
                 "name": "Sint-Truiden"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955434,
+            "date": "25/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3427,
+                "name": "Genk"
+              },
+              "away": {
+                "id": 6476,
+                "name": "RAAL La Louviere"
               }
             },
             "status": "pre-match",
@@ -9462,217 +10273,17 @@
             }
           },
           {
-            "id": 955440,
-            "date": "25/10/2025",
+            "id": 955446,
+            "date": "01/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3015,
-                "name": "Westerlo"
+                "id": 2963,
+                "name": "Club Brugge"
               },
               "away": {
                 "id": 5831,
                 "name": "Dender"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955448,
-            "date": "01/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3000,
-                "name": "Sint-Truiden"
-              },
-              "away": {
-                "id": 2994,
-                "name": "Antwerp"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955441,
-            "date": "01/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3193,
-                "name": "Anderlecht"
-              },
-              "away": {
-                "id": 3906,
-                "name": "Mechelen"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955442,
-            "date": "01/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3905,
-                "name": "Standard Liege"
-              },
-              "away": {
-                "id": 2958,
-                "name": "Sporting Charleroi"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955443,
-            "date": "01/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 6476,
-                "name": "RAAL La Louviere"
-              },
-              "away": {
-                "id": 2941,
-                "name": "Cercle Brugge"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955444,
-            "date": "01/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3015,
-                "name": "Westerlo"
-              },
-              "away": {
-                "id": 3427,
-                "name": "Genk"
               }
             },
             "status": "pre-match",
@@ -9742,17 +10353,177 @@
             }
           },
           {
-            "id": 955446,
+            "id": 955444,
             "date": "01/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2963,
-                "name": "Club Brugge"
+                "id": 3015,
+                "name": "Westerlo"
               },
               "away": {
-                "id": 5831,
-                "name": "Dender"
+                "id": 3427,
+                "name": "Genk"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955443,
+            "date": "01/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 6476,
+                "name": "RAAL La Louviere"
+              },
+              "away": {
+                "id": 2941,
+                "name": "Cercle Brugge"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955442,
+            "date": "01/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3905,
+                "name": "Standard Liege"
+              },
+              "away": {
+                "id": 2958,
+                "name": "Sporting Charleroi"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955441,
+            "date": "01/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3193,
+                "name": "Anderlecht"
+              },
+              "away": {
+                "id": 3906,
+                "name": "Mechelen"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955448,
+            "date": "01/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3000,
+                "name": "Sint-Truiden"
+              },
+              "away": {
+                "id": 2994,
+                "name": "Antwerp"
               }
             },
             "status": "pre-match",
@@ -9789,246 +10560,6 @@
               "home": {
                 "id": 2821,
                 "name": "Zulte Waregem"
-              },
-              "away": {
-                "id": 3911,
-                "name": "Union Saint-Gilloise"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955455,
-            "date": "08/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2991,
-                "name": "Gent"
-              },
-              "away": {
-                "id": 3427,
-                "name": "Genk"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955449,
-            "date": "08/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2994,
-                "name": "Antwerp"
-              },
-              "away": {
-                "id": 6476,
-                "name": "RAAL La Louviere"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955450,
-            "date": "08/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 5831,
-                "name": "Dender"
-              },
-              "away": {
-                "id": 2821,
-                "name": "Zulte Waregem"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955451,
-            "date": "08/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2941,
-                "name": "Cercle Brugge"
-              },
-              "away": {
-                "id": 3194,
-                "name": "OH Leuven"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955452,
-            "date": "08/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2958,
-                "name": "Sporting Charleroi"
-              },
-              "away": {
-                "id": 3015,
-                "name": "Westerlo"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955453,
-            "date": "08/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3906,
-                "name": "Mechelen"
               },
               "away": {
                 "id": 3911,
@@ -10102,6 +10633,206 @@
             }
           },
           {
+            "id": 955453,
+            "date": "08/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3906,
+                "name": "Mechelen"
+              },
+              "away": {
+                "id": 3911,
+                "name": "Union Saint-Gilloise"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955452,
+            "date": "08/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2958,
+                "name": "Sporting Charleroi"
+              },
+              "away": {
+                "id": 3015,
+                "name": "Westerlo"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955451,
+            "date": "08/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2941,
+                "name": "Cercle Brugge"
+              },
+              "away": {
+                "id": 3194,
+                "name": "OH Leuven"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955450,
+            "date": "08/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 5831,
+                "name": "Dender"
+              },
+              "away": {
+                "id": 2821,
+                "name": "Zulte Waregem"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955449,
+            "date": "08/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2994,
+                "name": "Antwerp"
+              },
+              "away": {
+                "id": 6476,
+                "name": "RAAL La Louviere"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 955456,
             "date": "08/11/2025",
             "time": "15:00",
@@ -10142,137 +10873,17 @@
             }
           },
           {
-            "id": 955458,
-            "date": "22/11/2025",
+            "id": 955455,
+            "date": "08/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3905,
-                "name": "Standard Liege"
-              },
-              "away": {
-                "id": 2821,
-                "name": "Zulte Waregem"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955464,
-            "date": "22/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3911,
-                "name": "Union Saint-Gilloise"
-              },
-              "away": {
-                "id": 2941,
-                "name": "Cercle Brugge"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955463,
-            "date": "22/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3015,
-                "name": "Westerlo"
-              },
-              "away": {
                 "id": 2991,
                 "name": "Gent"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955462,
-            "date": "22/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3194,
-                "name": "OH Leuven"
               },
               "away": {
-                "id": 3000,
-                "name": "Sint-Truiden"
+                "id": 3427,
+                "name": "Genk"
               }
             },
             "status": "pre-match",
@@ -10342,17 +10953,57 @@
             }
           },
           {
-            "id": 955460,
+            "id": 955457,
             "date": "22/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2963,
-                "name": "Club Brugge"
+                "id": 2994,
+                "name": "Antwerp"
               },
               "away": {
-                "id": 2958,
-                "name": "Sporting Charleroi"
+                "id": 5831,
+                "name": "Dender"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955458,
+            "date": "22/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3905,
+                "name": "Standard Liege"
+              },
+              "away": {
+                "id": 2821,
+                "name": "Zulte Waregem"
               }
             },
             "status": "pre-match",
@@ -10422,17 +11073,17 @@
             }
           },
           {
-            "id": 955457,
+            "id": 955460,
             "date": "22/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2994,
-                "name": "Antwerp"
+                "id": 2963,
+                "name": "Club Brugge"
               },
               "away": {
-                "id": 5831,
-                "name": "Dender"
+                "id": 2958,
+                "name": "Sporting Charleroi"
               }
             },
             "status": "pre-match",
@@ -10462,17 +11113,97 @@
             }
           },
           {
-            "id": 955465,
-            "date": "29/11/2025",
+            "id": 955462,
+            "date": "22/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3193,
-                "name": "Anderlecht"
+                "id": 3194,
+                "name": "OH Leuven"
               },
               "away": {
+                "id": 3000,
+                "name": "Sint-Truiden"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955463,
+            "date": "22/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3015,
+                "name": "Westerlo"
+              },
+              "away": {
+                "id": 2991,
+                "name": "Gent"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955464,
+            "date": "22/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
                 "id": 3911,
                 "name": "Union Saint-Gilloise"
+              },
+              "away": {
+                "id": 2941,
+                "name": "Cercle Brugge"
               }
             },
             "status": "pre-match",
@@ -10542,97 +11273,17 @@
             }
           },
           {
-            "id": 955467,
+            "id": 955465,
             "date": "29/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2958,
-                "name": "Sporting Charleroi"
+                "id": 3193,
+                "name": "Anderlecht"
               },
               "away": {
-                "id": 6476,
-                "name": "RAAL La Louviere"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955468,
-            "date": "29/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2991,
-                "name": "Gent"
-              },
-              "away": {
-                "id": 3000,
-                "name": "Sint-Truiden"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955469,
-            "date": "29/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3906,
-                "name": "Mechelen"
-              },
-              "away": {
-                "id": 3905,
-                "name": "Standard Liege"
+                "id": 3911,
+                "name": "Union Saint-Gilloise"
               }
             },
             "status": "pre-match",
@@ -10702,46 +11353,6 @@
             }
           },
           {
-            "id": 955470,
-            "date": "29/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3427,
-                "name": "Genk"
-              },
-              "away": {
-                "id": 3194,
-                "name": "OH Leuven"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 955471,
             "date": "29/11/2025",
             "time": "15:00",
@@ -10782,57 +11393,17 @@
             }
           },
           {
-            "id": 955477,
-            "date": "06/12/2025",
+            "id": 955470,
+            "date": "29/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2994,
-                "name": "Antwerp"
-              },
-              "away": {
                 "id": 3427,
                 "name": "Genk"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955476,
-            "date": "06/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3000,
-                "name": "Sint-Truiden"
               },
               "away": {
-                "id": 2963,
-                "name": "Club Brugge"
+                "id": 3194,
+                "name": "OH Leuven"
               }
             },
             "status": "pre-match",
@@ -10862,8 +11433,8 @@
             }
           },
           {
-            "id": 955475,
-            "date": "06/12/2025",
+            "id": 955469,
+            "date": "29/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
@@ -10871,8 +11442,88 @@
                 "name": "Mechelen"
               },
               "away": {
+                "id": 3905,
+                "name": "Standard Liege"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955468,
+            "date": "29/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2991,
+                "name": "Gent"
+              },
+              "away": {
+                "id": 3000,
+                "name": "Sint-Truiden"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955467,
+            "date": "29/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
                 "id": 2958,
                 "name": "Sporting Charleroi"
+              },
+              "away": {
+                "id": 6476,
+                "name": "RAAL La Louviere"
               }
             },
             "status": "pre-match",
@@ -11102,6 +11753,126 @@
             }
           },
           {
+            "id": 955477,
+            "date": "06/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2994,
+                "name": "Antwerp"
+              },
+              "away": {
+                "id": 3427,
+                "name": "Genk"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955476,
+            "date": "06/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3000,
+                "name": "Sint-Truiden"
+              },
+              "away": {
+                "id": 2963,
+                "name": "Club Brugge"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955475,
+            "date": "06/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3906,
+                "name": "Mechelen"
+              },
+              "away": {
+                "id": 2958,
+                "name": "Sporting Charleroi"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 955486,
             "date": "13/12/2025",
             "time": "15:00",
@@ -11142,17 +11913,17 @@
             }
           },
           {
-            "id": 955487,
+            "id": 955488,
             "date": "13/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2958,
-                "name": "Sporting Charleroi"
+                "id": 2821,
+                "name": "Zulte Waregem"
               },
               "away": {
-                "id": 3911,
-                "name": "Union Saint-Gilloise"
+                "id": 6476,
+                "name": "RAAL La Louviere"
               }
             },
             "status": "pre-match",
@@ -11182,17 +11953,17 @@
             }
           },
           {
-            "id": 955488,
+            "id": 955481,
             "date": "13/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2821,
-                "name": "Zulte Waregem"
+                "id": 5831,
+                "name": "Dender"
               },
               "away": {
-                "id": 6476,
-                "name": "RAAL La Louviere"
+                "id": 2963,
+                "name": "Club Brugge"
               }
             },
             "status": "pre-match",
@@ -11302,46 +12073,6 @@
             }
           },
           {
-            "id": 955481,
-            "date": "13/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 5831,
-                "name": "Dender"
-              },
-              "away": {
-                "id": 2963,
-                "name": "Club Brugge"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 955484,
             "date": "13/12/2025",
             "time": "15:00",
@@ -11422,48 +12153,8 @@
             }
           },
           {
-            "id": 955494,
-            "date": "20/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3015,
-                "name": "Westerlo"
-              },
-              "away": {
-                "id": 6476,
-                "name": "RAAL La Louviere"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955489,
-            "date": "20/12/2025",
+            "id": 955487,
+            "date": "13/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
@@ -11471,8 +12162,8 @@
                 "name": "Sporting Charleroi"
               },
               "away": {
-                "id": 3427,
-                "name": "Genk"
+                "id": 3911,
+                "name": "Union Saint-Gilloise"
               }
             },
             "status": "pre-match",
@@ -11542,137 +12233,17 @@
             }
           },
           {
-            "id": 955491,
+            "id": 955489,
             "date": "20/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3194,
-                "name": "OH Leuven"
+                "id": 2958,
+                "name": "Sporting Charleroi"
               },
               "away": {
-                "id": 2941,
-                "name": "Cercle Brugge"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955492,
-            "date": "20/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3911,
-                "name": "Union Saint-Gilloise"
-              },
-              "away": {
-                "id": 2821,
-                "name": "Zulte Waregem"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955493,
-            "date": "20/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3000,
-                "name": "Sint-Truiden"
-              },
-              "away": {
-                "id": 3906,
-                "name": "Mechelen"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955495,
-            "date": "20/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 5831,
-                "name": "Dender"
-              },
-              "away": {
-                "id": 3905,
-                "name": "Standard Liege"
+                "id": 3427,
+                "name": "Genk"
               }
             },
             "status": "pre-match",
@@ -11742,17 +12313,177 @@
             }
           },
           {
-            "id": 955499,
-            "date": "27/12/2025",
+            "id": 955494,
+            "date": "20/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 6476,
-                "name": "RAAL La Louviere"
+                "id": 3015,
+                "name": "Westerlo"
               },
               "away": {
+                "id": 6476,
+                "name": "RAAL La Louviere"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955495,
+            "date": "20/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 5831,
+                "name": "Dender"
+              },
+              "away": {
+                "id": 3905,
+                "name": "Standard Liege"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955493,
+            "date": "20/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3000,
+                "name": "Sint-Truiden"
+              },
+              "away": {
+                "id": 3906,
+                "name": "Mechelen"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955492,
+            "date": "20/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3911,
+                "name": "Union Saint-Gilloise"
+              },
+              "away": {
+                "id": 2821,
+                "name": "Zulte Waregem"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955491,
+            "date": "20/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
                 "id": 3194,
                 "name": "OH Leuven"
+              },
+              "away": {
+                "id": 2941,
+                "name": "Cercle Brugge"
               }
             },
             "status": "pre-match",
@@ -11793,46 +12524,6 @@
               "away": {
                 "id": 3911,
                 "name": "Union Saint-Gilloise"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955497,
-            "date": "27/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3193,
-                "name": "Anderlecht"
-              },
-              "away": {
-                "id": 2958,
-                "name": "Sporting Charleroi"
               }
             },
             "status": "pre-match",
@@ -12062,177 +12753,57 @@
             }
           },
           {
-            "id": 955507,
-            "date": "17/01/2026",
+            "id": 955499,
+            "date": "27/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2991,
-                "name": "Gent"
-              },
-              "away": {
-                "id": 3193,
-                "name": "Anderlecht"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955506,
-            "date": "17/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2821,
-                "name": "Zulte Waregem"
-              },
-              "away": {
-                "id": 3427,
-                "name": "Genk"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955505,
-            "date": "17/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3911,
-                "name": "Union Saint-Gilloise"
-              },
-              "away": {
-                "id": 3906,
-                "name": "Mechelen"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955512,
-            "date": "17/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 5831,
-                "name": "Dender"
-              },
-              "away": {
-                "id": 2994,
-                "name": "Antwerp"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955511,
-            "date": "17/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3000,
-                "name": "Sint-Truiden"
+                "id": 6476,
+                "name": "RAAL La Louviere"
               },
               "away": {
                 "id": 3194,
                 "name": "OH Leuven"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955497,
+            "date": "27/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3193,
+                "name": "Anderlecht"
+              },
+              "away": {
+                "id": 2958,
+                "name": "Sporting Charleroi"
               }
             },
             "status": "pre-match",
@@ -12302,17 +12873,97 @@
             }
           },
           {
-            "id": 955509,
+            "id": 955505,
             "date": "17/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2963,
-                "name": "Club Brugge"
+                "id": 3911,
+                "name": "Union Saint-Gilloise"
               },
               "away": {
-                "id": 6476,
-                "name": "RAAL La Louviere"
+                "id": 3906,
+                "name": "Mechelen"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955506,
+            "date": "17/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2821,
+                "name": "Zulte Waregem"
+              },
+              "away": {
+                "id": 3427,
+                "name": "Genk"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955507,
+            "date": "17/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2991,
+                "name": "Gent"
+              },
+              "away": {
+                "id": 3193,
+                "name": "Anderlecht"
               }
             },
             "status": "pre-match",
@@ -12382,17 +13033,97 @@
             }
           },
           {
-            "id": 955517,
-            "date": "24/01/2026",
+            "id": 955509,
+            "date": "17/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3194,
-                "name": "OH Leuven"
+                "id": 2963,
+                "name": "Club Brugge"
               },
               "away": {
-                "id": 3911,
-                "name": "Union Saint-Gilloise"
+                "id": 6476,
+                "name": "RAAL La Louviere"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955511,
+            "date": "17/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3000,
+                "name": "Sint-Truiden"
+              },
+              "away": {
+                "id": 3194,
+                "name": "OH Leuven"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955512,
+            "date": "17/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 5831,
+                "name": "Dender"
+              },
+              "away": {
+                "id": 2994,
+                "name": "Antwerp"
               }
             },
             "status": "pre-match",
@@ -12662,6 +13393,46 @@
             }
           },
           {
+            "id": 955517,
+            "date": "24/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3194,
+                "name": "OH Leuven"
+              },
+              "away": {
+                "id": 3911,
+                "name": "Union Saint-Gilloise"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 955518,
             "date": "24/01/2026",
             "time": "15:00",
@@ -12673,6 +13444,86 @@
               "away": {
                 "id": 3000,
                 "name": "Sint-Truiden"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955522,
+            "date": "31/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2941,
+                "name": "Cercle Brugge"
+              },
+              "away": {
+                "id": 2994,
+                "name": "Antwerp"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955521,
+            "date": "31/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 5831,
+                "name": "Dender"
+              },
+              "away": {
+                "id": 3427,
+                "name": "Genk"
               }
             },
             "status": "pre-match",
@@ -12942,177 +13793,17 @@
             }
           },
           {
-            "id": 955522,
-            "date": "31/01/2026",
+            "id": 955534,
+            "date": "07/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2941,
-                "name": "Cercle Brugge"
-              },
-              "away": {
-                "id": 2994,
-                "name": "Antwerp"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955521,
-            "date": "31/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 5831,
-                "name": "Dender"
-              },
-              "away": {
                 "id": 3427,
                 "name": "Genk"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955531,
-            "date": "07/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2991,
-                "name": "Gent"
               },
               "away": {
-                "id": 3194,
-                "name": "OH Leuven"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955530,
-            "date": "07/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3911,
-                "name": "Union Saint-Gilloise"
-              },
-              "away": {
-                "id": 6476,
-                "name": "RAAL La Louviere"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955529,
-            "date": "07/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2958,
-                "name": "Sporting Charleroi"
-              },
-              "away": {
-                "id": 2941,
-                "name": "Cercle Brugge"
+                "id": 3193,
+                "name": "Anderlecht"
               }
             },
             "status": "pre-match",
@@ -13182,17 +13873,17 @@
             }
           },
           {
-            "id": 955535,
+            "id": 955529,
             "date": "07/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2963,
-                "name": "Club Brugge"
+                "id": 2958,
+                "name": "Sporting Charleroi"
               },
               "away": {
-                "id": 3905,
-                "name": "Standard Liege"
+                "id": 2941,
+                "name": "Cercle Brugge"
               }
             },
             "status": "pre-match",
@@ -13222,17 +13913,17 @@
             }
           },
           {
-            "id": 955534,
+            "id": 955530,
             "date": "07/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3427,
-                "name": "Genk"
+                "id": 3911,
+                "name": "Union Saint-Gilloise"
               },
               "away": {
-                "id": 3193,
-                "name": "Anderlecht"
+                "id": 6476,
+                "name": "RAAL La Louviere"
               }
             },
             "status": "pre-match",
@@ -13262,17 +13953,17 @@
             }
           },
           {
-            "id": 955533,
+            "id": 955531,
             "date": "07/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3906,
-                "name": "Mechelen"
+                "id": 2991,
+                "name": "Gent"
               },
               "away": {
-                "id": 2994,
-                "name": "Antwerp"
+                "id": 3194,
+                "name": "OH Leuven"
               }
             },
             "status": "pre-match",
@@ -13342,8 +14033,8 @@
             }
           },
           {
-            "id": 955537,
-            "date": "14/02/2026",
+            "id": 955533,
+            "date": "07/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
@@ -13351,8 +14042,48 @@
                 "name": "Mechelen"
               },
               "away": {
-                "id": 3427,
-                "name": "Genk"
+                "id": 2994,
+                "name": "Antwerp"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955535,
+            "date": "07/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2963,
+                "name": "Club Brugge"
+              },
+              "away": {
+                "id": 3905,
+                "name": "Standard Liege"
               }
             },
             "status": "pre-match",
@@ -13422,137 +14153,17 @@
             }
           },
           {
-            "id": 955539,
+            "id": 955537,
             "date": "14/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3194,
-                "name": "OH Leuven"
+                "id": 3906,
+                "name": "Mechelen"
               },
               "away": {
-                "id": 5831,
-                "name": "Dender"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955540,
-            "date": "14/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3193,
-                "name": "Anderlecht"
-              },
-              "away": {
-                "id": 6476,
-                "name": "RAAL La Louviere"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955541,
-            "date": "14/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2958,
-                "name": "Sporting Charleroi"
-              },
-              "away": {
-                "id": 2991,
-                "name": "Gent"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955542,
-            "date": "14/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2994,
-                "name": "Antwerp"
-              },
-              "away": {
-                "id": 3015,
-                "name": "Westerlo"
+                "id": 3427,
+                "name": "Genk"
               }
             },
             "status": "pre-match",
@@ -13633,6 +14244,206 @@
               "away": {
                 "id": 2821,
                 "name": "Zulte Waregem"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955542,
+            "date": "14/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2994,
+                "name": "Antwerp"
+              },
+              "away": {
+                "id": 3015,
+                "name": "Westerlo"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955541,
+            "date": "14/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2958,
+                "name": "Sporting Charleroi"
+              },
+              "away": {
+                "id": 2991,
+                "name": "Gent"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955540,
+            "date": "14/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3193,
+                "name": "Anderlecht"
+              },
+              "away": {
+                "id": 6476,
+                "name": "RAAL La Louviere"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955539,
+            "date": "14/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3194,
+                "name": "OH Leuven"
+              },
+              "away": {
+                "id": 5831,
+                "name": "Dender"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955552,
+            "date": "21/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3427,
+                "name": "Genk"
+              },
+              "away": {
+                "id": 3905,
+                "name": "Standard Liege"
               }
             },
             "status": "pre-match",
@@ -13942,57 +14753,17 @@
             }
           },
           {
-            "id": 955552,
-            "date": "21/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3427,
-                "name": "Genk"
-              },
-              "away": {
-                "id": 3905,
-                "name": "Standard Liege"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955559,
+            "id": 955560,
             "date": "28/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3905,
-                "name": "Standard Liege"
+                "id": 3906,
+                "name": "Mechelen"
               },
               "away": {
-                "id": 6476,
-                "name": "RAAL La Louviere"
+                "id": 2821,
+                "name": "Zulte Waregem"
               }
             },
             "status": "pre-match",
@@ -14142,46 +14913,6 @@
             }
           },
           {
-            "id": 955560,
-            "date": "28/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3906,
-                "name": "Mechelen"
-              },
-              "away": {
-                "id": 2821,
-                "name": "Zulte Waregem"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 955556,
             "date": "28/02/2026",
             "time": "15:00",
@@ -14302,17 +15033,17 @@
             }
           },
           {
-            "id": 955564,
-            "date": "07/03/2026",
+            "id": 955559,
+            "date": "28/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3000,
-                "name": "Sint-Truiden"
+                "id": 3905,
+                "name": "Standard Liege"
               },
               "away": {
-                "id": 2941,
-                "name": "Cercle Brugge"
+                "id": 6476,
+                "name": "RAAL La Louviere"
               }
             },
             "status": "pre-match",
@@ -14502,6 +15233,46 @@
             }
           },
           {
+            "id": 955564,
+            "date": "07/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3000,
+                "name": "Sint-Truiden"
+              },
+              "away": {
+                "id": 2941,
+                "name": "Cercle Brugge"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 955563,
             "date": "07/03/2026",
             "time": "15:00",
@@ -14622,46 +15393,6 @@
             }
           },
           {
-            "id": 955574,
-            "date": "14/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2991,
-                "name": "Gent"
-              },
-              "away": {
-                "id": 2821,
-                "name": "Zulte Waregem"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 955569,
             "date": "14/03/2026",
             "time": "15:00",
@@ -14673,166 +15404,6 @@
               "away": {
                 "id": 3905,
                 "name": "Standard Liege"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955570,
-            "date": "14/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3906,
-                "name": "Mechelen"
-              },
-              "away": {
-                "id": 3193,
-                "name": "Anderlecht"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955571,
-            "date": "14/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3911,
-                "name": "Union Saint-Gilloise"
-              },
-              "away": {
-                "id": 5831,
-                "name": "Dender"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955572,
-            "date": "14/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3015,
-                "name": "Westerlo"
-              },
-              "away": {
-                "id": 2963,
-                "name": "Club Brugge"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955573,
-            "date": "14/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3427,
-                "name": "Genk"
-              },
-              "away": {
-                "id": 3000,
-                "name": "Sint-Truiden"
               }
             },
             "status": "pre-match",
@@ -14942,137 +15513,17 @@
             }
           },
           {
-            "id": 955582,
-            "date": "21/03/2026",
+            "id": 955574,
+            "date": "14/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3905,
-                "name": "Standard Liege"
+                "id": 2991,
+                "name": "Gent"
               },
               "away": {
-                "id": 3015,
-                "name": "Westerlo"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955581,
-            "date": "21/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2963,
-                "name": "Club Brugge"
-              },
-              "away": {
-                "id": 3906,
-                "name": "Mechelen"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955580,
-            "date": "21/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 6476,
-                "name": "RAAL La Louviere"
-              },
-              "away": {
-                "id": 3427,
-                "name": "Genk"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955579,
-            "date": "21/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
                 "id": 2821,
                 "name": "Zulte Waregem"
-              },
-              "away": {
-                "id": 2958,
-                "name": "Sporting Charleroi"
               }
             },
             "status": "pre-match",
@@ -15102,17 +15553,177 @@
             }
           },
           {
-            "id": 955578,
+            "id": 955573,
+            "date": "14/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3427,
+                "name": "Genk"
+              },
+              "away": {
+                "id": 3000,
+                "name": "Sint-Truiden"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955572,
+            "date": "14/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3015,
+                "name": "Westerlo"
+              },
+              "away": {
+                "id": 2963,
+                "name": "Club Brugge"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955571,
+            "date": "14/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3911,
+                "name": "Union Saint-Gilloise"
+              },
+              "away": {
+                "id": 5831,
+                "name": "Dender"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955570,
+            "date": "14/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3906,
+                "name": "Mechelen"
+              },
+              "away": {
+                "id": 3193,
+                "name": "Anderlecht"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955583,
             "date": "21/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3194,
-                "name": "OH Leuven"
+                "id": 3193,
+                "name": "Anderlecht"
               },
               "away": {
-                "id": 2994,
-                "name": "Antwerp"
+                "id": 2941,
+                "name": "Cercle Brugge"
               }
             },
             "status": "pre-match",
@@ -15182,17 +15793,17 @@
             }
           },
           {
-            "id": 955584,
+            "id": 955578,
             "date": "21/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 5831,
-                "name": "Dender"
+                "id": 3194,
+                "name": "OH Leuven"
               },
               "away": {
-                "id": 2991,
-                "name": "Gent"
+                "id": 2994,
+                "name": "Antwerp"
               }
             },
             "status": "pre-match",
@@ -15222,17 +15833,177 @@
             }
           },
           {
-            "id": 955583,
+            "id": 955579,
             "date": "21/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3193,
-                "name": "Anderlecht"
+                "id": 2821,
+                "name": "Zulte Waregem"
               },
               "away": {
-                "id": 2941,
-                "name": "Cercle Brugge"
+                "id": 2958,
+                "name": "Sporting Charleroi"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955580,
+            "date": "21/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 6476,
+                "name": "RAAL La Louviere"
+              },
+              "away": {
+                "id": 3427,
+                "name": "Genk"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955581,
+            "date": "21/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2963,
+                "name": "Club Brugge"
+              },
+              "away": {
+                "id": 3906,
+                "name": "Mechelen"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955582,
+            "date": "21/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3905,
+                "name": "Standard Liege"
+              },
+              "away": {
+                "id": 3015,
+                "name": "Westerlo"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955584,
+            "date": "21/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 5831,
+                "name": "Dender"
+              },
+              "away": {
+                "id": 2991,
+                "name": "Gent"
               }
             },
             "status": "pre-match",

@@ -20,6 +20,32 @@
       "standings": [
         {
           "position": 1,
+          "team_id": 3883,
+          "team_name": "Rheindorf Altach",
+          "position_attribute": "Championship Playoff",
+          "games_played": 3,
+          "points": 7,
+          "wins": 2,
+          "draws": 1,
+          "losses": 0,
+          "goals_for": 3,
+          "goals_against": 0
+        },
+        {
+          "position": 2,
+          "team_id": 2927,
+          "team_name": "Rapid Vienna",
+          "position_attribute": "Championship Playoff",
+          "games_played": 3,
+          "points": 7,
+          "wins": 2,
+          "draws": 1,
+          "losses": 0,
+          "goals_for": 3,
+          "goals_against": 1
+        },
+        {
+          "position": 3,
           "team_id": 2996,
           "team_name": "Salzburg",
           "position_attribute": "Championship Playoff",
@@ -32,7 +58,7 @@
           "goals_against": 3
         },
         {
-          "position": 2,
+          "position": 4,
           "team_id": 3886,
           "team_name": "WSG Tirol",
           "position_attribute": "Championship Playoff",
@@ -43,32 +69,6 @@
           "losses": 0,
           "goals_for": 8,
           "goals_against": 4
-        },
-        {
-          "position": 3,
-          "team_id": 2927,
-          "team_name": "Rapid Vienna",
-          "position_attribute": "Championship Playoff",
-          "games_played": 2,
-          "points": 6,
-          "wins": 2,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 3,
-          "goals_against": 1
-        },
-        {
-          "position": 4,
-          "team_id": 3883,
-          "team_name": "Rheindorf Altach",
-          "position_attribute": "Championship Playoff",
-          "games_played": 2,
-          "points": 6,
-          "wins": 2,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 3,
-          "goals_against": 0
         },
         {
           "position": 5,
@@ -88,12 +88,12 @@
           "team_id": 3107,
           "team_name": "Wolfsberger AC",
           "position_attribute": "Championship Playoff",
-          "games_played": 2,
-          "points": 3,
-          "wins": 1,
+          "games_played": 3,
+          "points": 6,
+          "wins": 2,
           "draws": 0,
           "losses": 1,
-          "goals_for": 2,
+          "goals_for": 5,
           "goals_against": 2
         },
         {
@@ -111,6 +111,19 @@
         },
         {
           "position": 8,
+          "team_id": 3112,
+          "team_name": "LASK",
+          "position_attribute": "Relegation Playoff",
+          "games_played": 3,
+          "points": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goals_for": 3,
+          "goals_against": 6
+        },
+        {
+          "position": 9,
           "team_id": 5742,
           "team_name": "Grazer AK",
           "position_attribute": "Relegation Playoff",
@@ -123,20 +136,20 @@
           "goals_against": 8
         },
         {
-          "position": 9,
+          "position": 10,
           "team_id": 3584,
           "team_name": "Austria Vienna",
           "position_attribute": "Relegation Playoff",
-          "games_played": 2,
+          "games_played": 3,
           "points": 1,
           "wins": 0,
           "draws": 1,
-          "losses": 1,
-          "goals_for": 2,
-          "goals_against": 4
+          "losses": 2,
+          "goals_for": 3,
+          "goals_against": 6
         },
         {
-          "position": 10,
+          "position": 11,
           "team_id": 2954,
           "team_name": "Ried",
           "position_attribute": "Relegation Playoff",
@@ -149,29 +162,16 @@
           "goals_against": 6
         },
         {
-          "position": 11,
+          "position": 12,
           "team_id": 5057,
           "team_name": "Blau-Weiss Linz",
           "position_attribute": "Relegation Playoff",
-          "games_played": 2,
+          "games_played": 3,
           "points": 0,
           "wins": 0,
           "draws": 0,
-          "losses": 2,
+          "losses": 3,
           "goals_for": 0,
-          "goals_against": 2
-        },
-        {
-          "position": 12,
-          "team_id": 3112,
-          "team_name": "LASK",
-          "position_attribute": "Relegation Playoff",
-          "games_played": 2,
-          "points": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 2,
-          "goals_for": 1,
           "goals_against": 5
         }
       ]
