@@ -145,6 +145,15 @@ export default function ClassificaOlandaPubblica() {
   return (
     <Layout>
       <h1>Classifica Eredivisie {season}</h1>
+      <p>
+        L’Eredivisie è il campionato olandese, conosciuto per il suo calcio offensivo e per l’attenzione alla crescita 
+        dei giovani talenti. Da decenni la competizione è caratterizzata dal dominio del trio storico formato da Ajax, 
+        PSV Eindhoven e Feyenoord, protagonisti di sfide che hanno fatto la storia del calcio europeo.
+        <br />
+        La classifica dell’Eredivisie riflette un torneo spettacolare, ricco di gol e spesso imprevedibile: oltre alla 
+        corsa al titolo, la lotta per i posti in Europa e quella per la salvezza mantengono vivo l’interesse fino alle 
+        ultime giornate, confermando la vivacità del calcio olandese.
+      </p>
 
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
 

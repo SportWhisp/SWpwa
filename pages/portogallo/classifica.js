@@ -145,6 +145,16 @@ export default function ClassificaPortogalloPubblica() {
   return (
     <Layout>
       <h1>Classifica Primeira Liga {season}</h1>
+      <p>
+        La Primeira Liga è il massimo campionato portoghese e da sempre è dominata dal trio storico formato da Benfica, 
+        Porto e Sporting Lisbona, che si dividono quasi tutti i titoli nazionali. Nonostante questo equilibrio al vertice, 
+        il torneo è spesso terreno fertile per sorprese e per l’ascesa di club emergenti capaci di mettere in difficoltà 
+        le big.
+        <br />
+        La classifica della Primeira Liga non racconta solo la lotta scudetto, ma anche la corsa verso le coppe europee 
+        e le sfide salvezza: un percorso che ogni anno vede protagonisti giovani talenti destinati a lasciare il segno 
+        anche nei grandi campionati europei.
+      </p>
 
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
 

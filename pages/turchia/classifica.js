@@ -108,6 +108,16 @@ const tabsDisponibili = stagioniSoloComplete.includes(season)
   return (
     <Layout>
       <h1>Classifica Süper Lig {season}</h1>
+      <p>
+        La Süper Lig è il massimo campionato turco, celebre per la passione travolgente dei tifosi e per la storica 
+        rivalità tra i tre grandi club di Istanbul: Galatasaray, Fenerbahçe e Beşiktaş. Negli ultimi anni anche altre 
+        realtà, come il Trabzonspor e il Başakşehir, hanno saputo inserirsi nella corsa ai vertici, aumentando il livello 
+        di competizione.
+        <br />
+        La classifica della Süper Lig racconta un torneo intenso e spesso imprevedibile, in cui il fattore campo gioca 
+        un ruolo determinante grazie all’atmosfera unica degli stadi turchi. Ogni stagione regala duelli appassionanti 
+        per il titolo, l’Europa e la salvezza.
+      </p>
 
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
 

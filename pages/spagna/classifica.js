@@ -145,6 +145,16 @@ export default function ClassificaSpagnaPubblica() {
   return (
     <Layout>
       <h1>Classifica La Liga {season}</h1>
+      <p>
+        La Liga è il campionato spagnolo, celebre per la qualità tecnica e per il fascino delle sue rivalità storiche. 
+        Per anni il titolo è stato terreno di conquista del Real Madrid e del Barcellona, club che hanno dato vita a 
+        un “Clásico” seguito in tutto il mondo. Negli ultimi tempi anche l’Atlético Madrid ha consolidato il suo ruolo 
+        da protagonista, portando maggiore equilibrio nella corsa al vertice.
+        <br />
+        La classifica della Liga racconta un torneo in cui il talento dei singoli incontra tattiche raffinate e un livello 
+        competitivo sempre alto, con squadre di medio calibro spesso capaci di sorprendere le big e di ribaltare gli 
+        equilibri.
+      </p>
 
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
 

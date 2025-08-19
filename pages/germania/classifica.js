@@ -149,6 +149,15 @@ export default function ClassificaGermaniaPubblica() {
   return (
     <Layout>
       <h1>Classifica Bundesliga {season}</h1>
+      <p>
+        La Bundesliga è il campionato di calcio tedesco, noto per la passione dei tifosi e gli stadi sempre pieni. Per 
+        oltre un decennio il torneo è stato dominato dal Bayern Monaco, simbolo di continuità e potenza tecnica, ma 
+        negli ultimi anni la corsa al titolo si è riaperta grazie alla crescita del Borussia Dortmund e al progetto 
+        in ascesa del RB Lipsia.
+        <br />
+        La classifica della Bundesliga non è mai solo un elenco di numeri: riflette un calcio dinamico, fatto di ritmo 
+        alto, giovani talenti e un equilibrio che spesso lascia aperta la lotta per l’Europa fino all’ultima giornata.
+      </p>
 
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
 

@@ -145,6 +145,16 @@ export default function ClassificaInghilterraPubblica() {
   return (
     <Layout>
       <h1>Classifica Premier League {season}</h1>
+      <p>
+        La Premier League è il campionato inglese e viene considerata da molti come la lega più competitiva e spettacolare 
+        al mondo. La corsa al titolo negli ultimi anni ha visto protagonisti club come il Manchester City, capace di 
+        dominare grazie al suo progetto tecnico, ma anche storiche rivali come Liverpool, Arsenal, Chelsea e Manchester 
+        United, che mantengono vivo un livello altissimo di concorrenza.
+        <br />
+        La classifica della Premier riflette un torneo in cui ogni giornata può riservare sorprese: anche le squadre di 
+        metà e bassa classifica sono in grado di fermare le big, rendendo la lotta per l’Europa e la salvezza emozionante 
+        fino all’ultima partita.
+      </p>
 
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
 

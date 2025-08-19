@@ -151,6 +151,16 @@ export default function ClassificaFranciaPubblica() {
   return (
     <Layout>
       <h1>Classifica Ligue 1 {season}</h1>
+      <p>
+        La Ligue 1 è il massimo campionato francese e negli ultimi anni è stato dominato dal Paris Saint-Germain, capace 
+        di attrarre alcune delle stelle più luminose del calcio mondiale. Tuttavia, la storia del torneo non è scritta 
+        solo a Parigi: club come l’Olympique Marsiglia, il Lione e il Monaco hanno costruito tradizione e rivalità accese, 
+        spesso capaci di ribaltare i pronostici.
+        <br />
+        Oggi la Ligue 1 è una vetrina di giovani talenti che si affermano prima di spiccare il volo verso i principali 
+        campionati europei, e la classifica riflette l’equilibrio tra il dominio delle big e le sorprese che ogni stagione 
+        emergono dalle realtà più piccole ma organizzate.
+      </p>
 
       {/* ✅ Selettore stagione */}
       <SeasonSelector country={LEAGUE} season={season} setSeason={setSeason} />
