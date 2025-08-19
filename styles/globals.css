@@ -200,6 +200,10 @@
   font-weight: bold;
 }
 
+p {
+  text-align: justify;
+}
+
 .affidabile {
   color: #006400;
   font-weight: bold;

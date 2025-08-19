@@ -47,6 +47,8 @@ export default function Commenti() {
 
       {/* 🔵 INSERISCI QUI IL TUO COMMENTO SETTIMANALE 🔵 */}
       <section style={{ marginTop: 24 }}>
+        <h2>WHISP periodo 15-18/08/2025</h2>
+
         <h3>✅ 18/08/2025 Elche CF vs Real Betis Balompié - GOL 79.63%</h3>
         <p>
           Risultato: 1 - 1
