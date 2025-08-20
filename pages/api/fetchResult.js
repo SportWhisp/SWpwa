@@ -18,6 +18,7 @@ export default async function handler(req, res) {
     germania: 78,
     spagna: 140,
     inghilterra: 39,
+    ing2: 40,
     portogallo: 94,
     olanda: 88,
     turchia: 203,
@@ -28,7 +29,8 @@ export default async function handler(req, res) {
     polonia: 106,     // Ekstraklasa
     romania: 283,     // Liga I
     svizzera: 207,    // Super League
-    ungheria: 2184    // NB I (Nemzeti Bajnokság I)
+    ungheria: 2184,   // NB I (Nemzeti Bajnokság I)
+    brasile: 71       // Serie A (Brasileirão)
   };
 
   const API_KEY = process.env.API_FOOTBALL_KEY;
