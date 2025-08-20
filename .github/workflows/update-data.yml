@@ -1,0 +1,78 @@
+name: Aggiorna dati calcio
+
+on:
+  schedule:
+    # 06:00 UTC+2 = 04:00 UTC → quindi usiamo 04:00 (UTC) = 06:00 Italia
+    - cron: "0 4 * * *"
+    # 20:00 Italia = 18:00 UTC
+    - cron: "0 18 * * *"
+    # 06:10 Italia = 04:10 UTC
+    - cron: "10 4 * * *"
+    # 20:10 Italia = 18:10 UTC
+    - cron: "10 18 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Build Next
+        run: npm run build
+
+      - name: Start Next server
+        run: |
+          nohup npm start >/dev/null 2>&1 &
+          echo "Avvio server..."
+          sleep 15
+
+      - name: Run fetchData (06:00 e 20:00)
+        if: github.event.schedule == '0 4 * * *' || github.event.schedule == '0 18 * * *'
+        run: |
+          echo ">>> fetchDataOrg"
+          for league in italia francia germania spagna inghilterra portogallo olanda; do
+            curl -sS "http://localhost:3000/api/fetchDataOrg?league=$league&season=2025-2026"
+          done
+
+          echo ">>> fetchDataSoc"
+          for league in turchia austria belgio danimarca grecia polonia romania svizzera ungheria; do
+            curl -sS "http://localhost:3000/api/fetchDataSoc?league=$league"
+          done
+
+      - name: Run fetchResult (06:10 e 20:10)
+        if: github.event.schedule == '10 4 * * *' || github.event.schedule == '10 18 * * *'
+        run: |
+          echo ">>> fetchResultOrg"
+          for league in italia francia germania spagna inghilterra portogallo olanda; do
+            curl -sS "http://localhost:3000/api/fetchResultOrg?league=$league&season=2025-2026"
+          done
+
+          echo ">>> fetchResultSoc"
+          for league in turchia austria belgio danimarca grecia polonia romania svizzera ungheria; do
+            curl -sS "http://localhost:3000/api/fetchResultSoc?league=$league&season=2025-2026"
+          done
+
+      - name: Commit JSON changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m "update: refresh dati JSON automatico"
+            git push
+          else
+            echo "Nessuna modifica trovata."
+          fi
