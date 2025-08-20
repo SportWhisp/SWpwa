@@ -19,7 +19,9 @@ export default async function handler(req, res) {
     spagna: "PD",
     inghilterra: "PL",
     portogallo: "PPL",
-    olanda: "DED"
+    olanda: "DED",
+    ing2: "ELC",
+    brasile: "BSA"
   };
 
   const API_KEY = process.env.API_FOOTBALLDATA_KEY;
