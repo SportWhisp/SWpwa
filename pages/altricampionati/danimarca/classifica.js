@@ -3,6 +3,7 @@ import Layout from "@/components/Layout";
 import SeasonSelector from "@/components/SeasonSelector";
 import TableClassifica from "@/components/TableClassifica";
 import FormIndicator from "@/components/FormIndicator";
+import Head from "next/head";
 
 export default function ClassificaDanimarcaPubblica() {
   const [season, setSeason] = useState("2025-2026");
@@ -133,6 +134,24 @@ export default function ClassificaDanimarcaPubblica() {
 
   return (
     <Layout>
+      <Head>
+  <title>Classifica Superliga Danese | SportWhisp</title>
+  <meta
+    name="description"
+    content="Classifica Superliga danese aggiornata: punti, differenza reti, rendimento casa/trasferta e forma. Statistiche aggiornate su SportWhisp."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/altricampionati/danimarca/classifica" />
+  <meta property="og:title" content="Classifica Superliga Danese | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Tabella Superliga danese aggiornata con punti, diff reti, casa/trasferta e forma. Statistiche complete su SportWhisp."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/altricampionati/danimarca/classifica" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
+
       <h1>Classifica Superliga Danese {season}</h1>
       <p>
         La Superligaen è il principale campionato danese e negli ultimi anni ha visto alternarsi diverse protagoniste. 

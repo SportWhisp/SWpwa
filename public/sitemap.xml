@@ -27,6 +27,29 @@
   <url><loc>https://sportwhisp.it/altricampionati/svizzera</loc></url>
   <url><loc>https://sportwhisp.it/altricampionati/ungheria</loc></url>
 
+  <!-- Resocondo settimanale -->
+  <url><loc>https://sportwhisp.it/commenti</loc></url>
+
+  <!-- Classifiche Principali nazioni -->
+  <url><loc>https://sportwhisp.it/italia/classifica</loc></url>
+  <url><loc>https://sportwhisp.it/francia/classifica</loc></url>
+  <url><loc>https://sportwhisp.it/germania/classifica</loc></url>
+  <url><loc>https://sportwhisp.it/spagna/classifica</loc></url>
+  <url><loc>https://sportwhisp.it/inghilterra/classifica</loc></url>
+  <url><loc>https://sportwhisp.it/portogallo/classifica</loc></url>
+  <url><loc>https://sportwhisp.it/olanda/classifica</loc></url>
+  <url><loc>https://sportwhisp.it/turchia/classifica</loc></url>
+
+    <!-- Classifiche Altri campionati -->
+  <url><loc>https://sportwhisp.it/altricampionati/austria/classifica</loc></url>
+  <url><loc>https://sportwhisp.it/altricampionati/belgio/classifica</loc></url>
+  <url><loc>https://sportwhisp.it/altricampionati/danimarca/classifica</loc></url>
+  <url><loc>https://sportwhisp.it/altricampionati/grecia/classifica</loc></url>
+  <url><loc>https://sportwhisp.it/altricampionati/polonia/classifica</loc></url>
+  <url><loc>https://sportwhisp.it/altricampionati/romania/classifica</loc></url>
+  <url><loc>https://sportwhisp.it/altricampionati/svizzera/classifica</loc></url>
+  <url><loc>https://sportwhisp.it/altricampionati/ungheria/classifica</loc></url>
+
   <!-- Policy -->
   <url><loc>https://sportwhisp.it/privacy-policy</loc></url>
   <url><loc>https://sportwhisp.it/cookie-policy</loc></url>

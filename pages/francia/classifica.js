@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import Layout from "@/components/Layout";
 import SeasonSelector from "@/components/SeasonSelector";
 import TableClassifica from "@/components/TableClassifica";
+import Head from "next/head";
 
 export default function ClassificaFranciaPubblica() {
   const [season, setSeason] = useState("2025-2026");
@@ -150,6 +151,25 @@ export default function ClassificaFranciaPubblica() {
 
   return (
     <Layout>
+    <Head>
+  <title>Classifica Ligue 1 | SportWhisp</title>
+  <meta
+    name="description"
+    content="Classifica Ligue 1 aggiornata: punti, differenza reti, rendimento casa/trasferta e forma. Dati aggiornati automaticamente su SportWhisp."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/francia/classifica" />
+  <meta property="og:title" content="Classifica Ligue 1 | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Tabella Ligue 1 aggiornata con punti, diff reti, casa/trasferta e forma. Statistiche complete su SportWhisp."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/francia/classifica" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
+
+
       <h1>Classifica Ligue 1 {season}</h1>
       <p>
         La Ligue 1 è il massimo campionato francese e negli ultimi anni è stato dominato dal Paris Saint-Germain, capace 

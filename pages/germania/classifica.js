@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import Layout from "@/components/Layout";
 import SeasonSelector from "@/components/SeasonSelector";
 import TableClassifica from "@/components/TableClassifica";
+import Head from "next/head";
 
 export default function ClassificaGermaniaPubblica() {
   const [season, setSeason] = useState("2025-2026");
@@ -148,6 +149,24 @@ export default function ClassificaGermaniaPubblica() {
 
   return (
     <Layout>
+    <Head>
+  <title>Classifica Bundesliga | SportWhisp</title>
+  <meta
+    name="description"
+    content="Classifica Bundesliga aggiornata: punti, differenza reti, rendimento casa/trasferta e forma. Dati aggiornati automaticamente su SportWhisp."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/germania/classifica" />
+  <meta property="og:title" content="Classifica Bundesliga | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Tabella Bundesliga aggiornata con punti, diff reti, casa/trasferta e forma. Statistiche complete su SportWhisp."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/germania/classifica" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
+
       <h1>Classifica Bundesliga {season}</h1>
       <p>
         La Bundesliga è il campionato di calcio tedesco, noto per la passione dei tifosi e gli stadi sempre pieni. Per 

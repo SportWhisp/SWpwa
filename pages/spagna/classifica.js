@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import Layout from "@/components/Layout";
 import SeasonSelector from "@/components/SeasonSelector";
 import TableClassifica from "@/components/TableClassifica";
+import Head from "next/head";
 
 export default function ClassificaSpagnaPubblica() {
   const [season, setSeason] = useState("2025-2026");
@@ -144,6 +145,24 @@ export default function ClassificaSpagnaPubblica() {
 
   return (
     <Layout>
+    <Head>
+  <title>Classifica La Liga | SportWhisp</title>
+  <meta
+    name="description"
+    content="Classifica La Liga aggiornata: punti, differenza reti, rendimento casa/trasferta e forma. Dati aggiornati automaticamente su SportWhisp."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/spagna/classifica" />
+  <meta property="og:title" content="Classifica La Liga | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Tabella La Liga aggiornata con punti, diff reti, casa/trasferta e forma. Statistiche complete su SportWhisp."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/spagna/classifica" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
+
       <h1>Classifica La Liga {season}</h1>
       <p>
         La Liga è il campionato spagnolo, celebre per la qualità tecnica e per il fascino delle sue rivalità storiche. 

@@ -3,6 +3,7 @@ import Layout from "@/components/Layout";
 import SeasonSelector from "@/components/SeasonSelector";
 import TableClassifica from "@/components/TableClassifica";
 import FormIndicator from "@/components/FormIndicator";
+import Head from "next/head";
 
 export default function ClassificaTurchiaPubblica() {
   const [season, setSeason] = useState("2025-2026");
@@ -107,6 +108,24 @@ const tabsDisponibili = stagioniSoloComplete.includes(season)
 
   return (
     <Layout>
+    <Head>
+  <title>Classifica Super Lig | SportWhisp</title>
+  <meta
+    name="description"
+    content="Classifica Super Lig aggiornata: punti, differenza reti, rendimento casa/trasferta e forma. Dati aggiornati automaticamente su SportWhisp."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/turchia/classifica" />
+  <meta property="og:title" content="Classifica Super Lig | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Tabella Super Lig aggiornata con punti, diff reti, casa/trasferta e forma. Statistiche complete su SportWhisp."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/turchia/classifica" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
+
       <h1>Classifica Süper Lig {season}</h1>
       <p>
         La Süper Lig è il massimo campionato turco, celebre per la passione travolgente dei tifosi e per la storica 

@@ -3,6 +3,7 @@ import Layout from "@/components/Layout";
 import SeasonSelector from "@/components/SeasonSelector";
 import TableClassifica from "@/components/TableClassifica";
 import FormIndicator from "@/components/FormIndicator";
+import Head from "next/head";
 
 export default function ClassificaGreciaPubblica() {
   const [season, setSeason] = useState("2025-2026");
@@ -131,6 +132,24 @@ export default function ClassificaGreciaPubblica() {
 
   return (
     <Layout>
+      <Head>
+  <title>Classifica Super League Grecia | SportWhisp</title>
+  <meta
+    name="description"
+    content="Classifica Super League greca aggiornata: punti, differenza reti, rendimento casa/trasferta e forma. Statistiche aggiornate su SportWhisp."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/altricampionati/grecia/classifica" />
+  <meta property="og:title" content="Classifica Super League Grecia | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Tabella Super League greca aggiornata con punti, diff reti, casa/trasferta e forma. Statistiche complete su SportWhisp."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/altricampionati/grecia/classifica" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
+
       <h1>Classifica Super League Greca {season}</h1>
       <p>
         La Super League è il massimo campionato greco, caratterizzato da un forte legame con la tradizione e da 

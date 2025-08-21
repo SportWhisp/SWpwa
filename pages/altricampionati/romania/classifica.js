@@ -3,6 +3,7 @@ import Layout from "@/components/Layout";
 import SeasonSelector from "@/components/SeasonSelector";
 import TableClassifica from "@/components/TableClassifica";
 import FormIndicator from "@/components/FormIndicator";
+import Head from "next/head";
 
 export default function ClassificaRomaniaPubblica() {
   const [season, setSeason] = useState("2025-2026");
@@ -131,6 +132,24 @@ export default function ClassificaRomaniaPubblica() {
 
   return (
     <Layout>
+      <Head>
+  <title>Classifica Liga I Romania | SportWhisp</title>
+  <meta
+    name="description"
+    content="Classifica Liga I rumena aggiornata: punti, differenza reti, rendimento casa/trasferta e forma. Statistiche aggiornate su SportWhisp."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/altricampionati/romania/classifica" />
+  <meta property="og:title" content="Classifica Liga I Romania | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Tabella Liga I rumena aggiornata con punti, diff reti, casa/trasferta e forma. Statistiche complete su SportWhisp."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/altricampionati/romania/classifica" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
+
       <h1>Classifica Liga 1 Romena {season}</h1>
       <p>
         La Liga I è il principale campionato di calcio rumeno, storicamente dominato da club come la Steaua Bucarest 

@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import Layout from "@/components/Layout";
 import SeasonSelector from "@/components/SeasonSelector";
 import TableClassifica from "@/components/TableClassifica";
+import Head from "next/head";
 
 export default function ClassificaInghilterraPubblica() {
   const [season, setSeason] = useState("2025-2026");
@@ -144,6 +145,24 @@ export default function ClassificaInghilterraPubblica() {
 
   return (
     <Layout>
+    <Head>
+  <title>Classifica Premier League | SportWhisp</title>
+  <meta
+    name="description"
+    content="Classifica Premier League aggiornata: punti, differenza reti, rendimento casa/trasferta e forma. Dati aggiornati automaticamente su SportWhisp."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/inghilterra/classifica" />
+  <meta property="og:title" content="Classifica Premier League | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Tabella Premier League aggiornata con punti, diff reti, casa/trasferta e forma. Statistiche complete su SportWhisp."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/inghilterra/classifica" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
+
       <h1>Classifica Premier League {season}</h1>
       <p>
         La Premier League è il campionato inglese e viene considerata da molti come la lega più competitiva e spettacolare 

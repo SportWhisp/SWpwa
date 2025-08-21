@@ -3,6 +3,7 @@ import Layout from "@/components/Layout";
 import SeasonSelector from "@/components/SeasonSelector";
 import TableClassifica from "@/components/TableClassifica";
 import FormIndicator from "@/components/FormIndicator";
+import Head from "next/head";
 
 export default function ClassificaBelgioPubblica() {
   const [season, setSeason] = useState("2025-2026");
@@ -133,6 +134,24 @@ export default function ClassificaBelgioPubblica() {
 
   return (
     <Layout>
+      <Head>
+  <title>Classifica Pro League Belgio | SportWhisp</title>
+  <meta
+    name="description"
+    content="Classifica Pro League belga aggiornata: punti, differenza reti, rendimento casa/trasferta e forma. Statistiche aggiornate su SportWhisp."
+  />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://sportwhisp.it/altricampionati/belgio/classifica" />
+  <meta property="og:title" content="Classifica Pro League Belgio | SportWhisp" />
+  <meta
+    property="og:description"
+    content="Tabella Pro League belga aggiornata con punti, diff reti, casa/trasferta e forma. Statistiche complete su SportWhisp."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://sportwhisp.it/altricampionati/belgio/classifica" />
+  <meta property="og:image" content="https://sportwhisp.it/Logo.png" />
+</Head>
+
       <h1>Classifica Pro League Belga {season}</h1>
       <p>
         La Pro League è il massimo campionato belga, noto per l’equilibrio e per la capacità di lanciare giovani 
