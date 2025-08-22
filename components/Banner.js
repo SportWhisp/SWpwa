@@ -4,12 +4,22 @@ import React, { useEffect, useRef, useState } from "react";
 const AD_CLIENT = "ca-pub-2796727413305777";
 
 // ID slot per posizione
-const SLOT_BY_POSITION = {
+// 728x90 (desktop)
+const SLOT_DESKTOP = {
   left:   "1796807484",
   right:  "5090304793",
   middle: "1350084920",
   sticky: "2060531364",
   default:"8434368025",
+};
+
+// 320x100 (mobile) → INSERISCI qui i tuoi nuovi slot mobile
+const SLOT_MOBILE = {
+  left:   "1065485214",
+  right:  "7886878580",
+  middle: "2674930411",
+  sticky: "7460321410",
+  default:"6147239748",
 };
 
 export default function Banner({ position = "middle" }) {
@@ -36,38 +46,29 @@ export default function Banner({ position = "middle" }) {
     window.addEventListener("resize", onResize);
 
     // rotazione ogni 60s (con ritardo casuale)
-    const delay = Math.floor(Math.random() * 5000);
-    const timer = setTimeout(() => {
-      const interval = setInterval(() => {
-        setCurrent((prev) => (prev + 1) % bannerSet.length);
-      }, 60000);
-      return () => clearInterval(interval);
-    }, delay);
+  const delay = Math.floor(Math.random() * 5000);
+  let intervalId;
+  const timeoutId = setTimeout(() => {
+    intervalId = setInterval(() => {
+      setCurrent((prev) => (prev + 1) % bannerSet.length);
+    }, 60000);
+  }, delay);
 
-    return () => {
-      clearTimeout(timer);
-      window.removeEventListener("resize", onResize);
-    };
-  }, []);
+  return () => {
+    clearTimeout(timeoutId);
+    if (intervalId) clearInterval(intervalId);
+    window.removeEventListener("resize", onResize);
+  };
+}, []);
 
   // push dello slot AdSense
-  useEffect(() => {
-    if (!isClient || pushedRef.current) return;
-
-    const tryPush = () => {
-      if (typeof window === "undefined") return;
-      if (window.adsbygoogle) {
-        try {
-          (window.adsbygoogle = window.adsbygoogle || []).push({});
-          pushedRef.current = true;
-        } catch {}
-      }
-    };
-
-    tryPush();
-    const t = setTimeout(tryPush, 1500);
-    return () => clearTimeout(t);
-  }, [isClient]);
+useEffect(() => {
+  if (!isClient || pushedRef.current) return;
+  try {
+    (window.adsbygoogle = window.adsbygoogle || []).push({});
+    pushedRef.current = true;
+  } catch {}
+}, [isClient]);
 
   // classi CSS
   const bannerClass =
@@ -88,7 +89,9 @@ export default function Banner({ position = "middle" }) {
   const adWidth  = isMobile ? 320 : 728;
   const adHeight = isMobile ? 100 : 90;
 
-  const adSlot = SLOT_BY_POSITION[position] || SLOT_BY_POSITION.default;
+  // usa lo slot giusto per breakpoint
+  const slots = isMobile ? SLOT_MOBILE : SLOT_DESKTOP;
+  const adSlot = slots[position] || slots.default;
 
   return (
     <ins
