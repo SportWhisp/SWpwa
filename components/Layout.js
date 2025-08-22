@@ -55,7 +55,7 @@ export default function Layout({ children }) {
         <p className="footer-links" style={{ textAlign: 'center' }}>
           <a href="/privacy-policy">Privacy Policy</a> | <a href="/cookie-policy">Cookie Policy</a> | © {new Date().getFullYear()} SportWhisp.it
         </p>
-        <Banner position="sticky" />
+              <Banner position="middle" />
       </footer>
       <CookieConsent />
     </div>
