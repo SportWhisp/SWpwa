@@ -269,6 +269,19 @@ p {
     left: auto;
     width: 100%;
     z-index: auto;
-  }  
+  }
+  
+  /* centra i creativi dentro i container, senza dipendere dalla line-height */
+.banner,
+.banner-middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* il middle è largo 100% (980px nel tuo caso): centra l'annuncio 320×100 */
+.banner-middle .adsbygoogle {
+  margin: 0 auto;
+}
 
 }
