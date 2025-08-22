@@ -9,7 +9,6 @@ const SLOT_DESKTOP = {
   left:   "1796807484",
   right:  "5090304793",
   middle: "1350084920",
-  sticky: "2060531364",
   default:"8434368025",
 };
 
@@ -18,7 +17,6 @@ const SLOT_MOBILE = {
   left:   "1065485214",
   right:  "7886878580",
   middle: "2674930411",
-  sticky: "7460321410",
   default:"6147239748",
 };
 
@@ -70,20 +68,7 @@ useEffect(() => {
   } catch {}
 }, [isClient]);
 
-  // classi CSS
-  const bannerClass =
-    position === "sticky"
-      ? "banner-sticky"
-      : position === "middle"
-      ? "banner banner-middle"
-      : "banner";
-
   if (!isClient) return null;
-
-  // Sticky: niente AdSense (solo placeholder, conforme)
-  if (position === "sticky") {
-    return <div className="banner-sticky">{bannerSet[current]}</div>;
-  }
 
   // dimensioni: desktop 728x90, mobile 320x100
   const adWidth  = isMobile ? 320 : 728;
@@ -92,6 +77,9 @@ useEffect(() => {
   // usa lo slot giusto per breakpoint
   const slots = isMobile ? SLOT_MOBILE : SLOT_DESKTOP;
   const adSlot = slots[position] || slots.default;
+
+    // classi CSS (niente più banner-sticky)
+  const bannerClass = position === "middle" ? "banner banner-middle" : "banner";
 
   return (
     <ins
