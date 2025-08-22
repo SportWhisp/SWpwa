@@ -45,14 +45,14 @@ export default function Layout({ children }) {
       <main className="content">{children}</main>
 
       <footer className="footer">
-        <p className="disclaimer">
+        <p className="disclaimer" style={{ textAlign: 'center' }}>
           Le previsioni pubblicate su questo sito sono frutto di elaborazioni personali
           basate su modelli statistici non ufficiali. I dati e i contenuti hanno scopo
           esclusivamente informativo e di intrattenimento. L’autore non garantisce
           l’esattezza delle previsioni e declina ogni responsabilità per decisioni prese
           dagli utenti sulla base delle informazioni fornite.
         </p>
-        <p className="footer-links">
+        <p className="footer-links" style={{ textAlign: 'center' }}>
           <a href="/privacy-policy">Privacy Policy</a> | <a href="/cookie-policy">Cookie Policy</a> | © {new Date().getFullYear()} SportWhisp.it
         </p>
         <Banner position="sticky" />
