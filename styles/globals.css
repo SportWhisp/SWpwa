@@ -270,9 +270,10 @@ p {
     word-wrap: break-word;
     overflow-wrap: anywhere; /* spezza stringhe lunghe */
   }
-    .banner-sticky {
-    height: 60px;
-    line-height: 60px;
+  .banner-sticky {
+    height: 100px;
+    line-height: 100px;
+    padding-bottom: env(safe-area-inset-bottom);
   }
 /* Evita che l'ad "sbordi" sopra la navbar */
   .header { overflow: hidden; }
@@ -280,6 +281,8 @@ p {
   /* La navbar “vince” in z-index per i click */
   .navbar { position: relative; z-index: 20; }
 
-  .content { padding-bottom: 68px; }
-  .footer  { padding-bottom: 68px; }
+.content,
+  .footer {
+    padding-bottom: calc(100px + env(safe-area-inset-bottom));
+  }
 }
