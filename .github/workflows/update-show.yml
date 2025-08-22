@@ -1,0 +1,137 @@
+name: Aggiorna SHOW (analysis + show)
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Martedì e Venerdì alle 06:15 ora Italia ≈ 04:15 UTC
+    - cron: "15 4 * * 2,5"
+    # Martedì e Venerdì alle 06:20 ora Italia ≈ 04:20 UTC
+    - cron: "20 4 * * 2,5"
+
+jobs:
+  update-show:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+
+      - name: Install deps
+        run: npm ci
+
+      # -------- 06:15 IT (04:15 UTC) -> genAnalysis / genAnalysisSoc --------
+      - name: Esegui genAnalysis (Top leghe) & genAnalysisSoc (Altre)
+        if: "contains(github.event.schedule, '15 4')"
+        run: |
+          node - <<'NODE'
+          const path = require("path");
+
+          // Helper: esegue handler Next-like con req/res finti
+          async function runHandler(filePath, query) {
+            const mod = require(filePath);
+            const handler = mod.default || mod;
+            await new Promise((resolve, reject) => {
+              const res = {
+                _status: 200,
+                status(code) { this._status = code; return this; },
+                json(obj) { console.log("[OK]", filePath, query, this._status, obj?.message || ""); resolve(); },
+                send(obj) { console.log("[OK]", filePath, query, this._status, obj || ""); resolve(); }
+              };
+              try {
+                const ret = handler({ query }, res);
+                if (ret && typeof ret.then === "function") ret.then(resolve).catch(reject);
+              } catch (e) { reject(e); }
+            }).catch(err => {
+              console.error("[ERR]", filePath, query, err?.message || err);
+              process.exitCode = 1;
+            });
+          }
+
+          const root = process.cwd();
+          const genAnalysisOrg = path.join(root, "pages", "api", "genAnalysis.js");
+          const genAnalysisSoc = path.join(root, "pages", "api", "genAnalysisSoc.js");
+
+          const top = ["italia","francia","germania","spagna","inghilterra","portogallo","olanda"];
+          const others = ["turchia","austria","belgio","danimarca","grecia","polonia","romania","svizzera","ungheria"];
+
+          (async () => {
+            // Top leghe (org)
+            for (const league of top) {
+              await runHandler(genAnalysisOrg, { league });
+            }
+            // Altre leghe (soc) con stagione
+            for (const league of others) {
+              await runHandler(genAnalysisSoc, { league, season: "2025-2026" });
+            }
+          })();
+          NODE
+
+      # -------- 06:20 IT (04:20 UTC) -> genShow / genShowSoc --------
+      - name: Esegui genShow (Top leghe) & genShowSoc (Altre)
+        if: "contains(github.event.schedule, '20 4')"
+        run: |
+          node - <<'NODE'
+          const path = require("path");
+
+          async function runHandler(filePath, query) {
+            const mod = require(filePath);
+            const handler = mod.default || mod;
+            await new Promise((resolve, reject) => {
+              const res = {
+                _status: 200,
+                status(code) { this._status = code; return this; },
+                json(obj) { console.log("[OK]", filePath, query, this._status, obj?.message || ""); resolve(); },
+                send(obj) { console.log("[OK]", filePath, query, this._status, obj || ""); resolve(); }
+              };
+              try {
+                const ret = handler({ query }, res);
+                if (ret && typeof ret.then === "function") ret.then(resolve).catch(reject);
+              } catch (e) { reject(e); }
+            }).catch(err => {
+              console.error("[ERR]", filePath, query, err?.message || err);
+              process.exitCode = 1;
+            });
+          }
+
+          const root = process.cwd();
+          const genShowOrg = path.join(root, "pages", "api", "genShow.js");
+          const genShowSoc = path.join(root, "pages", "api", "genShowSoc.js");
+
+          const top = ["italia","francia","germania","spagna","inghilterra","portogallo","olanda"];
+          const others = ["turchia","austria","belgio","danimarca","grecia","polonia","romania","svizzera","ungheria"];
+
+          (async () => {
+            // Top leghe
+            for (const nazione of top) {
+              await runHandler(genShowOrg, { nazione });
+            }
+            // Altre leghe (soc)
+            for (const nazione of others) {
+              await runHandler(genShowSoc, { nazione });
+            }
+          })();
+          NODE
+
+      - name: Verifica differenze
+        id: diffcheck
+        run: |
+          git status --porcelain
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit & Push (se ci sono modifiche)
+        if: steps.diffcheck.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore(show): auto-update SHOW e ANALYSIS (scheduled)"
+          git push
