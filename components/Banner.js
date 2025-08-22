@@ -43,18 +43,7 @@ export default function Banner({ position = "middle" }) {
     const onResize = () => setIsMobile(checkMobile());
     window.addEventListener("resize", onResize);
 
-    // rotazione ogni 60s (con ritardo casuale)
-  const delay = Math.floor(Math.random() * 5000);
-  let intervalId;
-  const timeoutId = setTimeout(() => {
-    intervalId = setInterval(() => {
-      setCurrent((prev) => (prev + 1) % bannerSet.length);
-    }, 60000);
-  }, delay);
-
   return () => {
-    clearTimeout(timeoutId);
-    if (intervalId) clearInterval(intervalId);
     window.removeEventListener("resize", onResize);
   };
 }, []);
