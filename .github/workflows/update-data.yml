@@ -67,6 +67,10 @@ jobs:
             curl -fSs "http://localhost:3000/api/fetchDataSoc?league=$league"
           done
 
+      - name: Attendi 70s solo manuale
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        run: sleep 70
+
       # --- 10:10 IT (08:10/09:10 UTC) ---
       - name: Run fetchResult 10-10 IT
         if: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '10 8 * * *' || github.event.schedule == '10 9 * * *' }}
