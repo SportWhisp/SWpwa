@@ -47,7 +47,37 @@ export default function Commenti() {
 
       {/* 🔵 INSERISCI QUI IL TUO COMMENTO SETTIMANALE 🔵 */}
       <section style={{ marginTop: 24 }}>
-        <h2>WHISP periodo 15-18/08/2025</h2>
+
+        <h2>WHISP periodo 22-24/08/2025</h2>
+
+        <h3>✅✅✅ WHISP del 22/08/2025 - TUTTI CORRETTI ✅✅✅</h3>
+
+        <h3>✅ FC Bayern München vs RB Leipzig - OVER2.5 70.57%</h3>
+        <p>
+          Risultato: 6 - 0
+          <br />
+          Whisp travolgente: l’“Over 2.5” non solo si conferma, ma viene stravolto da un clamoroso 6-0 del Bayern. 
+          Partita a senso unico, spettacolo e gol a raffica che esaltano la previsione.
+        </p>
+
+        <h3>✅ Paris Saint-Germain FC vs Angers SCO - 1 69.29%</h3>
+        <p>
+          Risultato: 1 - 0
+          <br />
+          Whisp centrato ma con affanno: il PSG sbaglia un rigore con Dembélé e fatica a trovare varchi contro un Angers 
+          molto basso; la sblocca Ruiz al 50’ per l’1‑0 finale.
+        </p>
+
+        <h3>✅ Metaloglobus vs Rapid - 2 75.59%</h3>
+        <p>
+          Risultato: 1 - 2
+          <br />
+          Whisp solido: l’“esito 2” si conferma nel 1-2 del Rapid, che controlla la gara e porta a casa i tre punti pur 
+          con qualche brivido nel finale.
+        </p>
+                      <Banner position="middle" />
+
+        <h2>WHISP PRECEDENTI - periodo 15-18/08/2025</h2>
 
         <h3>✅ 18/08/2025 Elche CF vs Real Betis Balompié - GOL 79.63%</h3>
         <p>
