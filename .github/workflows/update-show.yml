@@ -129,7 +129,7 @@ jobs:
           })();
           NODE
 
-      - name: Diagnostica: contenuto data/ e diff
+      - name: Diagnostica contenuto data/ e diff
         run: |
           echo "Workspace: $GITHUB_WORKSPACE"
           ls -la data || true
