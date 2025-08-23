@@ -30,7 +30,7 @@ jobs:
       - name: Install deps
         run: npm ci
 
-      # Crea .env.local usando i secrets del repo (non finiscono nei log)
+      # Crea .env.local usando i secrets del repo
       - name: Create .env.local from secrets
         run: |
           rm -f .env.local
@@ -49,7 +49,7 @@ jobs:
 
       - name: Start Next server
         run: |
-          nohup npm start >/dev/null 2>&1 &
+          nohup npm start > server.log 2>&1 &
           echo "Avvio server..."
           sleep 15
 
@@ -81,14 +81,23 @@ jobs:
             curl -fSs "http://localhost:3000/api/fetchResultSoc?league=$league&season=2025-2026"
           done
 
+      # Mostra sempre gli ultimi log del server (anche se un curl fallisce)
+      - name: Log server Next (tail)
+        if: ${{ always() }}
+        run: |
+          echo "=== tail server.log ==="
+          tail -n 200 server.log || echo "server.log non trovato"
+
       - name: Diagnostica contenuto data e diff
+        if: ${{ always() }}
         run: |
           echo "Workspace: $GITHUB_WORKSPACE"
-          ls -la data || true
+          find data -maxdepth 3 -type f -name "*.json" -print | sort || true
           echo "--- changed files ---"
           git status --porcelain
 
       - name: Commit JSON changes
+        if: ${{ success() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
