@@ -2,14 +2,14 @@ name: Aggiorna dati calcio
 
 on:
   schedule:
-    # 06:00 UTC+2 = 04:00 UTC → quindi usiamo 04:00 (UTC) = 06:00 Italia
-    - cron: "0 4 * * *"
-    # 20:00 Italia = 18:00 UTC
-    - cron: "0 18 * * *"
-    # 06:10 Italia = 04:10 UTC
-    - cron: "10 4 * * *"
-    # 20:10 Italia = 18:10 UTC
-    - cron: "10 18 * * *"
+    # 10:00 Italia durante l'ora legale (CEST) = 08:00 UTC
+    - cron: "0 8 * * *"
+    # 10:00 Italia durante l'ora solare (CET) = 09:00 UTC
+    - cron: "0 9 * * *"
+    # 10:10 Italia durante l'ora legale (CEST) = 08:10 UTC
+    - cron: "10 8 * * *"
+    # 10:10 Italia durante l'ora solare (CET) = 09:10 UTC
+    - cron: "10 9 * * *"
   workflow_dispatch: {}
 
 jobs:
@@ -39,8 +39,9 @@ jobs:
           echo "Avvio server..."
           sleep 15
 
-      - name: Run fetchData (06:00 e 20:00)
-        if: github.event.schedule == '0 4 * * *' || github.event.schedule == '0 18 * * *'
+      # --- 10:00 IT (08:00/09:00 UTC) ---
+      - name: Run fetchData (10:00 IT)
+        if: github.event.schedule == '0 8 * * *' || github.event.schedule == '0 9 * * *'
         run: |
           echo ">>> fetchDataOrg"
           for league in italia francia germania spagna inghilterra portogallo olanda; do
@@ -52,8 +53,9 @@ jobs:
             curl -sS "http://localhost:3000/api/fetchDataSoc?league=$league"
           done
 
-      - name: Run fetchResult (06:10 e 20:10)
-        if: github.event.schedule == '10 4 * * *' || github.event.schedule == '10 18 * * *'
+      # --- 10:10 IT (08:10/09:10 UTC) ---
+      - name: Run fetchResult (10:10 IT)
+        if: github.event.schedule == '10 8 * * *' || github.event.schedule == '10 9 * * *'
         run: |
           echo ">>> fetchResultOrg"
           for league in italia francia germania spagna inghilterra portogallo olanda; do
@@ -71,7 +73,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data
           if ! git diff --cached --quiet; then
-            git commit -m "update: refresh dati JSON automatico"
+            git commit -m "update: refresh dati JSON automatico (10:00/10:10 IT)"
             git push
           else
             echo "Nessuna modifica trovata."

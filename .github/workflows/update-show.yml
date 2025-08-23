@@ -3,10 +3,10 @@ name: Aggiorna SHOW (analysis + show)
 on:
   workflow_dispatch: {}
   schedule:
-    # Martedì e Venerdì alle 06:15 ora Italia ≈ 04:15 UTC
-    - cron: "15 4 * * 2,5"
-    # Martedì e Venerdì alle 06:20 ora Italia ≈ 04:20 UTC
-    - cron: "20 4 * * 2,5"
+    # 10:30 ora Italia durante l'ora legale (CEST) -> 08:30 UTC
+    - cron: "30 8 * * 2,5"
+    # 10:30 ora Italia durante l'ora solare (CET) -> 09:30 UTC
+    - cron: "30 9 * * 2,5"
 
 jobs:
   update-show:
@@ -24,7 +24,7 @@ jobs:
       - name: Install deps
         run: npm ci
 
-      # -------- 06:15 IT (04:15 UTC) -> genAnalysis / genAnalysisSoc --------
+     # -------- 10:30 IT -> esegui genAnalysis (Top + Soc) --------
       - name: Esegui genAnalysis (Top leghe) & genAnalysisSoc (Altre)
         if: "contains(github.event.schedule, '15 4')"
         run: |
@@ -71,9 +71,8 @@ jobs:
           })();
           NODE
 
-      # -------- 06:20 IT (04:20 UTC) -> genShow / genShowSoc --------
+      # -------- 10:30 IT -> esegui genShow (Top + Soc) --------
       - name: Esegui genShow (Top leghe) & genShowSoc (Altre)
-        if: "contains(github.event.schedule, '20 4')"
         run: |
           node - <<'NODE'
           const path = require("path");
