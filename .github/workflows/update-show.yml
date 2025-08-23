@@ -11,6 +11,8 @@ on:
 jobs:
   update-show:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -24,12 +26,17 @@ jobs:
       - name: Install deps
         run: npm ci
 
-     # -------- 10:30 IT -> esegui genAnalysis (Top + Soc) --------
+      # -------- 10:30 IT -> esegui genAnalysis (Top + Soc) --------
       - name: Esegui genAnalysis (Top leghe) & genAnalysisSoc (Altre)
-        if: "contains(github.event.schedule, '15 4')"
         run: |
           node - <<'NODE'
           const path = require("path");
+
+          // ====== FORZA/ESPLICITÀ DEL PERCORSO DI SALVATAGGIO ======
+          const ROOT = process.env.GITHUB_WORKSPACE || process.cwd();
+          process.env.DATA_DIR = path.join(ROOT, "data");
+          console.log(">> DATA_DIR:", process.env.DATA_DIR);
+          // ==========================================================
 
           // Helper: esegue handler Next-like con req/res finti
           async function runHandler(filePath, query) {
@@ -77,6 +84,12 @@ jobs:
           node - <<'NODE'
           const path = require("path");
 
+          // ====== FORZA/ESPLICITÀ DEL PERCORSO DI SALVATAGGIO ======
+          const ROOT = process.env.GITHUB_WORKSPACE || process.cwd();
+          process.env.DATA_DIR = path.join(ROOT, "data");
+          console.log(">> DATA_DIR:", process.env.DATA_DIR);
+          // ==========================================================
+
           async function runHandler(filePath, query) {
             const mod = require(filePath);
             const handler = mod.default || mod;
@@ -115,6 +128,13 @@ jobs:
             }
           })();
           NODE
+
+      - name: Diagnostica: contenuto data/ e diff
+        run: |
+          echo "Workspace: $GITHUB_WORKSPACE"
+          ls -la data || true
+          echo "--- changed files ---"
+          git status --porcelain
 
       - name: Verifica differenze
         id: diffcheck

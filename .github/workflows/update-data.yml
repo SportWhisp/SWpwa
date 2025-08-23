@@ -30,6 +30,20 @@ jobs:
       - name: Install deps
         run: npm ci
 
+      # Crea .env.local usando i secrets del repo (non finiscono nei log)
+      - name: Create .env.local from secrets
+        run: |
+          rm -f .env.local
+          {
+            echo "API_FOOTBALL_KEY=${API_FOOTBALL_KEY}"
+            echo "API_FOOTBALLDATA_KEY=${API_FOOTBALLDATA_KEY}"
+            echo "API_SOCCERDATA_KEY=${API_SOCCERDATA_KEY}"
+          } > .env.local
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          API_FOOTBALLDATA_KEY: ${{ secrets.API_FOOTBALLDATA_KEY }}
+          API_SOCCERDATA_KEY: ${{ secrets.API_SOCCERDATA_KEY }}
+
       - name: Build Next
         run: npm run build
 
@@ -45,12 +59,12 @@ jobs:
         run: |
           echo ">>> fetchDataOrg"
           for league in italia francia germania spagna inghilterra portogallo olanda; do
-            curl -sS "http://localhost:3000/api/fetchDataOrg?league=$league&season=2025-2026"
+            curl -fSs "http://localhost:3000/api/fetchDataOrg?league=$league&season=2025-2026"
           done
 
           echo ">>> fetchDataSoc"
           for league in turchia austria belgio danimarca grecia polonia romania svizzera ungheria; do
-            curl -sS "http://localhost:3000/api/fetchDataSoc?league=$league"
+            curl -fSs "http://localhost:3000/api/fetchDataSoc?league=$league"
           done
 
       # --- 10:10 IT (08:10/09:10 UTC) ---
@@ -59,13 +73,20 @@ jobs:
         run: |
           echo ">>> fetchResultOrg"
           for league in italia francia germania spagna inghilterra portogallo olanda; do
-            curl -sS "http://localhost:3000/api/fetchResultOrg?league=$league&season=2025-2026"
+            curl -fSs "http://localhost:3000/api/fetchResultOrg?league=$league&season=2025-2026"
           done
 
           echo ">>> fetchResultSoc"
           for league in turchia austria belgio danimarca grecia polonia romania svizzera ungheria; do
-            curl -sS "http://localhost:3000/api/fetchResultSoc?league=$league&season=2025-2026"
+            curl -fSs "http://localhost:3000/api/fetchResultSoc?league=$league&season=2025-2026"
           done
+
+      - name: Diagnostica: contenuto data/ e diff
+        run: |
+          echo "Workspace: $GITHUB_WORKSPACE"
+          ls -la data || true
+          echo "--- changed files ---"
+          git status --porcelain
 
       - name: Commit JSON changes
         run: |
