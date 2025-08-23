@@ -54,8 +54,8 @@ jobs:
           sleep 15
 
       # --- 10:00 IT (08:00/09:00 UTC) ---
-      - name: Run fetchData (10:00 IT)
-        if: ${{ github.event.schedule == '0 8 * * *' || github.event.schedule == '0 9 * * *' }}
+      - name: Run fetchData 10-00 IT
+        if: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '0 8 * * *' || github.event.schedule == '0 9 * * *' }}
         run: |
           echo ">>> fetchDataOrg"
           for league in italia francia germania spagna inghilterra portogallo olanda; do
@@ -68,8 +68,8 @@ jobs:
           done
 
       # --- 10:10 IT (08:10/09:10 UTC) ---
-      - name: Run fetchResult (10:10 IT)
-        if: ${{ github.event.schedule == '10 8 * * *' || github.event.schedule == '10 9 * * *' }}
+      - name: Run fetchResult 10-10 IT
+        if: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '10 8 * * *' || github.event.schedule == '10 9 * * *' }}
         run: |
           echo ">>> fetchResultOrg"
           for league in italia francia germania spagna inghilterra portogallo olanda; do
@@ -81,7 +81,7 @@ jobs:
             curl -fSs "http://localhost:3000/api/fetchResultSoc?league=$league&season=2025-2026"
           done
 
-      - name: Diagnostica contenuto data/ e diff
+      - name: Diagnostica contenuto data e diff
         run: |
           echo "Workspace: $GITHUB_WORKSPACE"
           ls -la data || true
