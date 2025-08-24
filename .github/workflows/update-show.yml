@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -23,133 +25,69 @@ jobs:
       - name: Install deps
         run: npm ci
 
+      - name: Build Next
+        run: npm run build
+
+      - name: Start Next server
+        run: |
+          nohup npm start > server.log 2>&1 &
+          echo "Avvio server..."
+          sleep 10
+
       # -------- 09:30 IT -> esegui genAnalysis (Top + Soc) --------
       - name: Esegui genAnalysis (Top leghe) & genAnalysisSoc (Altre)
         run: |
-          node - <<'NODE'
-          const path = require("path");
+          echo ">>> genAnalysis (Top)"
+          for league in italia francia germania spagna inghilterra portogallo olanda; do
+            curl -fSs "http://localhost:3000/api/genAnalysis?league=$league"
+          done
 
-          // ====== FORZA/ESPLICITÀ DEL PERCORSO DI SALVATAGGIO ======
-          const ROOT = process.env.GITHUB_WORKSPACE || process.cwd();
-          process.env.DATA_DIR = path.join(ROOT, "data");
-          console.log(">> DATA_DIR:", process.env.DATA_DIR);
-          // ==========================================================
-
-          // Helper: esegue handler Next-like con req/res finti
-          async function runHandler(filePath, query) {
-            const { pathToFileURL } = require("url");
-            const mod = await import(pathToFileURL(filePath).href);
-            const handler = mod.default || mod;
-            await new Promise((resolve, reject) => {
-              const res = {
-                _status: 200,
-                status(code) { this._status = code; return this; },
-                json(obj) { console.log("[OK]", filePath, query, this._status, obj?.message || ""); resolve(); },
-                send(obj) { console.log("[OK]", filePath, query, this._status, obj || ""); resolve(); }
-              };
-              try {
-                const ret = handler({ query }, res);
-                if (ret && typeof ret.then === "function") ret.then(resolve).catch(reject);
-              } catch (e) { reject(e); }
-            }).catch(err => {
-              console.error("[ERR]", filePath, query, err?.message || err);
-              process.exitCode = 1;
-            });
-          }
-
-          const root = process.cwd();
-          const genAnalysisOrg = path.join(root, "pages", "api", "genAnalysis.js");
-          const genAnalysisSoc = path.join(root, "pages", "api", "genAnalysisSoc.js");
-
-          const top = ["italia","francia","germania","spagna","inghilterra","portogallo","olanda"];
-          const others = ["turchia","austria","belgio","danimarca","grecia","polonia","romania","svizzera","ungheria"];
-
-          (async () => {
-            // Top leghe (org)
-            for (const league of top) {
-              await runHandler(genAnalysisOrg, { league });
-            }
-            // Altre leghe (soc) con stagione
-            for (const league of others) {
-              await runHandler(genAnalysisSoc, { league, season: "2025-2026" });
-            }
-          })();
-          NODE
+          echo ">>> genAnalysisSoc (Altre)"
+          for league in turchia austria belgio danimarca grecia polonia romania svizzera ungheria; do
+            curl -fSs "http://localhost:3000/api/genAnalysisSoc?league=$league&season=2025-2026"
+          done
 
       # -------- 09:30 IT -> esegui genShow (Top + Soc) --------
       - name: Esegui genShow (Top leghe) & genShowSoc (Altre)
         run: |
-          node - <<'NODE'
-          const path = require("path");
+          echo ">>> genShow (Top)"
+          for nazione in italia francia germania spagna inghilterra portogallo olanda; do
+            curl -fSs "http://localhost:3000/api/genShow?nazione=$nazione"
+          done
 
-          // ====== FORZA/ESPLICITÀ DEL PERCORSO DI SALVATAGGIO ======
-          const ROOT = process.env.GITHUB_WORKSPACE || process.cwd();
-          process.env.DATA_DIR = path.join(ROOT, "data");
-          console.log(">> DATA_DIR:", process.env.DATA_DIR);
-          // ==========================================================
+          echo ">>> genShowSoc (Altre)"
+          for nazione in turchia austria belgio danimarca grecia polonia romania svizzera ungheria; do
+            curl -fSs "http://localhost:3000/api/genShowSoc?nazione=$nazione"
+          done
 
-          async function runHandler(filePath, query) {
-            const { pathToFileURL } = require("url");
-            const mod = await import(pathToFileURL(filePath).href);
-            const handler = mod.default || mod;
-            await new Promise((resolve, reject) => {
-              const res = {
-                _status: 200,
-                status(code) { this._status = code; return this; },
-                json(obj) { console.log("[OK]", filePath, query, this._status, obj?.message || ""); resolve(); },
-                send(obj) { console.log("[OK]", filePath, query, this._status, obj || ""); resolve(); }
-              };
-              try {
-                const ret = handler({ query }, res);
-                if (ret && typeof ret.then === "function") ret.then(resolve).catch(reject);
-              } catch (e) { reject(e); }
-            }).catch(err => {
-              console.error("[ERR]", filePath, query, err?.message || err);
-              process.exitCode = 1;
-            });
-          }
-
-          const root = process.cwd();
-          const genShowOrg = path.join(root, "pages", "api", "genShow.js");
-          const genShowSoc = path.join(root, "pages", "api", "genShowSoc.js");
-
-          const top = ["italia","francia","germania","spagna","inghilterra","portogallo","olanda"];
-          const others = ["turchia","austria","belgio","danimarca","grecia","polonia","romania","svizzera","ungheria"];
-
-          (async () => {
-            // Top leghe
-            for (const nazione of top) {
-              await runHandler(genShowOrg, { nazione });
-            }
-            // Altre leghe (soc)
-            for (const nazione of others) {
-              await runHandler(genShowSoc, { nazione });
-            }
-          })();
-          NODE
+      - name: Log server Next (tail)
+        if: ${{ always() }}
+        run: |
+          echo "=== tail server.log ==="
+          tail -n 200 server.log || true
 
       - name: Diagnostica contenuto data/ e diff
+        if: ${{ always() }}
         run: |
           echo "Workspace: $GITHUB_WORKSPACE"
-          ls -la data || true
+          find data -maxdepth 3 -type f -name "*.json" -print | sort || true
           echo "--- changed files ---"
           git status --porcelain
 
-      - name: Verifica differenze
-        id: diffcheck
-        run: |
-          git status --porcelain
-          if [ -n "$(git status --porcelain)" ]; then
-            echo "changed=true" >> $GITHUB_OUTPUT
-          else
-            echo "changed=false" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Commit & Push (se ci sono modifiche)
-        if: steps.diffcheck.outputs.changed == 'true'
+      - name: Commit & Push (rebase su origin/main)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
+
+          git add data
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica trovata."
+            exit 0
+          fi
+
           git commit -m "chore(show): auto-update SHOW e ANALYSIS (scheduled)"
-          git push
+
+          git fetch origin main
+          git rebase origin/main || (echo "Rebase fallito, annullo"; git rebase --abort; exit 1)
+
+          git push origin HEAD:main
