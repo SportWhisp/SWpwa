@@ -3,10 +3,7 @@ name: Aggiorna SHOW (analysis + show)
 on:
   workflow_dispatch: {}
   schedule:
-    # 10:30 ora Italia durante l'ora legale (CEST) -> 08:30 UTC
-    - cron: "30 8 * * 2,5"
-    # 10:30 ora Italia durante l'ora solare (CET) -> 09:30 UTC
-    - cron: "30 9 * * 2,5"
+    - cron: "30 7 * * 2,5"   # Sempre 09:30 IT (durante CEST, martedì e venerdì)
 
 jobs:
   update-show:
@@ -26,7 +23,7 @@ jobs:
       - name: Install deps
         run: npm ci
 
-      # -------- 10:30 IT -> esegui genAnalysis (Top + Soc) --------
+      # -------- 09:30 IT -> esegui genAnalysis (Top + Soc) --------
       - name: Esegui genAnalysis (Top leghe) & genAnalysisSoc (Altre)
         run: |
           node - <<'NODE'
@@ -78,7 +75,7 @@ jobs:
           })();
           NODE
 
-      # -------- 10:30 IT -> esegui genShow (Top + Soc) --------
+      # -------- 09:30 IT -> esegui genShow (Top + Soc) --------
       - name: Esegui genShow (Top leghe) & genShowSoc (Altre)
         run: |
           node - <<'NODE'
