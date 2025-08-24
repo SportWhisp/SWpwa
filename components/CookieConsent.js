@@ -21,17 +21,6 @@ function setConsent(status /* "granted" | "denied" */) {
   });
 }
 
-// Carica AdSense (una sola volta)
-function loadAdSense(pubId) {
-  if (document.getElementById('adsbygoogle-js')) return;
-  const s = document.createElement('script');
-  s.id = 'adsbygoogle-js';
-  s.async = true;
-  s.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${pubId}`;
-  s.crossOrigin = 'anonymous';
-  document.head.appendChild(s);
-}
-
 export default function CookieConsent() {
   const [visible, setVisible] = useState(false);
 
@@ -50,23 +39,18 @@ export default function CookieConsent() {
         setConsent("denied"); // default/expired → annunci NON personalizzati
       }
 
-      // 2) carichiamo sempre AdSense: con "denied" servirà NPA/contestuali
-      loadAdSense("ca-pub-2796727413305777"); // <-- METTI IL TUO PUBLISHER ID
-
-      // 3) mostra il banner solo se non c'è consenso valido
+      // 2) mostra il banner solo se non c'è consenso valido
       setVisible(expired);
     } else {
       // Nessun consenso salvato → default "denied" + carico AdSense NPA + mostro banner
       ensureGtag();
       setConsent("denied");
-      loadAdSense("ca-pub-2796727413305777"); // <-- METTI IL TUO PUBLISHER ID
       setVisible(true);
     }
   } catch {
     // In caso di errore: fallback sicuro
     ensureGtag();
     setConsent("denied");
-    loadAdSense("ca-pub-2796727413305777"); // <-- METTI IL TUO PUBLISHER ID
     setVisible(true);
   }
 }, []);
@@ -83,10 +67,12 @@ export default function CookieConsent() {
   setConsent(accepted ? "granted" : "denied");
   setVisible(false);
 
-  // (ri)inizializza eventuali slot già presenti
-  window.adsbygoogle = window.adsbygoogle || [];
-  try { window.adsbygoogle.push({}); } catch (e) {}
-};
+    // (ri)inizializza eventuali slot già presenti
+    try {
+      window.adsbygoogle = window.adsbygoogle || [];
+      window.adsbygoogle.push({});
+    } catch (e) {}
+  };
 
   if (!visible) return null;
 
