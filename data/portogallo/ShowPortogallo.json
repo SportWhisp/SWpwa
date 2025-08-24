@@ -1,32 +1,58 @@
 [
   {
-    "data": "2025-08-24T00:00:00Z",
+    "data": "2025-08-23T15:00:00Z",
+    "partita": "Moreirense FC vs Vitória SC",
+    "risultato": "2-0",
+    "previsione": "2 - 1",
+    "p1": "42,32%",
+    "pX": "30,28%",
+    "p2": "27,39%",
+    "pUnder": "45,00%",
+    "pOver": "55,00%",
+    "pGG": "55,70%",
+    "pNG": "44,30%"
+  },
+  {
+    "data": "2025-08-23T17:00:00Z",
     "partita": "CD Nacional vs Sporting Clube de Portugal",
-    "risultato": "",
-    "previsione": "1 - 2",
-    "p1": "9,93%",
-    "pX": "21,64%",
-    "p2": "68,43%",
-    "pUnder": "37,54%",
-    "pOver": "62,46%",
-    "pGG": "49,78%",
-    "pNG": "50,22%"
+    "risultato": "1-4",
+    "previsione": "1 - 3",
+    "p1": "9,08%",
+    "pX": "20,42%",
+    "p2": "70,49%",
+    "pUnder": "35,14%",
+    "pOver": "64,86%",
+    "pGG": "52,89%",
+    "pNG": "47,11%"
   },
   {
-    "data": "2025-08-24T00:00:00Z",
+    "data": "2025-08-23T19:30:00Z",
     "partita": "FC Arouca vs Rio Ave FC",
-    "risultato": "",
-    "previsione": "1 - 1",
-    "p1": "36,73%",
-    "pX": "36,54%",
-    "p2": "26,73%",
-    "pUnder": "58,85%",
-    "pOver": "41,15%",
-    "pGG": "58,08%",
-    "pNG": "41,92%"
+    "risultato": "3-3",
+    "previsione": "2 - 1",
+    "p1": "41,96%",
+    "pX": "35,51%",
+    "p2": "22,54%",
+    "pUnder": "45,72%",
+    "pOver": "54,28%",
+    "pGG": "60,80%",
+    "pNG": "39,20%"
   },
   {
-    "data": "2025-08-24T00:00:00Z",
+    "data": "2025-08-23T19:30:00Z",
+    "partita": "Sport Lisboa e Benfica vs CD Tondela",
+    "risultato": "3-0",
+    "previsione": "3 - 0",
+    "p1": "84,22%",
+    "pX": "14,29%",
+    "p2": "1,49%",
+    "pUnder": "22,27%",
+    "pOver": "77,73%",
+    "pGG": "35,26%",
+    "pNG": "64,74%"
+  },
+  {
+    "data": "2025-08-24T14:30:00Z",
     "partita": "FC Famalicão vs Gil Vicente FC",
     "risultato": "",
     "previsione": "1 - 1",
@@ -39,33 +65,7 @@
     "pNG": "45,00%"
   },
   {
-    "data": "2025-08-24T00:00:00Z",
-    "partita": "Sport Lisboa e Benfica vs CD Tondela",
-    "risultato": "",
-    "previsione": "2 - 0",
-    "p1": "81,81%",
-    "pX": "15,94%",
-    "p2": "2,25%",
-    "pUnder": "35,43%",
-    "pOver": "64,57%",
-    "pGG": "39,93%",
-    "pNG": "60,07%"
-  },
-  {
-    "data": "2025-08-24T00:00:00Z",
-    "partita": "Sporting Clube de Braga vs AVS",
-    "risultato": "",
-    "previsione": "2 - 1",
-    "p1": "62,46%",
-    "pX": "28,36%",
-    "p2": "9,18%",
-    "pUnder": "46,49%",
-    "pOver": "53,51%",
-    "pGG": "57,24%",
-    "pNG": "42,76%"
-  },
-  {
-    "data": "2025-08-24T00:00:00Z",
+    "data": "2025-08-24T17:00:00Z",
     "partita": "FC Porto vs Casa Pia AC",
     "risultato": "",
     "previsione": "2 - 1",
@@ -78,7 +78,20 @@
     "pNG": "47,24%"
   },
   {
-    "data": "2025-08-24T00:00:00Z",
+    "data": "2025-08-24T19:30:00Z",
+    "partita": "Sporting Clube de Braga vs AVS",
+    "risultato": "",
+    "previsione": "2 - 1",
+    "p1": "62,46%",
+    "pX": "28,36%",
+    "p2": "9,18%",
+    "pUnder": "46,49%",
+    "pOver": "53,51%",
+    "pGG": "57,24%",
+    "pNG": "42,76%"
+  },
+  {
+    "data": "2025-08-25T19:15:00Z",
     "partita": "CF Estrela da Amadora vs FC Alverca",
     "risultato": "",
     "previsione": "1 - 1",
@@ -91,7 +104,7 @@
     "pNG": "60,75%"
   },
   {
-    "data": "2025-08-24T00:00:00Z",
+    "data": "2025-09-06T19:30:00Z",
     "partita": "GD Estoril Praia vs CD Santa Clara",
     "risultato": "",
     "previsione": "1 - 1",
@@ -102,18 +115,5 @@
     "pOver": "45,00%",
     "pGG": "56,49%",
     "pNG": "43,51%"
-  },
-  {
-    "data": "2025-08-24T00:00:00Z",
-    "partita": "Moreirense FC vs Vitória SC",
-    "risultato": "",
-    "previsione": "1 - 1",
-    "p1": "31,08%",
-    "pX": "37,09%",
-    "p2": "31,83%",
-    "pUnder": "52,01%",
-    "pOver": "47,99%",
-    "pGG": "58,73%",
-    "pNG": "41,27%"
   }
 ]

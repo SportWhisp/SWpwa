@@ -1,19 +1,6 @@
 [
   {
     "data": "23/08/2025",
-    "partita": "Salzburg vs LASK",
-    "risultato": "",
-    "previsione": "2 - 1",
-    "p1": "52,79%",
-    "pX": "18,38%",
-    "p2": "28,82%",
-    "pUnder": "32,50%",
-    "pOver": "67,50%",
-    "pGG": "63,82%",
-    "pNG": "36,18%"
-  },
-  {
-    "data": "23/08/2025",
     "partita": "Blau-Weiss Linz vs Ried",
     "risultato": "",
     "previsione": "1 - 1",
@@ -24,6 +11,19 @@
     "pOver": "49,05%",
     "pGG": "55,00%",
     "pNG": "45,00%"
+  },
+  {
+    "data": "23/08/2025",
+    "partita": "Salzburg vs LASK",
+    "risultato": "",
+    "previsione": "2 - 1",
+    "p1": "52,79%",
+    "pX": "18,38%",
+    "p2": "28,82%",
+    "pUnder": "32,50%",
+    "pOver": "67,50%",
+    "pGG": "63,82%",
+    "pNG": "36,18%"
   },
   {
     "data": "23/08/2025",
@@ -40,19 +40,6 @@
   },
   {
     "data": "24/08/2025",
-    "partita": "Wolfsberger AC vs Rapid Vienna",
-    "risultato": "",
-    "previsione": "2 - 1",
-    "p1": "51,72%",
-    "pX": "20,44%",
-    "p2": "27,85%",
-    "pUnder": "36,61%",
-    "pOver": "63,39%",
-    "pGG": "65,58%",
-    "pNG": "34,42%"
-  },
-  {
-    "data": "24/08/2025",
     "partita": "Austria Vienna vs Hartberg",
     "risultato": "",
     "previsione": "1 - 1",
@@ -63,6 +50,19 @@
     "pOver": "47,21%",
     "pGG": "57,21%",
     "pNG": "42,79%"
+  },
+  {
+    "data": "24/08/2025",
+    "partita": "Wolfsberger AC vs Rapid Vienna",
+    "risultato": "",
+    "previsione": "2 - 1",
+    "p1": "51,72%",
+    "pX": "20,44%",
+    "p2": "27,85%",
+    "pUnder": "36,61%",
+    "pOver": "63,39%",
+    "pGG": "65,58%",
+    "pNG": "34,42%"
   },
   {
     "data": "24/08/2025",

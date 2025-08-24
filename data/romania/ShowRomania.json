@@ -2,28 +2,28 @@
   {
     "data": "22/08/2025",
     "partita": "UTA Arad vs Unirea Slobozia",
-    "risultato": "",
-    "previsione": "2 - 1",
-    "p1": "55,00%",
-    "pX": "26,47%",
-    "p2": "18,53%",
-    "pUnder": "36,18%",
-    "pOver": "63,82%",
-    "pGG": "63,82%",
-    "pNG": "36,18%"
+    "risultato": "1-1",
+    "previsione": "1 - 1",
+    "p1": "40,00%",
+    "pX": "45,00%",
+    "p2": "15,00%",
+    "pUnder": "57,50%",
+    "pOver": "42,50%",
+    "pGG": "70,00%",
+    "pNG": "30,00%"
   },
   {
     "data": "22/08/2025",
     "partita": "Metaloglobus vs Rapid",
-    "risultato": "",
-    "previsione": "0 - 2",
+    "risultato": "1-2",
+    "previsione": "1 - 2",
     "p1": "-5,00%",
-    "pX": "29,41%",
-    "p2": "75,59%",
-    "pUnder": "55,00%",
-    "pOver": "45,00%",
-    "pGG": "50,88%",
-    "pNG": "49,12%"
+    "pX": "20,00%",
+    "p2": "85,00%",
+    "pUnder": "35,00%",
+    "pOver": "65,00%",
+    "pGG": "67,50%",
+    "pNG": "32,50%"
   },
   {
     "data": "23/08/2025",
@@ -89,5 +89,18 @@
     "pOver": "47,94%",
     "pGG": "66,76%",
     "pNG": "33,24%"
+  },
+  {
+    "data": "25/08/2025",
+    "partita": "Hermannstadt vs FCV Farul Constanta",
+    "risultato": "",
+    "previsione": "1 - 1",
+    "p1": "16,25%",
+    "pX": "48,75%",
+    "p2": "35,00%",
+    "pUnder": "42,50%",
+    "pOver": "57,50%",
+    "pGG": "86,25%",
+    "pNG": "13,75%"
   }
 ]

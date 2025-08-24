@@ -2,41 +2,41 @@
   {
     "data": "22/08/2025",
     "partita": "Radomiak Radom vs Nieciecza",
-    "risultato": "",
-    "previsione": "1 - 2",
-    "p1": "31,56%",
-    "pX": "22,58%",
-    "p2": "45,86%",
-    "pUnder": "34,78%",
-    "pOver": "65,22%",
-    "pGG": "68,44%",
-    "pNG": "31,56%"
+    "risultato": "1-1",
+    "previsione": "1 - 1",
+    "p1": "30,83%",
+    "pX": "34,29%",
+    "p2": "34,87%",
+    "pUnder": "50,45%",
+    "pOver": "49,55%",
+    "pGG": "71,67%",
+    "pNG": "28,33%"
   },
   {
     "data": "22/08/2025",
     "partita": "Widzew Lodz vs Pogon Szczecin",
-    "risultato": "",
+    "risultato": "1-2",
     "previsione": "2 - 2",
-    "p1": "37,76%",
-    "pX": "27,08%",
-    "p2": "35,16%",
-    "pUnder": "46,95%",
-    "pOver": "53,05%",
-    "pGG": "53,70%",
-    "pNG": "46,30%"
+    "p1": "35,00%",
+    "pX": "26,25%",
+    "p2": "38,75%",
+    "pUnder": "44,38%",
+    "pOver": "55,63%",
+    "pGG": "56,25%",
+    "pNG": "43,75%"
   },
   {
     "data": "23/08/2025",
     "partita": "Korona Kielce vs Motor Lublin",
-    "risultato": "",
+    "risultato": "2-0",
     "previsione": "2 - 1",
-    "p1": "43,51%",
-    "pX": "26,35%",
-    "p2": "30,14%",
-    "pUnder": "42,97%",
-    "pOver": "57,03%",
-    "pGG": "61,76%",
-    "pNG": "38,24%"
+    "p1": "46,94%",
+    "pX": "25,16%",
+    "p2": "27,90%",
+    "pUnder": "45,32%",
+    "pOver": "54,68%",
+    "pGG": "59,19%",
+    "pNG": "40,81%"
   },
   {
     "data": "23/08/2025",
@@ -54,15 +54,15 @@
   {
     "data": "23/08/2025",
     "partita": "Gornik Zabrze vs GKS Katowice",
-    "risultato": "",
+    "risultato": "3-0",
     "previsione": "2 - 1",
-    "p1": "51,00%",
-    "pX": "19,33%",
-    "p2": "29,67%",
-    "pUnder": "40,33%",
-    "pOver": "59,67%",
-    "pGG": "54,33%",
-    "pNG": "45,67%"
+    "p1": "53,08%",
+    "pX": "18,59%",
+    "p2": "28,33%",
+    "pUnder": "37,95%",
+    "pOver": "62,05%",
+    "pGG": "51,79%",
+    "pNG": "48,21%"
   },
   {
     "data": "24/08/2025",
@@ -102,5 +102,18 @@
     "pOver": "57,78%",
     "pGG": "66,81%",
     "pNG": "33,19%"
+  },
+  {
+    "data": "25/08/2025",
+    "partita": "Wisla Plock vs Zaglebie Lubin",
+    "risultato": "",
+    "previsione": "2 - 1",
+    "p1": "63,43%",
+    "pX": "20,22%",
+    "p2": "16,35%",
+    "pUnder": "54,55%",
+    "pOver": "45,45%",
+    "pGG": "53,31%",
+    "pNG": "46,69%"
   }
 ]
