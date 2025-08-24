@@ -77,6 +77,100 @@ export default function Commenti() {
         </p>
                       <Banner position="middle" />
 
+        <h3>WHISP del 23/08/2025</h3>
+
+        <h3>✅ Levante UD vs FC Barcelona - 2 83.08%</h3>
+        <p>
+          Risultato: 2 - 3
+          <br />
+          Whisp corretto ma rocambolesco: il “2” del Barcellona arriva solo in extremis, dopo aver rimontato due reti di 
+          svantaggio e grazie a un autogol nei minuti di recupero. Pronostico vinto, ma con brivido.
+        </p>
+
+        <h3>✅ PSV vs FC Groningen - OVER2.5 76.64%</h3>
+        <p>
+          Risultato: 4 - 2
+          <br />
+          Whisp pienamente confermato: l’“Over 2.5” vola con il 4-2 del PSV, partita spettacolare e senza pause che regala 
+          gol a raffica e pronostico centrato senza dubbi.
+        </p>
+
+        <h3>✅ Bayer 04 Leverkusen vs TSG 1899 Hoffenheim - GOL 73.03%</h3>
+        <p>
+          Risultato: 1 - 2
+          <br />
+          Whisp azzeccato: il “Gol” si concretizza già nel primo tempo e il match si chiude 1-2 per l’Hoffenheim. Gara viva e 
+          combattuta, pronostico rispettato senza incertezze.
+        </p>
+
+        <h3>✅ Eintracht Frankfurt vs SV Werder Bremen - OVER2.5 72.21%</h3>
+        <p>
+          Risultato: 4 - 1
+          <br />
+          Whisp lampante: l’“Over 2.5” decolla con il 4-1 dell’Eintracht, match ricco di reti e mai in discussione per la 
+          previsione.
+        </p>
+
+        <h3>✅ Olympique de Marseille vs Paris FC - GOL 72.16%</h3>
+        <p>
+          Risultato: 5 - 2
+          <br />
+          Whisp spettacolare: il “Gol” trova conferma in una gara pirotecnica, chiusa 5-2 dal Marsiglia. Entrambe a segno 
+          presto e poi goleada che rende la previsione limpida e vincente.
+        </p>
+
+        <h3>✅ Botosani vs Csikszereda - OVER2.5 82.42%</h3>
+        <p>
+          Risultato: 3 - 1
+          <br />
+          Whisp audace e premiato: mentre il mercato si rifugiava nell’Under, tu hai puntato sull’Over 2.5 a 2.10 e hai 
+          visto giusto, perché il Botoșani ha mostrato ancora una volta la sua potenza offensiva tra le mura amiche. Con 
+          il 3-1 finale, si è visto che non era un pronostico scontato, ma era quello lucido.
+        </p>
+
+        <h3>❌ Universitatea Cluj vs Dinamo Bucuresti - GOL 80.00%</h3>
+        <p>
+          Risultato: 0 - 1
+          <br />
+          Whisp mancato: il previsto “Gol” non arriva, con l’Universitatea Cluj mai incisiva sotto porta. Dinamo passa 0-1 
+          e lascia la previsione a secco.
+        </p>
+
+        <h3>❌ Zulte Waregem vs Sint-Truiden - GOL 78.26%</h3>
+        <p>
+          Risultato: 0 - 2
+          <br />
+          Whisp sfumato: il “Gol” salta nel 0-2 finale, condizionato dall’espulsione del Waregem sullo 0-0. Con un uomo in 
+          meno, i padroni di casa hanno perso mordente offensivo e la previsione è svanita.
+        </p>
+
+        <h3>✅ Fenerbahce vs Kocaelispor - 1 77.22%</h3>
+        <p>
+          Risultato: 3 - 1
+          <br />
+          Whisp centrato: l’“1” si conferma nel 3-1 del Fenerbahce, che impone il proprio ritmo e chiude la pratica senza mai 
+          mettere davvero in discussione la vittoria.
+        </p>
+
+        <h3>✅ Zurich vs Thun - OVER2.5 74.41%</h3>
+        <p>
+          Risultato: 0 - 4
+          <br />
+          Whisp limpido: l’“Over 2.5” non lascia spazio a dubbi nel netto 0-4 del Thun. Partita a senso unico, pronostico rispettato 
+          in pieno e con largo margine.
+        </p>
+
+        <h3>✅ Sport Lisboa e Benfica vs CD Tondela - 1 81.81%</h3>
+        <p>
+          Risultato: 3 - 0
+          <br />
+          Whisp lineare: l’“1” del Benfica non tradisce, 3-0 secco sul Tondela e partita sempre in controllo. Pronostico centrato 
+          senza sorprese.
+        </p>        
+
+              <Banner position="middle" />        
+        
+        
         <h2>WHISP PRECEDENTI - periodo 15-18/08/2025</h2>
 
         <h3>✅ 18/08/2025 Elche CF vs Real Betis Balompié - GOL 79.63%</h3>
