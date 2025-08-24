@@ -3,7 +3,7 @@ name: Aggiorna SHOW (analysis + show)
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "30 7 * * 2,5"   # Sempre 09:30 IT (durante CEST, martedì e venerdì)
+    - cron: "30 7 * * *"   # 09:30 IT durante CEST (tutti i giorni)
 
 jobs:
   update-show:

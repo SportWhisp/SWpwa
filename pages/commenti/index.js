@@ -317,6 +317,9 @@ export default function Commenti() {
           mare agitato dei pronostici. E se questo è stato solo l’inizio, le prossime settimane promettono ancora più conferme, 
           spunti e soddisfazioni.
         </p>
+
+        <h2>Storico WHISP</h2>
+        <h6>WHISP Periodo 15-18/08/2025: 11✅ 3❌</h6>   
            
       </section>
       {/* 🔵 FINE COMMENTO SETTIMANALE 🔵 */}
