@@ -20,9 +20,22 @@
       "standings": [
         {
           "position": 1,
+          "team_id": 4978,
+          "team_name": "Goztepe",
+          "position_attribute": "Promotion - Champions League (League phase: )",
+          "games_played": 3,
+          "points": 7,
+          "wins": 2,
+          "draws": 1,
+          "losses": 0,
+          "goals_for": 5,
+          "goals_against": 0
+        },
+        {
+          "position": 2,
           "team_id": 3538,
           "team_name": "Konyaspor",
-          "position_attribute": "Promotion - Champions League (League phase: )",
+          "position_attribute": "Promotion - Champions League (Qualification: )",
           "games_played": 2,
           "points": 6,
           "wins": 2,
@@ -32,10 +45,10 @@
           "goals_against": 1
         },
         {
-          "position": 2,
+          "position": 3,
           "team_id": 4976,
           "team_name": "Galatasaray",
-          "position_attribute": "Promotion - Champions League (Qualification: )",
+          "position_attribute": "Promotion - Europa League (Qualification: )",
           "games_played": 2,
           "points": 6,
           "wins": 2,
@@ -45,22 +58,9 @@
           "goals_against": 0
         },
         {
-          "position": 3,
+          "position": 4,
           "team_id": 3284,
           "team_name": "Antalyaspor",
-          "position_attribute": "Promotion - Europa League (Qualification: )",
-          "games_played": 2,
-          "points": 6,
-          "wins": 2,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 3,
-          "goals_against": 1
-        },
-        {
-          "position": 4,
-          "team_id": 2966,
-          "team_name": "Samsunspor",
           "position_attribute": "Promotion - Conference League (Qualification: )",
           "games_played": 2,
           "points": 6,
@@ -72,6 +72,19 @@
         },
         {
           "position": 5,
+          "team_id": 2966,
+          "team_name": "Samsunspor",
+          "position_attribute": "",
+          "games_played": 2,
+          "points": 6,
+          "wins": 2,
+          "draws": 0,
+          "losses": 0,
+          "goals_for": 3,
+          "goals_against": 1
+        },
+        {
+          "position": 6,
           "team_id": 3022,
           "team_name": "Trabzonspor",
           "position_attribute": "",
@@ -84,9 +97,9 @@
           "goals_against": 0
         },
         {
-          "position": 6,
-          "team_id": 4978,
-          "team_name": "Goztepe",
+          "position": 7,
+          "team_id": 3494,
+          "team_name": "Fenerbahce",
           "position_attribute": "",
           "games_played": 2,
           "points": 4,
@@ -94,10 +107,10 @@
           "draws": 1,
           "losses": 0,
           "goals_for": 3,
-          "goals_against": 0
+          "goals_against": 1
         },
         {
-          "position": 7,
+          "position": 8,
           "team_id": 3069,
           "team_name": "Besiktas",
           "position_attribute": "",
@@ -110,7 +123,20 @@
           "goals_against": 1
         },
         {
-          "position": 8,
+          "position": 9,
+          "team_id": 3018,
+          "team_name": "Gaziantep FK",
+          "position_attribute": "",
+          "games_played": 3,
+          "points": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goals_for": 2,
+          "goals_against": 7
+        },
+        {
+          "position": 10,
           "team_id": 3279,
           "team_name": "Kayserispor",
           "position_attribute": "",
@@ -123,7 +149,7 @@
           "goals_against": 1
         },
         {
-          "position": 9,
+          "position": 11,
           "team_id": 3004,
           "team_name": "Istanbul Basaksehir",
           "position_attribute": "",
@@ -136,7 +162,7 @@
           "goals_against": 1
         },
         {
-          "position": 10,
+          "position": 12,
           "team_id": 3346,
           "team_name": "Alanyaspor",
           "position_attribute": "",
@@ -149,20 +175,7 @@
           "goals_against": 0
         },
         {
-          "position": 11,
-          "team_id": 3494,
-          "team_name": "Fenerbahce",
-          "position_attribute": "",
-          "games_played": 1,
-          "points": 1,
-          "wins": 0,
-          "draws": 1,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0
-        },
-        {
-          "position": 12,
+          "position": 13,
           "team_id": 3028,
           "team_name": "Rizespor",
           "position_attribute": "",
@@ -172,19 +185,6 @@
           "draws": 1,
           "losses": 1,
           "goals_for": 0,
-          "goals_against": 3
-        },
-        {
-          "position": 13,
-          "team_id": 3009,
-          "team_name": "Genclerbirligi",
-          "position_attribute": "",
-          "games_played": 2,
-          "points": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 2,
-          "goals_for": 1,
           "goals_against": 3
         },
         {
@@ -202,32 +202,19 @@
         },
         {
           "position": 15,
-          "team_id": 3025,
-          "team_name": "Kocaelispor",
+          "team_id": 3009,
+          "team_name": "Genclerbirligi",
           "position_attribute": "",
-          "games_played": 2,
+          "games_played": 3,
           "points": 0,
           "wins": 0,
           "draws": 0,
-          "losses": 2,
-          "goals_for": 0,
-          "goals_against": 2
+          "losses": 3,
+          "goals_for": 2,
+          "goals_against": 5
         },
         {
           "position": 16,
-          "team_id": 3021,
-          "team_name": "Fatih Karagumruk",
-          "position_attribute": "Relegation - 1. Lig",
-          "games_played": 1,
-          "points": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 1,
-          "goals_for": 0,
-          "goals_against": 3
-        },
-        {
-          "position": 17,
           "team_id": 3023,
           "team_name": "Eyupspor",
           "position_attribute": "Relegation - 1. Lig",
@@ -240,9 +227,35 @@
           "goals_against": 6
         },
         {
+          "position": 17,
+          "team_id": 3025,
+          "team_name": "Kocaelispor",
+          "position_attribute": "Relegation - 1. Lig",
+          "games_played": 3,
+          "points": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 3,
+          "goals_for": 1,
+          "goals_against": 5
+        },
+        {
           "position": 18,
-          "team_id": 3018,
-          "team_name": "Gaziantep FK",
+          "team_id": 3021,
+          "team_name": "Fatih Karagumruk",
+          "position_attribute": "Relegation - 1. Lig",
+          "games_played": 2,
+          "points": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 2,
+          "goals_for": 0,
+          "goals_against": 5
+        },
+        {
+          "position": 18,
+          "team_id": 3830,
+          "team_name": "JSM Skikda",
           "position_attribute": "Relegation - 1. Lig",
           "games_played": 2,
           "points": 0,

@@ -20,6 +20,19 @@
       "standings": [
         {
           "position": 1,
+          "team_id": 3125,
+          "team_name": "Thun",
+          "position_attribute": "Championship Playoff",
+          "games_played": 4,
+          "points": 12,
+          "wins": 4,
+          "draws": 0,
+          "losses": 0,
+          "goals_for": 10,
+          "goals_against": 3
+        },
+        {
+          "position": 2,
           "team_id": 4945,
           "team_name": "St.Gallen",
           "position_attribute": "Championship Playoff",
@@ -30,19 +43,6 @@
           "losses": 0,
           "goals_for": 11,
           "goals_against": 2
-        },
-        {
-          "position": 2,
-          "team_id": 3125,
-          "team_name": "Thun",
-          "position_attribute": "Championship Playoff",
-          "games_played": 3,
-          "points": 9,
-          "wins": 3,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 6,
-          "goals_against": 3
         },
         {
           "position": 3,
@@ -101,13 +101,13 @@
           "team_id": 4946,
           "team_name": "Zurich",
           "position_attribute": "Relegation Playoff",
-          "games_played": 3,
+          "games_played": 4,
           "points": 4,
           "wins": 1,
           "draws": 1,
-          "losses": 1,
+          "losses": 2,
           "goals_for": 5,
-          "goals_against": 5
+          "goals_against": 9
         },
         {
           "position": 8,
