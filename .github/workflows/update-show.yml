@@ -37,7 +37,8 @@ jobs:
 
           // Helper: esegue handler Next-like con req/res finti
           async function runHandler(filePath, query) {
-            const mod = require(filePath);
+            const { pathToFileURL } = require("url");
+            const mod = await import(pathToFileURL(filePath).href);
             const handler = mod.default || mod;
             await new Promise((resolve, reject) => {
               const res = {
@@ -88,7 +89,8 @@ jobs:
           // ==========================================================
 
           async function runHandler(filePath, query) {
-            const mod = require(filePath);
+            const { pathToFileURL } = require("url");
+            const mod = await import(pathToFileURL(filePath).href);
             const handler = mod.default || mod;
             await new Promise((resolve, reject) => {
               const res = {
