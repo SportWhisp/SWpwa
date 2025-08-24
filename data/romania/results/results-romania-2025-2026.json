@@ -11511,28 +11511,6 @@
                   "id": 30200,
                   "name": "J. Lukic"
                 }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "20",
-                "team": "home",
-                "player": {
-                  "id": 138013,
-                  "name": "Diogo Ramalho"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "46",
-                "team": "home",
-                "player_in": {
-                  "id": 51513,
-                  "name": "I. Cojocaru"
-                },
-                "player_out": {
-                  "id": 138013,
-                  "name": "Diogo Ramalho"
-                }
               }
             ],
             "odds": {
@@ -11572,39 +11550,226 @@
                 "name": "Unirea Slobozia"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "draw",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
+              "home_ht_goals": 1,
               "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "home_ft_goals": 1,
+              "away_ft_goals": 1,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "11",
+                "team": "away",
+                "player": {
+                  "id": 228326,
+                  "name": "Alexandru Dinu"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "19",
+                "team": "away",
+                "player": {
+                  "id": 34644,
+                  "name": "C. Barbut"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "25",
+                "team": "home",
+                "player": {
+                  "id": 147243,
+                  "name": "A. Padula"
+                }
+              },
+              {
+                "event_type": "penalty_goal",
+                "event_minute": "36",
+                "team": "home",
+                "player": {
+                  "id": 44009,
+                  "name": "V. Costache"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "away",
+                "player_in": {
+                  "id": 139611,
+                  "name": "R. Negru"
+                },
+                "player_out": {
+                  "id": 226809,
+                  "name": "F. Ibrian"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "66",
+                "team": "home",
+                "player_in": {
+                  "id": 139995,
+                  "name": "D. Hrezdac"
+                },
+                "player_out": {
+                  "id": 30032,
+                  "name": "Ovidiu Popescu"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "66",
+                "team": "home",
+                "player_in": {
+                  "id": 44487,
+                  "name": "S. Alomeroviс"
+                },
+                "player_out": {
+                  "id": 147243,
+                  "name": "A. Padula"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "69",
+                "team": "away",
+                "player_in": {
+                  "id": 226805,
+                  "name": "I. Coadă"
+                },
+                "player_out": {
+                  "id": 43833,
+                  "name": "V. Hamdiu"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "69",
+                "team": "away",
+                "player_in": {
+                  "id": 228073,
+                  "name": "R. Rotund"
+                },
+                "player_out": {
+                  "id": 267358,
+                  "name": "Patrick Dulcea"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "75",
+                "team": "home",
+                "player_in": {
+                  "id": 42140,
+                  "name": "S. Mino"
+                },
+                "player_out": {
+                  "id": 79156,
+                  "name": "A. Roman"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "75",
+                "team": "away",
+                "player_in": {
+                  "id": 87066,
+                  "name": "S. Said"
+                },
+                "player_out": {
+                  "id": 77521,
+                  "name": "F. Purece"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "away",
+                "player_in": {
+                  "id": 79132,
+                  "name": "E. Florescu"
+                },
+                "player_out": {
+                  "id": 34644,
+                  "name": "C. Barbut"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "79",
+                "team": "away",
+                "player": {
+                  "id": 226810,
+                  "name": "C. Afalna"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "86",
+                "team": "home",
+                "player_in": {
+                  "id": 44346,
+                  "name": "D. Zsóri"
+                },
+                "player_out": {
+                  "id": 22136,
+                  "name": "M. Tzionis"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "86",
+                "team": "home",
+                "player_in": {
+                  "id": 51551,
+                  "name": "A. Benga"
+                },
+                "player_out": {
+                  "id": 44009,
+                  "name": "V. Costache"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 79189,
+                  "name": "D. Şerbănică"
+                },
+                "assist_player": null
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 2.05,
-                "draw": 3.46,
-                "away": 3.45
+                "home": 1.82,
+                "draw": 3.6,
+                "away": 3.9
               },
               "over_under": {
                 "total": 2.5,
-                "over": 2.01,
-                "under": 1.77
+                "over": 1.83,
+                "under": 1.95
               },
               "handicap": {
                 "market": -0.5,
-                "home": 2.02,
-                "away": 1.8
+                "home": 1.83,
+                "away": 2.03
               },
-              "last_modified_timestamp": 1755597678
+              "last_modified_timestamp": 1755887508
             },
             "match_preview": {
               "has_preview": false,
@@ -11625,39 +11790,251 @@
                 "name": "Rapid"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "away",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "home_ht_goals": 1,
+              "away_ht_goals": 2,
+              "home_ft_goals": 1,
+              "away_ft_goals": 2,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "16",
+                "team": "away",
+                "player": {
+                  "id": 52166,
+                  "name": "C. Grameni"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "21",
+                "team": "away",
+                "player": {
+                  "id": 29776,
+                  "name": "E. Koljic"
+                },
+                "assist_player": {
+                  "id": 30901,
+                  "name": "T. Christensen"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "43",
+                "team": "home",
+                "player": {
+                  "id": 78992,
+                  "name": "Ely Fernandes"
+                },
+                "assist_player": {
+                  "id": 263791,
+                  "name": "A. Sava"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "53",
+                "team": "away",
+                "player": {
+                  "id": 52166,
+                  "name": "C. Grameni"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "59",
+                "team": "home",
+                "player": {
+                  "id": 138034,
+                  "name": "Bruno Carvalho"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "66",
+                "team": "away",
+                "player_in": {
+                  "id": 32717,
+                  "name": "A. Baroan"
+                },
+                "player_out": {
+                  "id": 29776,
+                  "name": "E. Koljic"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "66",
+                "team": "away",
+                "player_in": {
+                  "id": 26288,
+                  "name": "J. Hromada"
+                },
+                "player_out": {
+                  "id": 52166,
+                  "name": "C. Grameni"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "67",
+                "team": "away",
+                "player_in": {
+                  "id": 51565,
+                  "name": "R. Pop"
+                },
+                "player_out": {
+                  "id": 27325,
+                  "name": "C. Petrila"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "71",
+                "team": "home",
+                "player_in": {
+                  "id": 78965,
+                  "name": "D. Irimia"
+                },
+                "player_out": {
+                  "id": 79000,
+                  "name": "A. Irimia"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "74",
+                "team": "home",
+                "player": {
+                  "id": 78965,
+                  "name": "D. Irimia"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "76",
+                "team": "home",
+                "player_in": {
+                  "id": 137248,
+                  "name": "D. Ubbink"
+                },
+                "player_out": {
+                  "id": 78992,
+                  "name": "Ely Fernandes"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "home",
+                "player_in": {
+                  "id": 269368,
+                  "name": "Moses Abbey"
+                },
+                "player_out": {
+                  "id": 79139,
+                  "name": "C. Kouadio"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "home",
+                "player_in": {
+                  "id": 263793,
+                  "name": "A. Sîrbu"
+                },
+                "player_out": {
+                  "id": 139754,
+                  "name": "D. Huiban"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "home",
+                "player_in": {
+                  "id": 79184,
+                  "name": "M. Lis"
+                },
+                "player_out": {
+                  "id": 131975,
+                  "name": "Y. Zakir"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "83",
+                "team": "away",
+                "player_in": {
+                  "id": 27945,
+                  "name": "T. Jambor"
+                },
+                "player_out": {
+                  "id": 30901,
+                  "name": "T. Christensen"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "83",
+                "team": "away",
+                "player_in": {
+                  "id": 82976,
+                  "name": "A. Pașcanu"
+                },
+                "player_out": {
+                  "id": 34290,
+                  "name": "C. Braun"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 54815,
+                  "name": "F. Stolz"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 29766,
+                  "name": "D. Ciobotariu"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 7.5,
-                "draw": 4.5,
-                "away": 1.4
+                "home": 7,
+                "draw": 4.33,
+                "away": 1.41
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.83,
-                "under": 1.94
+                "over": 1.85,
+                "under": 1.95
               },
               "handicap": {
-                "market": "+1.25",
-                "home": 1.83,
-                "away": 1.87
+                "market": "+1.0",
+                "home": 2.19,
+                "away": 1.7
               },
-              "last_modified_timestamp": 1755597678
+              "last_modified_timestamp": 1755894753
             },
             "match_preview": {
               "has_preview": false,
@@ -11693,24 +12070,245 @@
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "2",
+                "team": "home",
+                "player": {
+                  "id": 34373,
+                  "name": "A. Dumiter"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "23",
+                "team": "away",
+                "player": {
+                  "id": 39637,
+                  "name": "L. Pászka"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "26",
+                "team": "home",
+                "player": {
+                  "id": 41669,
+                  "name": "E. Papa"
+                },
+                "assist_player": {
+                  "id": 79143,
+                  "name": "S. Mailat"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "33",
+                "team": "home",
+                "player": {
+                  "id": 29770,
+                  "name": "G. Cimpanu"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "42",
+                "team": "home",
+                "player": {
+                  "id": 41669,
+                  "name": "E. Papa"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 34321,
+                  "name": "M. Bordeianu"
+                },
+                "player_out": {
+                  "id": 41669,
+                  "name": "E. Papa"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "52",
+                "team": "home",
+                "player": {
+                  "id": 79120,
+                  "name": "N. Ilaș"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "65",
+                "team": "home",
+                "player_in": {
+                  "id": 51514,
+                  "name": "Z. Mitrov"
+                },
+                "player_out": {
+                  "id": 79143,
+                  "name": "S. Mailat"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "65",
+                "team": "home",
+                "player_in": {
+                  "id": 78974,
+                  "name": "Ș. Bodișteanu"
+                },
+                "player_out": {
+                  "id": 29770,
+                  "name": "G. Cimpanu"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "68",
+                "team": "away",
+                "player_in": {
+                  "id": 33746,
+                  "name": "S. Szalay"
+                },
+                "player_out": {
+                  "id": 67595,
+                  "name": "B. Szabó"
+                }
+              },
+              {
+                "event_type": "penalty_goal",
+                "event_minute": "76",
+                "team": "home",
+                "player": {
+                  "id": 51514,
+                  "name": "Z. Mitrov"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "away",
+                "player_in": {
+                  "id": 104290,
+                  "name": "M. Eppel"
+                },
+                "player_out": {
+                  "id": 143107,
+                  "name": "J. Dolný"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "away",
+                "player_in": {
+                  "id": 160868,
+                  "name": "E. Bakoș"
+                },
+                "player_out": {
+                  "id": 266832,
+                  "name": "E. Bödő"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "away",
+                "player_in": {
+                  "id": 43936,
+                  "name": "B. Babati"
+                },
+                "player_out": {
+                  "id": 52408,
+                  "name": "J. Ferenczi"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "82",
+                "team": "home",
+                "player": {
+                  "id": 78974,
+                  "name": "Ș. Bodișteanu"
+                },
+                "assist_player": {
+                  "id": 51514,
+                  "name": "Z. Mitrov"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "84",
+                "team": "home",
+                "player_in": {
+                  "id": 79199,
+                  "name": "A. Dumitru"
+                },
+                "player_out": {
+                  "id": 34335,
+                  "name": "H. Ongenda"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "84",
+                "team": "home",
+                "player_in": {
+                  "id": 30833,
+                  "name": "M. Kovtalyuk"
+                },
+                "player_out": {
+                  "id": 34373,
+                  "name": "A. Dumiter"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "85",
+                "team": "away",
+                "player": {
+                  "id": 160868,
+                  "name": "E. Bakoș"
+                },
+                "assist_player": {
+                  "id": 88528,
+                  "name": "Anderson Ceará"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "home",
+                "player": {
+                  "id": 79118,
+                  "name": "A. Țigănașu"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 1.8,
-                "draw": 3.58,
-                "away": 4.33
+                "home": 1.95,
+                "draw": 3.25,
+                "away": 3.9
               },
               "over_under": {
                 "total": 2.5,
-                "over": 2.08,
+                "over": 2.1,
                 "under": 1.73
               },
               "handicap": {
                 "market": -0.5,
-                "home": 1.83,
-                "away": 2.02
+                "home": 1.98,
+                "away": 1.86
               },
-              "last_modified_timestamp": 1755597678
+              "last_modified_timestamp": 1755970280
             },
             "match_preview": {
               "has_preview": false,
@@ -11746,24 +12344,179 @@
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "2",
+                "team": "home",
+                "player": {
+                  "id": 79173,
+                  "name": "A. Gheorghiță"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "15",
+                "team": "away",
+                "player": {
+                  "id": 34374,
+                  "name": "A. Musi"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "24",
+                "team": "home",
+                "player": {
+                  "id": 109705,
+                  "name": "G. Simion"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 115271,
+                  "name": "I. Macalou"
+                },
+                "player_out": {
+                  "id": 109705,
+                  "name": "G. Simion"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 78197,
+                  "name": "Miguel Silva"
+                },
+                "player_out": {
+                  "id": 79173,
+                  "name": "A. Gheorghiță"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 69200,
+                  "name": "E. Capradossi"
+                },
+                "player_out": {
+                  "id": 40622,
+                  "name": "A. Murgia"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "47",
+                "team": "away",
+                "player": {
+                  "id": 27914,
+                  "name": "K. Boateng"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "47",
+                "team": "home",
+                "player": {
+                  "id": 30200,
+                  "name": "J. Lukic"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "58",
+                "team": "away",
+                "player_in": {
+                  "id": 64593,
+                  "name": "M. Sivis"
+                },
+                "player_out": {
+                  "id": 39421,
+                  "name": "J. Ikoko"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "67",
+                "team": "away",
+                "player_in": {
+                  "id": 227578,
+                  "name": "A. Caragea"
+                },
+                "player_out": {
+                  "id": 34374,
+                  "name": "A. Musi"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "68",
+                "team": "away",
+                "player": {
+                  "id": 227578,
+                  "name": "A. Caragea"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "away",
+                "player_in": {
+                  "id": 86925,
+                  "name": "A. Pop"
+                },
+                "player_out": {
+                  "id": 80242,
+                  "name": "D. Armstrong"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "89",
+                "team": "away",
+                "player": {
+                  "id": 86925,
+                  "name": "A. Pop"
+                },
+                "assist_player": {
+                  "id": 64593,
+                  "name": "M. Sivis"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 26558,
+                  "name": "M. Karamoko"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 2.35,
-                "draw": 3.3,
-                "away": 2.95
+                "home": 2.38,
+                "draw": 3.26,
+                "away": 2.88
               },
               "over_under": {
-                "total": 2.25,
-                "over": 1.86,
-                "under": 1.83
+                "total": 2.5,
+                "over": 2.12,
+                "under": 1.7
               },
               "handicap": {
-                "market": -0.25,
-                "home": 1.97,
-                "away": 1.72
+                "market": "+0.0",
+                "home": 1.71,
+                "away": 2.08
               },
-              "last_modified_timestamp": 1755597678
+              "last_modified_timestamp": 1755981094
             },
             "match_preview": {
               "has_preview": false,
@@ -11802,21 +12555,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 3.36,
-                "draw": 3.02,
-                "away": 2.29
+                "home": 3.5,
+                "draw": 3.05,
+                "away": 2.17
               },
               "over_under": {
-                "total": 1.75,
-                "over": 1.75,
-                "under": 1.95
+                "total": 2,
+                "over": 1.82,
+                "under": 2
               },
               "handicap": {
                 "market": "+0.25",
-                "home": 1.81,
-                "away": 1.86
+                "home": 1.97,
+                "away": 1.85
               },
-              "last_modified_timestamp": 1755597678
+              "last_modified_timestamp": 1756027859
             },
             "match_preview": {
               "has_preview": false,
@@ -11855,21 +12608,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.6,
-                "draw": 3.85,
-                "away": 5.67
+                "home": 1.61,
+                "draw": 3.7,
+                "away": 5.48
               },
               "over_under": {
-                "total": 2.25,
-                "over": 1.71,
-                "under": 2
+                "total": 2.5,
+                "over": 2.05,
+                "under": 1.76
               },
               "handicap": {
                 "market": -1,
-                "home": 2.04,
+                "home": 2.09,
                 "away": 1.75
               },
-              "last_modified_timestamp": 1755597678
+              "last_modified_timestamp": 1756027859
             },
             "match_preview": {
               "has_preview": false,
@@ -11908,21 +12661,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.49,
-                "draw": 4.15,
-                "away": 6.72
+                "home": 1.67,
+                "draw": 3.6,
+                "away": 5
               },
               "over_under": {
-                "total": 2.25,
-                "over": 1.71,
-                "under": 2
+                "total": 2.5,
+                "over": 2.1,
+                "under": 1.73
               },
               "handicap": {
                 "market": -1,
-                "home": 1.85,
-                "away": 1.95
+                "home": 2.23,
+                "away": 1.67
               },
-              "last_modified_timestamp": 1755597678
+              "last_modified_timestamp": 1756027859
             },
             "match_preview": {
               "has_preview": false,
@@ -11961,21 +12714,74 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.32,
+                "home": 2.3,
                 "draw": 3.2,
                 "away": 3.08
               },
               "over_under": {
-                "total": 2.25,
-                "over": 1.88,
-                "under": 1.81
+                "total": 2.5,
+                "over": 2.1,
+                "under": 1.71
               },
               "handicap": {
                 "market": -0.25,
-                "home": 1.92,
-                "away": 1.76
+                "home": 1.99,
+                "away": 1.82
               },
-              "last_modified_timestamp": 1755597678
+              "last_modified_timestamp": 1756027859
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956263,
+            "date": "29/08/2025",
+            "time": "17:30",
+            "teams": {
+              "home": {
+                "id": 3142,
+                "name": "Rapid"
+              },
+              "away": {
+                "id": 3525,
+                "name": "UTA Arad"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 1.77,
+                "draw": 3.68,
+                "away": 4.4
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.93,
+                "under": 1.85
+              },
+              "handicap": {
+                "market": -0.75,
+                "home": 1.93,
+                "away": 1.75
+              },
+              "last_modified_timestamp": 1756027859
             },
             "match_preview": {
               "has_preview": false,
@@ -12013,142 +12819,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956261,
-            "date": "30/08/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3058,
-                "name": "CFR Cluj"
-              },
-              "away": {
-                "id": 3177,
-                "name": "FCSB"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956265,
-            "date": "30/08/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2824,
-                "name": "Arges"
-              },
-              "away": {
-                "id": 6660,
-                "name": "Metaloglobus"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
               "match_winner": {
-                "home": 1.78,
-                "draw": 3.25,
-                "away": 4.75
+                "home": 3.75,
+                "draw": 3.15,
+                "away": 2.11
               },
               "over_under": {
-                "total": 2.25,
-                "over": 1.9,
-                "under": 1.95
+                "total": 2,
+                "over": 1.75,
+                "under": 2.12
               },
               "handicap": {
-                "market": -0.75,
-                "home": 2.05,
-                "away": 1.8
+                "market": "+0.5",
+                "home": 1.82,
+                "away": 2.05
               },
-              "last_modified_timestamp": 1755597678
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956260,
-            "date": "30/08/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 6983,
-                "name": "Unirea Slobozia"
-              },
-              "away": {
-                "id": 4773,
-                "name": "Universitatea Cluj"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "last_modified_timestamp": 1756027859
             },
             "match_preview": {
               "has_preview": false,
@@ -12186,9 +12872,75 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.12,
+                "draw": 3.15,
+                "away": 3.45
+              },
+              "over_under": {
+                "total": 2,
+                "over": 1.7,
+                "under": 2.2
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 2.15,
+                "away": 1.75
+              },
+              "last_modified_timestamp": 1756027860
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956260,
+            "date": "30/08/2025",
+            "time": "15:45",
+            "teams": {
+              "home": {
+                "id": 6983,
+                "name": "Unirea Slobozia"
+              },
+              "away": {
+                "id": 4773,
+                "name": "Universitatea Cluj"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 3.55,
+                "draw": 3.3,
+                "away": 2.05
+              },
+              "over_under": {
+                "total": 2.25,
+                "over": 1.92,
+                "under": 1.77
+              },
+              "handicap": {
+                "market": "+0.25",
+                "home": 1.94,
+                "away": 1.74
+              },
+              "last_modified_timestamp": 1756027859
             },
             "match_preview": {
               "has_preview": false,
@@ -12198,7 +12950,7 @@
           {
             "id": 956258,
             "date": "30/08/2025",
-            "time": "15:00",
+            "time": "18:30",
             "teams": {
               "home": {
                 "id": 4764,
@@ -12226,9 +12978,75 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 1.99,
+                "draw": 3.3,
+                "away": 4.2
+              },
+              "over_under": {
+                "total": 2.25,
+                "over": 2.02,
+                "under": 1.83
+              },
+              "handicap": {
+                "market": -0.75,
+                "home": 2.22,
+                "away": 1.7
+              },
+              "last_modified_timestamp": 1756027859
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956265,
+            "date": "31/08/2025",
+            "time": "13:00",
+            "teams": {
+              "home": {
+                "id": 2824,
+                "name": "Arges"
+              },
+              "away": {
+                "id": 6660,
+                "name": "Metaloglobus"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 1.81,
+                "draw": 3.25,
+                "away": 4.75
+              },
+              "over_under": {
+                "total": 2.25,
+                "over": 1.9,
+                "under": 1.95
+              },
+              "handicap": {
+                "market": -0.75,
+                "home": 2.05,
+                "away": 1.8
+              },
+              "last_modified_timestamp": 1756027859
             },
             "match_preview": {
               "has_preview": false,
@@ -12237,8 +13055,8 @@
           },
           {
             "id": 956264,
-            "date": "30/08/2025",
-            "time": "15:00",
+            "date": "31/08/2025",
+            "time": "15:30",
             "teams": {
               "home": {
                 "id": 4763,
@@ -12266,9 +13084,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 3.58,
+                "draw": 3.3,
+                "away": 2.16
+              },
+              "over_under": {
+                "total": 2.25,
+                "over": 1.91,
+                "under": 1.93
+              },
+              "handicap": {
+                "market": "+0.25",
+                "home": 1.93,
+                "away": 1.78
+              },
+              "last_modified_timestamp": 1756027859
             },
             "match_preview": {
               "has_preview": false,
@@ -12276,17 +13107,17 @@
             }
           },
           {
-            "id": 956263,
-            "date": "30/08/2025",
-            "time": "15:00",
+            "id": 956261,
+            "date": "31/08/2025",
+            "time": "18:30",
             "teams": {
               "home": {
-                "id": 3142,
-                "name": "Rapid"
+                "id": 3058,
+                "name": "CFR Cluj"
               },
               "away": {
-                "id": 3525,
-                "name": "UTA Arad"
+                "id": 3177,
+                "name": "FCSB"
               }
             },
             "status": "pre-match",
@@ -12306,9 +13137,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.52,
+                "draw": 3.2,
+                "away": 3
+              },
+              "over_under": {
+                "total": 2.25,
+                "over": 2.07,
+                "under": 1.8
+              },
+              "handicap": {
+                "market": "+0.0",
+                "home": 1.74,
+                "away": 2.1
+              },
+              "last_modified_timestamp": 1756027859
             },
             "match_preview": {
               "has_preview": false,
@@ -12327,46 +13171,6 @@
               "away": {
                 "id": 3142,
                 "name": "Rapid"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956273,
-            "date": "13/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3177,
-                "name": "FCSB"
-              },
-              "away": {
-                "id": 6224,
-                "name": "Csikszereda"
               }
             },
             "status": "pre-match",
@@ -12476,17 +13280,17 @@
             }
           },
           {
-            "id": 956268,
+            "id": 956267,
             "date": "13/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3050,
-                "name": "Hermannstadt"
+                "id": 6660,
+                "name": "Metaloglobus"
               },
               "away": {
-                "id": 6983,
-                "name": "Unirea Slobozia"
+                "id": 3058,
+                "name": "CFR Cluj"
               }
             },
             "status": "pre-match",
@@ -12516,17 +13320,17 @@
             }
           },
           {
-            "id": 956267,
+            "id": 956268,
             "date": "13/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 6660,
-                "name": "Metaloglobus"
+                "id": 3050,
+                "name": "Hermannstadt"
               },
               "away": {
-                "id": 3058,
-                "name": "CFR Cluj"
+                "id": 6983,
+                "name": "Unirea Slobozia"
               }
             },
             "status": "pre-match",
@@ -12596,6 +13400,46 @@
             }
           },
           {
+            "id": 956273,
+            "date": "13/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3177,
+                "name": "FCSB"
+              },
+              "away": {
+                "id": 6224,
+                "name": "Csikszereda"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 956272,
             "date": "13/09/2025",
             "time": "15:00",
@@ -12607,6 +13451,46 @@
               "away": {
                 "id": 2824,
                 "name": "Arges"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956277,
+            "date": "20/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4763,
+                "name": "Botosani"
+              },
+              "away": {
+                "id": 3177,
+                "name": "FCSB"
               }
             },
             "status": "pre-match",
@@ -12727,46 +13611,6 @@
               "away": {
                 "id": 3630,
                 "name": "FCV Farul Constanta"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956277,
-            "date": "20/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4763,
-                "name": "Botosani"
-              },
-              "away": {
-                "id": 3177,
-                "name": "FCSB"
               }
             },
             "status": "pre-match",
@@ -12956,6 +13800,46 @@
             }
           },
           {
+            "id": 956282,
+            "date": "27/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3522,
+                "name": "Petrolul 52"
+              },
+              "away": {
+                "id": 3142,
+                "name": "Rapid"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 956289,
             "date": "27/09/2025",
             "time": "15:00",
@@ -13036,97 +13920,17 @@
             }
           },
           {
-            "id": 956283,
+            "id": 956287,
             "date": "27/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3050,
-                "name": "Hermannstadt"
+                "id": 3525,
+                "name": "UTA Arad"
               },
               "away": {
-                "id": 2824,
-                "name": "Arges"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956284,
-            "date": "27/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4773,
-                "name": "Universitatea Cluj"
-              },
-              "away": {
-                "id": 3058,
-                "name": "CFR Cluj"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956285,
-            "date": "27/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 6660,
-                "name": "Metaloglobus"
-              },
-              "away": {
-                "id": 4763,
-                "name": "Botosani"
+                "id": 6224,
+                "name": "Csikszereda"
               }
             },
             "status": "pre-match",
@@ -13196,17 +14000,17 @@
             }
           },
           {
-            "id": 956287,
+            "id": 956285,
             "date": "27/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3525,
-                "name": "UTA Arad"
+                "id": 6660,
+                "name": "Metaloglobus"
               },
               "away": {
-                "id": 6224,
-                "name": "Csikszereda"
+                "id": 4763,
+                "name": "Botosani"
               }
             },
             "status": "pre-match",
@@ -13236,17 +14040,57 @@
             }
           },
           {
-            "id": 956282,
+            "id": 956284,
             "date": "27/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3522,
-                "name": "Petrolul 52"
+                "id": 4773,
+                "name": "Universitatea Cluj"
               },
               "away": {
-                "id": 3142,
-                "name": "Rapid"
+                "id": 3058,
+                "name": "CFR Cluj"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956283,
+            "date": "27/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3050,
+                "name": "Hermannstadt"
+              },
+              "away": {
+                "id": 2824,
+                "name": "Arges"
               }
             },
             "status": "pre-match",
@@ -13287,86 +14131,6 @@
               "away": {
                 "id": 4773,
                 "name": "Universitatea Cluj"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956297,
-            "date": "04/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 5076,
-                "name": "Otelul"
-              },
-              "away": {
-                "id": 6660,
-                "name": "Metaloglobus"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956296,
-            "date": "04/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3058,
-                "name": "CFR Cluj"
-              },
-              "away": {
-                "id": 3050,
-                "name": "Hermannstadt"
               }
             },
             "status": "pre-match",
@@ -13447,6 +14211,46 @@
               "away": {
                 "id": 3630,
                 "name": "FCV Farul Constanta"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956297,
+            "date": "04/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 5076,
+                "name": "Otelul"
+              },
+              "away": {
+                "id": 6660,
+                "name": "Metaloglobus"
               }
             },
             "status": "pre-match",
@@ -13596,57 +14400,17 @@
             }
           },
           {
-            "id": 956302,
-            "date": "18/10/2025",
+            "id": 956296,
+            "date": "04/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 6660,
-                "name": "Metaloglobus"
-              },
-              "away": {
-                "id": 3177,
-                "name": "FCSB"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956303,
-            "date": "18/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3522,
-                "name": "Petrolul 52"
-              },
-              "away": {
                 "id": 3058,
                 "name": "CFR Cluj"
+              },
+              "away": {
+                "id": 3050,
+                "name": "Hermannstadt"
               }
             },
             "status": "pre-match",
@@ -13756,6 +14520,166 @@
             }
           },
           {
+            "id": 956303,
+            "date": "18/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3522,
+                "name": "Petrolul 52"
+              },
+              "away": {
+                "id": 3058,
+                "name": "CFR Cluj"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956302,
+            "date": "18/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 6660,
+                "name": "Metaloglobus"
+              },
+              "away": {
+                "id": 3177,
+                "name": "FCSB"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956301,
+            "date": "18/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3525,
+                "name": "UTA Arad"
+              },
+              "away": {
+                "id": 5076,
+                "name": "Otelul"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956300,
+            "date": "18/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3630,
+                "name": "FCV Farul Constanta"
+              },
+              "away": {
+                "id": 2824,
+                "name": "Arges"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 956298,
             "date": "18/10/2025",
             "time": "15:00",
@@ -13836,57 +14760,17 @@
             }
           },
           {
-            "id": 956300,
-            "date": "18/10/2025",
+            "id": 956309,
+            "date": "25/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
+                "id": 3058,
+                "name": "CFR Cluj"
+              },
+              "away": {
                 "id": 3630,
                 "name": "FCV Farul Constanta"
-              },
-              "away": {
-                "id": 2824,
-                "name": "Arges"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956301,
-            "date": "18/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3525,
-                "name": "UTA Arad"
-              },
-              "away": {
-                "id": 5076,
-                "name": "Otelul"
               }
             },
             "status": "pre-match",
@@ -14007,46 +14891,6 @@
               "away": {
                 "id": 3050,
                 "name": "Hermannstadt"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956309,
-            "date": "25/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3058,
-                "name": "CFR Cluj"
-              },
-              "away": {
-                "id": 3630,
-                "name": "FCV Farul Constanta"
               }
             },
             "status": "pre-match",
@@ -14236,17 +15080,177 @@
             }
           },
           {
-            "id": 956321,
+            "id": 956320,
             "date": "01/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 6983,
-                "name": "Unirea Slobozia"
+                "id": 4773,
+                "name": "Universitatea Cluj"
               },
               "away": {
-                "id": 2824,
-                "name": "Arges"
+                "id": 3177,
+                "name": "FCSB"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956319,
+            "date": "01/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2804,
+                "name": "Universitatea Craiova"
+              },
+              "away": {
+                "id": 3142,
+                "name": "Rapid"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956318,
+            "date": "01/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3522,
+                "name": "Petrolul 52"
+              },
+              "away": {
+                "id": 4763,
+                "name": "Botosani"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956317,
+            "date": "01/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4764,
+                "name": "Dinamo Bucuresti"
+              },
+              "away": {
+                "id": 3058,
+                "name": "CFR Cluj"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956316,
+            "date": "01/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3630,
+                "name": "FCV Farul Constanta"
+              },
+              "away": {
+                "id": 6224,
+                "name": "Csikszereda"
               }
             },
             "status": "pre-match",
@@ -14356,17 +15360,17 @@
             }
           },
           {
-            "id": 956316,
+            "id": 956321,
             "date": "01/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3630,
-                "name": "FCV Farul Constanta"
+                "id": 6983,
+                "name": "Unirea Slobozia"
               },
               "away": {
-                "id": 6224,
-                "name": "Csikszereda"
+                "id": 2824,
+                "name": "Arges"
               }
             },
             "status": "pre-match",
@@ -14396,137 +15400,17 @@
             }
           },
           {
-            "id": 956317,
-            "date": "01/11/2025",
+            "id": 956322,
+            "date": "08/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4764,
-                "name": "Dinamo Bucuresti"
-              },
-              "away": {
-                "id": 3058,
-                "name": "CFR Cluj"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956318,
-            "date": "01/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3522,
-                "name": "Petrolul 52"
-              },
-              "away": {
-                "id": 4763,
-                "name": "Botosani"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956319,
-            "date": "01/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2804,
-                "name": "Universitatea Craiova"
-              },
-              "away": {
                 "id": 3142,
                 "name": "Rapid"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956320,
-            "date": "01/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4773,
-                "name": "Universitatea Cluj"
               },
               "away": {
-                "id": 3177,
-                "name": "FCSB"
+                "id": 2824,
+                "name": "Arges"
               }
             },
             "status": "pre-match",
@@ -14796,126 +15680,6 @@
             }
           },
           {
-            "id": 956322,
-            "date": "08/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3142,
-                "name": "Rapid"
-              },
-              "away": {
-                "id": 2824,
-                "name": "Arges"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956334,
-            "date": "22/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3177,
-                "name": "FCSB"
-              },
-              "away": {
-                "id": 3522,
-                "name": "Petrolul 52"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956329,
-            "date": "22/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 5076,
-                "name": "Otelul"
-              },
-              "away": {
-                "id": 3630,
-                "name": "FCV Farul Constanta"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 956330,
             "date": "22/11/2025",
             "time": "15:00",
@@ -14927,46 +15691,6 @@
               "away": {
                 "id": 6983,
                 "name": "Unirea Slobozia"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956331,
-            "date": "22/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 6660,
-                "name": "Metaloglobus"
-              },
-              "away": {
-                "id": 3050,
-                "name": "Hermannstadt"
               }
             },
             "status": "pre-match",
@@ -15036,6 +15760,86 @@
             }
           },
           {
+            "id": 956331,
+            "date": "22/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 6660,
+                "name": "Metaloglobus"
+              },
+              "away": {
+                "id": 3050,
+                "name": "Hermannstadt"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956334,
+            "date": "22/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3177,
+                "name": "FCSB"
+              },
+              "away": {
+                "id": 3522,
+                "name": "Petrolul 52"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 956333,
             "date": "22/11/2025",
             "time": "15:00",
@@ -15076,17 +15880,17 @@
             }
           },
           {
-            "id": 956341,
-            "date": "29/11/2025",
+            "id": 956329,
+            "date": "22/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 6983,
-                "name": "Unirea Slobozia"
+                "id": 5076,
+                "name": "Otelul"
               },
               "away": {
-                "id": 4763,
-                "name": "Botosani"
+                "id": 3630,
+                "name": "FCV Farul Constanta"
               }
             },
             "status": "pre-match",
@@ -15116,17 +15920,17 @@
             }
           },
           {
-            "id": 956342,
+            "id": 956337,
             "date": "29/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3142,
-                "name": "Rapid"
+                "id": 3522,
+                "name": "Petrolul 52"
               },
               "away": {
-                "id": 6224,
-                "name": "Csikszereda"
+                "id": 6660,
+                "name": "Metaloglobus"
               }
             },
             "status": "pre-match",
@@ -15207,46 +16011,6 @@
               "away": {
                 "id": 3058,
                 "name": "CFR Cluj"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956337,
-            "date": "29/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3522,
-                "name": "Petrolul 52"
-              },
-              "away": {
-                "id": 6660,
-                "name": "Metaloglobus"
               }
             },
             "status": "pre-match",
@@ -15396,17 +16160,57 @@
             }
           },
           {
-            "id": 956349,
-            "date": "06/12/2025",
+            "id": 956341,
+            "date": "29/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3525,
-                "name": "UTA Arad"
+                "id": 6983,
+                "name": "Unirea Slobozia"
               },
               "away": {
-                "id": 3522,
-                "name": "Petrolul 52"
+                "id": 4763,
+                "name": "Botosani"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956342,
+            "date": "29/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3142,
+                "name": "Rapid"
+              },
+              "away": {
+                "id": 6224,
+                "name": "Csikszereda"
               }
             },
             "status": "pre-match",
@@ -15476,137 +16280,17 @@
             }
           },
           {
-            "id": 956348,
+            "id": 956343,
             "date": "06/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4763,
-                "name": "Botosani"
+                "id": 6224,
+                "name": "Csikszereda"
               },
               "away": {
-                "id": 3142,
-                "name": "Rapid"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956347,
-            "date": "06/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4773,
-                "name": "Universitatea Cluj"
-              },
-              "away": {
-                "id": 3050,
-                "name": "Hermannstadt"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956346,
-            "date": "06/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2804,
-                "name": "Universitatea Craiova"
-              },
-              "away": {
-                "id": 3058,
-                "name": "CFR Cluj"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956345,
-            "date": "06/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 6660,
-                "name": "Metaloglobus"
-              },
-              "away": {
-                "id": 3630,
-                "name": "FCV Farul Constanta"
+                "id": 2824,
+                "name": "Arges"
               }
             },
             "status": "pre-match",
@@ -15676,17 +16360,177 @@
             }
           },
           {
-            "id": 956343,
+            "id": 956345,
             "date": "06/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 6224,
-                "name": "Csikszereda"
+                "id": 6660,
+                "name": "Metaloglobus"
               },
               "away": {
-                "id": 2824,
-                "name": "Arges"
+                "id": 3630,
+                "name": "FCV Farul Constanta"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956346,
+            "date": "06/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2804,
+                "name": "Universitatea Craiova"
+              },
+              "away": {
+                "id": 3058,
+                "name": "CFR Cluj"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956347,
+            "date": "06/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4773,
+                "name": "Universitatea Cluj"
+              },
+              "away": {
+                "id": 3050,
+                "name": "Hermannstadt"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956348,
+            "date": "06/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4763,
+                "name": "Botosani"
+              },
+              "away": {
+                "id": 3142,
+                "name": "Rapid"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956349,
+            "date": "06/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3525,
+                "name": "UTA Arad"
+              },
+              "away": {
+                "id": 3522,
+                "name": "Petrolul 52"
               }
             },
             "status": "pre-match",
@@ -16036,17 +16880,17 @@
             }
           },
           {
-            "id": 956363,
+            "id": 956359,
             "date": "20/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4763,
-                "name": "Botosani"
+                "id": 2804,
+                "name": "Universitatea Craiova"
               },
               "away": {
-                "id": 3058,
-                "name": "CFR Cluj"
+                "id": 6224,
+                "name": "Csikszereda"
               }
             },
             "status": "pre-match",
@@ -16116,17 +16960,17 @@
             }
           },
           {
-            "id": 956359,
+            "id": 956365,
             "date": "20/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2804,
-                "name": "Universitatea Craiova"
+                "id": 3525,
+                "name": "UTA Arad"
               },
               "away": {
-                "id": 6224,
-                "name": "Csikszereda"
+                "id": 4764,
+                "name": "Dinamo Bucuresti"
               }
             },
             "status": "pre-match",
@@ -16156,97 +17000,17 @@
             }
           },
           {
-            "id": 956360,
+            "id": 956363,
             "date": "20/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3177,
-                "name": "FCSB"
+                "id": 4763,
+                "name": "Botosani"
               },
               "away": {
-                "id": 3142,
-                "name": "Rapid"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956364,
-            "date": "20/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 5076,
-                "name": "Otelul"
-              },
-              "away": {
-                "id": 2824,
-                "name": "Arges"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956361,
-            "date": "20/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4773,
-                "name": "Universitatea Cluj"
-              },
-              "away": {
-                "id": 3630,
-                "name": "FCV Farul Constanta"
+                "id": 3058,
+                "name": "CFR Cluj"
               }
             },
             "status": "pre-match",
@@ -16316,17 +17080,17 @@
             }
           },
           {
-            "id": 956365,
+            "id": 956361,
             "date": "20/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3525,
-                "name": "UTA Arad"
+                "id": 4773,
+                "name": "Universitatea Cluj"
               },
               "away": {
-                "id": 4764,
-                "name": "Dinamo Bucuresti"
+                "id": 3630,
+                "name": "FCV Farul Constanta"
               }
             },
             "status": "pre-match",
@@ -16356,17 +17120,57 @@
             }
           },
           {
-            "id": 956376,
-            "date": "17/01/2026",
+            "id": 956364,
+            "date": "20/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3058,
-                "name": "CFR Cluj"
-              },
-              "away": {
                 "id": 5076,
                 "name": "Otelul"
+              },
+              "away": {
+                "id": 2824,
+                "name": "Arges"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956360,
+            "date": "20/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3177,
+                "name": "FCSB"
+              },
+              "away": {
+                "id": 3142,
+                "name": "Rapid"
               }
             },
             "status": "pre-match",
@@ -16676,6 +17480,86 @@
             }
           },
           {
+            "id": 956376,
+            "date": "17/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3058,
+                "name": "CFR Cluj"
+              },
+              "away": {
+                "id": 5076,
+                "name": "Otelul"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956380,
+            "date": "24/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 5076,
+                "name": "Otelul"
+              },
+              "away": {
+                "id": 6224,
+                "name": "Csikszereda"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 956378,
             "date": "24/01/2026",
             "time": "15:00",
@@ -16716,17 +17600,57 @@
             }
           },
           {
-            "id": 956388,
+            "id": 956382,
             "date": "24/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 6660,
-                "name": "Metaloglobus"
+                "id": 3177,
+                "name": "FCSB"
               },
               "away": {
-                "id": 2824,
-                "name": "Arges"
+                "id": 3058,
+                "name": "CFR Cluj"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956384,
+            "date": "24/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4773,
+                "name": "Universitatea Cluj"
+              },
+              "away": {
+                "id": 6983,
+                "name": "Unirea Slobozia"
               }
             },
             "status": "pre-match",
@@ -16796,17 +17720,17 @@
             }
           },
           {
-            "id": 956384,
+            "id": 956388,
             "date": "24/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4773,
-                "name": "Universitatea Cluj"
+                "id": 6660,
+                "name": "Metaloglobus"
               },
               "away": {
-                "id": 6983,
-                "name": "Unirea Slobozia"
+                "id": 2824,
+                "name": "Arges"
               }
             },
             "status": "pre-match",
@@ -16916,297 +17840,17 @@
             }
           },
           {
-            "id": 956382,
-            "date": "24/01/2026",
+            "id": 956394,
+            "date": "31/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3177,
-                "name": "FCSB"
-              },
-              "away": {
                 "id": 3058,
                 "name": "CFR Cluj"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956380,
-            "date": "24/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 5076,
-                "name": "Otelul"
               },
               "away": {
-                "id": 6224,
-                "name": "Csikszereda"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956392,
-            "date": "31/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4763,
-                "name": "Botosani"
-              },
-              "away": {
-                "id": 5076,
-                "name": "Otelul"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956400,
-            "date": "31/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 6983,
-                "name": "Unirea Slobozia"
-              },
-              "away": {
-                "id": 3050,
-                "name": "Hermannstadt"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956402,
-            "date": "31/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2824,
-                "name": "Arges"
-              },
-              "away": {
-                "id": 3525,
-                "name": "UTA Arad"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956398,
-            "date": "31/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3142,
-                "name": "Rapid"
-              },
-              "away": {
-                "id": 4773,
-                "name": "Universitatea Cluj"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957221,
-            "date": "31/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3630,
-                "name": "FCV Farul Constanta"
-              },
-              "away": {
-                "id": 2804,
-                "name": "Universitatea Craiova"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957220,
-            "date": "31/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4764,
-                "name": "Dinamo Bucuresti"
-              },
-              "away": {
-                "id": 3522,
-                "name": "Petrolul 52"
+                "id": 6660,
+                "name": "Metaloglobus"
               }
             },
             "status": "pre-match",
@@ -17276,17 +17920,17 @@
             }
           },
           {
-            "id": 956394,
+            "id": 957220,
             "date": "31/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3058,
-                "name": "CFR Cluj"
+                "id": 4764,
+                "name": "Dinamo Bucuresti"
               },
               "away": {
-                "id": 6660,
-                "name": "Metaloglobus"
+                "id": 3522,
+                "name": "Petrolul 52"
               }
             },
             "status": "pre-match",
@@ -17316,17 +17960,177 @@
             }
           },
           {
-            "id": 957223,
-            "date": "03/02/2026",
+            "id": 957221,
+            "date": "31/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3177,
-                "name": "FCSB"
+                "id": 3630,
+                "name": "FCV Farul Constanta"
               },
               "away": {
+                "id": 2804,
+                "name": "Universitatea Craiova"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956402,
+            "date": "31/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2824,
+                "name": "Arges"
+              },
+              "away": {
+                "id": 3525,
+                "name": "UTA Arad"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956400,
+            "date": "31/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 6983,
+                "name": "Unirea Slobozia"
+              },
+              "away": {
+                "id": 3050,
+                "name": "Hermannstadt"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956398,
+            "date": "31/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3142,
+                "name": "Rapid"
+              },
+              "away": {
+                "id": 4773,
+                "name": "Universitatea Cluj"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956392,
+            "date": "31/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
                 "id": 4763,
                 "name": "Botosani"
+              },
+              "away": {
+                "id": 5076,
+                "name": "Otelul"
               }
             },
             "status": "pre-match",
@@ -17367,126 +18171,6 @@
               "away": {
                 "id": 6983,
                 "name": "Unirea Slobozia"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957226,
-            "date": "03/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2804,
-                "name": "Universitatea Craiova"
-              },
-              "away": {
-                "id": 5076,
-                "name": "Otelul"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957222,
-            "date": "03/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3525,
-                "name": "UTA Arad"
-              },
-              "away": {
-                "id": 3058,
-                "name": "CFR Cluj"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957224,
-            "date": "03/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4773,
-                "name": "Universitatea Cluj"
-              },
-              "away": {
-                "id": 2824,
-                "name": "Arges"
               }
             },
             "status": "pre-match",
@@ -17636,17 +18320,17 @@
             }
           },
           {
-            "id": 957229,
-            "date": "07/02/2026",
+            "id": 957222,
+            "date": "03/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4764,
-                "name": "Dinamo Bucuresti"
+                "id": 3525,
+                "name": "UTA Arad"
               },
               "away": {
-                "id": 2804,
-                "name": "Universitatea Craiova"
+                "id": 3058,
+                "name": "CFR Cluj"
               }
             },
             "status": "pre-match",
@@ -17676,17 +18360,97 @@
             }
           },
           {
-            "id": 956412,
-            "date": "07/02/2026",
+            "id": 957223,
+            "date": "03/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3058,
-                "name": "CFR Cluj"
+                "id": 3177,
+                "name": "FCSB"
               },
               "away": {
+                "id": 4763,
+                "name": "Botosani"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 957224,
+            "date": "03/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
                 "id": 4773,
                 "name": "Universitatea Cluj"
+              },
+              "away": {
+                "id": 2824,
+                "name": "Arges"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 957226,
+            "date": "03/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2804,
+                "name": "Universitatea Craiova"
+              },
+              "away": {
+                "id": 5076,
+                "name": "Otelul"
               }
             },
             "status": "pre-match",
@@ -17756,137 +18520,17 @@
             }
           },
           {
-            "id": 956416,
+            "id": 957229,
             "date": "07/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4763,
-                "name": "Botosani"
+                "id": 4764,
+                "name": "Dinamo Bucuresti"
               },
               "away": {
-                "id": 6660,
-                "name": "Metaloglobus"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956418,
-            "date": "07/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 6224,
-                "name": "Csikszereda"
-              },
-              "away": {
-                "id": 3525,
-                "name": "UTA Arad"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957227,
-            "date": "07/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 5076,
-                "name": "Otelul"
-              },
-              "away": {
-                "id": 3177,
-                "name": "FCSB"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956410,
-            "date": "07/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3142,
-                "name": "Rapid"
-              },
-              "away": {
-                "id": 3522,
-                "name": "Petrolul 52"
+                "id": 2804,
+                "name": "Universitatea Craiova"
               }
             },
             "status": "pre-match",
@@ -17956,13 +18600,13 @@
             }
           },
           {
-            "id": 957231,
-            "date": "14/02/2026",
+            "id": 957227,
+            "date": "07/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2804,
-                "name": "Universitatea Craiova"
+                "id": 5076,
+                "name": "Otelul"
               },
               "away": {
                 "id": 3177,
@@ -17996,97 +18640,17 @@
             }
           },
           {
-            "id": 957230,
-            "date": "14/02/2026",
+            "id": 956418,
+            "date": "07/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3630,
-                "name": "FCV Farul Constanta"
-              },
-              "away": {
-                "id": 3142,
-                "name": "Rapid"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957232,
-            "date": "14/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 6660,
-                "name": "Metaloglobus"
-              },
-              "away": {
-                "id": 5076,
-                "name": "Otelul"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957233,
-            "date": "14/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4773,
-                "name": "Universitatea Cluj"
-              },
-              "away": {
                 "id": 6224,
                 "name": "Csikszereda"
+              },
+              "away": {
+                "id": 3525,
+                "name": "UTA Arad"
               }
             },
             "status": "pre-match",
@@ -18116,17 +18680,57 @@
             }
           },
           {
-            "id": 956426,
-            "date": "14/02/2026",
+            "id": 956416,
+            "date": "07/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3050,
-                "name": "Hermannstadt"
+                "id": 4763,
+                "name": "Botosani"
               },
               "away": {
+                "id": 6660,
+                "name": "Metaloglobus"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956412,
+            "date": "07/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
                 "id": 3058,
                 "name": "CFR Cluj"
+              },
+              "away": {
+                "id": 4773,
+                "name": "Universitatea Cluj"
               }
             },
             "status": "pre-match",
@@ -18156,17 +18760,17 @@
             }
           },
           {
-            "id": 956424,
-            "date": "14/02/2026",
+            "id": 956410,
+            "date": "07/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3522,
-                "name": "Petrolul 52"
+                "id": 3142,
+                "name": "Rapid"
               },
               "away": {
-                "id": 2824,
-                "name": "Arges"
+                "id": 3522,
+                "name": "Petrolul 52"
               }
             },
             "status": "pre-match",
@@ -18236,6 +18840,246 @@
             }
           },
           {
+            "id": 956424,
+            "date": "14/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3522,
+                "name": "Petrolul 52"
+              },
+              "away": {
+                "id": 2824,
+                "name": "Arges"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956426,
+            "date": "14/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3050,
+                "name": "Hermannstadt"
+              },
+              "away": {
+                "id": 3058,
+                "name": "CFR Cluj"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 957233,
+            "date": "14/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4773,
+                "name": "Universitatea Cluj"
+              },
+              "away": {
+                "id": 6224,
+                "name": "Csikszereda"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 957230,
+            "date": "14/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3630,
+                "name": "FCV Farul Constanta"
+              },
+              "away": {
+                "id": 3142,
+                "name": "Rapid"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 957231,
+            "date": "14/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2804,
+                "name": "Universitatea Craiova"
+              },
+              "away": {
+                "id": 3177,
+                "name": "FCSB"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 957232,
+            "date": "14/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 6660,
+                "name": "Metaloglobus"
+              },
+              "away": {
+                "id": 5076,
+                "name": "Otelul"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 956420,
             "date": "14/02/2026",
             "time": "15:00",
@@ -18247,166 +19091,6 @@
               "away": {
                 "id": 6983,
                 "name": "Unirea Slobozia"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956430,
-            "date": "21/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4763,
-                "name": "Botosani"
-              },
-              "away": {
-                "id": 4773,
-                "name": "Universitatea Cluj"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956428,
-            "date": "21/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3058,
-                "name": "CFR Cluj"
-              },
-              "away": {
-                "id": 3522,
-                "name": "Petrolul 52"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957237,
-            "date": "21/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 6983,
-                "name": "Unirea Slobozia"
-              },
-              "away": {
-                "id": 2804,
-                "name": "Universitatea Craiova"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957236,
-            "date": "21/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3142,
-                "name": "Rapid"
-              },
-              "away": {
-                "id": 4764,
-                "name": "Dinamo Bucuresti"
               }
             },
             "status": "pre-match",
@@ -18516,6 +19200,46 @@
             }
           },
           {
+            "id": 957237,
+            "date": "21/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 6983,
+                "name": "Unirea Slobozia"
+              },
+              "away": {
+                "id": 2804,
+                "name": "Universitatea Craiova"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 956434,
             "date": "21/02/2026",
             "time": "15:00",
@@ -18596,17 +19320,17 @@
             }
           },
           {
-            "id": 956440,
-            "date": "28/02/2026",
+            "id": 956430,
+            "date": "21/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4773,
-                "name": "Universitatea Cluj"
+                "id": 4763,
+                "name": "Botosani"
               },
               "away": {
-                "id": 5076,
-                "name": "Otelul"
+                "id": 4773,
+                "name": "Universitatea Cluj"
               }
             },
             "status": "pre-match",
@@ -18636,17 +19360,97 @@
             }
           },
           {
-            "id": 957240,
+            "id": 956428,
+            "date": "21/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3058,
+                "name": "CFR Cluj"
+              },
+              "away": {
+                "id": 3522,
+                "name": "Petrolul 52"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 957236,
+            "date": "21/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3142,
+                "name": "Rapid"
+              },
+              "away": {
+                "id": 4764,
+                "name": "Dinamo Bucuresti"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 957238,
             "date": "28/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2804,
-                "name": "Universitatea Craiova"
+                "id": 6983,
+                "name": "Unirea Slobozia"
               },
               "away": {
-                "id": 6660,
-                "name": "Metaloglobus"
+                "id": 3142,
+                "name": "Rapid"
               }
             },
             "status": "pre-match",
@@ -18716,17 +19520,57 @@
             }
           },
           {
-            "id": 957238,
+            "id": 956442,
             "date": "28/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 6983,
-                "name": "Unirea Slobozia"
+                "id": 4764,
+                "name": "Dinamo Bucuresti"
               },
               "away": {
-                "id": 3142,
-                "name": "Rapid"
+                "id": 2824,
+                "name": "Arges"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956440,
+            "date": "28/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4773,
+                "name": "Universitatea Cluj"
+              },
+              "away": {
+                "id": 5076,
+                "name": "Otelul"
               }
             },
             "status": "pre-match",
@@ -18836,17 +19680,17 @@
             }
           },
           {
-            "id": 956442,
+            "id": 957240,
             "date": "28/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4764,
-                "name": "Dinamo Bucuresti"
+                "id": 2804,
+                "name": "Universitatea Craiova"
               },
               "away": {
-                "id": 2824,
-                "name": "Arges"
+                "id": 6660,
+                "name": "Metaloglobus"
               }
             },
             "status": "pre-match",
@@ -18916,17 +19760,17 @@
             }
           },
           {
-            "id": 957244,
+            "id": 957246,
             "date": "07/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 6224,
-                "name": "Csikszereda"
+                "id": 3177,
+                "name": "FCSB"
               },
               "away": {
-                "id": 3630,
-                "name": "FCV Farul Constanta"
+                "id": 4773,
+                "name": "Universitatea Cluj"
               }
             },
             "status": "pre-match",
@@ -18956,17 +19800,17 @@
             }
           },
           {
-            "id": 956444,
+            "id": 957244,
             "date": "07/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 5076,
-                "name": "Otelul"
+                "id": 6224,
+                "name": "Csikszereda"
               },
               "away": {
-                "id": 3050,
-                "name": "Hermannstadt"
+                "id": 3630,
+                "name": "FCV Farul Constanta"
               }
             },
             "status": "pre-match",
@@ -19076,6 +19920,86 @@
             }
           },
           {
+            "id": 956446,
+            "date": "07/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3142,
+                "name": "Rapid"
+              },
+              "away": {
+                "id": 2804,
+                "name": "Universitatea Craiova"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956444,
+            "date": "07/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 5076,
+                "name": "Otelul"
+              },
+              "away": {
+                "id": 3050,
+                "name": "Hermannstadt"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 957247,
             "date": "07/03/2026",
             "time": "15:00",
@@ -19116,46 +20040,6 @@
             }
           },
           {
-            "id": 957246,
-            "date": "07/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3177,
-                "name": "FCSB"
-              },
-              "away": {
-                "id": 4773,
-                "name": "Universitatea Cluj"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 957245,
             "date": "07/03/2026",
             "time": "15:00",
@@ -19167,46 +20051,6 @@
               "away": {
                 "id": 6983,
                 "name": "Unirea Slobozia"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956446,
-            "date": "07/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3142,
-                "name": "Rapid"
-              },
-              "away": {
-                "id": 2804,
-                "name": "Universitatea Craiova"
               }
             },
             "status": "pre-match",

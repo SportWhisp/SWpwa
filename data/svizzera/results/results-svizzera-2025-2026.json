@@ -291,254 +291,6 @@
             }
           },
           {
-            "id": 956918,
-            "date": "26/07/2025",
-            "time": "16:00",
-            "teams": {
-              "home": {
-                "id": 4945,
-                "name": "St.Gallen"
-              },
-              "away": {
-                "id": 3286,
-                "name": "Basel"
-              }
-            },
-            "status": "finished",
-            "minute": -1,
-            "winner": "home",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 1,
-              "home_ft_goals": 2,
-              "away_ft_goals": 1,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [
-              {
-                "event_type": "yellow_card",
-                "event_minute": "14",
-                "team": "away",
-                "player": {
-                  "id": 48855,
-                  "name": "L. Leroy"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "21",
-                "team": "home",
-                "player": {
-                  "id": 83688,
-                  "name": "L. Görtler"
-                }
-              },
-              {
-                "event_type": "own_goal",
-                "event_minute": "40",
-                "team": "home",
-                "player": {
-                  "id": 83688,
-                  "name": "L. Görtler"
-                }
-              },
-              {
-                "event_type": "goal",
-                "event_minute": "56",
-                "team": "home",
-                "player": {
-                  "id": 83688,
-                  "name": "L. Görtler"
-                },
-                "assist_player": {
-                  "id": 158713,
-                  "name": "T. Gaal"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "62",
-                "team": "away",
-                "player": {
-                  "id": 82689,
-                  "name": "K. Koindredi"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "62",
-                "team": "away",
-                "player_in": {
-                  "id": 74636,
-                  "name": "Metinho"
-                },
-                "player_out": {
-                  "id": 82689,
-                  "name": "K. Koindredi"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "62",
-                "team": "away",
-                "player_in": {
-                  "id": 83838,
-                  "name": "Kevin Carlos"
-                },
-                "player_out": {
-                  "id": 26866,
-                  "name": "A. Ajeti"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "64",
-                "team": "home",
-                "player_in": {
-                  "id": 267836,
-                  "name": "E. Owusu"
-                },
-                "player_out": {
-                  "id": 64545,
-                  "name": "H. Vandermersch"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "64",
-                "team": "home",
-                "player_in": {
-                  "id": 46851,
-                  "name": "A. Balde"
-                },
-                "player_out": {
-                  "id": 246294,
-                  "name": "A. Vogt"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "72",
-                "team": "away",
-                "player": {
-                  "id": 21505,
-                  "name": "X. Shaqiri"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "74",
-                "team": "home",
-                "player_in": {
-                  "id": 83702,
-                  "name": "M. Stevanovic"
-                },
-                "player_out": {
-                  "id": 83688,
-                  "name": "L. Görtler"
-                }
-              },
-              {
-                "event_type": "goal",
-                "event_minute": "75",
-                "team": "home",
-                "player": {
-                  "id": 83708,
-                  "name": "W. Geubbels"
-                },
-                "assist_player": null
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "80",
-                "team": "away",
-                "player_in": {
-                  "id": 26475,
-                  "name": "A. Kade"
-                },
-                "player_out": {
-                  "id": 52369,
-                  "name": "K. Tsunemoto"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "83",
-                "team": "home",
-                "player_in": {
-                  "id": 212584,
-                  "name": "Corsin Konietzke"
-                },
-                "player_out": {
-                  "id": 83708,
-                  "name": "W. Geubbels"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "86",
-                "team": "away",
-                "player_in": {
-                  "id": 46894,
-                  "name": "J. Zé"
-                },
-                "player_out": {
-                  "id": 27320,
-                  "name": "P. Otele"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "86",
-                "team": "away",
-                "player_in": {
-                  "id": 35584,
-                  "name": "M. Soticek"
-                },
-                "player_out": {
-                  "id": 48855,
-                  "name": "L. Leroy"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "90",
-                "team": "home",
-                "player": {
-                  "id": 267836,
-                  "name": "E. Owusu"
-                }
-              }
-            ],
-            "odds": {
-              "match_winner": {
-                "home": 4.4,
-                "draw": 4.2,
-                "away": 1.65
-              },
-              "over_under": {
-                "total": 3.5,
-                "over": 2.17,
-                "under": 1.67
-              },
-              "handicap": {
-                "market": "+0.75",
-                "home": 2.03,
-                "away": 1.78
-              },
-              "last_modified_timestamp": 1753552918
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 956919,
             "date": "26/07/2025",
             "time": "16:00",
@@ -828,6 +580,254 @@
             }
           },
           {
+            "id": 956918,
+            "date": "26/07/2025",
+            "time": "16:00",
+            "teams": {
+              "home": {
+                "id": 4945,
+                "name": "St.Gallen"
+              },
+              "away": {
+                "id": 3286,
+                "name": "Basel"
+              }
+            },
+            "status": "finished",
+            "minute": -1,
+            "winner": "home",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 1,
+              "home_ft_goals": 2,
+              "away_ft_goals": 1,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "14",
+                "team": "away",
+                "player": {
+                  "id": 48855,
+                  "name": "L. Leroy"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "21",
+                "team": "home",
+                "player": {
+                  "id": 83688,
+                  "name": "L. Görtler"
+                }
+              },
+              {
+                "event_type": "own_goal",
+                "event_minute": "40",
+                "team": "home",
+                "player": {
+                  "id": 83688,
+                  "name": "L. Görtler"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "56",
+                "team": "home",
+                "player": {
+                  "id": 83688,
+                  "name": "L. Görtler"
+                },
+                "assist_player": {
+                  "id": 158713,
+                  "name": "T. Gaal"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "62",
+                "team": "away",
+                "player": {
+                  "id": 82689,
+                  "name": "K. Koindredi"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "62",
+                "team": "away",
+                "player_in": {
+                  "id": 74636,
+                  "name": "Metinho"
+                },
+                "player_out": {
+                  "id": 82689,
+                  "name": "K. Koindredi"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "62",
+                "team": "away",
+                "player_in": {
+                  "id": 83838,
+                  "name": "Kevin Carlos"
+                },
+                "player_out": {
+                  "id": 26866,
+                  "name": "A. Ajeti"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "64",
+                "team": "home",
+                "player_in": {
+                  "id": 267836,
+                  "name": "E. Owusu"
+                },
+                "player_out": {
+                  "id": 64545,
+                  "name": "H. Vandermersch"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "64",
+                "team": "home",
+                "player_in": {
+                  "id": 46851,
+                  "name": "A. Balde"
+                },
+                "player_out": {
+                  "id": 246294,
+                  "name": "A. Vogt"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "72",
+                "team": "away",
+                "player": {
+                  "id": 21505,
+                  "name": "X. Shaqiri"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "74",
+                "team": "home",
+                "player_in": {
+                  "id": 83702,
+                  "name": "M. Stevanovic"
+                },
+                "player_out": {
+                  "id": 83688,
+                  "name": "L. Görtler"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "75",
+                "team": "home",
+                "player": {
+                  "id": 83708,
+                  "name": "W. Geubbels"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "80",
+                "team": "away",
+                "player_in": {
+                  "id": 26475,
+                  "name": "A. Kade"
+                },
+                "player_out": {
+                  "id": 52369,
+                  "name": "K. Tsunemoto"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "83",
+                "team": "home",
+                "player_in": {
+                  "id": 212584,
+                  "name": "Corsin Konietzke"
+                },
+                "player_out": {
+                  "id": 83708,
+                  "name": "W. Geubbels"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "86",
+                "team": "away",
+                "player_in": {
+                  "id": 46894,
+                  "name": "J. Zé"
+                },
+                "player_out": {
+                  "id": 27320,
+                  "name": "P. Otele"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "86",
+                "team": "away",
+                "player_in": {
+                  "id": 35584,
+                  "name": "M. Soticek"
+                },
+                "player_out": {
+                  "id": 48855,
+                  "name": "L. Leroy"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "home",
+                "player": {
+                  "id": 267836,
+                  "name": "E. Owusu"
+                }
+              }
+            ],
+            "odds": {
+              "match_winner": {
+                "home": 4.4,
+                "draw": 4.2,
+                "away": 1.65
+              },
+              "over_under": {
+                "total": 3.5,
+                "over": 2.17,
+                "under": 1.67
+              },
+              "handicap": {
+                "market": "+0.75",
+                "home": 2.03,
+                "away": 1.78
+              },
+              "last_modified_timestamp": 1753552918
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 956920,
             "date": "26/07/2025",
             "time": "18:30",
@@ -1083,6 +1083,250 @@
                 "away": 2.1
               },
               "last_modified_timestamp": 1753561935
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956922,
+            "date": "27/07/2025",
+            "time": "14:00",
+            "teams": {
+              "home": {
+                "id": 3597,
+                "name": "Lugano"
+              },
+              "away": {
+                "id": 3125,
+                "name": "Thun"
+              }
+            },
+            "status": "finished",
+            "minute": -1,
+            "winner": "away",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 1,
+              "away_ht_goals": 0,
+              "home_ft_goals": 1,
+              "away_ft_goals": 2,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "16",
+                "team": "home",
+                "player": {
+                  "id": 21529,
+                  "name": "O. Doumbia"
+                },
+                "assist_player": {
+                  "id": 32454,
+                  "name": "A. Grgic"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "37",
+                "team": "home",
+                "player": {
+                  "id": 32438,
+                  "name": "A. El Wafi"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "60",
+                "team": "home",
+                "player_in": {
+                  "id": 32488,
+                  "name": "R. Steffen"
+                },
+                "player_out": {
+                  "id": 32483,
+                  "name": "M. Bottani"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "60",
+                "team": "home",
+                "player_in": {
+                  "id": 79699,
+                  "name": "E. Alioski"
+                },
+                "player_out": {
+                  "id": 32460,
+                  "name": "Y. Cimignani"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "60",
+                "team": "home",
+                "player_in": {
+                  "id": 32476,
+                  "name": "H. Mahmoud"
+                },
+                "player_out": {
+                  "id": 21529,
+                  "name": "O. Doumbia"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "62",
+                "team": "home",
+                "player": {
+                  "id": 21464,
+                  "name": "Z. Brault-Guillard"
+                }
+              },
+              {
+                "event_type": "penalty_goal",
+                "event_minute": "63",
+                "team": "away",
+                "player": {
+                  "id": 43716,
+                  "name": "L. Bertone"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "66",
+                "team": "away",
+                "player_in": {
+                  "id": 43724,
+                  "name": "V. Matoshi"
+                },
+                "player_out": {
+                  "id": 83698,
+                  "name": "N. Reichmuth"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "66",
+                "team": "away",
+                "player_in": {
+                  "id": 43990,
+                  "name": "M. Käit"
+                },
+                "player_out": {
+                  "id": 228431,
+                  "name": "E. Meichtry"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "69",
+                "team": "home",
+                "player_in": {
+                  "id": 83676,
+                  "name": "M. Zanotti"
+                },
+                "player_out": {
+                  "id": 21464,
+                  "name": "Z. Brault-Guillard"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "71",
+                "team": "away",
+                "player_in": {
+                  "id": 147266,
+                  "name": "M. Gutbub"
+                },
+                "player_out": {
+                  "id": 119403,
+                  "name": "C. Ibayi"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "74",
+                "team": "home",
+                "player_in": {
+                  "id": 43721,
+                  "name": "Daniel dos Santos"
+                },
+                "player_out": {
+                  "id": 267953,
+                  "name": "Damian Kelvin"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "away",
+                "player_in": {
+                  "id": 43711,
+                  "name": "J. Bamert"
+                },
+                "player_out": {
+                  "id": 43792,
+                  "name": "M. Heule"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "away",
+                "player_in": {
+                  "id": 43718,
+                  "name": "V. Janjičić"
+                },
+                "player_out": {
+                  "id": 43719,
+                  "name": "J. Roth"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "85",
+                "team": "away",
+                "player": {
+                  "id": 43716,
+                  "name": "L. Bertone"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 267954,
+                  "name": "Franz-Ethan Meichtry"
+                }
+              }
+            ],
+            "odds": {
+              "match_winner": {
+                "home": 1.89,
+                "draw": 3.71,
+                "away": 3.8
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.76,
+                "under": 2
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 1.91,
+                "away": 1.9
+              },
+              "last_modified_timestamp": 1753632062
             },
             "match_preview": {
               "has_preview": false,
@@ -1392,478 +1636,6 @@
                 "away": 1.78
               },
               "last_modified_timestamp": 1753632062
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956922,
-            "date": "27/07/2025",
-            "time": "14:00",
-            "teams": {
-              "home": {
-                "id": 3597,
-                "name": "Lugano"
-              },
-              "away": {
-                "id": 3125,
-                "name": "Thun"
-              }
-            },
-            "status": "finished",
-            "minute": -1,
-            "winner": "away",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 1,
-              "away_ht_goals": 0,
-              "home_ft_goals": 1,
-              "away_ft_goals": 2,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [
-              {
-                "event_type": "goal",
-                "event_minute": "16",
-                "team": "home",
-                "player": {
-                  "id": 21529,
-                  "name": "O. Doumbia"
-                },
-                "assist_player": {
-                  "id": 32454,
-                  "name": "A. Grgic"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "37",
-                "team": "home",
-                "player": {
-                  "id": 32438,
-                  "name": "A. El Wafi"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "60",
-                "team": "home",
-                "player_in": {
-                  "id": 32488,
-                  "name": "R. Steffen"
-                },
-                "player_out": {
-                  "id": 32483,
-                  "name": "M. Bottani"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "60",
-                "team": "home",
-                "player_in": {
-                  "id": 79699,
-                  "name": "E. Alioski"
-                },
-                "player_out": {
-                  "id": 32460,
-                  "name": "Y. Cimignani"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "60",
-                "team": "home",
-                "player_in": {
-                  "id": 32476,
-                  "name": "H. Mahmoud"
-                },
-                "player_out": {
-                  "id": 21529,
-                  "name": "O. Doumbia"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "62",
-                "team": "home",
-                "player": {
-                  "id": 21464,
-                  "name": "Z. Brault-Guillard"
-                }
-              },
-              {
-                "event_type": "penalty_goal",
-                "event_minute": "63",
-                "team": "away",
-                "player": {
-                  "id": 43716,
-                  "name": "L. Bertone"
-                },
-                "assist_player": null
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "66",
-                "team": "away",
-                "player_in": {
-                  "id": 43724,
-                  "name": "V. Matoshi"
-                },
-                "player_out": {
-                  "id": 83698,
-                  "name": "N. Reichmuth"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "66",
-                "team": "away",
-                "player_in": {
-                  "id": 43990,
-                  "name": "M. Käit"
-                },
-                "player_out": {
-                  "id": 228431,
-                  "name": "E. Meichtry"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "69",
-                "team": "home",
-                "player_in": {
-                  "id": 83676,
-                  "name": "M. Zanotti"
-                },
-                "player_out": {
-                  "id": 21464,
-                  "name": "Z. Brault-Guillard"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "71",
-                "team": "away",
-                "player_in": {
-                  "id": 147266,
-                  "name": "M. Gutbub"
-                },
-                "player_out": {
-                  "id": 119403,
-                  "name": "C. Ibayi"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "74",
-                "team": "home",
-                "player_in": {
-                  "id": 43721,
-                  "name": "Daniel dos Santos"
-                },
-                "player_out": {
-                  "id": 267953,
-                  "name": "Damian Kelvin"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "79",
-                "team": "away",
-                "player_in": {
-                  "id": 43711,
-                  "name": "J. Bamert"
-                },
-                "player_out": {
-                  "id": 43792,
-                  "name": "M. Heule"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "79",
-                "team": "away",
-                "player_in": {
-                  "id": 43718,
-                  "name": "V. Janjičić"
-                },
-                "player_out": {
-                  "id": 43719,
-                  "name": "J. Roth"
-                }
-              },
-              {
-                "event_type": "goal",
-                "event_minute": "85",
-                "team": "away",
-                "player": {
-                  "id": 43716,
-                  "name": "L. Bertone"
-                },
-                "assist_player": null
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "90",
-                "team": "away",
-                "player": {
-                  "id": 267954,
-                  "name": "Franz-Ethan Meichtry"
-                }
-              }
-            ],
-            "odds": {
-              "match_winner": {
-                "home": 1.89,
-                "draw": 3.71,
-                "away": 3.8
-              },
-              "over_under": {
-                "total": 2.5,
-                "over": 1.76,
-                "under": 2
-              },
-              "handicap": {
-                "market": -0.5,
-                "home": 1.91,
-                "away": 1.9
-              },
-              "last_modified_timestamp": 1753632062
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956923,
-            "date": "02/08/2025",
-            "time": "16:00",
-            "teams": {
-              "home": {
-                "id": 3128,
-                "name": "Winterthur"
-              },
-              "away": {
-                "id": 3120,
-                "name": "Young Boys"
-              }
-            },
-            "status": "finished",
-            "minute": -1,
-            "winner": "draw",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 1,
-              "home_ft_goals": 1,
-              "away_ft_goals": 1,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [
-              {
-                "event_type": "goal",
-                "event_minute": "24",
-                "team": "away",
-                "player": {
-                  "id": 41084,
-                  "name": "E. Fernandes"
-                },
-                "assist_player": {
-                  "id": 31933,
-                  "name": "L. Benito"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "46",
-                "team": "home",
-                "player_in": {
-                  "id": 30531,
-                  "name": "T. Golliard"
-                },
-                "player_out": {
-                  "id": 34717,
-                  "name": "A. Jankewitz"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "53",
-                "team": "away",
-                "player": {
-                  "id": 54760,
-                  "name": "G. Wüthrich"
-                }
-              },
-              {
-                "event_type": "goal",
-                "event_minute": "64",
-                "team": "home",
-                "player": {
-                  "id": 43819,
-                  "name": "R. Arnold"
-                },
-                "assist_player": {
-                  "id": 43798,
-                  "name": "R. Schneider"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "65",
-                "team": "away",
-                "player_in": {
-                  "id": 51960,
-                  "name": "T. Zoukrou"
-                },
-                "player_out": {
-                  "id": 54760,
-                  "name": "G. Wüthrich"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "65",
-                "team": "away",
-                "player_in": {
-                  "id": 39849,
-                  "name": "E. Colley"
-                },
-                "player_out": {
-                  "id": 32039,
-                  "name": "Joel Monteiro"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "65",
-                "team": "away",
-                "player_in": {
-                  "id": 31957,
-                  "name": "F. Ugrinic"
-                },
-                "player_out": {
-                  "id": 34240,
-                  "name": "D. Males"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "70",
-                "team": "home",
-                "player_in": {
-                  "id": 43853,
-                  "name": "N. Burkart"
-                },
-                "player_out": {
-                  "id": 83847,
-                  "name": "B. Beyer"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "73",
-                "team": "away",
-                "player_in": {
-                  "id": 47183,
-                  "name": "Z. Athekame"
-                },
-                "player_out": {
-                  "id": 64385,
-                  "name": "J. Hadjam"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "79",
-                "team": "away",
-                "player_in": {
-                  "id": 22021,
-                  "name": "S. Cordova"
-                },
-                "player_out": {
-                  "id": 29430,
-                  "name": "C. Bedia"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "88",
-                "team": "home",
-                "player_in": {
-                  "id": 268489,
-                  "name": "Tibault Citherlet"
-                },
-                "player_out": {
-                  "id": 43784,
-                  "name": "S. Sidler"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "90",
-                "team": "home",
-                "player_in": {
-                  "id": 43697,
-                  "name": "S. Cueni"
-                },
-                "player_out": {
-                  "id": 43798,
-                  "name": "R. Schneider"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "90",
-                "team": "home",
-                "player_in": {
-                  "id": 26483,
-                  "name": "A. Hunziker"
-                },
-                "player_out": {
-                  "id": 46143,
-                  "name": "C. Gomis"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "90",
-                "team": "away",
-                "player": {
-                  "id": 31957,
-                  "name": "F. Ugrinic"
-                }
-              }
-            ],
-            "odds": {
-              "match_winner": {
-                "home": 5,
-                "draw": 4.1,
-                "away": 1.6
-              },
-              "over_under": {
-                "total": 3,
-                "over": 1.83,
-                "under": 2.02
-              },
-              "handicap": {
-                "market": "+1.0",
-                "home": 1.84,
-                "away": 1.98
-              },
-              "last_modified_timestamp": 1754157743
             },
             "match_preview": {
               "has_preview": false,
@@ -2189,6 +1961,234 @@
                 "market": -0.5,
                 "home": 1.89,
                 "away": 1.95
+              },
+              "last_modified_timestamp": 1754157743
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956923,
+            "date": "02/08/2025",
+            "time": "16:00",
+            "teams": {
+              "home": {
+                "id": 3128,
+                "name": "Winterthur"
+              },
+              "away": {
+                "id": 3120,
+                "name": "Young Boys"
+              }
+            },
+            "status": "finished",
+            "minute": -1,
+            "winner": "draw",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 1,
+              "home_ft_goals": 1,
+              "away_ft_goals": 1,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "24",
+                "team": "away",
+                "player": {
+                  "id": 41084,
+                  "name": "E. Fernandes"
+                },
+                "assist_player": {
+                  "id": 31933,
+                  "name": "L. Benito"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 30531,
+                  "name": "T. Golliard"
+                },
+                "player_out": {
+                  "id": 34717,
+                  "name": "A. Jankewitz"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "53",
+                "team": "away",
+                "player": {
+                  "id": 54760,
+                  "name": "G. Wüthrich"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "64",
+                "team": "home",
+                "player": {
+                  "id": 43819,
+                  "name": "R. Arnold"
+                },
+                "assist_player": {
+                  "id": 43798,
+                  "name": "R. Schneider"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "65",
+                "team": "away",
+                "player_in": {
+                  "id": 51960,
+                  "name": "T. Zoukrou"
+                },
+                "player_out": {
+                  "id": 54760,
+                  "name": "G. Wüthrich"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "65",
+                "team": "away",
+                "player_in": {
+                  "id": 39849,
+                  "name": "E. Colley"
+                },
+                "player_out": {
+                  "id": 32039,
+                  "name": "Joel Monteiro"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "65",
+                "team": "away",
+                "player_in": {
+                  "id": 31957,
+                  "name": "F. Ugrinic"
+                },
+                "player_out": {
+                  "id": 34240,
+                  "name": "D. Males"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "home",
+                "player_in": {
+                  "id": 43853,
+                  "name": "N. Burkart"
+                },
+                "player_out": {
+                  "id": 83847,
+                  "name": "B. Beyer"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "away",
+                "player_in": {
+                  "id": 47183,
+                  "name": "Z. Athekame"
+                },
+                "player_out": {
+                  "id": 64385,
+                  "name": "J. Hadjam"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "away",
+                "player_in": {
+                  "id": 22021,
+                  "name": "S. Cordova"
+                },
+                "player_out": {
+                  "id": 29430,
+                  "name": "C. Bedia"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "88",
+                "team": "home",
+                "player_in": {
+                  "id": 268489,
+                  "name": "Tibault Citherlet"
+                },
+                "player_out": {
+                  "id": 43784,
+                  "name": "S. Sidler"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "90",
+                "team": "home",
+                "player_in": {
+                  "id": 43697,
+                  "name": "S. Cueni"
+                },
+                "player_out": {
+                  "id": 43798,
+                  "name": "R. Schneider"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "90",
+                "team": "home",
+                "player_in": {
+                  "id": 26483,
+                  "name": "A. Hunziker"
+                },
+                "player_out": {
+                  "id": 46143,
+                  "name": "C. Gomis"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 31957,
+                  "name": "F. Ugrinic"
+                }
+              }
+            ],
+            "odds": {
+              "match_winner": {
+                "home": 5,
+                "draw": 4.1,
+                "away": 1.6
+              },
+              "over_under": {
+                "total": 3,
+                "over": 1.83,
+                "under": 2.02
+              },
+              "handicap": {
+                "market": "+1.0",
+                "home": 1.84,
+                "away": 1.98
               },
               "last_modified_timestamp": 1754157743
             },
@@ -4261,267 +4261,6 @@
             }
           },
           {
-            "id": 956932,
-            "date": "10/08/2025",
-            "time": "14:30",
-            "teams": {
-              "home": {
-                "id": 3288,
-                "name": "Lausanne-Sport"
-              },
-              "away": {
-                "id": 4946,
-                "name": "Zurich"
-              }
-            },
-            "status": "finished",
-            "minute": -1,
-            "winner": "away",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 1,
-              "away_ht_goals": 1,
-              "home_ft_goals": 1,
-              "away_ft_goals": 2,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [
-              {
-                "event_type": "goal",
-                "event_minute": "24",
-                "team": "away",
-                "player": {
-                  "id": 83675,
-                  "name": "B. Krasniqi"
-                },
-                "assist_player": null
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "28",
-                "team": "home",
-                "player": {
-                  "id": 40892,
-                  "name": "B. Okoh"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "30",
-                "team": "home",
-                "player": {
-                  "id": 100880,
-                  "name": "N. Butler-Oyedeji"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "41",
-                "team": "away",
-                "player": {
-                  "id": 215159,
-                  "name": "C. Tsawa"
-                }
-              },
-              {
-                "event_type": "goal",
-                "event_minute": "41",
-                "team": "home",
-                "player": {
-                  "id": 34284,
-                  "name": "K. Sene"
-                },
-                "assist_player": {
-                  "id": 100880,
-                  "name": "N. Butler-Oyedeji"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "50",
-                "team": "away",
-                "player": {
-                  "id": 83780,
-                  "name": "I. Sauter"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "51",
-                "team": "home",
-                "player": {
-                  "id": 46789,
-                  "name": "N. Dussenne"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "57",
-                "team": "away",
-                "player_in": {
-                  "id": 252568,
-                  "name": "N. Volken"
-                },
-                "player_out": {
-                  "id": 83780,
-                  "name": "I. Sauter"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "61",
-                "team": "home",
-                "player_in": {
-                  "id": 230576,
-                  "name": "B. Lekoueiry"
-                },
-                "player_out": {
-                  "id": 100880,
-                  "name": "N. Butler-Oyedeji"
-                }
-              },
-              {
-                "event_type": "goal",
-                "event_minute": "66",
-                "team": "away",
-                "player": {
-                  "id": 28148,
-                  "name": "J. Segura"
-                },
-                "assist_player": {
-                  "id": 30030,
-                  "name": "S. Zuber"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "72",
-                "team": "home",
-                "player_in": {
-                  "id": 198385,
-                  "name": "Muhannad Al Saad"
-                },
-                "player_out": {
-                  "id": 46810,
-                  "name": "O. Custodio"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "72",
-                "team": "home",
-                "player_in": {
-                  "id": 26287,
-                  "name": "K. De La Fuente"
-                },
-                "player_out": {
-                  "id": 65061,
-                  "name": "K. Mouanga"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "72",
-                "team": "away",
-                "player_in": {
-                  "id": 27324,
-                  "name": "M. Phaeton"
-                },
-                "player_out": {
-                  "id": 32724,
-                  "name": "U. Emmanuel"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "73",
-                "team": "away",
-                "player_in": {
-                  "id": 230217,
-                  "name": "M. Bangoura"
-                },
-                "player_out": {
-                  "id": 215159,
-                  "name": "C. Tsawa"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "81",
-                "team": "home",
-                "player_in": {
-                  "id": 205803,
-                  "name": "S. Fofana"
-                },
-                "player_out": {
-                  "id": 55426,
-                  "name": "M. Poaty"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "81",
-                "team": "home",
-                "player_in": {
-                  "id": 43841,
-                  "name": "A. Ajdini"
-                },
-                "player_out": {
-                  "id": 34284,
-                  "name": "K. Sene"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "82",
-                "team": "away",
-                "player_in": {
-                  "id": 26198,
-                  "name": "L. Comenencia"
-                },
-                "player_out": {
-                  "id": 43196,
-                  "name": "J. Markelo"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "90",
-                "team": "away",
-                "player": {
-                  "id": 27324,
-                  "name": "M. Phaeton"
-                }
-              }
-            ],
-            "odds": {
-              "match_winner": {
-                "home": 1.9,
-                "draw": 3.7,
-                "away": 3.7
-              },
-              "over_under": {
-                "total": 2.75,
-                "over": 1.81,
-                "under": 2
-              },
-              "handicap": {
-                "market": -0.5,
-                "home": 1.91,
-                "away": 1.96
-              },
-              "last_modified_timestamp": 1754843493
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 956933,
             "date": "10/08/2025",
             "time": "14:30",
@@ -4800,6 +4539,267 @@
             }
           },
           {
+            "id": 956932,
+            "date": "10/08/2025",
+            "time": "14:30",
+            "teams": {
+              "home": {
+                "id": 3288,
+                "name": "Lausanne-Sport"
+              },
+              "away": {
+                "id": 4946,
+                "name": "Zurich"
+              }
+            },
+            "status": "finished",
+            "minute": -1,
+            "winner": "away",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 1,
+              "away_ht_goals": 1,
+              "home_ft_goals": 1,
+              "away_ft_goals": 2,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "24",
+                "team": "away",
+                "player": {
+                  "id": 83675,
+                  "name": "B. Krasniqi"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "28",
+                "team": "home",
+                "player": {
+                  "id": 40892,
+                  "name": "B. Okoh"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "30",
+                "team": "home",
+                "player": {
+                  "id": 100880,
+                  "name": "N. Butler-Oyedeji"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "41",
+                "team": "away",
+                "player": {
+                  "id": 215159,
+                  "name": "C. Tsawa"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "41",
+                "team": "home",
+                "player": {
+                  "id": 34284,
+                  "name": "K. Sene"
+                },
+                "assist_player": {
+                  "id": 100880,
+                  "name": "N. Butler-Oyedeji"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "50",
+                "team": "away",
+                "player": {
+                  "id": 83780,
+                  "name": "I. Sauter"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "51",
+                "team": "home",
+                "player": {
+                  "id": 46789,
+                  "name": "N. Dussenne"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "57",
+                "team": "away",
+                "player_in": {
+                  "id": 252568,
+                  "name": "N. Volken"
+                },
+                "player_out": {
+                  "id": 83780,
+                  "name": "I. Sauter"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "61",
+                "team": "home",
+                "player_in": {
+                  "id": 230576,
+                  "name": "B. Lekoueiry"
+                },
+                "player_out": {
+                  "id": 100880,
+                  "name": "N. Butler-Oyedeji"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "66",
+                "team": "away",
+                "player": {
+                  "id": 28148,
+                  "name": "J. Segura"
+                },
+                "assist_player": {
+                  "id": 30030,
+                  "name": "S. Zuber"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "72",
+                "team": "home",
+                "player_in": {
+                  "id": 198385,
+                  "name": "Muhannad Al Saad"
+                },
+                "player_out": {
+                  "id": 46810,
+                  "name": "O. Custodio"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "72",
+                "team": "home",
+                "player_in": {
+                  "id": 26287,
+                  "name": "K. De La Fuente"
+                },
+                "player_out": {
+                  "id": 65061,
+                  "name": "K. Mouanga"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "72",
+                "team": "away",
+                "player_in": {
+                  "id": 27324,
+                  "name": "M. Phaeton"
+                },
+                "player_out": {
+                  "id": 32724,
+                  "name": "U. Emmanuel"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "away",
+                "player_in": {
+                  "id": 230217,
+                  "name": "M. Bangoura"
+                },
+                "player_out": {
+                  "id": 215159,
+                  "name": "C. Tsawa"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "home",
+                "player_in": {
+                  "id": 205803,
+                  "name": "S. Fofana"
+                },
+                "player_out": {
+                  "id": 55426,
+                  "name": "M. Poaty"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "home",
+                "player_in": {
+                  "id": 43841,
+                  "name": "A. Ajdini"
+                },
+                "player_out": {
+                  "id": 34284,
+                  "name": "K. Sene"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "82",
+                "team": "away",
+                "player_in": {
+                  "id": 26198,
+                  "name": "L. Comenencia"
+                },
+                "player_out": {
+                  "id": 43196,
+                  "name": "J. Markelo"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 27324,
+                  "name": "M. Phaeton"
+                }
+              }
+            ],
+            "odds": {
+              "match_winner": {
+                "home": 1.9,
+                "draw": 3.7,
+                "away": 3.7
+              },
+              "over_under": {
+                "total": 2.75,
+                "over": 1.81,
+                "under": 2
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 1.91,
+                "away": 1.96
+              },
+              "last_modified_timestamp": 1754843493
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 967488,
             "date": "10/08/2025",
             "time": "14:30",
@@ -5020,59 +5020,6 @@
             }
           },
           {
-            "id": 956935,
-            "date": "23/08/2025",
-            "time": "16:00",
-            "teams": {
-              "home": {
-                "id": 4946,
-                "name": "Zurich"
-              },
-              "away": {
-                "id": 3125,
-                "name": "Thun"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 2.12,
-                "draw": 3.48,
-                "away": 3.26
-              },
-              "over_under": {
-                "total": 2.5,
-                "over": 1.73,
-                "under": 2.1
-              },
-              "handicap": {
-                "market": -0.5,
-                "home": 2.12,
-                "away": 1.75
-              },
-              "last_modified_timestamp": 1755597695
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 956934,
             "date": "23/08/2025",
             "time": "16:00",
@@ -5113,6 +5060,275 @@
             }
           },
           {
+            "id": 956935,
+            "date": "23/08/2025",
+            "time": "16:00",
+            "teams": {
+              "home": {
+                "id": 4946,
+                "name": "Zurich"
+              },
+              "away": {
+                "id": 3125,
+                "name": "Thun"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "14",
+                "team": "away",
+                "player": {
+                  "id": 34378,
+                  "name": "E. Rastoder"
+                },
+                "assist_player": {
+                  "id": 119403,
+                  "name": "C. Ibayi"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "41",
+                "team": "away",
+                "player": {
+                  "id": 228431,
+                  "name": "E. Meichtry"
+                },
+                "assist_player": {
+                  "id": 83698,
+                  "name": "N. Reichmuth"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "43",
+                "team": "away",
+                "player": {
+                  "id": 43679,
+                  "name": "Genís Montolio"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "44",
+                "team": "home",
+                "player_in": {
+                  "id": 252568,
+                  "name": "N. Volken"
+                },
+                "player_out": {
+                  "id": 39374,
+                  "name": "M. Rodić"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 26198,
+                  "name": "L. Comenencia"
+                },
+                "player_out": {
+                  "id": 83645,
+                  "name": "L. Kamberi"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "46",
+                "team": "home",
+                "player": {
+                  "id": 102272,
+                  "name": "M. Gómez"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "48",
+                "team": "away",
+                "player": {
+                  "id": 43713,
+                  "name": "M. Bürki"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "59",
+                "team": "away",
+                "player": {
+                  "id": 119403,
+                  "name": "C. Ibayi"
+                },
+                "assist_player": {
+                  "id": 34378,
+                  "name": "E. Rastoder"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "65",
+                "team": "away",
+                "player_in": {
+                  "id": 31968,
+                  "name": "K. Imeri"
+                },
+                "player_out": {
+                  "id": 83698,
+                  "name": "N. Reichmuth"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "65",
+                "team": "away",
+                "player_in": {
+                  "id": 46860,
+                  "name": "B. Labeau"
+                },
+                "player_out": {
+                  "id": 119403,
+                  "name": "C. Ibayi"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "66",
+                "team": "home",
+                "player_in": {
+                  "id": 31693,
+                  "name": "P. Keny"
+                },
+                "player_out": {
+                  "id": 83675,
+                  "name": "B. Krasniqi"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "away",
+                "player_in": {
+                  "id": 43718,
+                  "name": "V. Janjičić"
+                },
+                "player_out": {
+                  "id": 43990,
+                  "name": "M. Käit"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "away",
+                "player_in": {
+                  "id": 43724,
+                  "name": "V. Matoshi"
+                },
+                "player_out": {
+                  "id": 228431,
+                  "name": "E. Meichtry"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "80",
+                "team": "home",
+                "player_in": {
+                  "id": 74992,
+                  "name": "D. Reverson"
+                },
+                "player_out": {
+                  "id": 32724,
+                  "name": "U. Emmanuel"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "83",
+                "team": "away",
+                "player_in": {
+                  "id": 43711,
+                  "name": "J. Bamert"
+                },
+                "player_out": {
+                  "id": 34378,
+                  "name": "E. Rastoder"
+                }
+              },
+              {
+                "event_type": "red_card",
+                "event_minute": "87",
+                "team": "home",
+                "player": {
+                  "id": 31693,
+                  "name": "P. Keny"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "65",
+                "team": "home",
+                "player_in": {
+                  "id": 83780,
+                  "name": "I. Sauter"
+                },
+                "player_out": {
+                  "id": 28148,
+                  "name": "J. Segura"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 43724,
+                  "name": "V. Matoshi"
+                },
+                "assist_player": null
+              }
+            ],
+            "odds": {
+              "match_winner": {
+                "home": 2.25,
+                "draw": 3.48,
+                "away": 2.95
+              },
+              "over_under": {
+                "total": 2.75,
+                "over": 1.83,
+                "under": 1.95
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 2.25,
+                "away": 1.67
+              },
+              "last_modified_timestamp": 1755972156
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 956936,
             "date": "24/08/2025",
             "time": "12:00",
@@ -5144,61 +5360,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2,
+                "home": 2.02,
                 "draw": 3.5,
-                "away": 3.5
+                "away": 3.58
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.7,
-                "under": 2.1
+                "over": 1.75,
+                "under": 2.09
               },
               "handicap": {
                 "market": -0.5,
-                "home": 2,
+                "home": 2.04,
                 "away": 1.83
               },
-              "last_modified_timestamp": 1755597695
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956938,
-            "date": "24/08/2025",
-            "time": "14:30",
-            "teams": {
-              "home": {
-                "id": 3597,
-                "name": "Lugano"
-              },
-              "away": {
-                "id": 3288,
-                "name": "Lausanne-Sport"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "last_modified_timestamp": 1756027886
             },
             "match_preview": {
               "has_preview": false,
@@ -5237,21 +5413,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.05,
-                "draw": 3.7,
+                "home": 2.1,
+                "draw": 3.6,
                 "away": 3.2
               },
               "over_under": {
-                "total": 3,
-                "over": 1.85,
-                "under": 1.95
+                "total": 2.5,
+                "over": 1.68,
+                "under": 2.16
               },
               "handicap": {
                 "market": -0.5,
-                "home": 2.02,
-                "away": 1.78
+                "home": 2.08,
+                "away": 1.76
               },
-              "last_modified_timestamp": 1755597695
+              "last_modified_timestamp": 1756027886
             },
             "match_preview": {
               "has_preview": false,
@@ -5259,17 +5435,17 @@
             }
           },
           {
-            "id": 956940,
-            "date": "30/08/2025",
-            "time": "16:00",
+            "id": 956938,
+            "date": "24/08/2025",
+            "time": "14:30",
             "teams": {
               "home": {
-                "id": 3125,
-                "name": "Thun"
+                "id": 3597,
+                "name": "Lugano"
               },
               "away": {
-                "id": 4947,
-                "name": "Grasshoppers"
+                "id": 3288,
+                "name": "Lausanne-Sport"
               }
             },
             "status": "pre-match",
@@ -5339,6 +5515,46 @@
             }
           },
           {
+            "id": 956940,
+            "date": "30/08/2025",
+            "time": "16:00",
+            "teams": {
+              "home": {
+                "id": 3125,
+                "name": "Thun"
+              },
+              "away": {
+                "id": 4947,
+                "name": "Grasshoppers"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 956941,
             "date": "30/08/2025",
             "time": "18:30",
@@ -5369,9 +5585,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 4.2,
+                "draw": 4.1,
+                "away": 1.75
+              },
+              "over_under": {
+                "total": 3,
+                "over": 1.84,
+                "under": 1.86
+              },
+              "handicap": {
+                "market": "+0.75",
+                "home": 1.84,
+                "away": 2.01
+              },
+              "last_modified_timestamp": 1756027886
             },
             "match_preview": {
               "has_preview": false,
@@ -5419,17 +5648,17 @@
             }
           },
           {
-            "id": 956943,
+            "id": 956944,
             "date": "31/08/2025",
             "time": "14:30",
             "teams": {
               "home": {
-                "id": 3120,
-                "name": "Young Boys"
+                "id": 3786,
+                "name": "Servette"
               },
               "away": {
-                "id": 3597,
-                "name": "Lugano"
+                "id": 3633,
+                "name": "Luzern"
               }
             },
             "status": "pre-match",
@@ -5459,17 +5688,17 @@
             }
           },
           {
-            "id": 956944,
+            "id": 956943,
             "date": "31/08/2025",
             "time": "14:30",
             "teams": {
               "home": {
-                "id": 3786,
-                "name": "Servette"
+                "id": 3120,
+                "name": "Young Boys"
               },
               "away": {
-                "id": 3633,
-                "name": "Luzern"
+                "id": 3597,
+                "name": "Lugano"
               }
             },
             "status": "pre-match",
@@ -5659,46 +5888,6 @@
             }
           },
           {
-            "id": 956949,
-            "date": "14/09/2025",
-            "time": "14:30",
-            "teams": {
-              "home": {
-                "id": 3633,
-                "name": "Luzern"
-              },
-              "away": {
-                "id": 3120,
-                "name": "Young Boys"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 956950,
             "date": "14/09/2025",
             "time": "14:30",
@@ -5739,17 +5928,17 @@
             }
           },
           {
-            "id": 956953,
-            "date": "27/09/2025",
-            "time": "15:00",
+            "id": 956949,
+            "date": "14/09/2025",
+            "time": "14:30",
             "teams": {
               "home": {
-                "id": 4946,
-                "name": "Zurich"
+                "id": 3633,
+                "name": "Luzern"
               },
               "away": {
-                "id": 4945,
-                "name": "St.Gallen"
+                "id": 3120,
+                "name": "Young Boys"
               }
             },
             "status": "pre-match",
@@ -5979,6 +6168,46 @@
             }
           },
           {
+            "id": 956953,
+            "date": "27/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4946,
+                "name": "Zurich"
+              },
+              "away": {
+                "id": 4945,
+                "name": "St.Gallen"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 956956,
             "date": "04/10/2025",
             "time": "16:00",
@@ -6139,46 +6368,6 @@
             }
           },
           {
-            "id": 956961,
-            "date": "05/10/2025",
-            "time": "14:30",
-            "teams": {
-              "home": {
-                "id": 3786,
-                "name": "Servette"
-              },
-              "away": {
-                "id": 3286,
-                "name": "Basel"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 956960,
             "date": "05/10/2025",
             "time": "14:30",
@@ -6219,17 +6408,17 @@
             }
           },
           {
-            "id": 956962,
-            "date": "18/10/2025",
-            "time": "16:00",
+            "id": 956961,
+            "date": "05/10/2025",
+            "time": "14:30",
             "teams": {
               "home": {
-                "id": 3125,
-                "name": "Thun"
-              },
-              "away": {
                 "id": 3786,
                 "name": "Servette"
+              },
+              "away": {
+                "id": 3286,
+                "name": "Basel"
               }
             },
             "status": "pre-match",
@@ -6270,6 +6459,46 @@
               "away": {
                 "id": 3128,
                 "name": "Winterthur"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956962,
+            "date": "18/10/2025",
+            "time": "16:00",
+            "teams": {
+              "home": {
+                "id": 3125,
+                "name": "Thun"
+              },
+              "away": {
+                "id": 3786,
+                "name": "Servette"
               }
             },
             "status": "pre-match",
@@ -6499,17 +6728,17 @@
             }
           },
           {
-            "id": 956968,
+            "id": 967489,
             "date": "25/10/2025",
             "time": "18:30",
             "teams": {
               "home": {
-                "id": 4945,
-                "name": "St.Gallen"
+                "id": 3128,
+                "name": "Winterthur"
               },
               "away": {
-                "id": 4947,
-                "name": "Grasshoppers"
+                "id": 3633,
+                "name": "Luzern"
               }
             },
             "status": "pre-match",
@@ -6539,17 +6768,17 @@
             }
           },
           {
-            "id": 967489,
+            "id": 956968,
             "date": "25/10/2025",
             "time": "18:30",
             "teams": {
               "home": {
-                "id": 3128,
-                "name": "Winterthur"
+                "id": 4945,
+                "name": "St.Gallen"
               },
               "away": {
-                "id": 3633,
-                "name": "Luzern"
+                "id": 4947,
+                "name": "Grasshoppers"
               }
             },
             "status": "pre-match",
@@ -6739,17 +6968,17 @@
             }
           },
           {
-            "id": 956975,
+            "id": 956972,
             "date": "29/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3125,
-                "name": "Thun"
+                "id": 3288,
+                "name": "Lausanne-Sport"
               },
               "away": {
-                "id": 3128,
-                "name": "Winterthur"
+                "id": 3786,
+                "name": "Servette"
               }
             },
             "status": "pre-match",
@@ -6819,17 +7048,17 @@
             }
           },
           {
-            "id": 956977,
+            "id": 956975,
             "date": "29/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4947,
-                "name": "Grasshoppers"
+                "id": 3125,
+                "name": "Thun"
               },
               "away": {
-                "id": 3120,
-                "name": "Young Boys"
+                "id": 3128,
+                "name": "Winterthur"
               }
             },
             "status": "pre-match",
@@ -6859,17 +7088,17 @@
             }
           },
           {
-            "id": 956972,
+            "id": 956977,
             "date": "29/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3288,
-                "name": "Lausanne-Sport"
+                "id": 4947,
+                "name": "Grasshoppers"
               },
               "away": {
-                "id": 3786,
-                "name": "Servette"
+                "id": 3120,
+                "name": "Young Boys"
               }
             },
             "status": "pre-match",
@@ -6979,57 +7208,17 @@
             }
           },
           {
-            "id": 956980,
+            "id": 956983,
             "date": "01/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3120,
-                "name": "Young Boys"
+                "id": 4946,
+                "name": "Zurich"
               },
               "away": {
-                "id": 3286,
-                "name": "Basel"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956979,
-            "date": "01/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3128,
-                "name": "Winterthur"
-              },
-              "away": {
-                "id": 3786,
-                "name": "Servette"
+                "id": 3288,
+                "name": "Lausanne-Sport"
               }
             },
             "status": "pre-match",
@@ -7139,48 +7328,8 @@
             }
           },
           {
-            "id": 956983,
+            "id": 956979,
             "date": "01/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4946,
-                "name": "Zurich"
-              },
-              "away": {
-                "id": 3288,
-                "name": "Lausanne-Sport"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956984,
-            "date": "08/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
@@ -7188,8 +7337,8 @@
                 "name": "Winterthur"
               },
               "away": {
-                "id": 4947,
-                "name": "Grasshoppers"
+                "id": 3786,
+                "name": "Servette"
               }
             },
             "status": "pre-match",
@@ -7219,17 +7368,17 @@
             }
           },
           {
-            "id": 956989,
-            "date": "08/11/2025",
+            "id": 956980,
+            "date": "01/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3286,
-                "name": "Basel"
+                "id": 3120,
+                "name": "Young Boys"
               },
               "away": {
-                "id": 3597,
-                "name": "Lugano"
+                "id": 3286,
+                "name": "Basel"
               }
             },
             "status": "pre-match",
@@ -7299,6 +7448,46 @@
             }
           },
           {
+            "id": 956989,
+            "date": "08/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3286,
+                "name": "Basel"
+              },
+              "away": {
+                "id": 3597,
+                "name": "Lugano"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 956987,
             "date": "08/11/2025",
             "time": "15:00",
@@ -7339,17 +7528,17 @@
             }
           },
           {
-            "id": 956986,
+            "id": 956984,
             "date": "08/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3786,
-                "name": "Servette"
+                "id": 3128,
+                "name": "Winterthur"
               },
               "away": {
-                "id": 3125,
-                "name": "Thun"
+                "id": 4947,
+                "name": "Grasshoppers"
               }
             },
             "status": "pre-match",
@@ -7419,6 +7608,46 @@
             }
           },
           {
+            "id": 956986,
+            "date": "08/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3786,
+                "name": "Servette"
+              },
+              "away": {
+                "id": 3125,
+                "name": "Thun"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 956990,
             "date": "22/11/2025",
             "time": "15:00",
@@ -7430,126 +7659,6 @@
               "away": {
                 "id": 3786,
                 "name": "Servette"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956991,
-            "date": "22/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4947,
-                "name": "Grasshoppers"
-              },
-              "away": {
-                "id": 3286,
-                "name": "Basel"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956992,
-            "date": "22/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3293,
-                "name": "Sion"
-              },
-              "away": {
-                "id": 4946,
-                "name": "Zurich"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956993,
-            "date": "22/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3125,
-                "name": "Thun"
-              },
-              "away": {
-                "id": 3597,
-                "name": "Lugano"
               }
             },
             "status": "pre-match",
@@ -7659,17 +7768,17 @@
             }
           },
           {
-            "id": 957001,
-            "date": "29/11/2025",
+            "id": 956992,
+            "date": "22/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3286,
-                "name": "Basel"
+                "id": 3293,
+                "name": "Sion"
               },
               "away": {
-                "id": 4945,
-                "name": "St.Gallen"
+                "id": 4946,
+                "name": "Zurich"
               }
             },
             "status": "pre-match",
@@ -7699,17 +7808,57 @@
             }
           },
           {
-            "id": 956996,
-            "date": "29/11/2025",
+            "id": 956991,
+            "date": "22/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3633,
-                "name": "Luzern"
+                "id": 4947,
+                "name": "Grasshoppers"
               },
               "away": {
-                "id": 3128,
-                "name": "Winterthur"
+                "id": 3286,
+                "name": "Basel"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956993,
+            "date": "22/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3125,
+                "name": "Thun"
+              },
+              "away": {
+                "id": 3597,
+                "name": "Lugano"
               }
             },
             "status": "pre-match",
@@ -7750,6 +7899,46 @@
               "away": {
                 "id": 3120,
                 "name": "Young Boys"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956996,
+            "date": "29/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3633,
+                "name": "Luzern"
+              },
+              "away": {
+                "id": 3128,
+                "name": "Winterthur"
               }
             },
             "status": "pre-match",
@@ -7899,17 +8088,17 @@
             }
           },
           {
-            "id": 957006,
-            "date": "06/12/2025",
+            "id": 957001,
+            "date": "29/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3288,
-                "name": "Lausanne-Sport"
+                "id": 3286,
+                "name": "Basel"
               },
               "away": {
-                "id": 3597,
-                "name": "Lugano"
+                "id": 4945,
+                "name": "St.Gallen"
               }
             },
             "status": "pre-match",
@@ -7939,17 +8128,17 @@
             }
           },
           {
-            "id": 957002,
+            "id": 957007,
             "date": "06/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4945,
-                "name": "St.Gallen"
+                "id": 3125,
+                "name": "Thun"
               },
               "away": {
-                "id": 4946,
-                "name": "Zurich"
+                "id": 3633,
+                "name": "Luzern"
               }
             },
             "status": "pre-match",
@@ -8059,6 +8248,46 @@
             }
           },
           {
+            "id": 957002,
+            "date": "06/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4945,
+                "name": "St.Gallen"
+              },
+              "away": {
+                "id": 4946,
+                "name": "Zurich"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 957005,
             "date": "06/12/2025",
             "time": "15:00",
@@ -8099,17 +8328,17 @@
             }
           },
           {
-            "id": 957007,
+            "id": 957006,
             "date": "06/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3125,
-                "name": "Thun"
+                "id": 3288,
+                "name": "Lausanne-Sport"
               },
               "away": {
-                "id": 3633,
-                "name": "Luzern"
+                "id": 3597,
+                "name": "Lugano"
               }
             },
             "status": "pre-match",
@@ -8139,17 +8368,17 @@
             }
           },
           {
-            "id": 957012,
+            "id": 957010,
             "date": "13/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3293,
-                "name": "Sion"
+                "id": 3120,
+                "name": "Young Boys"
               },
               "away": {
-                "id": 4947,
-                "name": "Grasshoppers"
+                "id": 3633,
+                "name": "Luzern"
               }
             },
             "status": "pre-match",
@@ -8259,17 +8488,17 @@
             }
           },
           {
-            "id": 957010,
+            "id": 957011,
             "date": "13/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3120,
-                "name": "Young Boys"
+                "id": 3125,
+                "name": "Thun"
               },
               "away": {
-                "id": 3633,
-                "name": "Luzern"
+                "id": 4945,
+                "name": "St.Gallen"
               }
             },
             "status": "pre-match",
@@ -8299,17 +8528,17 @@
             }
           },
           {
-            "id": 957011,
+            "id": 957012,
             "date": "13/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3125,
-                "name": "Thun"
+                "id": 3293,
+                "name": "Sion"
               },
               "away": {
-                "id": 4945,
-                "name": "St.Gallen"
+                "id": 4947,
+                "name": "Grasshoppers"
               }
             },
             "status": "pre-match",
@@ -8379,46 +8608,6 @@
             }
           },
           {
-            "id": 957019,
-            "date": "17/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3128,
-                "name": "Winterthur"
-              },
-              "away": {
-                "id": 3125,
-                "name": "Thun"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 957018,
             "date": "17/12/2025",
             "time": "15:00",
@@ -8430,126 +8619,6 @@
               "away": {
                 "id": 3597,
                 "name": "Lugano"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957017,
-            "date": "17/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3786,
-                "name": "Servette"
-              },
-              "away": {
-                "id": 3288,
-                "name": "Lausanne-Sport"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957016,
-            "date": "17/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3633,
-                "name": "Luzern"
-              },
-              "away": {
-                "id": 3286,
-                "name": "Basel"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957015,
-            "date": "17/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4945,
-                "name": "St.Gallen"
-              },
-              "away": {
-                "id": 3293,
-                "name": "Sion"
               }
             },
             "status": "pre-match",
@@ -8619,17 +8688,177 @@
             }
           },
           {
-            "id": 957021,
+            "id": 957015,
+            "date": "17/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4945,
+                "name": "St.Gallen"
+              },
+              "away": {
+                "id": 3293,
+                "name": "Sion"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 957019,
+            "date": "17/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3128,
+                "name": "Winterthur"
+              },
+              "away": {
+                "id": 3125,
+                "name": "Thun"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 957016,
+            "date": "17/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3633,
+                "name": "Luzern"
+              },
+              "away": {
+                "id": 3286,
+                "name": "Basel"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 957017,
+            "date": "17/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3786,
+                "name": "Servette"
+              },
+              "away": {
+                "id": 3288,
+                "name": "Lausanne-Sport"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 957022,
             "date": "20/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3288,
-                "name": "Lausanne-Sport"
+                "id": 3597,
+                "name": "Lugano"
               },
               "away": {
-                "id": 3633,
-                "name": "Luzern"
+                "id": 3120,
+                "name": "Young Boys"
               }
             },
             "status": "pre-match",
@@ -8779,17 +9008,17 @@
             }
           },
           {
-            "id": 957022,
+            "id": 957021,
             "date": "20/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3597,
-                "name": "Lugano"
+                "id": 3288,
+                "name": "Lausanne-Sport"
               },
               "away": {
-                "id": 3120,
-                "name": "Young Boys"
+                "id": 3633,
+                "name": "Luzern"
               }
             },
             "status": "pre-match",
@@ -8859,17 +9088,17 @@
             }
           },
           {
-            "id": 957027,
+            "id": 957031,
             "date": "17/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3128,
-                "name": "Winterthur"
+                "id": 3633,
+                "name": "Luzern"
               },
               "away": {
-                "id": 4945,
-                "name": "St.Gallen"
+                "id": 3597,
+                "name": "Lugano"
               }
             },
             "status": "pre-match",
@@ -8939,97 +9168,17 @@
             }
           },
           {
-            "id": 957031,
+            "id": 957027,
             "date": "17/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3633,
-                "name": "Luzern"
+                "id": 3128,
+                "name": "Winterthur"
               },
               "away": {
-                "id": 3597,
-                "name": "Lugano"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957030,
-            "date": "17/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3120,
-                "name": "Young Boys"
-              },
-              "away": {
-                "id": 3288,
-                "name": "Lausanne-Sport"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 957029,
-            "date": "17/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3786,
-                "name": "Servette"
-              },
-              "away": {
-                "id": 4946,
-                "name": "Zurich"
+                "id": 4945,
+                "name": "St.Gallen"
               }
             },
             "status": "pre-match",
@@ -9099,17 +9248,57 @@
             }
           },
           {
-            "id": 957033,
-            "date": "24/01/2026",
+            "id": 957029,
+            "date": "17/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3597,
-                "name": "Lugano"
+                "id": 3786,
+                "name": "Servette"
               },
               "away": {
-                "id": 3128,
-                "name": "Winterthur"
+                "id": 4946,
+                "name": "Zurich"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 957030,
+            "date": "17/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3120,
+                "name": "Young Boys"
+              },
+              "away": {
+                "id": 3288,
+                "name": "Lausanne-Sport"
               }
             },
             "status": "pre-match",
@@ -9339,17 +9528,17 @@
             }
           },
           {
-            "id": 957043,
-            "date": "31/01/2026",
+            "id": 957033,
+            "date": "24/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3286,
-                "name": "Basel"
+                "id": 3597,
+                "name": "Lugano"
               },
               "away": {
-                "id": 3125,
-                "name": "Thun"
+                "id": 3128,
+                "name": "Winterthur"
               }
             },
             "status": "pre-match",
@@ -9419,17 +9608,57 @@
             }
           },
           {
-            "id": 957040,
+            "id": 957043,
             "date": "31/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3120,
-                "name": "Young Boys"
+                "id": 3286,
+                "name": "Basel"
               },
               "away": {
-                "id": 4946,
-                "name": "Zurich"
+                "id": 3125,
+                "name": "Thun"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 957042,
+            "date": "31/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3128,
+                "name": "Winterthur"
+              },
+              "away": {
+                "id": 3288,
+                "name": "Lausanne-Sport"
               }
             },
             "status": "pre-match",
@@ -9499,17 +9728,17 @@
             }
           },
           {
-            "id": 957042,
+            "id": 957040,
             "date": "31/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3128,
-                "name": "Winterthur"
+                "id": 3120,
+                "name": "Young Boys"
               },
               "away": {
-                "id": 3288,
-                "name": "Lausanne-Sport"
+                "id": 4946,
+                "name": "Zurich"
               }
             },
             "status": "pre-match",

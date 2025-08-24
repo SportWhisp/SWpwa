@@ -7064,59 +7064,6 @@
             }
           },
           {
-            "id": 963748,
-            "date": "09/08/2025",
-            "time": "18:15",
-            "teams": {
-              "home": {
-                "id": 4710,
-                "name": "Piast Gliwice"
-              },
-              "away": {
-                "id": 2956,
-                "name": "Lech Poznan"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 3.1,
-                "draw": 3.3,
-                "away": 2.2
-              },
-              "over_under": {
-                "total": 2.5,
-                "over": 2,
-                "under": 1.73
-              },
-              "handicap": {
-                "market": -101,
-                "home": -1,
-                "away": -1
-              },
-              "last_modified_timestamp": 1754852478
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 963746,
             "date": "09/08/2025",
             "time": "18:15",
@@ -7339,6 +7286,59 @@
                 "away": 1.81
               },
               "last_modified_timestamp": 1754771558
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 963748,
+            "date": "09/08/2025",
+            "time": "18:15",
+            "teams": {
+              "home": {
+                "id": 4710,
+                "name": "Piast Gliwice"
+              },
+              "away": {
+                "id": 2956,
+                "name": "Lech Poznan"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 3.1,
+                "draw": 3.3,
+                "away": 2.2
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 2,
+                "under": 1.73
+              },
+              "handicap": {
+                "market": -101,
+                "home": -1,
+                "away": -1
+              },
+              "last_modified_timestamp": 1754852478
             },
             "match_preview": {
               "has_preview": false,
@@ -9422,6 +9422,32 @@
                   "id": 31521,
                   "name": "M. Ishak"
                 }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "away",
+                "player_in": {
+                  "id": 33712,
+                  "name": "N. Niski"
+                },
+                "player_out": {
+                  "id": 44989,
+                  "name": "D. Błanik"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "76",
+                "team": "away",
+                "player_in": {
+                  "id": 228474,
+                  "name": "H. Zwozny"
+                },
+                "player_out": {
+                  "id": 44983,
+                  "name": "Nono"
+                }
               }
             ],
             "odds": {
@@ -10500,39 +10526,233 @@
                 "name": "Nieciecza"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "draw",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "home_ht_goals": 1,
+              "away_ht_goals": 1,
+              "home_ft_goals": 1,
+              "away_ft_goals": 1,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "3",
+                "team": "away",
+                "player": {
+                  "id": 21891,
+                  "name": "Jesus Jimenez"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "6",
+                "team": "home",
+                "player": {
+                  "id": 48075,
+                  "name": "Maurides"
+                },
+                "assist_player": {
+                  "id": 40126,
+                  "name": "J. Grzesik"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "37",
+                "team": "home",
+                "player": {
+                  "id": 51166,
+                  "name": "Adrián Diéguez"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "52",
+                "team": "away",
+                "player": {
+                  "id": 77501,
+                  "name": "A. Putivtsev"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "55",
+                "team": "away",
+                "player_in": {
+                  "id": 77533,
+                  "name": "A. Trubeha"
+                },
+                "player_out": {
+                  "id": 100414,
+                  "name": "Mini"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "55",
+                "team": "away",
+                "player_in": {
+                  "id": 48985,
+                  "name": "L. Masoero"
+                },
+                "player_out": {
+                  "id": 77501,
+                  "name": "A. Putivtsev"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "69",
+                "team": "home",
+                "player_in": {
+                  "id": 77849,
+                  "name": "Elves"
+                },
+                "player_out": {
+                  "id": 86878,
+                  "name": "Z. Ouattara"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "away",
+                "player_in": {
+                  "id": 34486,
+                  "name": "R. Boboc"
+                },
+                "player_out": {
+                  "id": 77513,
+                  "name": "D. Hilbrycht"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "75",
+                "team": "home",
+                "player_in": {
+                  "id": 34263,
+                  "name": "A. Tapsoba"
+                },
+                "player_out": {
+                  "id": 86946,
+                  "name": "Vasco Lopes"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "75",
+                "team": "home",
+                "player_in": {
+                  "id": 40137,
+                  "name": "R. Alves"
+                },
+                "player_out": {
+                  "id": 40153,
+                  "name": "C. Donis"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "80",
+                "team": "away",
+                "player_in": {
+                  "id": 159025,
+                  "name": "W. Jakubik"
+                },
+                "player_out": {
+                  "id": 21891,
+                  "name": "Jesus Jimenez"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "80",
+                "team": "away",
+                "player_in": {
+                  "id": 30493,
+                  "name": "R. Kurzawa"
+                },
+                "player_out": {
+                  "id": 77525,
+                  "name": "M. Faßbender"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "84",
+                "team": "home",
+                "player_in": {
+                  "id": 32316,
+                  "name": "Depu"
+                },
+                "player_out": {
+                  "id": 48075,
+                  "name": "Maurides"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "85",
+                "team": "away",
+                "player": {
+                  "id": 77533,
+                  "name": "A. Trubeha"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "84",
+                "team": "home",
+                "player_in": {
+                  "id": 48717,
+                  "name": "I. Camará"
+                },
+                "player_out": {
+                  "id": 40134,
+                  "name": "M. Kaput"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "54",
+                "team": "away",
+                "player_in": {
+                  "id": 48985,
+                  "name": "L. Masoero"
+                },
+                "player_out": {
+                  "id": 77501,
+                  "name": "A. Putivtsev"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 1.91,
-                "draw": 3.72,
-                "away": 3.65
+                "home": 2.2,
+                "draw": 3.45,
+                "away": 3.1
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.76,
-                "under": 2
+                "over": 1.82,
+                "under": 1.95
               },
               "handicap": {
-                "market": -0.5,
-                "home": 1.95,
-                "away": 1.88
+                "market": -0.25,
+                "home": 1.92,
+                "away": 1.9
               },
-              "last_modified_timestamp": 1755597691
+              "last_modified_timestamp": 1755883947
             },
             "match_preview": {
               "has_preview": false,
@@ -10553,39 +10773,234 @@
                 "name": "Pogon Szczecin"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "away",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "home_ht_goals": 1,
+              "away_ht_goals": 1,
+              "home_ft_goals": 1,
+              "away_ft_goals": 2,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "21",
+                "team": "home",
+                "player": {
+                  "id": 267053,
+                  "name": "Dion Gallapeni"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "45",
+                "team": "away",
+                "player": {
+                  "id": 51488,
+                  "name": "Marian Huja"
+                },
+                "assist_player": {
+                  "id": 60155,
+                  "name": "M. Juwara"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "52",
+                "team": "home",
+                "player": {
+                  "id": 77634,
+                  "name": "J. Shehu"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "54",
+                "team": "home",
+                "player_in": {
+                  "id": 30510,
+                  "name": "M. Fornalczyk"
+                },
+                "player_out": {
+                  "id": 32714,
+                  "name": "S. Akere"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "62",
+                "team": "away",
+                "player_in": {
+                  "id": 30585,
+                  "name": "K. Kostorz"
+                },
+                "player_out": {
+                  "id": 26530,
+                  "name": "P. Mukairu"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "62",
+                "team": "away",
+                "player": {
+                  "id": 30463,
+                  "name": "L. Koutris"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "63",
+                "team": "away",
+                "player": {
+                  "id": 51488,
+                  "name": "Marian Huja"
+                }
+              },
+              {
+                "event_type": "red_card",
+                "event_minute": "66",
+                "team": "home",
+                "player": {
+                  "id": 40247,
+                  "name": "S. Bergier"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "71",
+                "team": "home",
+                "player_in": {
+                  "id": 27605,
+                  "name": "S. Czyz"
+                },
+                "player_out": {
+                  "id": 77634,
+                  "name": "J. Shehu"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "71",
+                "team": "home",
+                "player_in": {
+                  "id": 41420,
+                  "name": "T. Teklić"
+                },
+                "player_out": {
+                  "id": 82952,
+                  "name": "Ángel Baena"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "71",
+                "team": "home",
+                "player_in": {
+                  "id": 40011,
+                  "name": "S. Andreou"
+                },
+                "player_out": {
+                  "id": 267053,
+                  "name": "Dion Gallapeni"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "76",
+                "team": "away",
+                "player_in": {
+                  "id": 39098,
+                  "name": "José Ángel Pozo"
+                },
+                "player_out": {
+                  "id": 30539,
+                  "name": "K. Smolinski"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "86",
+                "team": "away",
+                "player": {
+                  "id": 30560,
+                  "name": "A. Przyborek"
+                },
+                "assist_player": {
+                  "id": 30500,
+                  "name": "K. Grosicki"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "88",
+                "team": "home",
+                "player_in": {
+                  "id": 229123,
+                  "name": "A. Klukowski"
+                },
+                "player_out": {
+                  "id": 27965,
+                  "name": "L. Selahi"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "89",
+                "team": "away",
+                "player_in": {
+                  "id": 77874,
+                  "name": "M. Ndiaye"
+                },
+                "player_out": {
+                  "id": 32893,
+                  "name": "J. Bieganski"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 39098,
+                  "name": "José Ángel Pozo"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 60155,
+                  "name": "M. Juwara"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 2.2,
-                "draw": 3.45,
-                "away": 3
+                "home": 1.95,
+                "draw": 3.55,
+                "away": 3.5
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.73,
-                "under": 2.07
+                "over": 1.78,
+                "under": 2
               },
               "handicap": {
-                "market": -0.25,
-                "home": 1.93,
-                "away": 1.9
+                "market": -0.5,
+                "home": 1.95,
+                "away": 1.95
               },
-              "last_modified_timestamp": 1755597691
+              "last_modified_timestamp": 1755894781
             },
             "match_preview": {
               "has_preview": false,
@@ -10606,39 +11021,277 @@
                 "name": "Motor Lublin"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "home",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
               "home_ht_goals": 0,
               "away_ht_goals": 0,
-              "home_ft_goals": 0,
+              "home_ft_goals": 2,
               "away_ft_goals": 0,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "12",
+                "team": "home",
+                "player": {
+                  "id": 267068,
+                  "name": "Jakub Budnicki"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "22",
+                "team": "away",
+                "player": {
+                  "id": 40184,
+                  "name": "Ivo Rodrigues"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "29",
+                "team": "away",
+                "player": {
+                  "id": 109706,
+                  "name": "J. Łabojko"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 75276,
+                  "name": "B. Smolarczyk"
+                },
+                "player_out": {
+                  "id": 267068,
+                  "name": "Jakub Budnicki"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "away",
+                "player_in": {
+                  "id": 99322,
+                  "name": "Sergi Samper"
+                },
+                "player_out": {
+                  "id": 109706,
+                  "name": "J. Łabojko"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "47",
+                "team": "away",
+                "player": {
+                  "id": 99322,
+                  "name": "Sergi Samper"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "50",
+                "team": "home",
+                "player": {
+                  "id": 43436,
+                  "name": "K. Matuszewski"
+                },
+                "assist_player": {
+                  "id": 34669,
+                  "name": "Antonin Cortes"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "54",
+                "team": "home",
+                "player": {
+                  "id": 33663,
+                  "name": "T. Svetlin"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "60",
+                "team": "away",
+                "player_in": {
+                  "id": 92560,
+                  "name": "M. Ndiaye"
+                },
+                "player_out": {
+                  "id": 44759,
+                  "name": "M. Król"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "60",
+                "team": "home",
+                "player": {
+                  "id": 34669,
+                  "name": "Antonin Cortes"
+                },
+                "assist_player": {
+                  "id": 34425,
+                  "name": "W. Dlugosz"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "67",
+                "team": "away",
+                "player": {
+                  "id": 252070,
+                  "name": "B. Ede"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "home",
+                "player_in": {
+                  "id": 83127,
+                  "name": "Pau Resta"
+                },
+                "player_out": {
+                  "id": 43436,
+                  "name": "K. Matuszewski"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "home",
+                "player_in": {
+                  "id": 35927,
+                  "name": "V. Nikolov"
+                },
+                "player_out": {
+                  "id": 34669,
+                  "name": "Antonin Cortes"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "away",
+                "player_in": {
+                  "id": 44780,
+                  "name": "M. Scalet"
+                },
+                "player_out": {
+                  "id": 40184,
+                  "name": "Ivo Rodrigues"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "away",
+                "player_in": {
+                  "id": 44768,
+                  "name": "F. Wójcik"
+                },
+                "player_out": {
+                  "id": 30475,
+                  "name": "P. Stolarski"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "away",
+                "player_in": {
+                  "id": 83914,
+                  "name": "R. Dadashov"
+                },
+                "player_out": {
+                  "id": 77403,
+                  "name": "K. Czubak"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "77",
+                "team": "away",
+                "player": {
+                  "id": 44780,
+                  "name": "M. Scalet"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "80",
+                "team": "home",
+                "player": {
+                  "id": 34425,
+                  "name": "W. Dlugosz"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "home",
+                "player_in": {
+                  "id": 44986,
+                  "name": "M. Strzeboński"
+                },
+                "player_out": {
+                  "id": 33663,
+                  "name": "T. Svetlin"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "88",
+                "team": "home",
+                "player_in": {
+                  "id": 33712,
+                  "name": "N. Niski"
+                },
+                "player_out": {
+                  "id": 44983,
+                  "name": "Nono"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "home",
+                "player": {
+                  "id": 35927,
+                  "name": "V. Nikolov"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 2,
-                "draw": 3.55,
-                "away": 3.42
+                "home": 1.98,
+                "draw": 3.6,
+                "away": 3.52
               },
               "over_under": {
                 "total": 2.5,
                 "over": 1.73,
-                "under": 2.06
+                "under": 2.08
               },
               "handicap": {
                 "market": -0.5,
-                "home": 1.98,
-                "away": 1.82
+                "home": 1.99,
+                "away": 1.85
               },
-              "last_modified_timestamp": 1755597691
+              "last_modified_timestamp": 1755970301
             },
             "match_preview": {
               "has_preview": false,
@@ -10699,39 +11352,214 @@
                 "name": "GKS Katowice"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "home",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
+              "home_ht_goals": 1,
               "away_ht_goals": 0,
-              "home_ft_goals": 0,
+              "home_ft_goals": 3,
               "away_ft_goals": 0,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "26",
+                "team": "away",
+                "player": {
+                  "id": 27620,
+                  "name": "B. Nowak"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "40",
+                "team": "home",
+                "player": {
+                  "id": 49794,
+                  "name": "P. Hellebrand"
+                },
+                "assist_player": {
+                  "id": 199031,
+                  "name": "O. Sow"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "53",
+                "team": "home",
+                "player": {
+                  "id": 49776,
+                  "name": "S. Liseth"
+                },
+                "assist_player": {
+                  "id": 40488,
+                  "name": "L. Ambros"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "61",
+                "team": "away",
+                "player_in": {
+                  "id": 74576,
+                  "name": "J. Bosch"
+                },
+                "player_out": {
+                  "id": 30573,
+                  "name": "K. Lukasiak"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "61",
+                "team": "away",
+                "player_in": {
+                  "id": 54957,
+                  "name": "A. Buksa"
+                },
+                "player_out": {
+                  "id": 43577,
+                  "name": "A. Zreľák"
+                }
+              },
+              {
+                "event_type": "own_goal",
+                "event_minute": "64",
+                "team": "away",
+                "player": {
+                  "id": 26926,
+                  "name": "M. Kuusk"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "69",
+                "team": "home",
+                "player_in": {
+                  "id": 216515,
+                  "name": "N. Dzięgielewski"
+                },
+                "player_out": {
+                  "id": 199031,
+                  "name": "O. Sow"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "home",
+                "player_in": {
+                  "id": 44882,
+                  "name": "Ł. Podolski"
+                },
+                "player_out": {
+                  "id": 40488,
+                  "name": "L. Ambros"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "home",
+                "player_in": {
+                  "id": 44856,
+                  "name": "K. Szcześniak"
+                },
+                "player_out": {
+                  "id": 81244,
+                  "name": "M. Kmeť"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "away",
+                "player_in": {
+                  "id": 44974,
+                  "name": "J. Łukowski"
+                },
+                "player_out": {
+                  "id": 40120,
+                  "name": "Borja Galán"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "away",
+                "player_in": {
+                  "id": 30348,
+                  "name": "K. Gruszkowski"
+                },
+                "player_out": {
+                  "id": 40215,
+                  "name": "A. Błąd"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "76",
+                "team": "home",
+                "player_in": {
+                  "id": 44891,
+                  "name": "K. Lukoszek"
+                },
+                "player_out": {
+                  "id": 39612,
+                  "name": "T. Ismaheel"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "76",
+                "team": "home",
+                "player_in": {
+                  "id": 31471,
+                  "name": "M. Pingot"
+                },
+                "player_out": {
+                  "id": 82567,
+                  "name": "Josema Sánchez"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "78",
+                "team": "away",
+                "player_in": {
+                  "id": 30506,
+                  "name": "M. Wedrychowski"
+                },
+                "player_out": {
+                  "id": 27620,
+                  "name": "B. Nowak"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 1.8,
-                "draw": 3.75,
-                "away": 4
+                "home": 1.75,
+                "draw": 3.85,
+                "away": 4.2
               },
               "over_under": {
                 "total": 2.75,
-                "over": 1.83,
-                "under": 1.95
+                "over": 1.79,
+                "under": 2
               },
               "handicap": {
                 "market": -0.5,
-                "home": 1.81,
-                "away": 2
+                "home": 1.76,
+                "away": 2.1
               },
-              "last_modified_timestamp": 1755597691
+              "last_modified_timestamp": 1755979352
             },
             "match_preview": {
               "has_preview": false,
@@ -10770,21 +11598,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.25,
-                "draw": 3.2,
-                "away": 3.16
+                "home": 2.3,
+                "draw": 3.07,
+                "away": 3.25
               },
               "over_under": {
-                "total": 2.5,
-                "over": 2.15,
-                "under": 1.68
+                "total": 2,
+                "over": 1.75,
+                "under": 2.05
               },
               "handicap": {
                 "market": -0.25,
-                "home": 1.95,
+                "home": 1.98,
                 "away": 1.85
               },
-              "last_modified_timestamp": 1755597691
+              "last_modified_timestamp": 1756027880
             },
             "match_preview": {
               "has_preview": false,
@@ -10823,21 +11651,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.18,
-                "draw": 3.7,
-                "away": 2.95
+                "home": 2.11,
+                "draw": 3.6,
+                "away": 3.13
               },
               "over_under": {
                 "total": 2.75,
-                "over": 1.75,
-                "under": 1.98
+                "over": 1.82,
+                "under": 1.95
               },
               "handicap": {
                 "market": -0.5,
-                "home": 2.12,
-                "away": 1.7
+                "home": 2.05,
+                "away": 1.79
               },
-              "last_modified_timestamp": 1755597691
+              "last_modified_timestamp": 1756027880
             },
             "match_preview": {
               "has_preview": false,
@@ -10858,7 +11686,7 @@
                 "name": "Jagiellonia Bialystok"
               }
             },
-            "status": "pre-match",
+            "status": "postponed",
             "minute": -1,
             "winner": "tbd",
             "has_extra_time": false,
@@ -10876,21 +11704,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.66,
-                "draw": 4.3,
-                "away": 4.5
+                "home": 1.68,
+                "draw": 4.25,
+                "away": 4.75
               },
               "over_under": {
                 "total": 2.75,
                 "over": 1.73,
-                "under": 2.01
+                "under": 1.98
               },
               "handicap": {
                 "market": -1,
-                "home": 2.1,
+                "home": 2.17,
                 "away": 1.75
               },
-              "last_modified_timestamp": 1755597691
+              "last_modified_timestamp": 1756027880
             },
             "match_preview": {
               "has_preview": false,
@@ -10929,21 +11757,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.12,
-                "draw": 3.4,
-                "away": 3.25
+                "home": 2.1,
+                "draw": 3.46,
+                "away": 3.35
               },
               "over_under": {
                 "total": 2.5,
                 "over": 1.95,
-                "under": 1.85
+                "under": 1.84
               },
               "handicap": {
                 "market": -0.5,
-                "home": 2.1,
-                "away": 1.72
+                "home": 2.08,
+                "away": 1.76
               },
-              "last_modified_timestamp": 1755597691
+              "last_modified_timestamp": 1756027880
             },
             "match_preview": {
               "has_preview": false,
@@ -10981,9 +11809,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.1,
+                "draw": 3.5,
+                "away": 3.35
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.92,
+                "under": 1.85
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 2.1,
+                "away": 1.75
+              },
+              "last_modified_timestamp": 1756027880
             },
             "match_preview": {
               "has_preview": false,
@@ -11021,9 +11862,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.25,
+                "draw": 3.48,
+                "away": 3
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.73,
+                "under": 2.01
+              },
+              "handicap": {
+                "market": -0.25,
+                "home": 1.9,
+                "away": 1.78
+              },
+              "last_modified_timestamp": 1756027880
             },
             "match_preview": {
               "has_preview": false,
@@ -11033,7 +11887,7 @@
           {
             "id": 966505,
             "date": "30/08/2025",
-            "time": "15:00",
+            "time": "12:45",
             "teams": {
               "home": {
                 "id": 4713,
@@ -11061,9 +11915,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.4,
+                "draw": 3.52,
+                "away": 2.79
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.83,
+                "under": 1.94
+              },
+              "handicap": {
+                "market": "+0.0",
+                "home": 1.79,
+                "away": 2.05
+              },
+              "last_modified_timestamp": 1756027880
             },
             "match_preview": {
               "has_preview": false,
@@ -11073,7 +11940,7 @@
           {
             "id": 967348,
             "date": "30/08/2025",
-            "time": "15:00",
+            "time": "15:30",
             "teams": {
               "home": {
                 "id": 3123,
@@ -11101,9 +11968,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.52,
+                "draw": 3.42,
+                "away": 2.66
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.89,
+                "under": 1.88
+              },
+              "handicap": {
+                "market": "+0.0",
+                "home": 1.83,
+                "away": 1.93
+              },
+              "last_modified_timestamp": 1756027880
             },
             "match_preview": {
               "has_preview": false,
@@ -11113,7 +11993,7 @@
           {
             "id": 967349,
             "date": "30/08/2025",
-            "time": "15:00",
+            "time": "18:15",
             "teams": {
               "home": {
                 "id": 3185,
@@ -11141,49 +12021,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967350,
-            "date": "30/08/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3183,
-                "name": "Pogon Szczecin"
+              "match_winner": {
+                "home": 1.8,
+                "draw": 3.8,
+                "away": 4.1
               },
-              "away": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "over_under": {
+                "total": 2.5,
+                "over": 1.7,
+                "under": 2.1
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 1.75,
+                "away": 2.05
+              },
+              "last_modified_timestamp": 1756027880
             },
             "match_preview": {
               "has_preview": false,
@@ -11193,7 +12046,7 @@
           {
             "id": 968269,
             "date": "31/08/2025",
-            "time": "12:45",
+            "time": "15:30",
             "teams": {
               "home": {
                 "id": 3500,
@@ -11261,9 +12114,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 1.84,
+                "draw": 3.65,
+                "away": 3.9
+              },
+              "over_under": {
+                "total": -1,
+                "over": -1,
+                "under": -1
+              },
+              "handicap": {
+                "market": -101,
+                "home": -1,
+                "away": -1
+              },
+              "last_modified_timestamp": 1756027880
             },
             "match_preview": {
               "has_preview": false,
@@ -11301,9 +12167,75 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.6,
+                "draw": 3.2,
+                "away": 2.6
+              },
+              "over_under": {
+                "total": -1,
+                "over": -1,
+                "under": -1
+              },
+              "handicap": {
+                "market": "+0.0",
+                "home": 1.85,
+                "away": 1.85
+              },
+              "last_modified_timestamp": 1756027880
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 967350,
+            "date": "31/08/2025",
+            "time": "18:15",
+            "teams": {
+              "home": {
+                "id": 3183,
+                "name": "Pogon Szczecin"
+              },
+              "away": {
+                "id": 3173,
+                "name": "Rakow Czestochowa"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 2.7,
+                "draw": 3.2,
+                "away": 2.5
+              },
+              "over_under": {
+                "total": -1,
+                "over": -1,
+                "under": -1
+              },
+              "handicap": {
+                "market": "+0.0",
+                "home": 1.92,
+                "away": 1.78
+              },
+              "last_modified_timestamp": 1756027880
             },
             "match_preview": {
               "has_preview": false,
@@ -11671,6 +12603,206 @@
             }
           },
           {
+            "id": 969941,
+            "date": "19/09/2025",
+            "time": "16:00",
+            "teams": {
+              "home": {
+                "id": 2967,
+                "name": "GKS Katowice"
+              },
+              "away": {
+                "id": 3176,
+                "name": "Cracovia"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 969942,
+            "date": "19/09/2025",
+            "time": "18:30",
+            "teams": {
+              "home": {
+                "id": 3179,
+                "name": "Wisla Plock"
+              },
+              "away": {
+                "id": 3500,
+                "name": "Jagiellonia Bialystok"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 969943,
+            "date": "20/09/2025",
+            "time": "10:15",
+            "teams": {
+              "home": {
+                "id": 2964,
+                "name": "Radomiak Radom"
+              },
+              "away": {
+                "id": 4710,
+                "name": "Piast Gliwice"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 969944,
+            "date": "20/09/2025",
+            "time": "12:45",
+            "teams": {
+              "home": {
+                "id": 4709,
+                "name": "Arka Gdynia"
+              },
+              "away": {
+                "id": 3186,
+                "name": "Korona Kielce"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961390,
+            "date": "20/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3173,
+                "name": "Rakow Czestochowa"
+              },
+              "away": {
+                "id": 2899,
+                "name": "Legia Warsaw"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 967491,
             "date": "20/09/2025",
             "time": "15:00",
@@ -11791,17 +12923,17 @@
             }
           },
           {
-            "id": 961390,
-            "date": "20/09/2025",
-            "time": "15:00",
+            "id": 969945,
+            "date": "21/09/2025",
+            "time": "12:45",
             "teams": {
               "home": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
+                "id": 3183,
+                "name": "Pogon Szczecin"
               },
               "away": {
-                "id": 2899,
-                "name": "Legia Warsaw"
+                "id": 3180,
+                "name": "Lechia Gdansk"
               }
             },
             "status": "pre-match",
@@ -11871,17 +13003,17 @@
             }
           },
           {
-            "id": 967493,
+            "id": 967495,
             "date": "27/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4715,
-                "name": "Widzew Lodz"
+                "id": 3123,
+                "name": "Zaglebie Lubin"
               },
               "away": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
+                "id": 4709,
+                "name": "Arka Gdynia"
               }
             },
             "status": "pre-match",
@@ -11951,57 +13083,17 @@
             }
           },
           {
-            "id": 967495,
+            "id": 967493,
             "date": "27/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3123,
-                "name": "Zaglebie Lubin"
-              },
-              "away": {
-                "id": 4709,
-                "name": "Arka Gdynia"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967354,
-            "date": "04/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4713,
-                "name": "Nieciecza"
-              },
-              "away": {
                 "id": 4715,
                 "name": "Widzew Lodz"
+              },
+              "away": {
+                "id": 3173,
+                "name": "Rakow Czestochowa"
               }
             },
             "status": "pre-match",
@@ -12151,6 +13243,86 @@
             }
           },
           {
+            "id": 967354,
+            "date": "04/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4713,
+                "name": "Nieciecza"
+              },
+              "away": {
+                "id": 4715,
+                "name": "Widzew Lodz"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 967500,
+            "date": "18/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3186,
+                "name": "Korona Kielce"
+              },
+              "away": {
+                "id": 3185,
+                "name": "Gornik Zabrze"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 967499,
             "date": "18/10/2025",
             "time": "15:00",
@@ -12231,17 +13403,17 @@
             }
           },
           {
-            "id": 967500,
+            "id": 967498,
             "date": "18/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3186,
-                "name": "Korona Kielce"
+                "id": 3176,
+                "name": "Cracovia"
               },
               "away": {
-                "id": 3185,
-                "name": "Gornik Zabrze"
+                "id": 3173,
+                "name": "Rakow Czestochowa"
               }
             },
             "status": "pre-match",
@@ -12271,17 +13443,17 @@
             }
           },
           {
-            "id": 967498,
-            "date": "18/10/2025",
+            "id": 967501,
+            "date": "25/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3176,
-                "name": "Cracovia"
+                "id": 3185,
+                "name": "Gornik Zabrze"
               },
               "away": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
+                "id": 3500,
+                "name": "Jagiellonia Bialystok"
               }
             },
             "status": "pre-match",
@@ -12391,17 +13563,57 @@
             }
           },
           {
-            "id": 967501,
-            "date": "25/10/2025",
+            "id": 967357,
+            "date": "31/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3185,
-                "name": "Gornik Zabrze"
+                "id": 4713,
+                "name": "Nieciecza"
               },
               "away": {
-                "id": 3500,
-                "name": "Jagiellonia Bialystok"
+                "id": 2967,
+                "name": "GKS Katowice"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 967502,
+            "date": "31/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3176,
+                "name": "Cracovia"
+              },
+              "away": {
+                "id": 3123,
+                "name": "Zaglebie Lubin"
               }
             },
             "status": "pre-match",
@@ -12482,86 +13694,6 @@
               "away": {
                 "id": 4709,
                 "name": "Arka Gdynia"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967357,
-            "date": "31/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4713,
-                "name": "Nieciecza"
-              },
-              "away": {
-                "id": 2967,
-                "name": "GKS Katowice"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967502,
-            "date": "31/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3176,
-                "name": "Cracovia"
-              },
-              "away": {
-                "id": 3123,
-                "name": "Zaglebie Lubin"
               }
             },
             "status": "pre-match",
@@ -12711,17 +13843,17 @@
             }
           },
           {
-            "id": 967359,
+            "id": 967508,
             "date": "22/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4713,
-                "name": "Nieciecza"
+                "id": 3185,
+                "name": "Gornik Zabrze"
               },
               "away": {
-                "id": 4709,
-                "name": "Arka Gdynia"
+                "id": 3179,
+                "name": "Wisla Plock"
               }
             },
             "status": "pre-match",
@@ -12791,46 +13923,6 @@
             }
           },
           {
-            "id": 967508,
-            "date": "22/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3185,
-                "name": "Gornik Zabrze"
-              },
-              "away": {
-                "id": 3179,
-                "name": "Wisla Plock"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 967509,
             "date": "22/11/2025",
             "time": "15:00",
@@ -12871,17 +13963,17 @@
             }
           },
           {
-            "id": 967511,
-            "date": "29/11/2025",
+            "id": 967359,
+            "date": "22/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2964,
-                "name": "Radomiak Radom"
+                "id": 4713,
+                "name": "Nieciecza"
               },
               "away": {
-                "id": 3185,
-                "name": "Gornik Zabrze"
+                "id": 4709,
+                "name": "Arka Gdynia"
               }
             },
             "status": "pre-match",
@@ -12991,6 +14083,46 @@
             }
           },
           {
+            "id": 967511,
+            "date": "29/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2964,
+                "name": "Radomiak Radom"
+              },
+              "away": {
+                "id": 3185,
+                "name": "Gornik Zabrze"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 967512,
             "date": "29/11/2025",
             "time": "15:00",
@@ -13002,86 +14134,6 @@
               "away": {
                 "id": 3173,
                 "name": "Rakow Czestochowa"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967361,
-            "date": "06/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4713,
-                "name": "Nieciecza"
-              },
-              "away": {
-                "id": 3500,
-                "name": "Jagiellonia Bialystok"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967513,
-            "date": "06/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3123,
-                "name": "Zaglebie Lubin"
-              },
-              "away": {
-                "id": 4715,
-                "name": "Widzew Lodz"
               }
             },
             "status": "pre-match",
@@ -13191,17 +14243,17 @@
             }
           },
           {
-            "id": 967515,
-            "date": "31/01/2026",
+            "id": 967361,
+            "date": "06/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3123,
-                "name": "Zaglebie Lubin"
+                "id": 4713,
+                "name": "Nieciecza"
               },
               "away": {
-                "id": 2967,
-                "name": "GKS Katowice"
+                "id": 3500,
+                "name": "Jagiellonia Bialystok"
               }
             },
             "status": "pre-match",
@@ -13231,17 +14283,17 @@
             }
           },
           {
-            "id": 967516,
-            "date": "31/01/2026",
+            "id": 967513,
+            "date": "06/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3179,
-                "name": "Wisla Plock"
+                "id": 3123,
+                "name": "Zaglebie Lubin"
               },
               "away": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
+                "id": 4715,
+                "name": "Widzew Lodz"
               }
             },
             "status": "pre-match",
@@ -13351,17 +14403,97 @@
             }
           },
           {
-            "id": 967363,
+            "id": 967515,
+            "date": "31/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3123,
+                "name": "Zaglebie Lubin"
+              },
+              "away": {
+                "id": 2967,
+                "name": "GKS Katowice"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 967516,
+            "date": "31/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3179,
+                "name": "Wisla Plock"
+              },
+              "away": {
+                "id": 3173,
+                "name": "Rakow Czestochowa"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961394,
             "date": "07/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3183,
-                "name": "Pogon Szczecin"
+                "id": 3173,
+                "name": "Rakow Czestochowa"
               },
               "away": {
-                "id": 4713,
-                "name": "Nieciecza"
+                "id": 2964,
+                "name": "Radomiak Radom"
               }
             },
             "status": "pre-match",
@@ -13471,57 +14603,17 @@
             }
           },
           {
-            "id": 961394,
+            "id": 967363,
             "date": "07/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
+                "id": 3183,
+                "name": "Pogon Szczecin"
               },
               "away": {
-                "id": 2964,
-                "name": "Radomiak Radom"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967364,
-            "date": "14/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
                 "id": 4713,
                 "name": "Nieciecza"
-              },
-              "away": {
-                "id": 3185,
-                "name": "Gornik Zabrze"
               }
             },
             "status": "pre-match",
@@ -13562,6 +14654,46 @@
               "away": {
                 "id": 3173,
                 "name": "Rakow Czestochowa"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 967364,
+            "date": "14/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4713,
+                "name": "Nieciecza"
+              },
+              "away": {
+                "id": 3185,
+                "name": "Gornik Zabrze"
               }
             },
             "status": "pre-match",
@@ -13711,6 +14843,46 @@
             }
           },
           {
+            "id": 967523,
+            "date": "28/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2956,
+                "name": "Lech Poznan"
+              },
+              "away": {
+                "id": 3173,
+                "name": "Rakow Czestochowa"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 967524,
             "date": "28/02/2026",
             "time": "15:00",
@@ -13791,46 +14963,6 @@
             }
           },
           {
-            "id": 967523,
-            "date": "28/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2956,
-                "name": "Lech Poznan"
-              },
-              "away": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 967525,
             "date": "28/02/2026",
             "time": "15:00",
@@ -13842,126 +14974,6 @@
               "away": {
                 "id": 3179,
                 "name": "Wisla Plock"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961396,
-            "date": "07/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
-              },
-              "away": {
-                "id": 3183,
-                "name": "Pogon Szczecin"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967366,
-            "date": "07/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3186,
-                "name": "Korona Kielce"
-              },
-              "away": {
-                "id": 4713,
-                "name": "Nieciecza"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967527,
-            "date": "07/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4710,
-                "name": "Piast Gliwice"
-              },
-              "away": {
-                "id": 3123,
-                "name": "Zaglebie Lubin"
               }
             },
             "status": "pre-match",
@@ -14031,17 +15043,17 @@
             }
           },
           {
-            "id": 967529,
-            "date": "14/03/2026",
+            "id": 961396,
+            "date": "07/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3185,
-                "name": "Gornik Zabrze"
-              },
-              "away": {
                 "id": 3173,
                 "name": "Rakow Czestochowa"
+              },
+              "away": {
+                "id": 3183,
+                "name": "Pogon Szczecin"
               }
             },
             "status": "pre-match",
@@ -14071,17 +15083,57 @@
             }
           },
           {
-            "id": 967367,
-            "date": "14/03/2026",
+            "id": 967527,
+            "date": "07/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4713,
-                "name": "Nieciecza"
+                "id": 4710,
+                "name": "Piast Gliwice"
               },
               "away": {
-                "id": 3190,
-                "name": "Motor Lublin"
+                "id": 3123,
+                "name": "Zaglebie Lubin"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 967366,
+            "date": "07/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3186,
+                "name": "Korona Kielce"
+              },
+              "away": {
+                "id": 4713,
+                "name": "Nieciecza"
               }
             },
             "status": "pre-match",
@@ -14151,57 +15203,17 @@
             }
           },
           {
-            "id": 967532,
-            "date": "21/03/2026",
+            "id": 967367,
+            "date": "14/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3190,
-                "name": "Motor Lublin"
-              },
-              "away": {
-                "id": 3123,
-                "name": "Zaglebie Lubin"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967368,
-            "date": "21/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2956,
-                "name": "Lech Poznan"
-              },
-              "away": {
                 "id": 4713,
                 "name": "Nieciecza"
+              },
+              "away": {
+                "id": 3190,
+                "name": "Motor Lublin"
               }
             },
             "status": "pre-match",
@@ -14231,13 +15243,13 @@
             }
           },
           {
-            "id": 967530,
-            "date": "21/03/2026",
+            "id": 967529,
+            "date": "14/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2899,
-                "name": "Legia Warsaw"
+                "id": 3185,
+                "name": "Gornik Zabrze"
               },
               "away": {
                 "id": 3173,
@@ -14311,17 +15323,17 @@
             }
           },
           {
-            "id": 967369,
-            "date": "04/04/2026",
+            "id": 967530,
+            "date": "21/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4713,
-                "name": "Nieciecza"
+                "id": 2899,
+                "name": "Legia Warsaw"
               },
               "away": {
-                "id": 4710,
-                "name": "Piast Gliwice"
+                "id": 3173,
+                "name": "Rakow Czestochowa"
               }
             },
             "status": "pre-match",
@@ -14351,17 +15363,97 @@
             }
           },
           {
-            "id": 967533,
-            "date": "04/04/2026",
+            "id": 967532,
+            "date": "21/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3185,
-                "name": "Gornik Zabrze"
+                "id": 3190,
+                "name": "Motor Lublin"
               },
               "away": {
-                "id": 3176,
-                "name": "Cracovia"
+                "id": 3123,
+                "name": "Zaglebie Lubin"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 969946,
+            "date": "21/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3500,
+                "name": "Jagiellonia Bialystok"
+              },
+              "away": {
+                "id": 3179,
+                "name": "Wisla Plock"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 967368,
+            "date": "21/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2956,
+                "name": "Lech Poznan"
+              },
+              "away": {
+                "id": 4713,
+                "name": "Nieciecza"
               }
             },
             "status": "pre-match",
@@ -14431,6 +15523,86 @@
             }
           },
           {
+            "id": 967533,
+            "date": "04/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3185,
+                "name": "Gornik Zabrze"
+              },
+              "away": {
+                "id": 3176,
+                "name": "Cracovia"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 967369,
+            "date": "04/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4713,
+                "name": "Nieciecza"
+              },
+              "away": {
+                "id": 4710,
+                "name": "Piast Gliwice"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 961397,
             "date": "04/04/2026",
             "time": "15:00",
@@ -14442,86 +15614,6 @@
               "away": {
                 "id": 4715,
                 "name": "Widzew Lodz"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967536,
-            "date": "11/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3190,
-                "name": "Motor Lublin"
-              },
-              "away": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967537,
-            "date": "11/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3123,
-                "name": "Zaglebie Lubin"
-              },
-              "away": {
-                "id": 2964,
-                "name": "Radomiak Radom"
               }
             },
             "status": "pre-match",
@@ -14631,17 +15723,57 @@
             }
           },
           {
-            "id": 961398,
-            "date": "18/04/2026",
+            "id": 967537,
+            "date": "11/04/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
+                "id": 3123,
+                "name": "Zaglebie Lubin"
               },
               "away": {
-                "id": 3176,
-                "name": "Cracovia"
+                "id": 2964,
+                "name": "Radomiak Radom"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 967536,
+            "date": "11/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3190,
+                "name": "Motor Lublin"
+              },
+              "away": {
+                "id": 3173,
+                "name": "Rakow Czestochowa"
               }
             },
             "status": "pre-match",
@@ -14711,6 +15843,46 @@
             }
           },
           {
+            "id": 967539,
+            "date": "18/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3185,
+                "name": "Gornik Zabrze"
+              },
+              "away": {
+                "id": 3186,
+                "name": "Korona Kielce"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 967538,
             "date": "18/04/2026",
             "time": "15:00",
@@ -14751,17 +15923,17 @@
             }
           },
           {
-            "id": 967539,
+            "id": 961398,
             "date": "18/04/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3185,
-                "name": "Gornik Zabrze"
+                "id": 3173,
+                "name": "Rakow Czestochowa"
               },
               "away": {
-                "id": 3186,
-                "name": "Korona Kielce"
+                "id": 3176,
+                "name": "Cracovia"
               }
             },
             "status": "pre-match",
@@ -14831,17 +16003,17 @@
             }
           },
           {
-            "id": 967540,
+            "id": 967372,
             "date": "25/04/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3180,
-                "name": "Lechia Gdansk"
+                "id": 3123,
+                "name": "Zaglebie Lubin"
               },
               "away": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
+                "id": 4713,
+                "name": "Nieciecza"
               }
             },
             "status": "pre-match",
@@ -14871,17 +16043,17 @@
             }
           },
           {
-            "id": 967372,
+            "id": 967540,
             "date": "25/04/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3123,
-                "name": "Zaglebie Lubin"
+                "id": 3180,
+                "name": "Lechia Gdansk"
               },
               "away": {
-                "id": 4713,
-                "name": "Nieciecza"
+                "id": 3173,
+                "name": "Rakow Czestochowa"
               }
             },
             "status": "pre-match",
@@ -14951,17 +16123,17 @@
             }
           },
           {
-            "id": 967373,
+            "id": 961399,
             "date": "02/05/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2967,
-                "name": "GKS Katowice"
+                "id": 3173,
+                "name": "Rakow Czestochowa"
               },
               "away": {
-                "id": 4713,
-                "name": "Nieciecza"
+                "id": 3500,
+                "name": "Jagiellonia Bialystok"
               }
             },
             "status": "pre-match",
@@ -15031,17 +16203,17 @@
             }
           },
           {
-            "id": 961399,
+            "id": 967373,
             "date": "02/05/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
+                "id": 2967,
+                "name": "GKS Katowice"
               },
               "away": {
-                "id": 3500,
-                "name": "Jagiellonia Bialystok"
+                "id": 4713,
+                "name": "Nieciecza"
               }
             },
             "status": "pre-match",
@@ -15271,46 +16443,6 @@
             }
           },
           {
-            "id": 967547,
-            "date": "16/05/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3179,
-                "name": "Wisla Plock"
-              },
-              "away": {
-                "id": 3185,
-                "name": "Gornik Zabrze"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 967375,
             "date": "16/05/2026",
             "time": "15:00",
@@ -15351,17 +16483,17 @@
             }
           },
           {
-            "id": 967549,
-            "date": "23/05/2026",
+            "id": 967547,
+            "date": "16/05/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3185,
-                "name": "Gornik Zabrze"
+                "id": 3179,
+                "name": "Wisla Plock"
               },
               "away": {
-                "id": 2964,
-                "name": "Radomiak Radom"
+                "id": 3185,
+                "name": "Gornik Zabrze"
               }
             },
             "status": "pre-match",
@@ -15431,17 +16563,17 @@
             }
           },
           {
-            "id": 967376,
+            "id": 961401,
             "date": "23/05/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4713,
-                "name": "Nieciecza"
+                "id": 3173,
+                "name": "Rakow Czestochowa"
               },
               "away": {
-                "id": 3180,
-                "name": "Lechia Gdansk"
+                "id": 4709,
+                "name": "Arka Gdynia"
               }
             },
             "status": "pre-match",
@@ -15471,17 +16603,57 @@
             }
           },
           {
-            "id": 961401,
+            "id": 967549,
             "date": "23/05/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
+                "id": 3185,
+                "name": "Gornik Zabrze"
               },
               "away": {
-                "id": 4709,
-                "name": "Arka Gdynia"
+                "id": 2964,
+                "name": "Radomiak Radom"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 967376,
+            "date": "23/05/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4713,
+                "name": "Nieciecza"
+              },
+              "away": {
+                "id": 3180,
+                "name": "Lechia Gdansk"
               }
             },
             "status": "pre-match",

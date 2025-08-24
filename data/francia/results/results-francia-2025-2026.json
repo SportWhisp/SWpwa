@@ -6,7 +6,7 @@
     "count": 306,
     "first": "2025-08-15",
     "last": "2026-05-16",
-    "played": 9
+    "played": 13
   },
   "competition": {
     "id": 2015,
@@ -34,7 +34,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542414,
@@ -43,7 +43,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 529,
         "name": "Stade Rennais FC 1901",
@@ -100,7 +100,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542411,
@@ -109,7 +109,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 546,
         "name": "Racing Club de Lens",
@@ -166,7 +166,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542407,
@@ -175,7 +175,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 548,
         "name": "AS Monaco FC",
@@ -232,7 +232,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542410,
@@ -241,7 +241,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 522,
         "name": "OGC Nice",
@@ -298,7 +298,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542413,
@@ -307,7 +307,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 512,
         "name": "Stade Brestois 29",
@@ -364,7 +364,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542406,
@@ -373,7 +373,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 519,
         "name": "AJ Auxerre",
@@ -430,7 +430,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542408,
@@ -439,7 +439,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 545,
         "name": "FC Metz",
@@ -496,7 +496,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542412,
@@ -505,7 +505,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 532,
         "name": "Angers SCO",
@@ -562,7 +562,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542409,
@@ -571,7 +571,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 543,
         "name": "FC Nantes",
@@ -628,16 +628,16 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542422,
       "utcDate": "2025-08-22T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -653,21 +653,28 @@
         "crest": "https://crests.football-data.org/532.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 57063,
+          "name": "Hakim Ben El Hadj Salem",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -687,16 +694,16 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542420,
       "utcDate": "2025-08-23T15:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-18T01:32:03Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 516,
         "name": "Olympique de Marseille",
@@ -712,21 +719,28 @@
         "crest": "https://crests.football-data.org/1045.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 64781,
+          "name": "Marc Bollengier",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -746,16 +760,16 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542418,
       "utcDate": "2025-08-23T17:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-18T01:32:03Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 522,
         "name": "OGC Nice",
@@ -771,21 +785,28 @@
         "crest": "https://crests.football-data.org/519.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 1049,
+          "name": "Jeremy Stinat",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -805,16 +826,16 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542419,
       "utcDate": "2025-08-23T19:05:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-18T01:32:03Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 523,
         "name": "Olympique Lyonnais",
@@ -830,21 +851,28 @@
         "crest": "https://crests.football-data.org/545.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 57092,
+          "name": "Eric Wattellier",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -864,7 +892,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542416,
@@ -873,7 +901,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-18T01:32:04Z",
+      "lastUpdated": "2025-08-24T01:32:00Z",
       "homeTeam": {
         "id": 525,
         "name": "FC Lorient",
@@ -923,7 +951,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542415,
@@ -932,7 +960,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-18T01:32:04Z",
+      "lastUpdated": "2025-08-24T01:32:00Z",
       "homeTeam": {
         "id": 533,
         "name": "Le Havre AC",
@@ -982,7 +1010,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542417,
@@ -991,7 +1019,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-18T01:32:04Z",
+      "lastUpdated": "2025-08-24T01:32:00Z",
       "homeTeam": {
         "id": 511,
         "name": "Toulouse FC",
@@ -1041,7 +1069,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542423,
@@ -1050,7 +1078,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-18T01:32:04Z",
+      "lastUpdated": "2025-08-24T01:32:00Z",
       "homeTeam": {
         "id": 576,
         "name": "RC Strasbourg Alsace",
@@ -1100,7 +1128,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542421,
@@ -1109,7 +1137,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-18T01:32:05Z",
+      "lastUpdated": "2025-08-24T01:32:01Z",
       "homeTeam": {
         "id": 521,
         "name": "Lille OSC",
@@ -1159,7 +1187,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542431,
@@ -1168,7 +1196,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-13T08:22:25Z",
+      "lastUpdated": "2025-08-24T01:32:03Z",
       "homeTeam": {
         "id": 546,
         "name": "Racing Club de Lens",
@@ -1218,7 +1246,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542426,
@@ -1227,7 +1255,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-13T08:22:25Z",
+      "lastUpdated": "2025-08-24T01:32:04Z",
       "homeTeam": {
         "id": 525,
         "name": "FC Lorient",
@@ -1277,7 +1305,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542427,
@@ -1286,7 +1314,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-13T08:22:25Z",
+      "lastUpdated": "2025-08-24T01:32:05Z",
       "homeTeam": {
         "id": 543,
         "name": "FC Nantes",
@@ -1336,7 +1364,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542429,
@@ -1345,7 +1373,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T01:32:05Z",
       "homeTeam": {
         "id": 511,
         "name": "Toulouse FC",
@@ -1395,7 +1423,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542432,
@@ -1454,7 +1482,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542424,
@@ -1513,7 +1541,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542425,
@@ -1572,7 +1600,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542428,
@@ -1631,7 +1659,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542430,
@@ -1690,7 +1718,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542433,
@@ -1749,66 +1777,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 542434,
-      "utcDate": "2025-09-14T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 4,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2025-08-13T08:22:25Z",
-      "homeTeam": {
-        "id": 545,
-        "name": "FC Metz",
-        "shortName": "FC Metz",
-        "tla": "FCM",
-        "crest": "https://crests.football-data.org/545.png"
-      },
-      "awayTeam": {
-        "id": 532,
-        "name": "Angers SCO",
-        "shortName": "Angers SCO",
-        "tla": "ANG",
-        "crest": "https://crests.football-data.org/532.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2081,
-        "name": "France",
-        "code": "FRA",
-        "flag": "https://crests.football-data.org/773.svg"
-      },
-      "competition": {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
-      "season": {
-        "id": 2420,
-        "startDate": "2025-08-17",
-        "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542435,
@@ -1867,7 +1836,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542436,
@@ -1926,7 +1895,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542437,
@@ -1985,7 +1954,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542438,
@@ -1994,7 +1963,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -2044,7 +2013,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542439,
@@ -2103,66 +2072,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
-        "winner": null
-      },
-      "id": 542440,
-      "utcDate": "2025-09-14T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 4,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2025-08-13T08:22:25Z",
-      "homeTeam": {
-        "id": 512,
-        "name": "Stade Brestois 29",
-        "shortName": "Brest",
-        "tla": "BRE",
-        "crest": "https://crests.football-data.org/512.png"
-      },
-      "awayTeam": {
-        "id": 1045,
-        "name": "Paris FC",
-        "shortName": "Paris FC",
-        "tla": "PFC",
-        "crest": "https://crests.football-data.org/1045.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2081,
-        "name": "France",
-        "code": "FRA",
-        "flag": "https://crests.football-data.org/773.svg"
-      },
-      "competition": {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
-      "season": {
-        "id": 2420,
-        "startDate": "2025-08-17",
-        "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542441,
@@ -2221,7 +2131,125 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 542434,
+      "utcDate": "2025-09-14T15:15:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2025-08-22T15:20:40Z",
+      "homeTeam": {
+        "id": 545,
+        "name": "FC Metz",
+        "shortName": "FC Metz",
+        "tla": "FCM",
+        "crest": "https://crests.football-data.org/545.png"
+      },
+      "awayTeam": {
+        "id": 532,
+        "name": "Angers SCO",
+        "shortName": "Angers SCO",
+        "tla": "ANG",
+        "crest": "https://crests.football-data.org/532.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/FL1.png"
+      },
+      "season": {
+        "id": 2420,
+        "startDate": "2025-08-17",
+        "endDate": "2026-05-16",
+        "currentMatchday": 2,
+        "winner": null
+      },
+      "id": 542440,
+      "utcDate": "2025-09-14T15:15:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2025-08-22T15:20:40Z",
+      "homeTeam": {
+        "id": 512,
+        "name": "Stade Brestois 29",
+        "shortName": "Brest",
+        "tla": "BRE",
+        "crest": "https://crests.football-data.org/512.png"
+      },
+      "awayTeam": {
+        "id": 1045,
+        "name": "Paris FC",
+        "shortName": "Paris FC",
+        "tla": "PFC",
+        "crest": "https://crests.football-data.org/1045.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
+    },
+    {
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+      },
+      "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/FL1.png"
+      },
+      "season": {
+        "id": 2420,
+        "startDate": "2025-08-17",
+        "endDate": "2026-05-16",
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542442,
@@ -2280,7 +2308,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542443,
@@ -2339,7 +2367,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542444,
@@ -2398,7 +2426,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542445,
@@ -2457,7 +2485,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542446,
@@ -2516,7 +2544,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542447,
@@ -2525,7 +2553,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 516,
         "name": "Olympique de Marseille",
@@ -2575,7 +2603,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542448,
@@ -2634,7 +2662,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542449,
@@ -2693,7 +2721,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542450,
@@ -2752,7 +2780,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542451,
@@ -2811,7 +2839,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542452,
@@ -2870,7 +2898,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542453,
@@ -2929,7 +2957,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542454,
@@ -2988,7 +3016,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542455,
@@ -3047,7 +3075,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542456,
@@ -3056,7 +3084,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -3106,7 +3134,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542457,
@@ -3165,7 +3193,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542458,
@@ -3224,7 +3252,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542459,
@@ -3283,7 +3311,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542464,
@@ -3342,7 +3370,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542465,
@@ -3401,7 +3429,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542466,
@@ -3410,7 +3438,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 521,
         "name": "Lille OSC",
@@ -3460,7 +3488,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542467,
@@ -3519,7 +3547,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542468,
@@ -3578,7 +3606,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542460,
@@ -3637,7 +3665,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542461,
@@ -3696,7 +3724,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542462,
@@ -3755,7 +3783,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542463,
@@ -3814,7 +3842,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542469,
@@ -3873,7 +3901,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542470,
@@ -3932,7 +3960,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542471,
@@ -3991,7 +4019,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542472,
@@ -4050,7 +4078,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542473,
@@ -4109,7 +4137,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542474,
@@ -4118,7 +4146,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -4168,7 +4196,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542475,
@@ -4227,7 +4255,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542476,
@@ -4286,7 +4314,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542477,
@@ -4345,7 +4373,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542478,
@@ -4404,7 +4432,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542479,
@@ -4463,7 +4491,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542480,
@@ -4522,7 +4550,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542481,
@@ -4581,7 +4609,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542482,
@@ -4640,7 +4668,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542483,
@@ -4699,7 +4727,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542484,
@@ -4758,7 +4786,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542485,
@@ -4767,7 +4795,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 512,
         "name": "Stade Brestois 29",
@@ -4817,7 +4845,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542486,
@@ -4876,7 +4904,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542487,
@@ -4935,7 +4963,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542488,
@@ -4944,7 +4972,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 525,
         "name": "FC Lorient",
@@ -4994,7 +5022,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542489,
@@ -5053,7 +5081,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542490,
@@ -5112,7 +5140,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542491,
@@ -5171,7 +5199,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542492,
@@ -5230,7 +5258,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542493,
@@ -5289,7 +5317,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542494,
@@ -5348,7 +5376,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542495,
@@ -5407,7 +5435,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542496,
@@ -5466,7 +5494,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542497,
@@ -5525,7 +5553,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542498,
@@ -5584,7 +5612,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542499,
@@ -5643,7 +5671,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542500,
@@ -5702,7 +5730,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542501,
@@ -5711,7 +5739,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -5761,7 +5789,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542502,
@@ -5820,7 +5848,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542503,
@@ -5879,7 +5907,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542504,
@@ -5938,7 +5966,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542505,
@@ -5997,7 +6025,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542506,
@@ -6056,7 +6084,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542507,
@@ -6115,7 +6143,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542508,
@@ -6174,7 +6202,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542509,
@@ -6233,7 +6261,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542510,
@@ -6242,7 +6270,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 523,
         "name": "Olympique Lyonnais",
@@ -6292,7 +6320,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542511,
@@ -6351,7 +6379,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542512,
@@ -6410,7 +6438,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542513,
@@ -6469,7 +6497,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542514,
@@ -6528,7 +6556,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542515,
@@ -6587,7 +6615,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542516,
@@ -6646,7 +6674,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542517,
@@ -6705,7 +6733,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542518,
@@ -6764,7 +6792,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542519,
@@ -6773,7 +6801,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -6823,7 +6851,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542520,
@@ -6882,7 +6910,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542521,
@@ -6941,7 +6969,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542522,
@@ -7000,7 +7028,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542523,
@@ -7059,7 +7087,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542524,
@@ -7068,7 +7096,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 548,
         "name": "AS Monaco FC",
@@ -7118,7 +7146,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542525,
@@ -7177,7 +7205,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542526,
@@ -7236,7 +7264,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542527,
@@ -7295,7 +7323,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542528,
@@ -7354,7 +7382,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542529,
@@ -7413,7 +7441,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542530,
@@ -7472,7 +7500,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542531,
@@ -7531,7 +7559,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542532,
@@ -7590,7 +7618,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542533,
@@ -7649,7 +7677,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542534,
@@ -7708,7 +7736,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542535,
@@ -7767,7 +7795,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542536,
@@ -7826,7 +7854,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542537,
@@ -7885,7 +7913,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542538,
@@ -7944,7 +7972,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542539,
@@ -7953,7 +7981,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -8003,7 +8031,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542540,
@@ -8062,7 +8090,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542541,
@@ -8121,7 +8149,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542542,
@@ -8130,7 +8158,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 545,
         "name": "FC Metz",
@@ -8180,7 +8208,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542543,
@@ -8239,7 +8267,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542544,
@@ -8298,7 +8326,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542545,
@@ -8357,7 +8385,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542546,
@@ -8416,7 +8444,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542547,
@@ -8475,7 +8503,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542548,
@@ -8534,7 +8562,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542549,
@@ -8593,7 +8621,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542550,
@@ -8652,7 +8680,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542551,
@@ -8711,7 +8739,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542552,
@@ -8770,7 +8798,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542553,
@@ -8829,7 +8857,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542554,
@@ -8888,7 +8916,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542555,
@@ -8947,7 +8975,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542556,
@@ -9006,7 +9034,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542557,
@@ -9015,7 +9043,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -9065,7 +9093,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542558,
@@ -9124,7 +9152,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542559,
@@ -9183,7 +9211,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542560,
@@ -9242,7 +9270,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542561,
@@ -9301,7 +9329,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542562,
@@ -9360,7 +9388,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542563,
@@ -9369,7 +9397,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -9419,7 +9447,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542564,
@@ -9478,7 +9506,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542565,
@@ -9537,7 +9565,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542566,
@@ -9596,7 +9624,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542567,
@@ -9655,7 +9683,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542568,
@@ -9714,7 +9742,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542569,
@@ -9723,7 +9751,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 519,
         "name": "AJ Auxerre",
@@ -9773,7 +9801,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542570,
@@ -9832,7 +9860,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542571,
@@ -9891,7 +9919,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542572,
@@ -9950,7 +9978,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542573,
@@ -10009,7 +10037,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542574,
@@ -10068,7 +10096,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542575,
@@ -10127,7 +10155,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542576,
@@ -10186,7 +10214,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542577,
@@ -10245,7 +10273,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542578,
@@ -10304,7 +10332,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542579,
@@ -10363,7 +10391,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542580,
@@ -10422,7 +10450,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542581,
@@ -10481,7 +10509,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542582,
@@ -10540,7 +10568,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542583,
@@ -10549,7 +10577,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 576,
         "name": "RC Strasbourg Alsace",
@@ -10599,7 +10627,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542584,
@@ -10658,7 +10686,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542585,
@@ -10717,7 +10745,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542586,
@@ -10776,7 +10804,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542587,
@@ -10835,7 +10863,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542588,
@@ -10894,7 +10922,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542589,
@@ -10953,7 +10981,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542590,
@@ -11012,7 +11040,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542591,
@@ -11021,7 +11049,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -11071,7 +11099,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542592,
@@ -11130,7 +11158,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542593,
@@ -11189,7 +11217,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542594,
@@ -11248,7 +11276,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542595,
@@ -11307,7 +11335,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542596,
@@ -11366,7 +11394,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542597,
@@ -11425,7 +11453,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542598,
@@ -11484,7 +11512,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542599,
@@ -11543,7 +11571,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542600,
@@ -11602,7 +11630,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542601,
@@ -11661,7 +11689,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542602,
@@ -11720,7 +11748,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542603,
@@ -11729,7 +11757,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 529,
         "name": "Stade Rennais FC 1901",
@@ -11779,7 +11807,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542604,
@@ -11838,7 +11866,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542605,
@@ -11897,7 +11925,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542606,
@@ -11956,7 +11984,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542607,
@@ -12015,7 +12043,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542608,
@@ -12024,7 +12052,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -12074,7 +12102,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542609,
@@ -12133,7 +12161,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542610,
@@ -12192,7 +12220,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542611,
@@ -12251,7 +12279,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542612,
@@ -12310,7 +12338,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542613,
@@ -12319,7 +12347,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 533,
         "name": "Le Havre AC",
@@ -12369,7 +12397,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542614,
@@ -12428,7 +12456,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542615,
@@ -12487,7 +12515,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542616,
@@ -12546,7 +12574,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542617,
@@ -12605,7 +12633,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542618,
@@ -12664,7 +12692,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542619,
@@ -12723,7 +12751,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542620,
@@ -12782,7 +12810,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542621,
@@ -12841,7 +12869,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542622,
@@ -12900,7 +12928,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542623,
@@ -12959,7 +12987,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542624,
@@ -13018,7 +13046,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542625,
@@ -13077,7 +13105,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542626,
@@ -13136,7 +13164,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542627,
@@ -13195,7 +13223,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542628,
@@ -13204,7 +13232,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -13254,7 +13282,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542629,
@@ -13313,7 +13341,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542630,
@@ -13372,7 +13400,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542631,
@@ -13431,7 +13459,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542632,
@@ -13490,7 +13518,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542633,
@@ -13549,7 +13577,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542634,
@@ -13608,7 +13636,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542635,
@@ -13667,7 +13695,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542636,
@@ -13676,7 +13704,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -13726,7 +13754,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542637,
@@ -13785,7 +13813,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542638,
@@ -13844,7 +13872,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542639,
@@ -13903,7 +13931,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542640,
@@ -13962,7 +13990,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542641,
@@ -14021,7 +14049,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542642,
@@ -14080,7 +14108,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542643,
@@ -14139,7 +14167,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542644,
@@ -14148,7 +14176,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 522,
         "name": "OGC Nice",
@@ -14198,7 +14226,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542645,
@@ -14257,7 +14285,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542646,
@@ -14316,7 +14344,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542647,
@@ -14375,7 +14403,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542648,
@@ -14434,7 +14462,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542649,
@@ -14493,7 +14521,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542650,
@@ -14552,7 +14580,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542651,
@@ -14611,7 +14639,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542652,
@@ -14670,7 +14698,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542653,
@@ -14729,7 +14757,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542654,
@@ -14738,7 +14766,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -14788,7 +14816,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542655,
@@ -14847,7 +14875,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542656,
@@ -14906,7 +14934,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542657,
@@ -14965,7 +14993,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542658,
@@ -15024,7 +15052,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542659,
@@ -15083,7 +15111,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542660,
@@ -15142,7 +15170,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542661,
@@ -15201,7 +15229,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542662,
@@ -15260,7 +15288,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542663,
@@ -15319,7 +15347,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542664,
@@ -15328,7 +15356,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 546,
         "name": "Racing Club de Lens",
@@ -15378,7 +15406,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542665,
@@ -15437,7 +15465,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542666,
@@ -15496,7 +15524,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542667,
@@ -15555,7 +15583,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542668,
@@ -15614,7 +15642,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542669,
@@ -15673,7 +15701,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542670,
@@ -15732,7 +15760,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542671,
@@ -15791,7 +15819,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542672,
@@ -15800,7 +15828,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -15850,7 +15878,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542673,
@@ -15909,7 +15937,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542674,
@@ -15968,7 +15996,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542675,
@@ -16027,7 +16055,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542676,
@@ -16086,7 +16114,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542677,
@@ -16145,7 +16173,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542678,
@@ -16204,7 +16232,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542679,
@@ -16263,7 +16291,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542680,
@@ -16322,7 +16350,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542681,
@@ -16381,7 +16409,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542682,
@@ -16390,7 +16418,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 532,
         "name": "Angers SCO",
@@ -16440,7 +16468,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542683,
@@ -16499,7 +16527,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542684,
@@ -16558,7 +16586,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542685,
@@ -16617,7 +16645,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542686,
@@ -16676,7 +16704,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542687,
@@ -16735,7 +16763,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542688,
@@ -16794,7 +16822,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542689,
@@ -16853,7 +16881,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542690,
@@ -16912,7 +16940,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542691,
@@ -16971,7 +16999,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542692,
@@ -16980,7 +17008,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -17030,7 +17058,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542693,
@@ -17089,7 +17117,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542694,
@@ -17148,7 +17176,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542695,
@@ -17207,7 +17235,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542696,
@@ -17266,7 +17294,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542697,
@@ -17325,7 +17353,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542698,
@@ -17384,7 +17412,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542699,
@@ -17393,7 +17421,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -17443,7 +17471,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542700,
@@ -17502,7 +17530,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542701,
@@ -17561,7 +17589,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542702,
@@ -17620,7 +17648,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542703,
@@ -17679,7 +17707,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542704,
@@ -17738,7 +17766,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542705,
@@ -17747,7 +17775,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-19T00:20:49Z",
+      "lastUpdated": "2025-08-24T00:20:49Z",
       "homeTeam": {
         "id": 1045,
         "name": "Paris FC",
@@ -17797,7 +17825,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542706,
@@ -17856,7 +17884,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542707,
@@ -17915,7 +17943,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542708,
@@ -17974,7 +18002,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542709,
@@ -18033,7 +18061,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542710,
@@ -18092,7 +18120,7 @@
         "id": 2420,
         "startDate": "2025-08-17",
         "endDate": "2026-05-16",
-        "currentMatchday": 1,
+        "currentMatchday": 2,
         "winner": null
       },
       "id": 542711,
