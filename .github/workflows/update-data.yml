@@ -11,10 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    concurrency:
+      group: update-data-main
+      cancel-in-progress: false
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -94,15 +99,21 @@ jobs:
           echo "--- changed files ---"
           git status --porcelain
 
-      - name: Commit JSON changes
+      - name: Commit JSON changes (rebase su origin/main)
         if: ${{ success() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add data
-          if ! git diff --cached --quiet; then
-            git commit -m "update: refresh dati JSON automatico (09:00/09:10 IT)"
-            git push
-          else
+          if git diff --cached --quiet; then
             echo "Nessuna modifica trovata."
+            exit 0
           fi
+
+          git commit -m "update: refresh dati JSON automatico (08:00/09:00 IT)"
+
+          git fetch origin main
+          git rebase origin/main || (echo "Rebase fallito, annullo"; git rebase --abort; exit 1)
+
+          git push origin HEAD:main
