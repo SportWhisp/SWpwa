@@ -297,8 +297,8 @@ export default function Commenti() {
           a qualche inevitabile inciampo.
           Il mercato “Gol” si conferma ancora una volta il terreno di caccia più fertile: spettacolo assicurato in Polonia 
           con il clamoroso 6-2 dello Zaglebie Lubin, mai un attimo di dubbio nel 2-3 tra Viborg e Silkeborg, fino al 2-2 
-          del Paksi che ha rispettato in pieno la previsione. Sono gare che dimostrano come <strong>SportWhisp</strong>  
-          sappia leggere i contesti più vivaci e tradurli in intuizioni vincenti. Naturalmente non sono mancate le note 
+          del Paksi che ha rispettato in pieno la previsione. Sono gare che dimostrano come <strong>SportWhisp</strong> sappia 
+          leggere i contesti più vivaci e tradurli in intuizioni vincenti. Naturalmente non sono mancate le note 
           stonate. Il Nantes non ha mai trovato il coraggio di affondare contro il PSG, e così l’atteso “Gol” è svanito 
           in un 0-1 deciso da un episodio. Stessa sorte per l’Under di Alavés–Levante, beffato da un gol al 92’, e per 
           l’Over di Twente–PSV, partita rimasta sotto controllo degli ospiti. Inciampi? Certo, ma legati a dinamiche ben 
@@ -308,8 +308,8 @@ export default function Commenti() {
           Il Galatasaray ha rispettato in pieno l’esito “1” con un netto 3-0, il Tottenham ha blindato l’Over con una gara 
           a senso unico, e in Premier League Liverpool e Leeds hanno dato spettacolo (in due modi diversi) confermando 
           rispettivamente il “Gol” e l’“Under”.
-          Il quadro complessivo è chiaro: <strong>una settimana di trend fortemente positivi</strong>, in cui  
-          <strong>SportWhisp</strong> ha saputo leggere con lucidità il calcio europeo, tra goleade spettacolari e tatticismi 
+          Il quadro complessivo è chiaro: <strong>una settimana di trend fortemente positivi</strong>, in 
+          cui <strong>SportWhisp</strong> ha saputo leggere con lucidità il calcio europeo, tra goleade spettacolari e tatticismi 
           esasperati. Gli errori, pochi e ben spiegabili, non intaccano l’affidabilità complessiva, anzi ne mettono in risalto 
           la coerenza: non ci sono colpi di fortuna, ma un metodo che regge anche quando l’imprevedibilità del pallone prova a 
           metterci lo zampino.
