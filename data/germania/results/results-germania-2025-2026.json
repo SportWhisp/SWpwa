@@ -6,7 +6,7 @@
     "count": 306,
     "first": "2025-08-22",
     "last": "2026-05-16",
-    "played": 7
+    "played": 9
   },
   "competition": {
     "id": 2002,
@@ -43,7 +43,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -109,7 +109,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 19,
         "name": "Eintracht Frankfurt",
@@ -175,7 +175,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -241,7 +241,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 17,
         "name": "SC Freiburg",
@@ -307,7 +307,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 28,
         "name": "1. FC Union Berlin",
@@ -373,7 +373,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 44,
         "name": "1. FC Heidenheim 1846",
@@ -439,7 +439,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 20,
         "name": "FC St. Pauli 1910",
@@ -501,11 +501,11 @@
       },
       "id": 540410,
       "utcDate": "2025-08-24T13:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T01:32:00Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 15,
         "name": "1. FSV Mainz 05",
@@ -521,21 +521,28 @@
         "crest": "https://crests.football-data.org/1.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 43943,
+          "name": "Tobias Stieler",
+          "type": "REFEREE",
+          "nationality": "Germany"
+        }
+      ]
     },
     {
       "area": {
@@ -560,11 +567,11 @@
       },
       "id": 540411,
       "utcDate": "2025-08-24T15:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T01:32:00Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 18,
         "name": "Borussia Mönchengladbach",
@@ -580,21 +587,28 @@
         "crest": "https://crests.football-data.org/7.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 9567,
+          "name": "Sascha Stegemann",
+          "type": "REFEREE",
+          "nationality": "Germany"
+        }
+      ]
     },
     {
       "area": {
@@ -623,7 +637,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T01:32:03Z",
+      "lastUpdated": "2025-08-25T01:32:02Z",
       "homeTeam": {
         "id": 7,
         "name": "Hamburger SV",
@@ -741,7 +755,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T01:32:03Z",
+      "lastUpdated": "2025-08-25T01:32:03Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -800,7 +814,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T01:32:03Z",
+      "lastUpdated": "2025-08-25T01:32:03Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -918,7 +932,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T01:32:04Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 16,
         "name": "FC Augsburg",
@@ -977,7 +991,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T01:32:05Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -1036,7 +1050,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T01:32:05Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -1095,7 +1109,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-07-10T15:20:53Z",
+      "lastUpdated": "2025-08-25T01:32:06Z",
       "homeTeam": {
         "id": 1,
         "name": "1. FC Köln",
@@ -1154,7 +1168,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -1213,7 +1227,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 17,
         "name": "SC Freiburg",
@@ -1331,7 +1345,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -1449,7 +1463,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 44,
         "name": "1. FC Heidenheim 1846",
@@ -1508,7 +1522,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -1626,7 +1640,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 18,
         "name": "Borussia Mönchengladbach",
@@ -1685,7 +1699,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -1744,7 +1758,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -1862,7 +1876,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 2,
         "name": "TSG 1899 Hoffenheim",
@@ -2098,7 +2112,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -2157,7 +2171,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -2216,7 +2230,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -2275,7 +2289,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 15,
         "name": "1. FSV Mainz 05",
@@ -2334,7 +2348,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -2393,7 +2407,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 20,
         "name": "FC St. Pauli 1910",
@@ -2629,7 +2643,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 1,
         "name": "1. FC Köln",
@@ -2747,7 +2761,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -2806,7 +2820,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 19,
         "name": "Eintracht Frankfurt",
@@ -2865,7 +2879,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -2924,7 +2938,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -2983,7 +2997,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -3101,7 +3115,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 16,
         "name": "FC Augsburg",
@@ -3278,7 +3292,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -3396,7 +3410,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 15,
         "name": "1. FSV Mainz 05",
@@ -3514,7 +3528,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -3691,7 +3705,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 44,
         "name": "1. FC Heidenheim 1846",
@@ -3809,7 +3823,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -3927,7 +3941,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -3986,7 +4000,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -4045,7 +4059,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -4104,7 +4118,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 18,
         "name": "Borussia Mönchengladbach",
@@ -4281,7 +4295,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 7,
         "name": "Hamburger SV",
@@ -4340,7 +4354,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -4399,7 +4413,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 15,
         "name": "1. FSV Mainz 05",
@@ -4458,7 +4472,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 721,
         "name": "RB Leipzig",
@@ -4517,7 +4531,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -4576,7 +4590,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 16,
         "name": "FC Augsburg",
@@ -4871,7 +4885,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -5048,7 +5062,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -5107,7 +5121,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -5225,7 +5239,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 28,
         "name": "1. FC Union Berlin",
@@ -5343,7 +5357,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 7,
         "name": "Hamburger SV",
@@ -5402,7 +5416,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -5461,7 +5475,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -5579,7 +5593,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 721,
         "name": "RB Leipzig",
@@ -5638,7 +5652,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -5933,7 +5947,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -5992,7 +6006,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -6051,7 +6065,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 19,
         "name": "Eintracht Frankfurt",
@@ -6169,7 +6183,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -6405,7 +6419,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 7,
         "name": "Hamburger SV",
@@ -6464,7 +6478,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -6641,7 +6655,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -6700,7 +6714,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -6877,7 +6891,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 7,
         "name": "Hamburger SV",
@@ -6936,7 +6950,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 16,
         "name": "FC Augsburg",
@@ -6995,7 +7009,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -7054,7 +7068,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -7172,7 +7186,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 17,
         "name": "SC Freiburg",
@@ -7231,7 +7245,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -7290,7 +7304,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 18,
         "name": "Borussia Mönchengladbach",
@@ -7526,7 +7540,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -7644,7 +7658,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 721,
         "name": "RB Leipzig",
@@ -7703,7 +7717,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -7762,7 +7776,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -7821,7 +7835,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 16,
         "name": "FC Augsburg",
@@ -7880,7 +7894,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 44,
         "name": "1. FC Heidenheim 1846",
@@ -8057,7 +8071,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -8116,7 +8130,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -8175,7 +8189,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 19,
         "name": "Eintracht Frankfurt",
@@ -8293,7 +8307,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -8588,7 +8602,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -8765,7 +8779,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -8824,7 +8838,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -9001,7 +9015,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 1,
         "name": "1. FC Köln",
@@ -9060,7 +9074,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 7,
         "name": "Hamburger SV",
@@ -9119,7 +9133,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 721,
         "name": "RB Leipzig",
@@ -9178,7 +9192,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -9237,7 +9251,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 2,
         "name": "TSG 1899 Hoffenheim",
@@ -9473,7 +9487,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -9532,7 +9546,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -9591,7 +9605,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -9650,7 +9664,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 28,
         "name": "1. FC Union Berlin",
@@ -9768,7 +9782,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -9827,7 +9841,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 18,
         "name": "Borussia Mönchengladbach",
@@ -9886,7 +9900,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 15,
         "name": "1. FSV Mainz 05",
@@ -9945,7 +9959,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -10181,7 +10195,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 7,
         "name": "Hamburger SV",
@@ -10240,7 +10254,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 19,
         "name": "Eintracht Frankfurt",
@@ -10299,7 +10313,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -10417,7 +10431,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -10476,7 +10490,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 1,
         "name": "1. FC Köln",
@@ -10653,7 +10667,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -10712,7 +10726,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 18,
         "name": "Borussia Mönchengladbach",
@@ -10830,7 +10844,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -10948,7 +10962,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 17,
         "name": "SC Freiburg",
@@ -11007,7 +11021,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 20,
         "name": "FC St. Pauli 1910",
@@ -11125,7 +11139,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -11243,7 +11257,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -11361,7 +11375,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -11479,7 +11493,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 721,
         "name": "RB Leipzig",
@@ -11597,7 +11611,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -11715,7 +11729,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -11774,7 +11788,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 28,
         "name": "1. FC Union Berlin",
@@ -11833,7 +11847,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -11892,7 +11906,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 721,
         "name": "RB Leipzig",
@@ -11951,7 +11965,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 20,
         "name": "FC St. Pauli 1910",
@@ -12010,7 +12024,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 44,
         "name": "1. FC Heidenheim 1846",
@@ -12128,7 +12142,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -12305,7 +12319,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -12423,7 +12437,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -12541,7 +12555,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -12718,7 +12732,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -12836,7 +12850,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 17,
         "name": "SC Freiburg",
@@ -12954,7 +12968,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 1,
         "name": "1. FC Köln",
@@ -13013,7 +13027,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 28,
         "name": "1. FC Union Berlin",
@@ -13072,7 +13086,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 15,
         "name": "1. FSV Mainz 05",
@@ -13131,7 +13145,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -13308,7 +13322,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -13367,7 +13381,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -13426,7 +13440,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -13485,7 +13499,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -13544,7 +13558,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 2,
         "name": "TSG 1899 Hoffenheim",
@@ -13603,7 +13617,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -13898,7 +13912,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 44,
         "name": "1. FC Heidenheim 1846",
@@ -14075,7 +14089,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -14134,7 +14148,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 16,
         "name": "FC Augsburg",
@@ -14252,7 +14266,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -14370,7 +14384,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -14429,7 +14443,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 17,
         "name": "SC Freiburg",
@@ -14488,7 +14502,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -14606,7 +14620,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -14665,7 +14679,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -14960,7 +14974,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 20,
         "name": "FC St. Pauli 1910",
@@ -15019,7 +15033,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -15078,7 +15092,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -15196,7 +15210,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 1,
         "name": "1. FC Köln",
@@ -15432,7 +15446,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -15609,7 +15623,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -15668,7 +15682,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -15727,7 +15741,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 2,
         "name": "TSG 1899 Hoffenheim",
@@ -15904,7 +15918,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -15963,7 +15977,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 28,
         "name": "1. FC Union Berlin",
@@ -16022,7 +16036,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 15,
         "name": "1. FSV Mainz 05",
@@ -16081,7 +16095,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 1,
         "name": "1. FC Köln",
@@ -16199,7 +16213,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -16258,7 +16272,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -16317,7 +16331,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -16553,7 +16567,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 18,
         "name": "Borussia Mönchengladbach",
@@ -16671,7 +16685,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",
@@ -16730,7 +16744,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 2,
         "name": "TSG 1899 Hoffenheim",
@@ -16789,7 +16803,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 17,
         "name": "SC Freiburg",
@@ -16848,7 +16862,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -16907,7 +16921,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -17084,7 +17098,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 11,
         "name": "VfL Wolfsburg",
@@ -17143,7 +17157,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 10,
         "name": "VfB Stuttgart",
@@ -17202,7 +17216,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 4,
         "name": "Borussia Dortmund",
@@ -17320,7 +17334,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 2,
         "name": "TSG 1899 Hoffenheim",
@@ -17615,7 +17629,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 12,
         "name": "SV Werder Bremen",
@@ -17792,7 +17806,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 19,
         "name": "Eintracht Frankfurt",
@@ -17851,7 +17865,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 20,
         "name": "FC St. Pauli 1910",
@@ -18028,7 +18042,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 5,
         "name": "FC Bayern München",
@@ -18087,7 +18101,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T00:20:49Z",
+      "lastUpdated": "2025-08-25T00:20:50Z",
       "homeTeam": {
         "id": 3,
         "name": "Bayer 04 Leverkusen",

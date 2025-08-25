@@ -1084,59 +1084,6 @@
             }
           },
           {
-            "id": 964384,
-            "date": "10/08/2025",
-            "time": "18:30",
-            "teams": {
-              "home": {
-                "id": 3279,
-                "name": "Kayserispor"
-              },
-              "away": {
-                "id": 3069,
-                "name": "Besiktas"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 4.2,
-                "draw": 3.8,
-                "away": 1.75
-              },
-              "over_under": {
-                "total": 2.5,
-                "over": 1.72,
-                "under": 2.1
-              },
-              "handicap": {
-                "market": "+0.75",
-                "home": 1.94,
-                "away": 1.96
-              },
-              "last_modified_timestamp": 1754938874
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 964382,
             "date": "10/08/2025",
             "time": "18:30",
@@ -1454,6 +1401,59 @@
                 "market": "+0.5",
                 "home": 1.83,
                 "away": 2.07
+              },
+              "last_modified_timestamp": 1754938874
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964384,
+            "date": "10/08/2025",
+            "time": "18:30",
+            "teams": {
+              "home": {
+                "id": 3279,
+                "name": "Kayserispor"
+              },
+              "away": {
+                "id": 3069,
+                "name": "Besiktas"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 4.2,
+                "draw": 3.8,
+                "away": 1.75
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.72,
+                "under": 2.1
+              },
+              "handicap": {
+                "market": "+0.75",
+                "home": 1.94,
+                "away": 1.96
               },
               "last_modified_timestamp": 1754938874
             },
@@ -2085,204 +2085,6 @@
             }
           },
           {
-            "id": 964389,
-            "date": "16/08/2025",
-            "time": "18:30",
-            "teams": {
-              "home": {
-                "id": 3346,
-                "name": "Alanyaspor"
-              },
-              "away": {
-                "id": 3028,
-                "name": "Rizespor"
-              }
-            },
-            "status": "finished",
-            "minute": -1,
-            "winner": "draw",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [
-              {
-                "event_type": "yellow_card",
-                "event_minute": "37",
-                "team": "home",
-                "player": {
-                  "id": 69293,
-                  "name": "G. Yalçın"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "62",
-                "team": "home",
-                "player_in": {
-                  "id": 48318,
-                  "name": "E. Karaca"
-                },
-                "player_out": {
-                  "id": 69293,
-                  "name": "G. Yalçın"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "65",
-                "team": "away",
-                "player": {
-                  "id": 264294,
-                  "name": "Deniz Yasar"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "74",
-                "team": "home",
-                "player_in": {
-                  "id": 36546,
-                  "name": "Maestro"
-                },
-                "player_out": {
-                  "id": 34670,
-                  "name": "N. Janvier"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "75",
-                "team": "home",
-                "player_in": {
-                  "id": 270952,
-                  "name": "U. Ogundu"
-                },
-                "player_out": {
-                  "id": 32409,
-                  "name": "A. Sporar"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "80",
-                "team": "away",
-                "player_in": {
-                  "id": 69187,
-                  "name": "V. Mihăilă"
-                },
-                "player_out": {
-                  "id": 84555,
-                  "name": "H. Dervişoğlu"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "87",
-                "team": "away",
-                "player": {
-                  "id": 41621,
-                  "name": "A. Sowe"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "88",
-                "team": "away",
-                "player_in": {
-                  "id": 264294,
-                  "name": "Deniz Yasar"
-                },
-                "player_out": {
-                  "id": 109877,
-                  "name": "C. Højer"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "88",
-                "team": "home",
-                "player_in": {
-                  "id": 196188,
-                  "name": "İ. Kaya"
-                },
-                "player_out": {
-                  "id": 62200,
-                  "name": "Hwang Ui-Jo"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "88",
-                "team": "home",
-                "player_in": {
-                  "id": 87442,
-                  "name": "E. Keskin"
-                },
-                "player_out": {
-                  "id": 41289,
-                  "name": "F. Hadërgjonaj"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "90",
-                "team": "away",
-                "player_in": {
-                  "id": 264294,
-                  "name": "Deniz Yasar"
-                },
-                "player_out": {
-                  "id": 41621,
-                  "name": "A. Sowe"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "90",
-                "team": "away",
-                "player_in": {
-                  "id": 264294,
-                  "name": "Deniz Yasar"
-                },
-                "player_out": {
-                  "id": 26844,
-                  "name": "Q. Laci"
-                }
-              }
-            ],
-            "odds": {
-              "match_winner": {
-                "home": 2.38,
-                "draw": 3.35,
-                "away": 2.81
-              },
-              "over_under": {
-                "total": 2.5,
-                "over": 1.8,
-                "under": 2
-              },
-              "handicap": {
-                "market": "+0.0",
-                "home": 1.77,
-                "away": 2.05
-              },
-              "last_modified_timestamp": 1755376318
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 964388,
             "date": "16/08/2025",
             "time": "18:30",
@@ -2544,6 +2346,204 @@
                 "market": "+0.5",
                 "home": 1.88,
                 "away": 1.95
+              },
+              "last_modified_timestamp": 1755376318
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964389,
+            "date": "16/08/2025",
+            "time": "18:30",
+            "teams": {
+              "home": {
+                "id": 3346,
+                "name": "Alanyaspor"
+              },
+              "away": {
+                "id": 3028,
+                "name": "Rizespor"
+              }
+            },
+            "status": "finished",
+            "minute": -1,
+            "winner": "draw",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "37",
+                "team": "home",
+                "player": {
+                  "id": 69293,
+                  "name": "G. Yalçın"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "62",
+                "team": "home",
+                "player_in": {
+                  "id": 48318,
+                  "name": "E. Karaca"
+                },
+                "player_out": {
+                  "id": 69293,
+                  "name": "G. Yalçın"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "65",
+                "team": "away",
+                "player": {
+                  "id": 264294,
+                  "name": "Deniz Yasar"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "74",
+                "team": "home",
+                "player_in": {
+                  "id": 36546,
+                  "name": "Maestro"
+                },
+                "player_out": {
+                  "id": 34670,
+                  "name": "N. Janvier"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "75",
+                "team": "home",
+                "player_in": {
+                  "id": 270952,
+                  "name": "U. Ogundu"
+                },
+                "player_out": {
+                  "id": 32409,
+                  "name": "A. Sporar"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "80",
+                "team": "away",
+                "player_in": {
+                  "id": 69187,
+                  "name": "V. Mihăilă"
+                },
+                "player_out": {
+                  "id": 84555,
+                  "name": "H. Dervişoğlu"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "87",
+                "team": "away",
+                "player": {
+                  "id": 41621,
+                  "name": "A. Sowe"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "88",
+                "team": "away",
+                "player_in": {
+                  "id": 264294,
+                  "name": "Deniz Yasar"
+                },
+                "player_out": {
+                  "id": 109877,
+                  "name": "C. Højer"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "88",
+                "team": "home",
+                "player_in": {
+                  "id": 196188,
+                  "name": "İ. Kaya"
+                },
+                "player_out": {
+                  "id": 62200,
+                  "name": "Hwang Ui-Jo"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "88",
+                "team": "home",
+                "player_in": {
+                  "id": 87442,
+                  "name": "E. Keskin"
+                },
+                "player_out": {
+                  "id": 41289,
+                  "name": "F. Hadërgjonaj"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "90",
+                "team": "away",
+                "player_in": {
+                  "id": 264294,
+                  "name": "Deniz Yasar"
+                },
+                "player_out": {
+                  "id": 41621,
+                  "name": "A. Sowe"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "90",
+                "team": "away",
+                "player_in": {
+                  "id": 264294,
+                  "name": "Deniz Yasar"
+                },
+                "player_out": {
+                  "id": 26844,
+                  "name": "Q. Laci"
+                }
+              }
+            ],
+            "odds": {
+              "match_winner": {
+                "home": 2.38,
+                "draw": 3.35,
+                "away": 2.81
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.8,
+                "under": 2
+              },
+              "handicap": {
+                "market": "+0.0",
+                "home": 1.77,
+                "away": 2.05
               },
               "last_modified_timestamp": 1755376318
             },
@@ -3006,247 +3006,6 @@
             }
           },
           {
-            "id": 964390,
-            "date": "17/08/2025",
-            "time": "18:30",
-            "teams": {
-              "home": {
-                "id": 3004,
-                "name": "Istanbul Basaksehir"
-              },
-              "away": {
-                "id": 3279,
-                "name": "Kayserispor"
-              }
-            },
-            "status": "finished",
-            "minute": -1,
-            "winner": "draw",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 1,
-              "away_ht_goals": 0,
-              "home_ft_goals": 1,
-              "away_ft_goals": 1,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [
-              {
-                "event_type": "goal",
-                "event_minute": "41",
-                "team": "home",
-                "player": {
-                  "id": 29431,
-                  "name": "I. Brnic"
-                },
-                "assist_player": {
-                  "id": 100125,
-                  "name": "O. Ergün"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "47",
-                "team": "away",
-                "player": {
-                  "id": 47655,
-                  "name": "G. Jung"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "62",
-                "team": "away",
-                "player_in": {
-                  "id": 48042,
-                  "name": "L. Bénes"
-                },
-                "player_out": {
-                  "id": 47655,
-                  "name": "G. Jung"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "62",
-                "team": "away",
-                "player_in": {
-                  "id": 46710,
-                  "name": "R. Civelek"
-                },
-                "player_out": {
-                  "id": 46723,
-                  "name": "Carlos Mané"
-                }
-              },
-              {
-                "event_type": "goal",
-                "event_minute": "69",
-                "team": "away",
-                "player": {
-                  "id": 46739,
-                  "name": "Miguel Cardoso"
-                },
-                "assist_player": {
-                  "id": 66376,
-                  "name": "A. Opoku"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "70",
-                "team": "home",
-                "player_in": {
-                  "id": 79826,
-                  "name": "B. Özdemir"
-                },
-                "player_out": {
-                  "id": 100125,
-                  "name": "O. Ergün"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "70",
-                "team": "home",
-                "player_in": {
-                  "id": 26754,
-                  "name": "Miguel Crespo"
-                },
-                "player_out": {
-                  "id": 48306,
-                  "name": "U. Güneş"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "70",
-                "team": "home",
-                "player_in": {
-                  "id": 65641,
-                  "name": "Ö. Beyaz"
-                },
-                "player_out": {
-                  "id": 26147,
-                  "name": "E. Shomurodov"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "72",
-                "team": "away",
-                "player_in": {
-                  "id": 46731,
-                  "name": "A. Karimi"
-                },
-                "player_out": {
-                  "id": 46717,
-                  "name": "Y. Ackah"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "81",
-                "team": "away",
-                "player_in": {
-                  "id": 27797,
-                  "name": "D. Tokoz"
-                },
-                "player_out": {
-                  "id": 32604,
-                  "name": "Joao Mendes"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "81",
-                "team": "away",
-                "player_in": {
-                  "id": 26810,
-                  "name": "B. Kapacak"
-                },
-                "player_out": {
-                  "id": 66376,
-                  "name": "A. Opoku"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "81",
-                "team": "home",
-                "player_in": {
-                  "id": 52033,
-                  "name": "O. Ba"
-                },
-                "player_out": {
-                  "id": 37749,
-                  "name": "J. Opoku"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "82",
-                "team": "home",
-                "player_in": {
-                  "id": 31840,
-                  "name": "D. Selke"
-                },
-                "player_out": {
-                  "id": 40970,
-                  "name": "Nuno da Costa"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "84",
-                "team": "home",
-                "player": {
-                  "id": 52033,
-                  "name": "O. Ba"
-                }
-              },
-              {
-                "event_type": "goal",
-                "event_minute": "68",
-                "team": "away",
-                "player": {
-                  "id": 46739,
-                  "name": "Miguel Cardoso"
-                },
-                "assist_player": {
-                  "id": 66376,
-                  "name": "A. Opoku"
-                }
-              }
-            ],
-            "odds": {
-              "match_winner": {
-                "home": 1.8,
-                "draw": 3.65,
-                "away": 4.2
-              },
-              "over_under": {
-                "total": 2.5,
-                "over": 1.78,
-                "under": 1.98
-              },
-              "handicap": {
-                "market": -0.5,
-                "home": 1.83,
-                "away": 2.03
-              },
-              "last_modified_timestamp": 1755462732
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 964393,
             "date": "17/08/2025",
             "time": "18:30",
@@ -3491,6 +3250,247 @@
                 "market": -1,
                 "home": 1.83,
                 "away": 2
+              },
+              "last_modified_timestamp": 1755462732
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964390,
+            "date": "17/08/2025",
+            "time": "18:30",
+            "teams": {
+              "home": {
+                "id": 3004,
+                "name": "Istanbul Basaksehir"
+              },
+              "away": {
+                "id": 3279,
+                "name": "Kayserispor"
+              }
+            },
+            "status": "finished",
+            "minute": -1,
+            "winner": "draw",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 1,
+              "away_ht_goals": 0,
+              "home_ft_goals": 1,
+              "away_ft_goals": 1,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "41",
+                "team": "home",
+                "player": {
+                  "id": 29431,
+                  "name": "I. Brnic"
+                },
+                "assist_player": {
+                  "id": 100125,
+                  "name": "O. Ergün"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "47",
+                "team": "away",
+                "player": {
+                  "id": 47655,
+                  "name": "G. Jung"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "62",
+                "team": "away",
+                "player_in": {
+                  "id": 48042,
+                  "name": "L. Bénes"
+                },
+                "player_out": {
+                  "id": 47655,
+                  "name": "G. Jung"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "62",
+                "team": "away",
+                "player_in": {
+                  "id": 46710,
+                  "name": "R. Civelek"
+                },
+                "player_out": {
+                  "id": 46723,
+                  "name": "Carlos Mané"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "69",
+                "team": "away",
+                "player": {
+                  "id": 46739,
+                  "name": "Miguel Cardoso"
+                },
+                "assist_player": {
+                  "id": 66376,
+                  "name": "A. Opoku"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "home",
+                "player_in": {
+                  "id": 79826,
+                  "name": "B. Özdemir"
+                },
+                "player_out": {
+                  "id": 100125,
+                  "name": "O. Ergün"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "home",
+                "player_in": {
+                  "id": 26754,
+                  "name": "Miguel Crespo"
+                },
+                "player_out": {
+                  "id": 48306,
+                  "name": "U. Güneş"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "home",
+                "player_in": {
+                  "id": 65641,
+                  "name": "Ö. Beyaz"
+                },
+                "player_out": {
+                  "id": 26147,
+                  "name": "E. Shomurodov"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "72",
+                "team": "away",
+                "player_in": {
+                  "id": 46731,
+                  "name": "A. Karimi"
+                },
+                "player_out": {
+                  "id": 46717,
+                  "name": "Y. Ackah"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "away",
+                "player_in": {
+                  "id": 27797,
+                  "name": "D. Tokoz"
+                },
+                "player_out": {
+                  "id": 32604,
+                  "name": "Joao Mendes"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "away",
+                "player_in": {
+                  "id": 26810,
+                  "name": "B. Kapacak"
+                },
+                "player_out": {
+                  "id": 66376,
+                  "name": "A. Opoku"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "home",
+                "player_in": {
+                  "id": 52033,
+                  "name": "O. Ba"
+                },
+                "player_out": {
+                  "id": 37749,
+                  "name": "J. Opoku"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "82",
+                "team": "home",
+                "player_in": {
+                  "id": 31840,
+                  "name": "D. Selke"
+                },
+                "player_out": {
+                  "id": 40970,
+                  "name": "Nuno da Costa"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "84",
+                "team": "home",
+                "player": {
+                  "id": 52033,
+                  "name": "O. Ba"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "68",
+                "team": "away",
+                "player": {
+                  "id": 46739,
+                  "name": "Miguel Cardoso"
+                },
+                "assist_player": {
+                  "id": 66376,
+                  "name": "A. Opoku"
+                }
+              }
+            ],
+            "odds": {
+              "match_winner": {
+                "home": 1.8,
+                "draw": 3.65,
+                "away": 4.2
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.78,
+                "under": 1.98
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 1.83,
+                "away": 2.03
               },
               "last_modified_timestamp": 1755462732
             },
@@ -4503,79 +4503,207 @@
                 "name": "Antalyaspor"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "home",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
+              "home_ht_goals": 1,
               "away_ht_goals": 0,
-              "home_ft_goals": 0,
+              "home_ft_goals": 1,
               "away_ft_goals": 0,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "33",
+                "team": "home",
+                "player": {
+                  "id": 27260,
+                  "name": "A. Batagov"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "35",
+                "team": "away",
+                "player": {
+                  "id": 74708,
+                  "name": "S. van de Streek"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "38",
+                "team": "home",
+                "player": {
+                  "id": 82166,
+                  "name": "S. Savić"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 38444,
+                  "name": "B. Mendy"
+                },
+                "player_out": {
+                  "id": 64623,
+                  "name": "T. Jabol-Folcarelli"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "away",
+                "player_in": {
+                  "id": 34820,
+                  "name": "J. Kaluzinski"
+                },
+                "player_out": {
+                  "id": 32406,
+                  "name": "S. Dikmen"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "away",
+                "player_in": {
+                  "id": 46865,
+                  "name": "G. Vural"
+                },
+                "player_out": {
+                  "id": 74708,
+                  "name": "S. van de Streek"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "62",
+                "team": "away",
+                "player_in": {
+                  "id": 54148,
+                  "name": "L. Gianetti"
+                },
+                "player_out": {
+                  "id": 46852,
+                  "name": "V. Sarı"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "71",
+                "team": "home",
+                "player_in": {
+                  "id": 62274,
+                  "name": "O. Tufan"
+                },
+                "player_out": {
+                  "id": 61983,
+                  "name": "K. Olaigbe"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "71",
+                "team": "home",
+                "player_in": {
+                  "id": 27789,
+                  "name": "E. Visca"
+                },
+                "player_out": {
+                  "id": 56479,
+                  "name": "Felipe Augusto"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "75",
+                "team": "away",
+                "player_in": {
+                  "id": 27951,
+                  "name": "P. Yildirim"
+                },
+                "player_out": {
+                  "id": 26884,
+                  "name": "T. Cvancara"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "83",
+                "team": "away",
+                "player_in": {
+                  "id": 46873,
+                  "name": "M. Yılmaz"
+                },
+                "player_out": {
+                  "id": 46816,
+                  "name": "B. Balcı"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "84",
+                "team": "home",
+                "player_in": {
+                  "id": 27741,
+                  "name": "A. Bosluk"
+                },
+                "player_out": {
+                  "id": 45185,
+                  "name": "O. Zubkov"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "88",
+                "team": "away",
+                "player": {
+                  "id": 46873,
+                  "name": "M. Yılmaz"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "90",
+                "team": "home",
+                "player_in": {
+                  "id": 45201,
+                  "name": "D. Sikan"
+                },
+                "player_out": {
+                  "id": 61985,
+                  "name": "P. Onuachu"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 1.57,
-                "draw": 4.1,
-                "away": 5.61
+                "home": 1.5,
+                "draw": 4,
+                "away": 6.47
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.87,
-                "under": 1.94
+                "over": 1.9,
+                "under": 1.93
               },
               "handicap": {
                 "market": -1,
-                "home": 2,
-                "away": 1.85
+                "home": 1.85,
+                "away": 2.02
               },
-              "last_modified_timestamp": 1756027886
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964396,
-            "date": "24/08/2025",
-            "time": "17:00",
-            "teams": {
-              "home": {
-                "id": 2966,
-                "name": "Samsunspor"
-              },
-              "away": {
-                "id": 3013,
-                "name": "Kasimpasa"
-              }
-            },
-            "status": "postponed",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "last_modified_timestamp": 1756058513
             },
             "match_preview": {
               "has_preview": false,
@@ -4628,7 +4756,7 @@
                 "home": 1.91,
                 "away": 1.9
               },
-              "last_modified_timestamp": 1756027886
+              "last_modified_timestamp": 1756125111
             },
             "match_preview": {
               "has_preview": false,
@@ -4681,7 +4809,47 @@
                 "home": 1.93,
                 "away": 1.9
               },
-              "last_modified_timestamp": 1756027886
+              "last_modified_timestamp": 1756125111
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964396,
+            "date": "24/08/2025",
+            "time": "17:00",
+            "teams": {
+              "home": {
+                "id": 2966,
+                "name": "Samsunspor"
+              },
+              "away": {
+                "id": 3013,
+                "name": "Kasimpasa"
+              }
+            },
+            "status": "postponed",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
             },
             "match_preview": {
               "has_preview": false,
@@ -4702,39 +4870,242 @@
                 "name": "Galatasaray"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "away",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
               "home_ht_goals": 0,
-              "away_ht_goals": 0,
+              "away_ht_goals": 1,
               "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "away_ft_goals": 4,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "36",
+                "team": "away",
+                "player": {
+                  "id": 27702,
+                  "name": "E. Elmali"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "45",
+                "team": "home",
+                "player": {
+                  "id": 46739,
+                  "name": "Miguel Cardoso"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "45",
+                "team": "away",
+                "player": {
+                  "id": 47499,
+                  "name": "Gabriel Sara"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "46",
+                "team": "away",
+                "player": {
+                  "id": 27702,
+                  "name": "E. Elmali"
+                },
+                "assist_player": {
+                  "id": 65455,
+                  "name": "L. Sané"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "60",
+                "team": "home",
+                "player_in": {
+                  "id": 44394,
+                  "name": "I. Tuci"
+                },
+                "player_out": {
+                  "id": 66376,
+                  "name": "A. Opoku"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "60",
+                "team": "home",
+                "player_in": {
+                  "id": 46717,
+                  "name": "Y. Ackah"
+                },
+                "player_out": {
+                  "id": 27797,
+                  "name": "D. Tokoz"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "69",
+                "team": "home",
+                "player_in": {
+                  "id": 46731,
+                  "name": "A. Karimi"
+                },
+                "player_out": {
+                  "id": 48042,
+                  "name": "L. Bénes"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "69",
+                "team": "home",
+                "player_in": {
+                  "id": 46723,
+                  "name": "Carlos Mané"
+                },
+                "player_out": {
+                  "id": 46710,
+                  "name": "R. Civelek"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "72",
+                "team": "away",
+                "player_in": {
+                  "id": 84506,
+                  "name": "K. Ayhan"
+                },
+                "player_out": {
+                  "id": 64402,
+                  "name": "I. Jakobs"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "72",
+                "team": "away",
+                "player_in": {
+                  "id": 35413,
+                  "name": "M. Icardi"
+                },
+                "player_out": {
+                  "id": 47499,
+                  "name": "Gabriel Sara"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "76",
+                "team": "home",
+                "player": {
+                  "id": 46741,
+                  "name": "G. Sazdağı"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "77",
+                "team": "away",
+                "player": {
+                  "id": 41318,
+                  "name": "G. Güvenç"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "away",
+                "player_in": {
+                  "id": 84521,
+                  "name": "M. Baltacı"
+                },
+                "player_out": {
+                  "id": 65497,
+                  "name": "R. Sallai"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "away",
+                "player_in": {
+                  "id": 84530,
+                  "name": "N. Zaniolo"
+                },
+                "player_out": {
+                  "id": 84554,
+                  "name": "Y. Akgün"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "85",
+                "team": "away",
+                "player_in": {
+                  "id": 84533,
+                  "name": "B. Kutlu"
+                },
+                "player_out": {
+                  "id": 84539,
+                  "name": "L. Torreira"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "86",
+                "team": "away",
+                "player": {
+                  "id": 40682,
+                  "name": "V. Osimhen"
+                },
+                "assist_player": {
+                  "id": 84530,
+                  "name": "N. Zaniolo"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 65455,
+                  "name": "L. Sané"
+                },
+                "assist_player": {
+                  "id": 84533,
+                  "name": "B. Kutlu"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 6,
-                "draw": 4.99,
-                "away": 1.44
+                "home": 6.5,
+                "draw": 5.1,
+                "away": 1.4
               },
               "over_under": {
                 "total": 3.5,
-                "over": 2.13,
-                "under": 1.71
+                "over": 2.1,
+                "under": 1.73
               },
               "handicap": {
-                "market": "+1.0",
-                "home": 2.12,
-                "away": 1.7
+                "market": "+1.5",
+                "home": 1.78,
+                "away": 2.07
               },
-              "last_modified_timestamp": 1756027887
+              "last_modified_timestamp": 1756067499
             },
             "match_preview": {
               "has_preview": false,
@@ -4773,21 +5144,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.45,
-                "draw": 3.3,
-                "away": 2.78
+                "home": 2.41,
+                "draw": 3.28,
+                "away": 2.88
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.92,
-                "under": 1.88
+                "over": 1.95,
+                "under": 1.86
               },
               "handicap": {
                 "market": "+0.0",
-                "home": 1.8,
-                "away": 2.02
+                "home": 1.76,
+                "away": 2.09
               },
-              "last_modified_timestamp": 1756027887
+              "last_modified_timestamp": 1756125111
             },
             "match_preview": {
               "has_preview": false,
@@ -4826,74 +5197,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.9,
-                "draw": 3.5,
-                "away": 4.1
+                "home": 1.85,
+                "draw": 3.4,
+                "away": 4.2
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.92,
-                "under": 1.88
+                "over": 1.93,
+                "under": 1.89
               },
               "handicap": {
                 "market": -0.5,
-                "home": 1.93,
-                "away": 1.91
+                "home": 1.86,
+                "away": 1.96
               },
-              "last_modified_timestamp": 1756027887
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964411,
-            "date": "30/08/2025",
-            "time": "16:00",
-            "teams": {
-              "home": {
-                "id": 3025,
-                "name": "Kocaelispor"
-              },
-              "away": {
-                "id": 3279,
-                "name": "Kayserispor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 2.35,
-                "draw": 3.64,
-                "away": 2.77
-              },
-              "over_under": {
-                "total": 2.5,
-                "over": 1.81,
-                "under": 1.95
-              },
-              "handicap": {
-                "market": "+0.0",
-                "home": 1.8,
-                "away": 2.04
-              },
-              "last_modified_timestamp": 1756027887
+              "last_modified_timestamp": 1756125111
             },
             "match_preview": {
               "has_preview": false,
@@ -4932,21 +5250,74 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.85,
-                "draw": 4,
-                "away": 3.7
+                "home": 1.67,
+                "draw": 4.33,
+                "away": 4.33
               },
               "over_under": {
-                "total": 2.75,
-                "over": 1.72,
-                "under": 2.17
+                "total": 3,
+                "over": 1.79,
+                "under": 1.97
               },
               "handicap": {
-                "market": -0.75,
-                "home": 2.07,
-                "away": 1.79
+                "market": -1,
+                "home": 2.14,
+                "away": 1.73
               },
-              "last_modified_timestamp": 1756027887
+              "last_modified_timestamp": 1756125111
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964411,
+            "date": "30/08/2025",
+            "time": "16:00",
+            "teams": {
+              "home": {
+                "id": 3025,
+                "name": "Kocaelispor"
+              },
+              "away": {
+                "id": 3279,
+                "name": "Kayserispor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 2.25,
+                "draw": 3.35,
+                "away": 3.1
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.9,
+                "under": 1.9
+              },
+              "handicap": {
+                "market": -0.25,
+                "home": 1.92,
+                "away": 1.86
+              },
+              "last_modified_timestamp": 1756125111
             },
             "match_preview": {
               "has_preview": false,
@@ -4985,21 +5356,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.22,
-                "draw": 7,
-                "away": 9.7
+                "home": 1.25,
+                "draw": 6.32,
+                "away": 9.79
               },
               "over_under": {
                 "total": 3.5,
-                "over": 1.77,
-                "under": 2
+                "over": 1.93,
+                "under": 1.86
               },
               "handicap": {
-                "market": -1.5,
-                "home": 1.7,
-                "away": 2.19
+                "market": -2,
+                "home": 2.1,
+                "away": 1.75
               },
-              "last_modified_timestamp": 1756027887
+              "last_modified_timestamp": 1756125111
             },
             "match_preview": {
               "has_preview": false,
@@ -5038,21 +5409,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.25,
-                "draw": 3.66,
-                "away": 3.76
+                "home": 1.95,
+                "draw": 3.41,
+                "away": 3.74
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.9,
-                "under": 1.86
+                "over": 1.82,
+                "under": 1.98
               },
               "handicap": {
-                "market": -101,
-                "home": -1,
-                "away": -1
+                "market": -0.5,
+                "home": 1.93,
+                "away": 1.92
               },
-              "last_modified_timestamp": 1756027887
+              "last_modified_timestamp": 1756125111
             },
             "match_preview": {
               "has_preview": false,
@@ -5090,9 +5461,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 8.33,
+                "draw": 5,
+                "away": 1.36
+              },
+              "over_under": {
+                "total": 3,
+                "over": 1.98,
+                "under": 1.82
+              },
+              "handicap": {
+                "market": "+1.5",
+                "home": 1.81,
+                "away": 2
+              },
+              "last_modified_timestamp": 1756125111
             },
             "match_preview": {
               "has_preview": false,
@@ -5130,49 +5514,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964408,
-            "date": "31/08/2025",
-            "time": "18:30",
-            "teams": {
-              "home": {
-                "id": 3346,
-                "name": "Alanyaspor"
+              "match_winner": {
+                "home": 2.3,
+                "draw": 3.4,
+                "away": 2.94
               },
-              "away": {
-                "id": 3069,
-                "name": "Besiktas"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "over_under": {
+                "total": 2.5,
+                "over": 1.73,
+                "under": 2.1
+              },
+              "handicap": {
+                "market": -0.25,
+                "home": 2,
+                "away": 1.78
+              },
+              "last_modified_timestamp": 1756125111
             },
             "match_preview": {
               "has_preview": false,
@@ -5210,9 +5567,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 1.77,
+                "draw": 3.65,
+                "away": 4.33
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.88,
+                "under": 1.92
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 1.79,
+                "away": 2.05
+              },
+              "last_modified_timestamp": 1756125111
             },
             "match_preview": {
               "has_preview": false,
@@ -5220,17 +5590,17 @@
             }
           },
           {
-            "id": 964418,
-            "date": "14/09/2025",
-            "time": "15:00",
+            "id": 964408,
+            "date": "31/08/2025",
+            "time": "18:30",
             "teams": {
               "home": {
-                "id": 3069,
-                "name": "Besiktas"
+                "id": 3346,
+                "name": "Alanyaspor"
               },
               "away": {
-                "id": 3004,
-                "name": "Istanbul Basaksehir"
+                "id": 3069,
+                "name": "Besiktas"
               }
             },
             "status": "pre-match",
@@ -5250,9 +5620,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.95,
+                "draw": 3.4,
+                "away": 2.3
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.82,
+                "under": 1.98
+              },
+              "handicap": {
+                "market": "+0.25",
+                "home": 1.8,
+                "away": 2
+              },
+              "last_modified_timestamp": 1756125111
             },
             "match_preview": {
               "has_preview": false,
@@ -5260,17 +5643,17 @@
             }
           },
           {
-            "id": 964420,
+            "id": 964419,
             "date": "14/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3494,
-                "name": "Fenerbahce"
+                "id": 3021,
+                "name": "Fatih Karagumruk"
               },
               "away": {
-                "id": 3022,
-                "name": "Trabzonspor"
+                "id": 3013,
+                "name": "Kasimpasa"
               }
             },
             "status": "pre-match",
@@ -5340,17 +5723,17 @@
             }
           },
           {
-            "id": 964417,
+            "id": 964416,
             "date": "14/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3538,
-                "name": "Konyaspor"
+                "id": 3018,
+                "name": "Gaziantep FK"
               },
               "away": {
-                "id": 3346,
-                "name": "Alanyaspor"
+                "id": 3025,
+                "name": "Kocaelispor"
               }
             },
             "status": "pre-match",
@@ -5380,17 +5763,17 @@
             }
           },
           {
-            "id": 964416,
+            "id": 964417,
             "date": "14/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3018,
-                "name": "Gaziantep FK"
+                "id": 3538,
+                "name": "Konyaspor"
               },
               "away": {
-                "id": 3025,
-                "name": "Kocaelispor"
+                "id": 3346,
+                "name": "Alanyaspor"
               }
             },
             "status": "pre-match",
@@ -5540,97 +5923,17 @@
             }
           },
           {
-            "id": 964419,
+            "id": 964418,
             "date": "14/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3021,
-                "name": "Fatih Karagumruk"
-              },
-              "away": {
-                "id": 3013,
-                "name": "Kasimpasa"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964427,
-            "date": "21/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3025,
-                "name": "Kocaelispor"
-              },
-              "away": {
-                "id": 3028,
-                "name": "Rizespor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964429,
-            "date": "21/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4978,
-                "name": "Goztepe"
-              },
-              "away": {
                 "id": 3069,
                 "name": "Besiktas"
+              },
+              "away": {
+                "id": 3004,
+                "name": "Istanbul Basaksehir"
               }
             },
             "status": "pre-match",
@@ -5660,17 +5963,17 @@
             }
           },
           {
-            "id": 964428,
-            "date": "21/09/2025",
+            "id": 964420,
+            "date": "14/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4976,
-                "name": "Galatasaray"
+                "id": 3494,
+                "name": "Fenerbahce"
               },
               "away": {
-                "id": 3538,
-                "name": "Konyaspor"
+                "id": 3022,
+                "name": "Trabzonspor"
               }
             },
             "status": "pre-match",
@@ -5900,6 +6203,46 @@
             }
           },
           {
+            "id": 964427,
+            "date": "21/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3025,
+                "name": "Kocaelispor"
+              },
+              "away": {
+                "id": 3028,
+                "name": "Rizespor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 964430,
             "date": "21/09/2025",
             "time": "15:00",
@@ -5940,17 +6283,97 @@
             }
           },
           {
-            "id": 964432,
+            "id": 964429,
+            "date": "21/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4978,
+                "name": "Goztepe"
+              },
+              "away": {
+                "id": 3069,
+                "name": "Besiktas"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964428,
+            "date": "21/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4976,
+                "name": "Galatasaray"
+              },
+              "away": {
+                "id": 3538,
+                "name": "Konyaspor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964431,
             "date": "28/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3018,
-                "name": "Gaziantep FK"
+                "id": 3494,
+                "name": "Fenerbahce"
               },
               "away": {
-                "id": 2966,
-                "name": "Samsunspor"
+                "id": 3284,
+                "name": "Antalyaspor"
               }
             },
             "status": "pre-match",
@@ -6180,6 +6603,46 @@
             }
           },
           {
+            "id": 964432,
+            "date": "28/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3018,
+                "name": "Gaziantep FK"
+              },
+              "away": {
+                "id": 2966,
+                "name": "Samsunspor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 964438,
             "date": "28/09/2025",
             "time": "15:00",
@@ -6220,46 +6683,6 @@
             }
           },
           {
-            "id": 964431,
-            "date": "28/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3494,
-                "name": "Fenerbahce"
-              },
-              "away": {
-                "id": 3284,
-                "name": "Antalyaspor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 964439,
             "date": "28/09/2025",
             "time": "15:00",
@@ -6271,46 +6694,6 @@
               "away": {
                 "id": 3004,
                 "name": "Istanbul Basaksehir"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964444,
-            "date": "05/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3021,
-                "name": "Fatih Karagumruk"
-              },
-              "away": {
-                "id": 3018,
-                "name": "Gaziantep FK"
               }
             },
             "status": "pre-match",
@@ -6660,17 +7043,17 @@
             }
           },
           {
-            "id": 964453,
-            "date": "19/10/2025",
+            "id": 964444,
+            "date": "05/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3069,
-                "name": "Besiktas"
+                "id": 3021,
+                "name": "Fatih Karagumruk"
               },
               "away": {
-                "id": 3009,
-                "name": "Genclerbirligi"
+                "id": 3018,
+                "name": "Gaziantep FK"
               }
             },
             "status": "pre-match",
@@ -6700,17 +7083,17 @@
             }
           },
           {
-            "id": 964454,
+            "id": 964453,
             "date": "19/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3279,
-                "name": "Kayserispor"
+                "id": 3069,
+                "name": "Besiktas"
               },
               "away": {
-                "id": 2966,
-                "name": "Samsunspor"
+                "id": 3009,
+                "name": "Genclerbirligi"
               }
             },
             "status": "pre-match",
@@ -6860,6 +7243,46 @@
             }
           },
           {
+            "id": 964452,
+            "date": "19/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3023,
+                "name": "Eyupspor"
+              },
+              "away": {
+                "id": 3013,
+                "name": "Kasimpasa"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 964451,
             "date": "19/10/2025",
             "time": "15:00",
@@ -6980,17 +7403,17 @@
             }
           },
           {
-            "id": 964452,
+            "id": 964454,
             "date": "19/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3023,
-                "name": "Eyupspor"
+                "id": 3279,
+                "name": "Kayserispor"
               },
               "away": {
-                "id": 3013,
-                "name": "Kasimpasa"
+                "id": 2966,
+                "name": "Samsunspor"
               }
             },
             "status": "pre-match",
@@ -7380,17 +7803,17 @@
             }
           },
           {
-            "id": 964471,
+            "id": 964472,
             "date": "02/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3023,
-                "name": "Eyupspor"
+                "id": 4978,
+                "name": "Goztepe"
               },
               "away": {
-                "id": 3284,
-                "name": "Antalyaspor"
+                "id": 3009,
+                "name": "Genclerbirligi"
               }
             },
             "status": "pre-match",
@@ -7580,17 +8003,17 @@
             }
           },
           {
-            "id": 964472,
+            "id": 964471,
             "date": "02/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4978,
-                "name": "Goztepe"
+                "id": 3023,
+                "name": "Eyupspor"
               },
               "away": {
-                "id": 3009,
-                "name": "Genclerbirligi"
+                "id": 3284,
+                "name": "Antalyaspor"
               }
             },
             "status": "pre-match",
@@ -7711,46 +8134,6 @@
               "away": {
                 "id": 3021,
                 "name": "Fatih Karagumruk"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964480,
-            "date": "09/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3018,
-                "name": "Gaziantep FK"
-              },
-              "away": {
-                "id": 3028,
-                "name": "Rizespor"
               }
             },
             "status": "pre-match",
@@ -8100,6 +8483,86 @@
             }
           },
           {
+            "id": 964480,
+            "date": "09/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3018,
+                "name": "Gaziantep FK"
+              },
+              "away": {
+                "id": 3028,
+                "name": "Rizespor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964492,
+            "date": "23/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3346,
+                "name": "Alanyaspor"
+              },
+              "away": {
+                "id": 3013,
+                "name": "Kasimpasa"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 964493,
             "date": "23/11/2025",
             "time": "15:00",
@@ -8191,86 +8654,6 @@
               "away": {
                 "id": 3022,
                 "name": "Trabzonspor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964489,
-            "date": "23/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3279,
-                "name": "Kayserispor"
-              },
-              "away": {
-                "id": 3018,
-                "name": "Gaziantep FK"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964492,
-            "date": "23/11/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3346,
-                "name": "Alanyaspor"
-              },
-              "away": {
-                "id": 3013,
-                "name": "Kasimpasa"
               }
             },
             "status": "pre-match",
@@ -8460,17 +8843,57 @@
             }
           },
           {
-            "id": 964496,
+            "id": 964489,
+            "date": "23/11/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3279,
+                "name": "Kayserispor"
+              },
+              "away": {
+                "id": 3018,
+                "name": "Gaziantep FK"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964497,
             "date": "30/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3018,
-                "name": "Gaziantep FK"
+                "id": 3013,
+                "name": "Kasimpasa"
               },
               "away": {
-                "id": 3023,
-                "name": "Eyupspor"
+                "id": 3004,
+                "name": "Istanbul Basaksehir"
               }
             },
             "status": "pre-match",
@@ -8580,17 +9003,17 @@
             }
           },
           {
-            "id": 964497,
+            "id": 964496,
             "date": "30/11/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3013,
-                "name": "Kasimpasa"
+                "id": 3018,
+                "name": "Gaziantep FK"
               },
               "away": {
-                "id": 3004,
-                "name": "Istanbul Basaksehir"
+                "id": 3023,
+                "name": "Eyupspor"
               }
             },
             "status": "pre-match",
@@ -8791,46 +9214,6 @@
               "away": {
                 "id": 3009,
                 "name": "Genclerbirligi"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964507,
-            "date": "07/12/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3069,
-                "name": "Besiktas"
-              },
-              "away": {
-                "id": 3018,
-                "name": "Gaziantep FK"
               }
             },
             "status": "pre-match",
@@ -9180,17 +9563,17 @@
             }
           },
           {
-            "id": 964516,
-            "date": "14/12/2025",
+            "id": 964507,
+            "date": "07/12/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3279,
-                "name": "Kayserispor"
+                "id": 3069,
+                "name": "Besiktas"
               },
               "away": {
-                "id": 3346,
-                "name": "Alanyaspor"
+                "id": 3018,
+                "name": "Gaziantep FK"
               }
             },
             "status": "pre-match",
@@ -9351,6 +9734,46 @@
               "away": {
                 "id": 3025,
                 "name": "Kocaelispor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964516,
+            "date": "14/12/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3279,
+                "name": "Kayserispor"
+              },
+              "away": {
+                "id": 3346,
+                "name": "Alanyaspor"
               }
             },
             "status": "pre-match",
@@ -9900,57 +10323,17 @@
             }
           },
           {
-            "id": 964533,
+            "id": 964534,
             "date": "18/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3009,
-                "name": "Genclerbirligi"
+                "id": 4978,
+                "name": "Goztepe"
               },
               "away": {
-                "id": 2966,
-                "name": "Samsunspor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964535,
-            "date": "18/01/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3538,
-                "name": "Konyaspor"
-              },
-              "away": {
-                "id": 3023,
-                "name": "Eyupspor"
+                "id": 3028,
+                "name": "Rizespor"
               }
             },
             "status": "pre-match",
@@ -10220,17 +10603,17 @@
             }
           },
           {
-            "id": 964534,
+            "id": 964533,
             "date": "18/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4978,
-                "name": "Goztepe"
+                "id": 3009,
+                "name": "Genclerbirligi"
               },
               "away": {
-                "id": 3028,
-                "name": "Rizespor"
+                "id": 2966,
+                "name": "Samsunspor"
               }
             },
             "status": "pre-match",
@@ -10260,17 +10643,57 @@
             }
           },
           {
-            "id": 964543,
+            "id": 964535,
+            "date": "18/01/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3538,
+                "name": "Konyaspor"
+              },
+              "away": {
+                "id": 3023,
+                "name": "Eyupspor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964544,
             "date": "25/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3028,
-                "name": "Rizespor"
+                "id": 3021,
+                "name": "Fatih Karagumruk"
               },
               "away": {
-                "id": 3346,
-                "name": "Alanyaspor"
+                "id": 4976,
+                "name": "Galatasaray"
               }
             },
             "status": "pre-match",
@@ -10460,17 +10883,17 @@
             }
           },
           {
-            "id": 964544,
+            "id": 964543,
             "date": "25/01/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3021,
-                "name": "Fatih Karagumruk"
+                "id": 3028,
+                "name": "Rizespor"
               },
               "away": {
-                "id": 4976,
-                "name": "Galatasaray"
+                "id": 3346,
+                "name": "Alanyaspor"
               }
             },
             "status": "pre-match",
@@ -10660,17 +11083,17 @@
             }
           },
           {
-            "id": 964552,
+            "id": 964554,
             "date": "01/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3025,
-                "name": "Kocaelispor"
+                "id": 4976,
+                "name": "Galatasaray"
               },
               "away": {
-                "id": 3494,
-                "name": "Fenerbahce"
+                "id": 3279,
+                "name": "Kayserispor"
               }
             },
             "status": "pre-match",
@@ -10711,46 +11134,6 @@
               "away": {
                 "id": 3028,
                 "name": "Rizespor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964554,
-            "date": "01/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4976,
-                "name": "Galatasaray"
-              },
-              "away": {
-                "id": 3279,
-                "name": "Kayserispor"
               }
             },
             "status": "pre-match",
@@ -10831,6 +11214,46 @@
               "away": {
                 "id": 3538,
                 "name": "Konyaspor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964552,
+            "date": "01/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3025,
+                "name": "Kocaelispor"
+              },
+              "away": {
+                "id": 3494,
+                "name": "Fenerbahce"
               }
             },
             "status": "pre-match",
@@ -10951,46 +11374,6 @@
               "away": {
                 "id": 3018,
                 "name": "Gaziantep FK"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964561,
-            "date": "08/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2966,
-                "name": "Samsunspor"
-              },
-              "away": {
-                "id": 3022,
-                "name": "Trabzonspor"
               }
             },
             "status": "pre-match",
@@ -11340,57 +11723,17 @@
             }
           },
           {
-            "id": 964570,
-            "date": "15/02/2026",
+            "id": 964561,
+            "date": "08/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4978,
-                "name": "Goztepe"
-              },
-              "away": {
-                "id": 3279,
-                "name": "Kayserispor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964571,
-            "date": "15/02/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3284,
-                "name": "Antalyaspor"
-              },
-              "away": {
                 "id": 2966,
                 "name": "Samsunspor"
+              },
+              "away": {
+                "id": 3022,
+                "name": "Trabzonspor"
               }
             },
             "status": "pre-match",
@@ -11431,6 +11774,46 @@
               "away": {
                 "id": 3494,
                 "name": "Fenerbahce"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964571,
+            "date": "15/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3284,
+                "name": "Antalyaspor"
+              },
+              "away": {
+                "id": 2966,
+                "name": "Samsunspor"
               }
             },
             "status": "pre-match",
@@ -11700,17 +12083,17 @@
             }
           },
           {
-            "id": 964579,
-            "date": "22/02/2026",
+            "id": 964570,
+            "date": "15/02/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3069,
-                "name": "Besiktas"
-              },
-              "away": {
                 "id": 4978,
                 "name": "Goztepe"
+              },
+              "away": {
+                "id": 3279,
+                "name": "Kayserispor"
               }
             },
             "status": "pre-match",
@@ -11900,6 +12283,46 @@
             }
           },
           {
+            "id": 964579,
+            "date": "22/02/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3069,
+                "name": "Besiktas"
+              },
+              "away": {
+                "id": 4978,
+                "name": "Goztepe"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 964580,
             "date": "22/02/2026",
             "time": "15:00",
@@ -12060,57 +12483,17 @@
             }
           },
           {
-            "id": 964589,
+            "id": 964592,
             "date": "01/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4978,
-                "name": "Goztepe"
+                "id": 3013,
+                "name": "Kasimpasa"
               },
               "away": {
-                "id": 3023,
-                "name": "Eyupspor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964588,
-            "date": "01/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3004,
-                "name": "Istanbul Basaksehir"
-              },
-              "away": {
-                "id": 3538,
-                "name": "Konyaspor"
+                "id": 3028,
+                "name": "Rizespor"
               }
             },
             "status": "pre-match",
@@ -12220,17 +12603,57 @@
             }
           },
           {
-            "id": 964592,
+            "id": 964589,
             "date": "01/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3013,
-                "name": "Kasimpasa"
+                "id": 4978,
+                "name": "Goztepe"
               },
               "away": {
-                "id": 3028,
-                "name": "Rizespor"
+                "id": 3023,
+                "name": "Eyupspor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964588,
+            "date": "01/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3004,
+                "name": "Istanbul Basaksehir"
+              },
+              "away": {
+                "id": 3538,
+                "name": "Konyaspor"
               }
             },
             "status": "pre-match",
@@ -12420,17 +12843,17 @@
             }
           },
           {
-            "id": 964598,
+            "id": 964601,
             "date": "08/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3018,
-                "name": "Gaziantep FK"
+                "id": 3069,
+                "name": "Besiktas"
               },
               "away": {
-                "id": 3021,
-                "name": "Fatih Karagumruk"
+                "id": 4976,
+                "name": "Galatasaray"
               }
             },
             "status": "pre-match",
@@ -12660,6 +13083,46 @@
             }
           },
           {
+            "id": 964598,
+            "date": "08/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3018,
+                "name": "Gaziantep FK"
+              },
+              "away": {
+                "id": 3021,
+                "name": "Fatih Karagumruk"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 964599,
             "date": "08/03/2026",
             "time": "15:00",
@@ -12740,137 +13203,17 @@
             }
           },
           {
-            "id": 964601,
-            "date": "08/03/2026",
+            "id": 964607,
+            "date": "15/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
+                "id": 3009,
+                "name": "Genclerbirligi"
+              },
+              "away": {
                 "id": 3069,
                 "name": "Besiktas"
-              },
-              "away": {
-                "id": 4976,
-                "name": "Galatasaray"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964602,
-            "date": "15/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2966,
-                "name": "Samsunspor"
-              },
-              "away": {
-                "id": 3279,
-                "name": "Kayserispor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964610,
-            "date": "15/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3022,
-                "name": "Trabzonspor"
-              },
-              "away": {
-                "id": 3028,
-                "name": "Rizespor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964609,
-            "date": "15/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3013,
-                "name": "Kasimpasa"
-              },
-              "away": {
-                "id": 3023,
-                "name": "Eyupspor"
               }
             },
             "status": "pre-match",
@@ -12940,17 +13283,17 @@
             }
           },
           {
-            "id": 964607,
+            "id": 964609,
             "date": "15/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3009,
-                "name": "Genclerbirligi"
+                "id": 3013,
+                "name": "Kasimpasa"
               },
               "away": {
-                "id": 3069,
-                "name": "Besiktas"
+                "id": 3023,
+                "name": "Eyupspor"
               }
             },
             "status": "pre-match",
@@ -12980,17 +13323,17 @@
             }
           },
           {
-            "id": 964606,
+            "id": 964610,
             "date": "15/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4978,
-                "name": "Goztepe"
+                "id": 3022,
+                "name": "Trabzonspor"
               },
               "away": {
-                "id": 3346,
-                "name": "Alanyaspor"
+                "id": 3028,
+                "name": "Rizespor"
               }
             },
             "status": "pre-match",
@@ -13020,57 +13363,17 @@
             }
           },
           {
-            "id": 964605,
+            "id": 964602,
             "date": "15/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3021,
-                "name": "Fatih Karagumruk"
+                "id": 2966,
+                "name": "Samsunspor"
               },
               "away": {
-                "id": 3494,
-                "name": "Fenerbahce"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964604,
-            "date": "15/03/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3025,
-                "name": "Kocaelispor"
-              },
-              "away": {
-                "id": 3538,
-                "name": "Konyaspor"
+                "id": 3279,
+                "name": "Kayserispor"
               }
             },
             "status": "pre-match",
@@ -13140,17 +13443,17 @@
             }
           },
           {
-            "id": 964615,
-            "date": "22/03/2026",
+            "id": 964604,
+            "date": "15/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3004,
-                "name": "Istanbul Basaksehir"
+                "id": 3025,
+                "name": "Kocaelispor"
               },
               "away": {
-                "id": 3284,
-                "name": "Antalyaspor"
+                "id": 3538,
+                "name": "Konyaspor"
               }
             },
             "status": "pre-match",
@@ -13180,17 +13483,97 @@
             }
           },
           {
-            "id": 964616,
+            "id": 964605,
+            "date": "15/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3021,
+                "name": "Fatih Karagumruk"
+              },
+              "away": {
+                "id": 3494,
+                "name": "Fenerbahce"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964606,
+            "date": "15/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4978,
+                "name": "Goztepe"
+              },
+              "away": {
+                "id": 3346,
+                "name": "Alanyaspor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964615,
             "date": "22/03/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3028,
-                "name": "Rizespor"
+                "id": 3004,
+                "name": "Istanbul Basaksehir"
               },
               "away": {
-                "id": 2966,
-                "name": "Samsunspor"
+                "id": 3284,
+                "name": "Antalyaspor"
               }
             },
             "status": "pre-match",
@@ -13311,6 +13694,46 @@
               "away": {
                 "id": 3022,
                 "name": "Trabzonspor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964616,
+            "date": "22/03/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3028,
+                "name": "Rizespor"
+              },
+              "away": {
+                "id": 2966,
+                "name": "Samsunspor"
               }
             },
             "status": "pre-match",
@@ -13540,217 +13963,17 @@
             }
           },
           {
-            "id": 964620,
+            "id": 964627,
             "date": "05/04/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3284,
-                "name": "Antalyaspor"
+                "id": 3022,
+                "name": "Trabzonspor"
               },
               "away": {
-                "id": 3023,
-                "name": "Eyupspor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964621,
-            "date": "05/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2966,
-                "name": "Samsunspor"
-              },
-              "away": {
-                "id": 3538,
-                "name": "Konyaspor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964622,
-            "date": "05/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3009,
-                "name": "Genclerbirligi"
-              },
-              "away": {
-                "id": 4978,
-                "name": "Goztepe"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964623,
-            "date": "05/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3021,
-                "name": "Fatih Karagumruk"
-              },
-              "away": {
-                "id": 3028,
-                "name": "Rizespor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964624,
-            "date": "05/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3013,
-                "name": "Kasimpasa"
-              },
-              "away": {
-                "id": 3279,
-                "name": "Kayserispor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964625,
-            "date": "05/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3025,
-                "name": "Kocaelispor"
-              },
-              "away": {
-                "id": 3004,
-                "name": "Istanbul Basaksehir"
+                "id": 4976,
+                "name": "Galatasaray"
               }
             },
             "status": "pre-match",
@@ -13820,17 +14043,377 @@
             }
           },
           {
-            "id": 964627,
+            "id": 964625,
             "date": "05/04/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3022,
-                "name": "Trabzonspor"
+                "id": 3025,
+                "name": "Kocaelispor"
               },
               "away": {
+                "id": 3004,
+                "name": "Istanbul Basaksehir"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964624,
+            "date": "05/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3013,
+                "name": "Kasimpasa"
+              },
+              "away": {
+                "id": 3279,
+                "name": "Kayserispor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964623,
+            "date": "05/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3021,
+                "name": "Fatih Karagumruk"
+              },
+              "away": {
+                "id": 3028,
+                "name": "Rizespor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964622,
+            "date": "05/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3009,
+                "name": "Genclerbirligi"
+              },
+              "away": {
+                "id": 4978,
+                "name": "Goztepe"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964621,
+            "date": "05/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2966,
+                "name": "Samsunspor"
+              },
+              "away": {
+                "id": 3538,
+                "name": "Konyaspor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964620,
+            "date": "05/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3284,
+                "name": "Antalyaspor"
+              },
+              "away": {
+                "id": 3023,
+                "name": "Eyupspor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964629,
+            "date": "12/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3069,
+                "name": "Besiktas"
+              },
+              "away": {
+                "id": 3284,
+                "name": "Antalyaspor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964630,
+            "date": "12/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
                 "id": 4976,
                 "name": "Galatasaray"
+              },
+              "away": {
+                "id": 3025,
+                "name": "Kocaelispor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964631,
+            "date": "12/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3279,
+                "name": "Kayserispor"
+              },
+              "away": {
+                "id": 3494,
+                "name": "Fenerbahce"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964632,
+            "date": "12/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3538,
+                "name": "Konyaspor"
+              },
+              "away": {
+                "id": 3021,
+                "name": "Fatih Karagumruk"
               }
             },
             "status": "pre-match",
@@ -14060,166 +14643,6 @@
             }
           },
           {
-            "id": 964629,
-            "date": "12/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3069,
-                "name": "Besiktas"
-              },
-              "away": {
-                "id": 3284,
-                "name": "Antalyaspor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964630,
-            "date": "12/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4976,
-                "name": "Galatasaray"
-              },
-              "away": {
-                "id": 3025,
-                "name": "Kocaelispor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964631,
-            "date": "12/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3279,
-                "name": "Kayserispor"
-              },
-              "away": {
-                "id": 3494,
-                "name": "Fenerbahce"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964632,
-            "date": "12/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3538,
-                "name": "Konyaspor"
-              },
-              "away": {
-                "id": 3021,
-                "name": "Fatih Karagumruk"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 964643,
             "date": "19/04/2026",
             "time": "15:00",
@@ -14311,46 +14734,6 @@
               "away": {
                 "id": 3028,
                 "name": "Rizespor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964642,
-            "date": "19/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3284,
-                "name": "Antalyaspor"
-              },
-              "away": {
-                "id": 3538,
-                "name": "Konyaspor"
               }
             },
             "status": "pre-match",
@@ -14551,6 +14934,166 @@
               "away": {
                 "id": 3279,
                 "name": "Kayserispor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964642,
+            "date": "19/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3284,
+                "name": "Antalyaspor"
+              },
+              "away": {
+                "id": 3538,
+                "name": "Konyaspor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964655,
+            "date": "26/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3538,
+                "name": "Konyaspor"
+              },
+              "away": {
+                "id": 3022,
+                "name": "Trabzonspor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964652,
+            "date": "26/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3023,
+                "name": "Eyupspor"
+              },
+              "away": {
+                "id": 3018,
+                "name": "Gaziantep FK"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964653,
+            "date": "26/04/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3346,
+                "name": "Alanyaspor"
+              },
+              "away": {
+                "id": 2966,
+                "name": "Samsunspor"
               }
             },
             "status": "pre-match",
@@ -14820,206 +15363,6 @@
             }
           },
           {
-            "id": 964652,
-            "date": "26/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3023,
-                "name": "Eyupspor"
-              },
-              "away": {
-                "id": 3018,
-                "name": "Gaziantep FK"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964653,
-            "date": "26/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3346,
-                "name": "Alanyaspor"
-              },
-              "away": {
-                "id": 2966,
-                "name": "Samsunspor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964655,
-            "date": "26/04/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3538,
-                "name": "Konyaspor"
-              },
-              "away": {
-                "id": 3022,
-                "name": "Trabzonspor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964660,
-            "date": "03/05/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3022,
-                "name": "Trabzonspor"
-              },
-              "away": {
-                "id": 4978,
-                "name": "Goztepe"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964661,
-            "date": "03/05/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3021,
-                "name": "Fatih Karagumruk"
-              },
-              "away": {
-                "id": 3009,
-                "name": "Genclerbirligi"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 964662,
             "date": "03/05/2026",
             "time": "15:00",
@@ -15031,86 +15374,6 @@
               "away": {
                 "id": 3023,
                 "name": "Eyupspor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964663,
-            "date": "03/05/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3013,
-                "name": "Kasimpasa"
-              },
-              "away": {
-                "id": 3025,
-                "name": "Kocaelispor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964664,
-            "date": "03/05/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3018,
-                "name": "Gaziantep FK"
-              },
-              "away": {
-                "id": 3069,
-                "name": "Besiktas"
               }
             },
             "status": "pre-match",
@@ -15300,57 +15563,17 @@
             }
           },
           {
-            "id": 964669,
-            "date": "10/05/2026",
+            "id": 964660,
+            "date": "03/05/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4976,
-                "name": "Galatasaray"
+                "id": 3022,
+                "name": "Trabzonspor"
               },
               "away": {
-                "id": 3284,
-                "name": "Antalyaspor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964670,
-            "date": "10/05/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
                 "id": 4978,
                 "name": "Goztepe"
-              },
-              "away": {
-                "id": 3018,
-                "name": "Gaziantep FK"
               }
             },
             "status": "pre-match",
@@ -15380,17 +15603,177 @@
             }
           },
           {
-            "id": 964671,
+            "id": 964661,
+            "date": "03/05/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3021,
+                "name": "Fatih Karagumruk"
+              },
+              "away": {
+                "id": 3009,
+                "name": "Genclerbirligi"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964663,
+            "date": "03/05/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3013,
+                "name": "Kasimpasa"
+              },
+              "away": {
+                "id": 3025,
+                "name": "Kocaelispor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964664,
+            "date": "03/05/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3018,
+                "name": "Gaziantep FK"
+              },
+              "away": {
+                "id": 3069,
+                "name": "Besiktas"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964665,
             "date": "10/05/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3009,
-                "name": "Genclerbirligi"
+                "id": 3346,
+                "name": "Alanyaspor"
               },
               "away": {
-                "id": 3013,
-                "name": "Kasimpasa"
+                "id": 3279,
+                "name": "Kayserispor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964673,
+            "date": "10/05/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3538,
+                "name": "Konyaspor"
+              },
+              "away": {
+                "id": 3494,
+                "name": "Fenerbahce"
               }
             },
             "status": "pre-match",
@@ -15460,17 +15843,97 @@
             }
           },
           {
-            "id": 964673,
+            "id": 964671,
             "date": "10/05/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3538,
-                "name": "Konyaspor"
+                "id": 3009,
+                "name": "Genclerbirligi"
               },
               "away": {
-                "id": 3494,
-                "name": "Fenerbahce"
+                "id": 3013,
+                "name": "Kasimpasa"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964670,
+            "date": "10/05/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4978,
+                "name": "Goztepe"
+              },
+              "away": {
+                "id": 3018,
+                "name": "Gaziantep FK"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964669,
+            "date": "10/05/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4976,
+                "name": "Galatasaray"
+              },
+              "away": {
+                "id": 3284,
+                "name": "Antalyaspor"
               }
             },
             "status": "pre-match",
@@ -15620,97 +16083,17 @@
             }
           },
           {
-            "id": 964665,
-            "date": "10/05/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3346,
-                "name": "Alanyaspor"
-              },
-              "away": {
-                "id": 3279,
-                "name": "Kayserispor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964682,
+            "id": 964679,
             "date": "17/05/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3018,
-                "name": "Gaziantep FK"
+                "id": 3022,
+                "name": "Trabzonspor"
               },
               "away": {
-                "id": 3004,
-                "name": "Istanbul Basaksehir"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964681,
-            "date": "17/05/2026",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3279,
-                "name": "Kayserispor"
-              },
-              "away": {
-                "id": 3538,
-                "name": "Konyaspor"
+                "id": 3009,
+                "name": "Genclerbirligi"
               }
             },
             "status": "pre-match",
@@ -15780,17 +16163,57 @@
             }
           },
           {
-            "id": 964679,
+            "id": 964681,
             "date": "17/05/2026",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3022,
-                "name": "Trabzonspor"
+                "id": 3279,
+                "name": "Kayserispor"
               },
               "away": {
-                "id": 3009,
-                "name": "Genclerbirligi"
+                "id": 3538,
+                "name": "Konyaspor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964682,
+            "date": "17/05/2026",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3018,
+                "name": "Gaziantep FK"
+              },
+              "away": {
+                "id": 3004,
+                "name": "Istanbul Basaksehir"
               }
             },
             "status": "pre-match",
