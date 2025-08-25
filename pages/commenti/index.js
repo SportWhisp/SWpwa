@@ -209,8 +209,45 @@ export default function Commenti() {
           <br />
           Whisp pienamente riuscito: il “Gol” si conferma nel 4-1 dell’Oțelul, gara vivace e ricca di reti che non lascia spazio a 
           dubbi sulla previsione.
-        </p>        
+        </p>      
 
+        <h2>Rendicontazione settimanale (22–24 agosto 2025)</h2>
+        <p>
+          Un lungo weekend di calcio e di <strong>WHISP</strong> che ha regalato emozioni, conferme e qualche brivido. 
+          Il bilancio è ancora una volta positivo: 19 partite analizzate, 14 centrate. Numeri che ribadiscono la 
+          solidità del nostro metodo, capace di leggere i contesti e trasformarli in intuizioni vincenti.
+          <br />
+          Il 22 agosto è stato un avvio da incorniciare: tre su tre, con Bayern Monaco devastante nel 6-0 al Lipsia 
+          che ha spazzato via ogni dubbio sull’Over, PSG che pur con qualche sofferenza (e un rigore sbagliato) ha fatto 
+          valere la legge del Parco dei Principi, e il Rapid che ha confermato l’“esito 2” su un campo insidioso. Una 
+          partenza perfetta, segno di una lettura limpida dei match.
+          <br />
+          Il giorno seguente si è trasformato in un vero e proprio <strong>festival dei gol</strong>: il Barcellona 
+          rimonta il Levante e vince all’ultimo respiro, il PSV e l’Eintracht travolgono gli avversari regalando Over 
+          senza esitazioni, e il Marsiglia vince un pirotecnico 5-2 che rende il “Gol” mai in discussione. E poi la perla 
+          del weekend: <strong>Botoșani–Csikszereda</strong>. Mentre tutti i pronostici si rifugiavano 
+          sull’Under, <strong>SportWhisp</strong> ha avuto il coraggio di proporre l’Over 2.5, a quota 2.10. 
+          Il risultato? Un netto 3-1 che ha premiato la scelta più audace e illuminato la settimana.
+
+          Non sono mancati, certo, alcuni inciampi: Universitatea Cluj sterile davanti alla Dinamo, Zulte Waregem 
+          condizionato da un’espulsione, e qualche “Gol” tradito da episodi particolari (rigori sbagliati, finali 
+          contratti). Errori che fanno parte del gioco, ma sempre leggibili e spiegabili, mai casuali.
+          <br />
+          Il 24 agosto ha confermato la forza dei nostri WHISP: Real Madrid vittorioso con autorità a Oviedo, 
+          l’Oțelul scatenato contro il CFR Cluj con un 4-1 che ha certificato il “Gol”. E anche laddove le previsioni 
+          non si sono avverate, come a Strasburgo o San Gallo, i match hanno mostrato dinamiche particolari che aiutano 
+          a migliorare la selezione.
+          <br />
+          Il quadro complessivo parla chiaro: una settimana di tendenza fortemente positiva, con un metodo che continua 
+          a rivelarsi una bussola affidabile nel mare agitato dei pronostici. I WHISP hanno colpito con forza soprattutto 
+          sui mercati Over e Gol, confermando che la lettura del contesto è spesso la chiave per anticipare lo spettacolo 
+          in campo.
+          <br />
+          In definitiva, <strong>SportWhisp.it</strong> ha vissuto un altro weekend da protagonista: certezze, colpi 
+          audaci e solo qualche caduta spiegabile. Se questo è stato il passo di metà agosto, non possiamo che aspettarci 
+          un prosieguo ancora più ricco di spunti, conferme e soddisfazioni.
+        </p>
+             <Banner position="middle" /> 
 
 
         <h2>WHISP PRECEDENTI - periodo 15-18/08/2025</h2>
@@ -332,7 +369,7 @@ export default function Commenti() {
           reti da entrambe le parti e pronostico confermato senza esitazioni.
         </p>
 
-        <h2>Rendicontazione settimanale</h2>
+        <h2>Rendicontazione settimanale (15–18 agosto 2025)</h2>
         <p>
           Un’altra settimana di <strong>WHISP</strong> si chiude con un bilancio da sottolineare: 14 partite analizzate, 
           11 centrate. Numeri che parlano chiaro: l’affidabilità del metodo continua a mostrarsi solida, anche di fronte 
@@ -361,7 +398,8 @@ export default function Commenti() {
         </p>
 
         <h2>Storico WHISP</h2>
-        <h4>WHISP Periodo 15-18/08/2025: 11✅ 3❌</h4>   
+        <h4>WHISP Periodo 15-18/08/2025: 11✅ 3❌</h4>
+        <h4>WHISP Periodo 22-24/08/2025: 14✅ 5❌</h4>    
            
       </section>
       {/* 🔵 FINE COMMENTO SETTIMANALE 🔵 */}
