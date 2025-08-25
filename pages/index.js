@@ -62,9 +62,10 @@ export default function Home({ whispPrincipali, whispMinori }) {
         👉 Questo significa che in questa sezione non troverai mai una lista infinita di partite, 
         ma solo le selezioni più forti secondo i nostri calcoli.
          <br />
-        ⚠️ Attenzione: la percentuale di affidabilità della previsione varia a partire dal giorno successivo allo svolgimento 
-        del match.
-      </p>
+        ⚠️ Attenzione: la percentuale di affidabilità della previsione di un match già disputato potrebbe essere ancora mostrata
+        tra i WHISP, fino a quanto non saranno terminate anche le altre partite del matchday. Tuttavia, tale valore potrebbe variare 
+        in considerazione dei novi dati acquisiti nel frattempo. 
+        </p>
 
       <h2>WHISP PRINCIPALI</h2>
       <p>
