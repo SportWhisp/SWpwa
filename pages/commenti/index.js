@@ -170,7 +170,49 @@ export default function Commenti() {
 
               <Banner position="middle" />        
         
-        
+        <h3>WHISP del 24/08/2025</h3>
+        <h3>❌ RC Strasbourg Alsace vs FC Nantes - GOL 73.25%</h3>
+        <p>
+          Risultato: 1 - 0
+          <br />
+          Whisp mancato: il previsto “Gol” sfuma nell’1-0 dello Strasburgo, con il Nantes troppo sterile in avanti per confermare 
+          la previsione.
+        </p>
+
+        <h3>✅ Real Oviedo vs Real Madrid CF - 2 72.61%</h3>
+        <p>
+          Risultato: 0 - 3
+          <br />
+          Whisp perfetto: il “2” del Real Madrid si concretizza nel netto 0-3, con i blancos padroni del campo e mai in 
+          difficoltà.
+        </p>
+
+        <h3>❌ Fredericia vs Randers - GOL 76.43%</h3>
+        <p>
+          Risultato: 1 - 0
+          <br />
+          Whisp mancato: il “Gol” non arriva, con il Randers incapace di concretizzare le proprie occasioni. Finisce 1-0 e la 
+          previsione sfuma.
+        </p>
+
+        <h3>❌ St.Gallen vs Luzern - GOL 74.54%</h3>
+        <p>
+          Risultato: 0 - 1
+          <br />
+          Whisp sfortunato: il “Gol” salta nello 0-1 del Luzern, complice anche un rigore sbagliato che avrebbe potuto confermare 
+          la previsione.
+        </p>
+
+        <h3>✅ Otelul vs CFR Cluj - GOL 73.97%</h3>
+        <p>
+          Risultato: 4 - 1
+          <br />
+          Whisp pienamente riuscito: il “Gol” si conferma nel 4-1 dell’Oțelul, gara vivace e ricca di reti che non lascia spazio a 
+          dubbi sulla previsione.
+        </p>        
+
+
+
         <h2>WHISP PRECEDENTI - periodo 15-18/08/2025</h2>
 
         <h3>✅ 18/08/2025 Elche CF vs Real Betis Balompié - GOL 79.63%</h3>

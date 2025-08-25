@@ -76,12 +76,36 @@ jobs:
         run: |
           echo ">>> fetchResultOrg"
           for league in italia francia germania spagna inghilterra portogallo olanda; do
+            echo "==> ORG $league"
             curl -fSs "http://localhost:3000/api/fetchResultOrg?league=$league&season=2025-2026"
+            echo
+            sleep 1
           done
 
-          echo ">>> fetchResultSoc"
+          echo ">>> fetchResultSoc (con retry)"
+          retry() {
+            url="$1"
+            tries=0
+            until [ $tries -ge 3 ]
+            do
+              code=$(curl -sS -o /tmp/resp.json -w "%{http_code}" "$url" || echo "000")
+              echo "HTTP $code"
+              cat /tmp/resp.json || true
+              echo
+              if [ "$code" = "200" ]; then
+                return 0
+              fi
+              tries=$((tries+1))
+              echo "Retry $tries tra 8s…"
+              sleep 8
+            done
+            return 1
+          }
+
           for league in turchia austria belgio danimarca grecia polonia romania svizzera ungheria; do
-            curl -fSs "http://localhost:3000/api/fetchResultSoc?league=$league&season=2025-2026"
+            echo "==> SOC $league"
+            retry "http://localhost:3000/api/fetchResultSoc?league=$league&season=2025-2026" || { echo "FAILED SOC $league"; exit 22; }
+            sleep 1
           done
 
       # Mostra sempre gli ultimi log del server (anche se un curl fallisce)
