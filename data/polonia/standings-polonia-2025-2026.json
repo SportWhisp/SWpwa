@@ -49,10 +49,10 @@
           "team_id": 3176,
           "team_name": "Cracovia",
           "position_attribute": "Europaconfleaguequal",
-          "games_played": 5,
-          "points": 10,
+          "games_played": 6,
+          "points": 11,
           "wins": 3,
-          "draws": 1,
+          "draws": 2,
           "losses": 1,
           "goals_for": 11,
           "goals_against": 8
@@ -189,19 +189,6 @@
         },
         {
           "position": 14,
-          "team_id": 4709,
-          "team_name": "Arka Gdynia",
-          "position_attribute": "",
-          "games_played": 5,
-          "points": 5,
-          "wins": 1,
-          "draws": 2,
-          "losses": 2,
-          "goals_for": 4,
-          "goals_against": 7
-        },
-        {
-          "position": 15,
           "team_id": 3190,
           "team_name": "Motor Lublin",
           "position_attribute": "",
@@ -212,6 +199,19 @@
           "losses": 2,
           "goals_for": 5,
           "goals_against": 9
+        },
+        {
+          "position": 15,
+          "team_id": 4709,
+          "team_name": "Arka Gdynia",
+          "position_attribute": "",
+          "games_played": 6,
+          "points": 5,
+          "wins": 1,
+          "draws": 2,
+          "losses": 3,
+          "goals_for": 4,
+          "goals_against": 8
         },
         {
           "position": 16,
@@ -231,10 +231,10 @@
           "team_id": 4710,
           "team_name": "Piast Gliwice",
           "position_attribute": "Relegation",
-          "games_played": 3,
-          "points": 1,
+          "games_played": 4,
+          "points": 2,
           "wins": 0,
-          "draws": 1,
+          "draws": 2,
           "losses": 2,
           "goals_for": 0,
           "goals_against": 3
@@ -244,12 +244,12 @@
           "team_id": 3180,
           "team_name": "Lechia Gdansk",
           "position_attribute": "Relegation",
-          "games_played": 5,
-          "points": -3,
-          "wins": 0,
+          "games_played": 6,
+          "points": 0,
+          "wins": 1,
           "draws": 2,
           "losses": 3,
-          "goals_for": 11,
+          "goals_for": 12,
           "goals_against": 17
         }
       ]
