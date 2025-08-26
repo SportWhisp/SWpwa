@@ -72,6 +72,19 @@
         },
         {
           "position": 5,
+          "team_id": 3495,
+          "team_name": "Levadiakos",
+          "position_attribute": "Europaconfleagueplayoff",
+          "games_played": 1,
+          "points": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 0,
+          "goals_for": 3,
+          "goals_against": 2
+        },
+        {
+          "position": 6,
           "team_id": 3493,
           "team_name": "PAOK",
           "position_attribute": "Europaconfleagueplayoff",
@@ -84,33 +97,7 @@
           "goals_against": 0
         },
         {
-          "position": 6,
-          "team_id": 5065,
-          "team_name": "Kifisia",
-          "position_attribute": "Europaconfleagueplayoff",
-          "games_played": 0,
-          "points": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0
-        },
-        {
           "position": 7,
-          "team_id": 3495,
-          "team_name": "Levadiakos",
-          "position_attribute": "Europaconfleagueplayoff",
-          "games_played": 0,
-          "points": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "goals_for": 0,
-          "goals_against": 0
-        },
-        {
-          "position": 8,
           "team_id": 3524,
           "team_name": "OFI",
           "position_attribute": "Europaconfleagueplayoff",
@@ -123,10 +110,10 @@
           "goals_against": 0
         },
         {
-          "position": 9,
+          "position": 8,
           "team_id": 2822,
           "team_name": "Panathinaikos",
-          "position_attribute": "Relegation Playoff",
+          "position_attribute": "Europaconfleagueplayoff",
           "games_played": 0,
           "points": 0,
           "wins": 0,
@@ -134,6 +121,19 @@
           "losses": 0,
           "goals_for": 0,
           "goals_against": 0
+        },
+        {
+          "position": 9,
+          "team_id": 5065,
+          "team_name": "Kifisia",
+          "position_attribute": "Relegation Playoff",
+          "games_played": 1,
+          "points": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "goals_for": 2,
+          "goals_against": 3
         },
         {
           "position": 10,

@@ -127,16 +127,29 @@
           "team_id": 3591,
           "team_name": "Viborg",
           "position_attribute": "Superliga (Relegation Group: )",
-          "games_played": 5,
+          "games_played": 6,
           "points": 6,
           "wins": 2,
           "draws": 0,
-          "losses": 3,
+          "losses": 4,
           "goals_for": 8,
-          "goals_against": 9
+          "goals_against": 10
         },
         {
           "position": 10,
+          "team_id": 3337,
+          "team_name": "Nordsjaelland",
+          "position_attribute": "Superliga (Relegation Group: )",
+          "games_played": 6,
+          "points": 6,
+          "wins": 2,
+          "draws": 0,
+          "losses": 4,
+          "goals_for": 9,
+          "goals_against": 13
+        },
+        {
+          "position": 11,
           "team_id": 3039,
           "team_name": "Silkeborg",
           "position_attribute": "Superliga (Relegation Group: )",
@@ -149,7 +162,7 @@
           "goals_against": 14
         },
         {
-          "position": 11,
+          "position": 12,
           "team_id": 4085,
           "team_name": "Vejle",
           "position_attribute": "Superliga (Relegation Group: )",
@@ -160,19 +173,6 @@
           "losses": 4,
           "goals_for": 6,
           "goals_against": 8
-        },
-        {
-          "position": 12,
-          "team_id": 3337,
-          "team_name": "Nordsjaelland",
-          "position_attribute": "Superliga (Relegation Group: )",
-          "games_played": 5,
-          "points": 3,
-          "wins": 1,
-          "draws": 0,
-          "losses": 4,
-          "goals_for": 8,
-          "goals_against": 13
         }
       ]
     }

@@ -69,6 +69,25 @@
         {
           "position": 3,
           "team": {
+            "id": 64,
+            "name": "Liverpool FC",
+            "shortName": "Liverpool",
+            "tla": "LIV",
+            "crest": "https://crests.football-data.org/64.png"
+          },
+          "playedGames": 2,
+          "form": "W,W",
+          "won": 2,
+          "draw": 0,
+          "lost": 0,
+          "points": 6,
+          "goalsFor": 7,
+          "goalsAgainst": 4,
+          "goalDifference": 3
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 61,
             "name": "Chelsea FC",
             "shortName": "Chelsea",
@@ -86,7 +105,7 @@
           "goalDifference": 4
         },
         {
-          "position": 4,
+          "position": 5,
           "team": {
             "id": 351,
             "name": "Nottingham Forest FC",
@@ -100,25 +119,6 @@
           "draw": 1,
           "lost": 0,
           "points": 4,
-          "goalsFor": 4,
-          "goalsAgainst": 2,
-          "goalDifference": 2
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 64,
-            "name": "Liverpool FC",
-            "shortName": "Liverpool",
-            "tla": "LIV",
-            "crest": "https://crests.football-data.org/64.png"
-          },
-          "playedGames": 1,
-          "form": "W",
-          "won": 1,
-          "draw": 0,
-          "lost": 0,
-          "points": 3,
           "goalsFor": 4,
           "goalsAgainst": 2,
           "goalDifference": 2
@@ -303,15 +303,15 @@
             "tla": "NEW",
             "crest": "https://crests.football-data.org/67.png"
           },
-          "playedGames": 1,
-          "form": "D",
+          "playedGames": 2,
+          "form": "L,D",
           "won": 0,
           "draw": 1,
-          "lost": 0,
+          "lost": 1,
           "points": 1,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "goalDifference": -1
         },
         {
           "position": 16,
@@ -709,15 +709,15 @@
             "tla": "NEW",
             "crest": "https://crests.football-data.org/67.png"
           },
-          "playedGames": 0,
+          "playedGames": 1,
           "form": "",
           "won": 0,
           "draw": 0,
-          "lost": 0,
+          "lost": 1,
           "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "goalDifference": -1
         },
         {
           "position": 17,
@@ -862,6 +862,25 @@
         {
           "position": 4,
           "team": {
+            "id": 64,
+            "name": "Liverpool FC",
+            "shortName": "Liverpool",
+            "tla": "LIV",
+            "crest": "https://crests.football-data.org/64.png"
+          },
+          "playedGames": 1,
+          "form": "",
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3,
+          "goalsFor": 3,
+          "goalsAgainst": 2,
+          "goalDifference": 1
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 57,
             "name": "Arsenal FC",
             "shortName": "Arsenal",
@@ -879,7 +898,7 @@
           "goalDifference": 1
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 63,
             "name": "Fulham FC",
@@ -898,7 +917,7 @@
           "goalDifference": 0
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 351,
             "name": "Nottingham Forest FC",
@@ -917,7 +936,7 @@
           "goalDifference": 0
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 66,
             "name": "Manchester United FC",
@@ -936,7 +955,7 @@
           "goalDifference": 0
         },
         {
-          "position": 8,
+          "position": 9,
           "team": {
             "id": 67,
             "name": "Newcastle United FC",
@@ -955,7 +974,7 @@
           "goalDifference": 0
         },
         {
-          "position": 9,
+          "position": 10,
           "team": {
             "id": 354,
             "name": "Crystal Palace FC",
@@ -969,25 +988,6 @@
           "draw": 1,
           "lost": 0,
           "points": 1,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 10,
-          "team": {
-            "id": 64,
-            "name": "Liverpool FC",
-            "shortName": "Liverpool",
-            "tla": "LIV",
-            "crest": "https://crests.football-data.org/64.png"
-          },
-          "playedGames": 0,
-          "form": "",
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
           "goalsFor": 0,
           "goalsAgainst": 0,
           "goalDifference": 0

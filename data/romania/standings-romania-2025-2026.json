@@ -114,13 +114,13 @@
           "team_id": 3630,
           "team_name": "FCV Farul Constanta",
           "position_attribute": "Superliga (Relegation Group: )",
-          "games_played": 6,
+          "games_played": 7,
           "points": 10,
           "wins": 3,
           "draws": 1,
-          "losses": 2,
+          "losses": 3,
           "goals_for": 9,
-          "goals_against": 8
+          "goals_against": 9
         },
         {
           "position": 9,
@@ -150,6 +150,19 @@
         },
         {
           "position": 11,
+          "team_id": 3050,
+          "team_name": "Hermannstadt",
+          "position_attribute": "Superliga (Relegation Group: )",
+          "games_played": 7,
+          "points": 7,
+          "wins": 1,
+          "draws": 4,
+          "losses": 2,
+          "goals_for": 7,
+          "goals_against": 8
+        },
+        {
+          "position": 12,
           "team_id": 3522,
           "team_name": "Petrolul 52",
           "position_attribute": "Superliga (Relegation Group: )",
@@ -162,7 +175,7 @@
           "goals_against": 7
         },
         {
-          "position": 12,
+          "position": 13,
           "team_id": 3177,
           "team_name": "FCSB",
           "position_attribute": "Superliga (Relegation Group: )",
@@ -175,7 +188,7 @@
           "goals_against": 12
         },
         {
-          "position": 13,
+          "position": 14,
           "team_id": 3058,
           "team_name": "CFR Cluj",
           "position_attribute": "Superliga (Relegation Group: )",
@@ -186,19 +199,6 @@
           "losses": 3,
           "goals_for": 9,
           "goals_against": 14
-        },
-        {
-          "position": 14,
-          "team_id": 3050,
-          "team_name": "Hermannstadt",
-          "position_attribute": "Superliga (Relegation Group: )",
-          "games_played": 6,
-          "points": 4,
-          "wins": 0,
-          "draws": 4,
-          "losses": 2,
-          "goals_for": 6,
-          "goals_against": 8
         },
         {
           "position": 15,
