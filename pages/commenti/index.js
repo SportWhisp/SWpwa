@@ -398,8 +398,10 @@ export default function Commenti() {
         </p>
 
         <h2>Storico WHISP</h2>
-        <h4>WHISP Periodo 15-18/08/2025: 11✅ 3❌</h4>
-        <h4>WHISP Periodo 22-24/08/2025: 14✅ 5❌</h4>    
+        <ul>
+          <li><strong>WHISP Periodo 15-18/08/2025: 11✅ 3❌</strong></li>
+          <li><strong>WHISP Periodo 22-24/08/2025: 14✅ 5❌</strong></li>
+        </ul>
            
       </section>
       {/* 🔵 FINE COMMENTO SETTIMANALE 🔵 */}
