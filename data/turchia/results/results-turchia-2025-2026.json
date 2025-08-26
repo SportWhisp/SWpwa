@@ -4724,7 +4724,7 @@
                 "name": "Besiktas"
               }
             },
-            "status": "postponed",
+            "status": "pre-match",
             "minute": -1,
             "winner": "tbd",
             "has_extra_time": false,
@@ -4756,7 +4756,7 @@
                 "home": 1.91,
                 "away": 1.9
               },
-              "last_modified_timestamp": 1756125111
+              "last_modified_timestamp": 1756148482
             },
             "match_preview": {
               "has_preview": false,
@@ -4777,7 +4777,7 @@
                 "name": "Istanbul Basaksehir"
               }
             },
-            "status": "postponed",
+            "status": "pre-match",
             "minute": -1,
             "winner": "tbd",
             "has_extra_time": false,
@@ -4809,7 +4809,7 @@
                 "home": 1.93,
                 "away": 1.9
               },
-              "last_modified_timestamp": 1756125111
+              "last_modified_timestamp": 1756148482
             },
             "match_preview": {
               "has_preview": false,
@@ -4830,7 +4830,7 @@
                 "name": "Kasimpasa"
               }
             },
-            "status": "postponed",
+            "status": "pre-match",
             "minute": -1,
             "winner": "tbd",
             "has_extra_time": false,
@@ -5141,24 +5141,245 @@
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "1",
+                "team": "home",
+                "player": {
+                  "id": 28903,
+                  "name": "S. Seslar"
+                },
+                "assist_player": {
+                  "id": 84497,
+                  "name": "Y. Kayan"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "20",
+                "team": "away",
+                "player": {
+                  "id": 27866,
+                  "name": "Nuno Lima"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "22",
+                "team": "home",
+                "player": {
+                  "id": 22068,
+                  "name": "Calegari"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "25",
+                "team": "away",
+                "player": {
+                  "id": 48257,
+                  "name": "F. Aliti"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "31",
+                "team": "away",
+                "player": {
+                  "id": 48255,
+                  "name": "F. Aksoy"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "59",
+                "team": "home",
+                "player_in": {
+                  "id": 27976,
+                  "name": "P. Ampem"
+                },
+                "player_out": {
+                  "id": 31663,
+                  "name": "S. Gurler"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "59",
+                "team": "home",
+                "player_in": {
+                  "id": 41554,
+                  "name": "M. Kabasakal"
+                },
+                "player_out": {
+                  "id": 84497,
+                  "name": "Y. Kayan"
+                }
+              },
+              {
+                "event_type": "penalty_goal",
+                "event_minute": "67",
+                "team": "away",
+                "player": {
+                  "id": 41289,
+                  "name": "F. Hadërgjonaj"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "68",
+                "team": "away",
+                "player_in": {
+                  "id": 35399,
+                  "name": "Bruno Viana"
+                },
+                "player_out": {
+                  "id": 48257,
+                  "name": "F. Aliti"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "68",
+                "team": "away",
+                "player_in": {
+                  "id": 196188,
+                  "name": "İ. Kaya"
+                },
+                "player_out": {
+                  "id": 69293,
+                  "name": "G. Yalçın"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "68",
+                "team": "home",
+                "player": {
+                  "id": 27976,
+                  "name": "P. Ampem"
+                },
+                "assist_player": {
+                  "id": 22068,
+                  "name": "Calegari"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "72",
+                "team": "home",
+                "player": {
+                  "id": 27976,
+                  "name": "P. Ampem"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "home",
+                "player_in": {
+                  "id": 33490,
+                  "name": "E. Akbaba"
+                },
+                "player_out": {
+                  "id": 28903,
+                  "name": "S. Seslar"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "82",
+                "team": "away",
+                "player_in": {
+                  "id": 34670,
+                  "name": "N. Janvier"
+                },
+                "player_out": {
+                  "id": 62200,
+                  "name": "Hwang Ui-Jo"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "82",
+                "team": "away",
+                "player_in": {
+                  "id": 199302,
+                  "name": "I. Celik"
+                },
+                "player_out": {
+                  "id": 48326,
+                  "name": "Y. Özdemir"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "83",
+                "team": "away",
+                "player_in": {
+                  "id": 199302,
+                  "name": "I. Celik"
+                },
+                "player_out": {
+                  "id": 48723,
+                  "name": "G. Makouta"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "88",
+                "team": "home",
+                "player_in": {
+                  "id": 41546,
+                  "name": "T. İlter"
+                },
+                "player_out": {
+                  "id": 65387,
+                  "name": "K. Demirbay"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "88",
+                "team": "home",
+                "player_in": {
+                  "id": 27936,
+                  "name": "U. Bozok"
+                },
+                "player_out": {
+                  "id": 55303,
+                  "name": "D. Drăguş"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "home",
+                "player": {
+                  "id": 27936,
+                  "name": "U. Bozok"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 2.41,
-                "draw": 3.28,
-                "away": 2.88
+                "home": 2.02,
+                "draw": 3.35,
+                "away": 3.6
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.95,
+                "over": 1.94,
                 "under": 1.86
               },
               "handicap": {
-                "market": "+0.0",
-                "home": 1.76,
-                "away": 2.09
+                "market": -0.5,
+                "home": 2.02,
+                "away": 1.86
               },
-              "last_modified_timestamp": 1756125111
+              "last_modified_timestamp": 1756144885
             },
             "match_preview": {
               "has_preview": false,
@@ -5197,74 +5418,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.85,
+                "home": 1.87,
                 "draw": 3.4,
                 "away": 4.2
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.93,
-                "under": 1.89
+                "over": 1.95,
+                "under": 1.85
               },
               "handicap": {
                 "market": -0.5,
-                "home": 1.86,
-                "away": 1.96
+                "home": 1.88,
+                "away": 1.98
               },
-              "last_modified_timestamp": 1756125111
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964407,
-            "date": "30/08/2025",
-            "time": "16:00",
-            "teams": {
-              "home": {
-                "id": 3013,
-                "name": "Kasimpasa"
-              },
-              "away": {
-                "id": 3018,
-                "name": "Gaziantep FK"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 1.67,
-                "draw": 4.33,
-                "away": 4.33
-              },
-              "over_under": {
-                "total": 3,
-                "over": 1.79,
-                "under": 1.97
-              },
-              "handicap": {
-                "market": -1,
-                "home": 2.14,
-                "away": 1.73
-              },
-              "last_modified_timestamp": 1756125111
+              "last_modified_timestamp": 1756193484
             },
             "match_preview": {
               "has_preview": false,
@@ -5303,21 +5471,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.25,
-                "draw": 3.35,
+                "home": 2.2,
+                "draw": 3.4,
                 "away": 3.1
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.9,
+                "over": 1.91,
                 "under": 1.9
               },
               "handicap": {
                 "market": -0.25,
-                "home": 1.92,
-                "away": 1.86
+                "home": 1.9,
+                "away": 1.92
               },
-              "last_modified_timestamp": 1756125111
+              "last_modified_timestamp": 1756193484
             },
             "match_preview": {
               "has_preview": false,
@@ -5325,17 +5493,17 @@
             }
           },
           {
-            "id": 964410,
+            "id": 964407,
             "date": "30/08/2025",
-            "time": "18:30",
+            "time": "16:00",
             "teams": {
               "home": {
-                "id": 4976,
-                "name": "Galatasaray"
+                "id": 3013,
+                "name": "Kasimpasa"
               },
               "away": {
-                "id": 3028,
-                "name": "Rizespor"
+                "id": 3018,
+                "name": "Gaziantep FK"
               }
             },
             "status": "pre-match",
@@ -5356,21 +5524,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.25,
-                "draw": 6.32,
-                "away": 9.79
+                "home": 1.75,
+                "draw": 4.1,
+                "away": 3.9
               },
               "over_under": {
-                "total": 3.5,
-                "over": 1.93,
-                "under": 1.86
+                "total": 3,
+                "over": 1.91,
+                "under": 1.92
               },
               "handicap": {
-                "market": -2,
-                "home": 2.1,
-                "away": 1.75
+                "market": -0.5,
+                "home": 1.8,
+                "away": 2.05
               },
-              "last_modified_timestamp": 1756125111
+              "last_modified_timestamp": 1756193484
             },
             "match_preview": {
               "has_preview": false,
@@ -5410,20 +5578,73 @@
             "odds": {
               "match_winner": {
                 "home": 1.95,
-                "draw": 3.41,
-                "away": 3.74
+                "draw": 3.4,
+                "away": 3.84
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.82,
-                "under": 1.98
+                "over": 1.91,
+                "under": 1.89
               },
               "handicap": {
                 "market": -0.5,
-                "home": 1.93,
-                "away": 1.92
+                "home": 1.95,
+                "away": 1.9
               },
-              "last_modified_timestamp": 1756125111
+              "last_modified_timestamp": 1756193484
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964410,
+            "date": "30/08/2025",
+            "time": "18:30",
+            "teams": {
+              "home": {
+                "id": 4976,
+                "name": "Galatasaray"
+              },
+              "away": {
+                "id": 3028,
+                "name": "Rizespor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 1.24,
+                "draw": 6.2,
+                "away": 10
+              },
+              "over_under": {
+                "total": 3.5,
+                "over": 1.95,
+                "under": 1.86
+              },
+              "handicap": {
+                "market": -2,
+                "home": 2.08,
+                "away": 1.74
+              },
+              "last_modified_timestamp": 1756193484
             },
             "match_preview": {
               "has_preview": false,
@@ -5462,21 +5683,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 8.33,
-                "draw": 5,
-                "away": 1.36
+                "home": 8.5,
+                "draw": 4.95,
+                "away": 1.33
               },
               "over_under": {
                 "total": 3,
-                "over": 1.98,
-                "under": 1.82
+                "over": 2.01,
+                "under": 1.83
               },
               "handicap": {
                 "market": "+1.5",
-                "home": 1.81,
+                "home": 1.84,
                 "away": 2
               },
-              "last_modified_timestamp": 1756125111
+              "last_modified_timestamp": 1756193484
             },
             "match_preview": {
               "has_preview": false,
@@ -5515,21 +5736,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.3,
+                "home": 2.1,
                 "draw": 3.4,
-                "away": 2.94
+                "away": 3.3
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.73,
-                "under": 2.1
+                "over": 1.83,
+                "under": 2
               },
               "handicap": {
-                "market": -0.25,
-                "home": 2,
-                "away": 1.78
+                "market": -0.5,
+                "home": 2.1,
+                "away": 1.77
               },
-              "last_modified_timestamp": 1756125111
+              "last_modified_timestamp": 1756193484
             },
             "match_preview": {
               "has_preview": false,
@@ -5574,15 +5795,15 @@
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.88,
-                "under": 1.92
+                "over": 1.89,
+                "under": 1.93
               },
               "handicap": {
                 "market": -0.5,
-                "home": 1.79,
-                "away": 2.05
+                "home": 1.78,
+                "away": 2.07
               },
-              "last_modified_timestamp": 1756125111
+              "last_modified_timestamp": 1756193484
             },
             "match_preview": {
               "has_preview": false,
@@ -5621,21 +5842,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.95,
-                "draw": 3.4,
-                "away": 2.3
+                "home": 3.3,
+                "draw": 3.58,
+                "away": 2.1
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.82,
-                "under": 1.98
+                "over": 1.75,
+                "under": 2.09
               },
               "handicap": {
-                "market": "+0.25",
-                "home": 1.8,
-                "away": 2
+                "market": "+0.5",
+                "home": 1.78,
+                "away": 2.1
               },
-              "last_modified_timestamp": 1756125111
+              "last_modified_timestamp": 1756193484
             },
             "match_preview": {
               "has_preview": false,

@@ -13296,24 +13296,231 @@
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "substitution",
+                "event_minute": "11",
+                "team": "away",
+                "player_in": {
+                  "id": 171489,
+                  "name": "Diogo Ramalho"
+                },
+                "player_out": {
+                  "id": 51513,
+                  "name": "I. Cojocaru"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "12",
+                "team": "home",
+                "player": {
+                  "id": 131759,
+                  "name": "C. Albu"
+                },
+                "assist_player": {
+                  "id": 42145,
+                  "name": "S. Balaure"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "20",
+                "team": "away",
+                "player": {
+                  "id": 52147,
+                  "name": "I. Larie"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "36",
+                "team": "home",
+                "player": {
+                  "id": 42149,
+                  "name": "C. Neguț"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "away",
+                "player_in": {
+                  "id": 33558,
+                  "name": "Steve Furtado"
+                },
+                "player_out": {
+                  "id": 78118,
+                  "name": "Fabinho"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "47",
+                "team": "home",
+                "player": {
+                  "id": 166245,
+                  "name": "K. Ciubotaru"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "58",
+                "team": "home",
+                "player_in": {
+                  "id": 42143,
+                  "name": "A. Oroian"
+                },
+                "player_out": {
+                  "id": 42149,
+                  "name": "C. Neguț"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "58",
+                "team": "home",
+                "player_in": {
+                  "id": 160394,
+                  "name": "P. Vuc"
+                },
+                "player_out": {
+                  "id": 166245,
+                  "name": "K. Ciubotaru"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "60",
+                "team": "home",
+                "player": {
+                  "id": 81331,
+                  "name": "V. Selimović"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "64",
+                "team": "away",
+                "player_in": {
+                  "id": 29779,
+                  "name": "J. Markovic"
+                },
+                "player_out": {
+                  "id": 79130,
+                  "name": "V. Dican"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "64",
+                "team": "away",
+                "player_in": {
+                  "id": 267847,
+                  "name": "Cristian Sima"
+                },
+                "player_out": {
+                  "id": 30038,
+                  "name": "E. Radaslavescu"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "72",
+                "team": "home",
+                "player_in": {
+                  "id": 27338,
+                  "name": "S. Bus"
+                },
+                "player_out": {
+                  "id": 78988,
+                  "name": "A. Chițu"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "75",
+                "team": "away",
+                "player": {
+                  "id": 78968,
+                  "name": "R. Tănasă"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "76",
+                "team": "away",
+                "player_in": {
+                  "id": 42147,
+                  "name": "G. Iancu"
+                },
+                "player_out": {
+                  "id": 78968,
+                  "name": "R. Tănasă"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "76",
+                "team": "away",
+                "player": {
+                  "id": 27266,
+                  "name": "B. Tiru"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "85",
+                "team": "home",
+                "player_in": {
+                  "id": 42142,
+                  "name": "I. Biceanu"
+                },
+                "player_out": {
+                  "id": 42145,
+                  "name": "S. Balaure"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "85",
+                "team": "home",
+                "player_in": {
+                  "id": 42131,
+                  "name": "F. Bejan"
+                },
+                "player_out": {
+                  "id": 81331,
+                  "name": "V. Selimović"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 29749,
+                  "name": "A. Isfan"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 2.32,
-                "draw": 3.1,
-                "away": 3.18
+                "home": 2.5,
+                "draw": 3,
+                "away": 2.82
               },
               "over_under": {
                 "total": 2.5,
-                "over": 2.1,
-                "under": 1.71
+                "over": 2.12,
+                "under": 1.7
               },
               "handicap": {
-                "market": -0.25,
-                "home": 1.98,
-                "away": 1.82
+                "market": "+0.0",
+                "home": 1.79,
+                "away": 2.06
               },
-              "last_modified_timestamp": 1756125090
+              "last_modified_timestamp": 1756144862
             },
             "match_preview": {
               "has_preview": false,
@@ -13352,21 +13559,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.75,
-                "draw": 3.72,
-                "away": 4.5
+                "home": 1.59,
+                "draw": 4.15,
+                "away": 5
               },
               "over_under": {
-                "total": 2.5,
-                "over": 1.91,
-                "under": 1.89
+                "total": 2.75,
+                "over": 1.82,
+                "under": 1.92
               },
               "handicap": {
-                "market": -0.5,
-                "home": 1.78,
-                "away": 2.1
+                "market": -1,
+                "home": 1.97,
+                "away": 1.83
               },
-              "last_modified_timestamp": 1756125090
+              "last_modified_timestamp": 1756193464
             },
             "match_preview": {
               "has_preview": false,
@@ -13405,7 +13612,7 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 3.58,
+                "home": 3.7,
                 "draw": 3.28,
                 "away": 2.05
               },
@@ -13415,11 +13622,11 @@
                 "under": 1.75
               },
               "handicap": {
-                "market": "+0.25",
-                "home": 1.96,
-                "away": 1.73
+                "market": "+0.5",
+                "home": 1.8,
+                "away": 2.07
               },
-              "last_modified_timestamp": 1756125090
+              "last_modified_timestamp": 1756193464
             },
             "match_preview": {
               "has_preview": false,
@@ -13472,7 +13679,7 @@
                 "home": 2.2,
                 "away": 1.7
               },
-              "last_modified_timestamp": 1756125090
+              "last_modified_timestamp": 1756193464
             },
             "match_preview": {
               "has_preview": false,
@@ -13512,20 +13719,20 @@
             "odds": {
               "match_winner": {
                 "home": 1.78,
-                "draw": 3.7,
-                "away": 6
+                "draw": 3.6,
+                "away": 4.82
               },
               "over_under": {
                 "total": 2.25,
-                "over": 1.83,
-                "under": 1.95
+                "over": 1.9,
+                "under": 1.88
               },
               "handicap": {
                 "market": -0.75,
                 "home": 2.05,
                 "away": 1.8
               },
-              "last_modified_timestamp": 1756125090
+              "last_modified_timestamp": 1756193464
             },
             "match_preview": {
               "has_preview": false,
@@ -13578,7 +13785,7 @@
                 "home": 1.91,
                 "away": 1.77
               },
-              "last_modified_timestamp": 1756125090
+              "last_modified_timestamp": 1756193464
             },
             "match_preview": {
               "has_preview": false,
@@ -13631,7 +13838,7 @@
                 "home": 1.76,
                 "away": 2.01
               },
-              "last_modified_timestamp": 1756125090
+              "last_modified_timestamp": 1756193464
             },
             "match_preview": {
               "has_preview": false,
@@ -13670,9 +13877,9 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 3.54,
-                "draw": 3.28,
-                "away": 2.11
+                "home": 3.48,
+                "draw": 3.22,
+                "away": 2.15
               },
               "over_under": {
                 "total": 2.25,
@@ -13681,10 +13888,10 @@
               },
               "handicap": {
                 "market": "+0.25",
-                "home": 1.94,
-                "away": 1.74
+                "home": 1.9,
+                "away": 1.78
               },
-              "last_modified_timestamp": 1756125090
+              "last_modified_timestamp": 1756193464
             },
             "match_preview": {
               "has_preview": false,
@@ -13737,7 +13944,7 @@
                 "home": 1.83,
                 "away": 1.84
               },
-              "last_modified_timestamp": 1756125091
+              "last_modified_timestamp": 1756193464
             },
             "match_preview": {
               "has_preview": false,

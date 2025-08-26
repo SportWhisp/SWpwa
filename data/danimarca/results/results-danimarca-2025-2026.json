@@ -8876,24 +8876,213 @@
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "4",
+                "team": "home",
+                "player": {
+                  "id": 188065,
+                  "name": "S. Egeli"
+                },
+                "assist_player": {
+                  "id": 26520,
+                  "name": "P. Ankersen"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "40",
+                "team": "home",
+                "player": {
+                  "id": 205567,
+                  "name": "Noah Markmann"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "59",
+                "team": "away",
+                "player_in": {
+                  "id": 39594,
+                  "name": "C. Nouck"
+                },
+                "player_out": {
+                  "id": 32084,
+                  "name": "J. Nielsen"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "64",
+                "team": "home",
+                "player_in": {
+                  "id": 231094,
+                  "name": "Justin Janssen"
+                },
+                "player_out": {
+                  "id": 31716,
+                  "name": "M. Brink"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "64",
+                "team": "home",
+                "player_in": {
+                  "id": 26159,
+                  "name": "O. Solbakken"
+                },
+                "player_out": {
+                  "id": 259912,
+                  "name": "Villum Berthelsen"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "71",
+                "team": "away",
+                "player": {
+                  "id": 229266,
+                  "name": "Hjalte Bidstrup"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "74",
+                "team": "away",
+                "player_in": {
+                  "id": 144313,
+                  "name": "Dorian Hanza"
+                },
+                "player_out": {
+                  "id": 131494,
+                  "name": "T. Freriks"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "74",
+                "team": "away",
+                "player_in": {
+                  "id": 27004,
+                  "name": "S. Kuzmic"
+                },
+                "player_out": {
+                  "id": 229266,
+                  "name": "Hjalte Bidstrup"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "74",
+                "team": "away",
+                "player_in": {
+                  "id": 110059,
+                  "name": "A. Bech"
+                },
+                "player_out": {
+                  "id": 227042,
+                  "name": "S. Jalal"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "78",
+                "team": "home",
+                "player_in": {
+                  "id": 256752,
+                  "name": "Stephen Acquah"
+                },
+                "player_out": {
+                  "id": 48002,
+                  "name": "K. Hansen"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "home",
+                "player_in": {
+                  "id": 48015,
+                  "name": "Z. Sertdemir"
+                },
+                "player_out": {
+                  "id": 267198,
+                  "name": "P. Amoako"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "83",
+                "team": "away",
+                "player_in": {
+                  "id": 74787,
+                  "name": "M. Hoedemakers"
+                },
+                "player_out": {
+                  "id": 26544,
+                  "name": "T. Jorgensen"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "84",
+                "team": "home",
+                "player_in": {
+                  "id": 254932,
+                  "name": "M. Walker"
+                },
+                "player_out": {
+                  "id": 254933,
+                  "name": "J. Lahteenmaki"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "89",
+                "team": "away",
+                "player": {
+                  "id": 32073,
+                  "name": "J. Gronning"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 65511,
+                  "name": "J.  Mbom"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "home",
+                "player": {
+                  "id": 231094,
+                  "name": "Justin Janssen"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 1.95,
-                "draw": 3.8,
-                "away": 3.54
+                "home": 1.88,
+                "draw": 3.88,
+                "away": 3.68
               },
               "over_under": {
                 "total": 3,
-                "over": 1.83,
-                "under": 2.01
+                "over": 1.81,
+                "under": 2.04
               },
               "handicap": {
                 "market": -0.5,
-                "home": 1.95,
-                "away": 1.9
+                "home": 1.89,
+                "away": 1.99
               },
-              "last_modified_timestamp": 1756125098
+              "last_modified_timestamp": 1756148471
             },
             "match_preview": {
               "has_preview": false,
@@ -8932,21 +9121,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.38,
-                "draw": 3.88,
-                "away": 2.7
+                "home": 2.55,
+                "draw": 3.55,
+                "away": 2.6
               },
               "over_under": {
-                "total": 2.75,
-                "over": 1.87,
-                "under": 1.93
+                "total": 2.5,
+                "over": 1.73,
+                "under": 2.1
               },
               "handicap": {
                 "market": "+0.0",
-                "home": 1.78,
-                "away": 2.01
+                "home": 1.88,
+                "away": 1.95
               },
-              "last_modified_timestamp": 1756125098
+              "last_modified_timestamp": 1756193474
             },
             "match_preview": {
               "has_preview": false,
@@ -8985,7 +9174,7 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.84,
+                "home": 1.83,
                 "draw": 3.8,
                 "away": 3.96
               },
@@ -8999,7 +9188,7 @@
                 "home": 1.85,
                 "away": 2
               },
-              "last_modified_timestamp": 1756125098
+              "last_modified_timestamp": 1756193474
             },
             "match_preview": {
               "has_preview": false,
@@ -9052,7 +9241,7 @@
                 "home": 1.77,
                 "away": 2.05
               },
-              "last_modified_timestamp": 1756125098
+              "last_modified_timestamp": 1756193474
             },
             "match_preview": {
               "has_preview": false,
@@ -9091,21 +9280,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.3,
-                "draw": 4.3,
-                "away": 2.62
+                "home": 2.5,
+                "draw": 3.8,
+                "away": 2.5
               },
               "over_under": {
                 "total": 3,
-                "over": 1.83,
-                "under": 2.02
+                "over": 1.87,
+                "under": 1.97
               },
               "handicap": {
                 "market": -0.5,
-                "home": 2.35,
-                "away": 1.83
+                "home": 2.5,
+                "away": 1.57
               },
-              "last_modified_timestamp": 1756125099
+              "last_modified_timestamp": 1756193474
             },
             "match_preview": {
               "has_preview": false,
@@ -9151,14 +9340,14 @@
               "over_under": {
                 "total": 2.5,
                 "over": 1.73,
-                "under": 2.08
+                "under": 2.09
               },
               "handicap": {
                 "market": "+0.5",
                 "home": 2.05,
                 "away": 1.8
               },
-              "last_modified_timestamp": 1756125099
+              "last_modified_timestamp": 1756193474
             },
             "match_preview": {
               "has_preview": false,
@@ -9197,21 +9386,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.3,
+                "home": 2.49,
                 "draw": 3.6,
-                "away": 2.88
+                "away": 2.63
               },
               "over_under": {
                 "total": 3,
-                "over": 1.84,
+                "over": 1.85,
                 "under": 1.96
               },
               "handicap": {
                 "market": "+0.0",
-                "home": 1.68,
-                "away": 2.15
+                "home": 1.85,
+                "away": 1.95
               },
-              "last_modified_timestamp": 1756125099
+              "last_modified_timestamp": 1756193474
             },
             "match_preview": {
               "has_preview": false,

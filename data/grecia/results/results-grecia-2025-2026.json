@@ -785,7 +785,7 @@
                 "home": 2.12,
                 "away": 1.67
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756148459
             },
             "match_preview": {
               "has_preview": false,
@@ -1218,24 +1218,262 @@
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "penalty_goal",
+                "event_minute": "17",
+                "team": "away",
+                "player": {
+                  "id": 272337,
+                  "name": "G. Manalis"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "25",
+                "team": "away",
+                "player": {
+                  "id": 83011,
+                  "name": "Jorge Pombo"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "35",
+                "team": "home",
+                "player": {
+                  "id": 231155,
+                  "name": "H. Layous"
+                },
+                "assist_player": {
+                  "id": 51088,
+                  "name": "T. Tsapras"
+                }
+              },
+              {
+                "event_type": "penalty_goal",
+                "event_minute": "39",
+                "team": "home",
+                "player": {
+                  "id": 47995,
+                  "name": "A. Ožbolt"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "42",
+                "team": "home",
+                "player": {
+                  "id": 32373,
+                  "name": "E. Cokaj"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "45",
+                "team": "home",
+                "player": {
+                  "id": 47995,
+                  "name": "A. Ožbolt"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "away",
+                "player_in": {
+                  "id": 36543,
+                  "name": "Gerson Sousa"
+                },
+                "player_out": {
+                  "id": 272337,
+                  "name": "G. Manalis"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 51096,
+                  "name": "P. Simelidis"
+                },
+                "player_out": {
+                  "id": 54282,
+                  "name": "G. Balzi"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "50",
+                "team": "away",
+                "player": {
+                  "id": 123647,
+                  "name": "Botía"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "62",
+                "team": "home",
+                "player_in": {
+                  "id": 32385,
+                  "name": "B. Verbic"
+                },
+                "player_out": {
+                  "id": 32413,
+                  "name": "S. Palacios"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "63",
+                "team": "away",
+                "player_in": {
+                  "id": 49700,
+                  "name": "J. Pokorný"
+                },
+                "player_out": {
+                  "id": 123647,
+                  "name": "Botía"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "67",
+                "team": "away",
+                "player": {
+                  "id": 178307,
+                  "name": "T. Johnson Eboh"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "67",
+                "team": "home",
+                "player": {
+                  "id": 47995,
+                  "name": "A. Ožbolt"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "71",
+                "team": "away",
+                "player_in": {
+                  "id": 32346,
+                  "name": "Ruben Perez"
+                },
+                "player_out": {
+                  "id": 178307,
+                  "name": "T. Johnson Eboh"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "71",
+                "team": "away",
+                "player_in": {
+                  "id": 34424,
+                  "name": "S. Musiolik"
+                },
+                "player_out": {
+                  "id": 83011,
+                  "name": "Jorge Pombo"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "home",
+                "player_in": {
+                  "id": 28244,
+                  "name": "A. Tshibola"
+                },
+                "player_out": {
+                  "id": 231155,
+                  "name": "H. Layous"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "away",
+                "player_in": {
+                  "id": 272337,
+                  "name": "G. Manalis"
+                },
+                "player_out": {
+                  "id": 66614,
+                  "name": "D. Houhoumis"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "80",
+                "team": "home",
+                "player_in": {
+                  "id": 66507,
+                  "name": "F. Pedrozo"
+                },
+                "player_out": {
+                  "id": 47995,
+                  "name": "A. Ožbolt"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "home",
+                "player_in": {
+                  "id": 231155,
+                  "name": "H. Layous"
+                },
+                "player_out": {
+                  "id": 109384,
+                  "name": "I. Kosti"
+                }
+              },
+              {
+                "event_type": "red_card",
+                "event_minute": "82",
+                "team": "home",
+                "player": {
+                  "id": 28244,
+                  "name": "A. Tshibola"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 36543,
+                  "name": "Gerson Sousa"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 1.99,
-                "draw": 3.12,
-                "away": 3.9
+                "home": 2,
+                "draw": 3,
+                "away": 4
               },
               "over_under": {
-                "total": 2.25,
-                "over": 2.01,
-                "under": 1.83
+                "total": 2,
+                "over": 1.83,
+                "under": 2
               },
               "handicap": {
                 "market": -0.5,
-                "home": 2,
-                "away": 1.86
+                "home": 2.01,
+                "away": 1.85
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756146679
             },
             "match_preview": {
               "has_preview": false,
@@ -1274,7 +1512,7 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 13,
+                "home": 14,
                 "draw": 5.5,
                 "away": 1.22
               },
@@ -1288,7 +1526,7 @@
                 "home": 2.07,
                 "away": 1.76
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756193460
             },
             "match_preview": {
               "has_preview": false,
@@ -1327,21 +1565,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.68,
+                "home": 2.8,
                 "draw": 3.35,
-                "away": 2.6
+                "away": 2.42
               },
               "over_under": {
                 "total": 2.5,
-                "over": 2,
-                "under": 1.78
+                "over": 1.97,
+                "under": 1.81
               },
               "handicap": {
                 "market": "+0.0",
-                "home": 2,
-                "away": 1.83
+                "home": 2.1,
+                "away": 1.75
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756193460
             },
             "match_preview": {
               "has_preview": false,
@@ -1380,7 +1618,7 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.5,
+                "home": 1.48,
                 "draw": 4.05,
                 "away": 6.5
               },
@@ -1390,11 +1628,11 @@
                 "under": 1.8
               },
               "handicap": {
-                "market": -1.25,
-                "home": 2.13,
-                "away": 1.64
+                "market": -1,
+                "home": 1.83,
+                "away": 2
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756193460
             },
             "match_preview": {
               "has_preview": false,
@@ -1433,21 +1671,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.21,
-                "draw": 3.24,
-                "away": 3.4
+                "home": 2.16,
+                "draw": 3.1,
+                "away": 3.42
               },
               "over_under": {
                 "total": 2.25,
-                "over": 1.95,
-                "under": 1.77
+                "over": 2.01,
+                "under": 1.78
               },
               "handicap": {
-                "market": -0.5,
-                "home": 2.22,
-                "away": 1.7
+                "market": -0.25,
+                "home": 1.86,
+                "away": 1.92
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756193460
             },
             "match_preview": {
               "has_preview": false,
@@ -1486,9 +1724,9 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.3,
+                "home": 1.29,
                 "draw": 5,
-                "away": 9.9
+                "away": 10
               },
               "over_under": {
                 "total": 2.5,
@@ -1497,10 +1735,10 @@
               },
               "handicap": {
                 "market": -1.75,
-                "home": 2.11,
-                "away": 1.65
+                "home": 2.1,
+                "away": 1.66
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756193460
             },
             "match_preview": {
               "has_preview": false,
@@ -1540,20 +1778,20 @@
             "odds": {
               "match_winner": {
                 "home": 1.36,
-                "draw": 4.55,
-                "away": 8.17
+                "draw": 4.75,
+                "away": 8.5
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.76,
-                "under": 2.03
+                "over": 1.75,
+                "under": 2.05
               },
               "handicap": {
                 "market": -1.25,
                 "home": 1.83,
                 "away": 1.98
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756193460
             },
             "match_preview": {
               "has_preview": false,
@@ -1592,21 +1830,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.24,
-                "draw": 6.05,
-                "away": 12.5
+                "home": 1.3,
+                "draw": 5.4,
+                "away": 9.5
               },
               "over_under": {
-                "total": 3,
-                "over": 1.84,
-                "under": 1.86
+                "total": 2.75,
+                "over": 1.79,
+                "under": 2
               },
               "handicap": {
-                "market": -2,
-                "home": 2.18,
-                "away": 1.7
+                "market": -1.25,
+                "home": 1.61,
+                "away": 2.12
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756193460
             },
             "match_preview": {
               "has_preview": false,
@@ -1659,7 +1897,7 @@
                 "home": 1.82,
                 "away": 1.98
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756193460
             },
             "match_preview": {
               "has_preview": false,
@@ -1712,7 +1950,7 @@
                 "home": 2,
                 "away": 1.8
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756193460
             },
             "match_preview": {
               "has_preview": false,
@@ -1765,7 +2003,7 @@
                 "home": 2.22,
                 "away": 1.78
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756193460
             },
             "match_preview": {
               "has_preview": false,
@@ -1818,7 +2056,7 @@
                 "home": 1.88,
                 "away": 1.85
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756193460
             },
             "match_preview": {
               "has_preview": false,
@@ -1871,7 +2109,7 @@
                 "home": 1.95,
                 "away": 1.85
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756193460
             },
             "match_preview": {
               "has_preview": false,
@@ -1924,7 +2162,7 @@
                 "home": 2.05,
                 "away": 1.75
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756193460
             },
             "match_preview": {
               "has_preview": false,
@@ -1977,7 +2215,7 @@
                 "home": 2.02,
                 "away": 1.88
               },
-              "last_modified_timestamp": 1756125082
+              "last_modified_timestamp": 1756193460
             },
             "match_preview": {
               "has_preview": false,

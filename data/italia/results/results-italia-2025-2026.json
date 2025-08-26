@@ -6,7 +6,7 @@
     "count": 380,
     "first": "2025-08-23",
     "last": "2026-05-24",
-    "played": 8
+    "played": 10
   },
   "competition": {
     "id": 2019,
@@ -43,7 +43,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 107,
         "name": "Genoa CFC",
@@ -109,7 +109,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 471,
         "name": "US Sassuolo Calcio",
@@ -175,7 +175,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 98,
         "name": "AC Milan",
@@ -241,7 +241,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 100,
         "name": "AS Roma",
@@ -307,7 +307,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 104,
         "name": "Cagliari Calcio",
@@ -373,7 +373,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 7397,
         "name": "Como 1907",
@@ -439,7 +439,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 102,
         "name": "Atalanta BC",
@@ -505,7 +505,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -567,11 +567,11 @@
       },
       "id": 536824,
       "utcDate": "2025-08-25T16:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:00Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 115,
         "name": "Udinese Calcio",
@@ -587,21 +587,28 @@
         "crest": "https://crests.football-data.org/450.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 97887,
+          "name": "Paride Tremolada",
+          "type": "REFEREE",
+          "nationality": "Italy"
+        }
+      ]
     },
     {
       "area": {
@@ -626,11 +633,11 @@
       },
       "id": 536821,
       "utcDate": "2025-08-25T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:00Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -646,21 +653,28 @@
         "crest": "https://crests.football-data.org/586.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 5,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 10980,
+          "name": "Federico La Penna",
+          "type": "REFEREE",
+          "nationality": "Italy"
+        }
+      ]
     },
     {
       "area": {
@@ -689,7 +703,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:01Z",
+      "lastUpdated": "2025-08-26T01:32:00Z",
       "homeTeam": {
         "id": 457,
         "name": "US Cremonese",
@@ -748,7 +762,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:02Z",
+      "lastUpdated": "2025-08-26T01:32:01Z",
       "homeTeam": {
         "id": 5890,
         "name": "US Lecce",
@@ -807,7 +821,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:03Z",
+      "lastUpdated": "2025-08-26T01:32:02Z",
       "homeTeam": {
         "id": 103,
         "name": "Bologna FC 1909",
@@ -866,7 +880,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:03Z",
+      "lastUpdated": "2025-08-26T01:32:02Z",
       "homeTeam": {
         "id": 112,
         "name": "Parma Calcio 1913",
@@ -925,7 +939,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T01:32:05Z",
+      "lastUpdated": "2025-08-26T01:32:03Z",
       "homeTeam": {
         "id": 113,
         "name": "SSC Napoli",
@@ -984,7 +998,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:04Z",
+      "lastUpdated": "2025-08-26T01:32:03Z",
       "homeTeam": {
         "id": 487,
         "name": "AC Pisa 1909",
@@ -1043,7 +1057,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:06Z",
+      "lastUpdated": "2025-08-26T01:32:04Z",
       "homeTeam": {
         "id": 107,
         "name": "Genoa CFC",
@@ -1102,7 +1116,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:06Z",
+      "lastUpdated": "2025-08-26T01:32:04Z",
       "homeTeam": {
         "id": 586,
         "name": "Torino FC",
@@ -1161,7 +1175,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:06Z",
+      "lastUpdated": "2025-08-26T01:32:04Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -1220,7 +1234,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:06Z",
+      "lastUpdated": "2025-08-26T01:32:04Z",
       "homeTeam": {
         "id": 110,
         "name": "SS Lazio",
@@ -1338,7 +1352,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -2046,7 +2060,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 450,
         "name": "Hellas Verona FC",
@@ -2105,7 +2119,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -2577,7 +2591,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 104,
         "name": "Cagliari Calcio",
@@ -2754,7 +2768,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -3285,7 +3299,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -3344,7 +3358,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -3698,7 +3712,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 100,
         "name": "AS Roma",
@@ -3934,7 +3948,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 7397,
         "name": "Como 1907",
@@ -4465,7 +4479,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 110,
         "name": "SS Lazio",
@@ -4642,7 +4656,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 113,
         "name": "SSC Napoli",
@@ -5173,7 +5187,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -5232,7 +5246,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -5586,7 +5600,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 450,
         "name": "Hellas Verona FC",
@@ -5940,7 +5954,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 457,
         "name": "US Cremonese",
@@ -6294,7 +6308,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -6353,7 +6367,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -6589,7 +6603,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 99,
         "name": "ACF Fiorentina",
@@ -6825,7 +6839,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -7533,7 +7547,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -7651,7 +7665,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 487,
         "name": "AC Pisa 1909",
@@ -7946,7 +7960,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -8182,7 +8196,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 113,
         "name": "SSC Napoli",
@@ -8595,7 +8609,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 107,
         "name": "Genoa CFC",
@@ -8654,7 +8668,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 103,
         "name": "Bologna FC 1909",
@@ -9244,7 +9258,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -9303,7 +9317,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -9657,7 +9671,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 102,
         "name": "Atalanta BC",
@@ -9893,7 +9907,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 487,
         "name": "AC Pisa 1909",
@@ -10483,7 +10497,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -10542,7 +10556,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -10955,7 +10969,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 112,
         "name": "Parma Calcio 1913",
@@ -11073,7 +11087,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 471,
         "name": "US Sassuolo Calcio",
@@ -11663,7 +11677,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -11722,7 +11736,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -11958,7 +11972,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 104,
         "name": "Cagliari Calcio",
@@ -12371,7 +12385,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 115,
         "name": "Udinese Calcio",
@@ -12843,7 +12857,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -12902,7 +12916,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -13374,7 +13388,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 112,
         "name": "Parma Calcio 1913",
@@ -13610,7 +13624,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 457,
         "name": "US Cremonese",
@@ -14082,7 +14096,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -14141,7 +14155,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 471,
         "name": "US Sassuolo Calcio",
@@ -14436,7 +14450,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -15262,7 +15276,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -15380,7 +15394,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 5890,
         "name": "US Lecce",
@@ -15439,7 +15453,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 100,
         "name": "AS Roma",
@@ -15675,7 +15689,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -16206,7 +16220,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -16501,7 +16515,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 98,
         "name": "AC Milan",
@@ -16796,7 +16810,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -17091,7 +17105,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 115,
         "name": "Udinese Calcio",
@@ -17209,7 +17223,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 99,
         "name": "ACF Fiorentina",
@@ -17681,7 +17695,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -17858,7 +17872,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -17917,7 +17931,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -18566,7 +18580,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 102,
         "name": "Atalanta BC",
@@ -18743,7 +18757,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 7397,
         "name": "Como 1907",
@@ -19097,7 +19111,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -19156,7 +19170,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -19628,7 +19642,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 98,
         "name": "AC Milan",
@@ -19864,7 +19878,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 586,
         "name": "Torino FC",
@@ -20395,7 +20409,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -20454,7 +20468,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -21044,7 +21058,7 @@
       "matchday": 36,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 110,
         "name": "SS Lazio",
@@ -21280,7 +21294,7 @@
       "matchday": 36,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 5890,
         "name": "US Lecce",
@@ -21634,7 +21648,7 @@
       "matchday": 37,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 108,
         "name": "FC Internazionale Milano",
@@ -21693,7 +21707,7 @@
       "matchday": 37,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 109,
         "name": "Juventus FC",
@@ -22047,7 +22061,7 @@
       "matchday": 38,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 103,
         "name": "Bologna FC 1909",
@@ -22106,7 +22120,7 @@
       "matchday": 38,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T00:20:50Z",
+      "lastUpdated": "2025-08-26T00:20:52Z",
       "homeTeam": {
         "id": 586,
         "name": "Torino FC",
