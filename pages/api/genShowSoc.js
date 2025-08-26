@@ -87,7 +87,7 @@ function median(nums) {
   return s.length % 2 ? s[m] : (s[m - 1] + s[m]) / 2;
 }
 
-const HISTORY_LIMIT_DEFAULT = 5;
+const HISTORY_LIMIT_DEFAULT = 6;
 const HISTORY_LIMIT_BY_LEAGUE = {
   // es. "turchia": 6, "austria": 5
 };

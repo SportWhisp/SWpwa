@@ -107,7 +107,7 @@ export default function handler(req, res) {
     let statsHome = getTeamStats(home, anaData);
     let statsAway = getTeamStats(away, anaData);
 
-    if (matchday <= 5) {
+    if (matchday <= 6) {
       const sHomeSto = getTeamStats(home, stoData);
       const sAwaySto = getTeamStats(away, stoData);
       statsHome = {
