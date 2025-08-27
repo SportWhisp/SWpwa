@@ -9072,15 +9072,15 @@
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.8,
-                "under": 2.01
+                "over": 1.82,
+                "under": 2
               },
               "handicap": {
                 "market": -0.25,
                 "home": 1.92,
                 "away": 1.9
               },
-              "last_modified_timestamp": 1756193473
+              "last_modified_timestamp": 1756278099
             },
             "match_preview": {
               "has_preview": false,
@@ -9119,13 +9119,13 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.73,
-                "draw": 3.8,
-                "away": 4.45
+                "home": 1.7,
+                "draw": 3.9,
+                "away": 4.5
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.76,
+                "over": 1.77,
                 "under": 2.05
               },
               "handicap": {
@@ -9133,7 +9133,7 @@
                 "home": 1.71,
                 "away": 2.15
               },
-              "last_modified_timestamp": 1756193473
+              "last_modified_timestamp": 1756278099
             },
             "match_preview": {
               "has_preview": false,
@@ -9172,21 +9172,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.76,
+                "home": 1.77,
                 "draw": 3.7,
-                "away": 4.5
+                "away": 4.45
               },
               "over_under": {
                 "total": 2.5,
                 "over": 1.89,
-                "under": 1.92
+                "under": 1.91
               },
               "handicap": {
                 "market": -0.5,
-                "home": 1.8,
-                "away": 2.08
+                "home": 1.77,
+                "away": 2.09
               },
-              "last_modified_timestamp": 1756193473
+              "last_modified_timestamp": 1756278099
             },
             "match_preview": {
               "has_preview": false,
@@ -9279,7 +9279,7 @@
                 "home": 1.8,
                 "away": 2.03
               },
-              "last_modified_timestamp": 1756193473
+              "last_modified_timestamp": 1756278099
             },
             "match_preview": {
               "has_preview": false,
@@ -9332,7 +9332,7 @@
                 "home": 1.72,
                 "away": 2.15
               },
-              "last_modified_timestamp": 1756193473
+              "last_modified_timestamp": 1756278100
             },
             "match_preview": {
               "has_preview": false,
@@ -9372,20 +9372,20 @@
             "odds": {
               "match_winner": {
                 "home": 1.39,
-                "draw": 5,
+                "draw": 4.99,
                 "away": 7
               },
               "over_under": {
                 "total": 3,
                 "over": 1.74,
-                "under": 1.99
+                "under": 1.98
               },
               "handicap": {
                 "market": -1.25,
                 "home": 1.83,
                 "away": 1.98
               },
-              "last_modified_timestamp": 1756193473
+              "last_modified_timestamp": 1756278100
             },
             "match_preview": {
               "has_preview": false,

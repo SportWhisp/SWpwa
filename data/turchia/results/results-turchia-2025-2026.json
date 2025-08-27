@@ -4711,59 +4711,6 @@
             }
           },
           {
-            "id": 964398,
-            "date": "24/08/2025",
-            "time": "17:00",
-            "teams": {
-              "home": {
-                "id": 3538,
-                "name": "Konyaspor"
-              },
-              "away": {
-                "id": 3069,
-                "name": "Besiktas"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 3.75,
-                "draw": 3.9,
-                "away": 1.95
-              },
-              "over_under": {
-                "total": 2.5,
-                "over": 1.73,
-                "under": 2.07
-              },
-              "handicap": {
-                "market": "+0.5",
-                "home": 1.91,
-                "away": 1.9
-              },
-              "last_modified_timestamp": 1756148482
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 964397,
             "date": "24/08/2025",
             "time": "17:00",
@@ -4777,7 +4724,7 @@
                 "name": "Istanbul Basaksehir"
               }
             },
-            "status": "pre-match",
+            "status": "postponed",
             "minute": -1,
             "winner": "tbd",
             "has_extra_time": false,
@@ -4817,6 +4764,59 @@
             }
           },
           {
+            "id": 964398,
+            "date": "24/08/2025",
+            "time": "17:00",
+            "teams": {
+              "home": {
+                "id": 3538,
+                "name": "Konyaspor"
+              },
+              "away": {
+                "id": 3069,
+                "name": "Besiktas"
+              }
+            },
+            "status": "postponed",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 3.75,
+                "draw": 3.9,
+                "away": 1.95
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.73,
+                "under": 2.07
+              },
+              "handicap": {
+                "market": "+0.5",
+                "home": 1.91,
+                "away": 1.9
+              },
+              "last_modified_timestamp": 1756148482
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 964396,
             "date": "24/08/2025",
             "time": "17:00",
@@ -4830,7 +4830,7 @@
                 "name": "Kasimpasa"
               }
             },
-            "status": "pre-match",
+            "status": "postponed",
             "minute": -1,
             "winner": "tbd",
             "has_extra_time": false,
@@ -5126,16 +5126,16 @@
                 "name": "Alanyaspor"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "home",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
+              "home_ht_goals": 1,
               "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "home_ft_goals": 2,
+              "away_ft_goals": 1,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
@@ -5418,21 +5418,74 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.87,
-                "draw": 3.4,
+                "home": 1.86,
+                "draw": 3.45,
                 "away": 4.2
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.95,
-                "under": 1.85
+                "over": 1.94,
+                "under": 1.87
               },
               "handicap": {
                 "market": -0.5,
                 "home": 1.88,
                 "away": 1.98
               },
-              "last_modified_timestamp": 1756193484
+              "last_modified_timestamp": 1756278114
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 964407,
+            "date": "30/08/2025",
+            "time": "16:00",
+            "teams": {
+              "home": {
+                "id": 3013,
+                "name": "Kasimpasa"
+              },
+              "away": {
+                "id": 3018,
+                "name": "Gaziantep FK"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 1.8,
+                "draw": 4,
+                "away": 3.8
+              },
+              "over_under": {
+                "total": 3,
+                "over": 1.92,
+                "under": 1.9
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 1.83,
+                "away": 2.03
+              },
+              "last_modified_timestamp": 1756278114
             },
             "match_preview": {
               "has_preview": false,
@@ -5472,20 +5525,20 @@
             "odds": {
               "match_winner": {
                 "home": 2.2,
-                "draw": 3.4,
+                "draw": 3.35,
                 "away": 3.1
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.91,
-                "under": 1.9
+                "over": 1.93,
+                "under": 1.86
               },
               "handicap": {
                 "market": -0.25,
                 "home": 1.9,
                 "away": 1.92
               },
-              "last_modified_timestamp": 1756193484
+              "last_modified_timestamp": 1756278114
             },
             "match_preview": {
               "has_preview": false,
@@ -5493,17 +5546,17 @@
             }
           },
           {
-            "id": 964407,
+            "id": 964410,
             "date": "30/08/2025",
-            "time": "16:00",
+            "time": "18:30",
             "teams": {
               "home": {
-                "id": 3013,
-                "name": "Kasimpasa"
+                "id": 4976,
+                "name": "Galatasaray"
               },
               "away": {
-                "id": 3018,
-                "name": "Gaziantep FK"
+                "id": 3028,
+                "name": "Rizespor"
               }
             },
             "status": "pre-match",
@@ -5524,21 +5577,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.75,
-                "draw": 4.1,
-                "away": 3.9
+                "home": 1.22,
+                "draw": 6.4,
+                "away": 10.75
               },
               "over_under": {
-                "total": 3,
-                "over": 1.91,
-                "under": 1.92
+                "total": 3.5,
+                "over": 1.87,
+                "under": 1.91
               },
               "handicap": {
-                "market": -0.5,
-                "home": 1.8,
-                "away": 2.05
+                "market": -2,
+                "home": 2,
+                "away": 1.83
               },
-              "last_modified_timestamp": 1756193484
+              "last_modified_timestamp": 1756278114
             },
             "match_preview": {
               "has_preview": false,
@@ -5578,73 +5631,20 @@
             "odds": {
               "match_winner": {
                 "home": 1.95,
-                "draw": 3.4,
-                "away": 3.84
+                "draw": 3.35,
+                "away": 3.9
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.91,
-                "under": 1.89
+                "over": 1.95,
+                "under": 1.85
               },
               "handicap": {
                 "market": -0.5,
                 "home": 1.95,
                 "away": 1.9
               },
-              "last_modified_timestamp": 1756193484
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 964410,
-            "date": "30/08/2025",
-            "time": "18:30",
-            "teams": {
-              "home": {
-                "id": 4976,
-                "name": "Galatasaray"
-              },
-              "away": {
-                "id": 3028,
-                "name": "Rizespor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 1.24,
-                "draw": 6.2,
-                "away": 10
-              },
-              "over_under": {
-                "total": 3.5,
-                "over": 1.95,
-                "under": 1.86
-              },
-              "handicap": {
-                "market": -2,
-                "home": 2.08,
-                "away": 1.74
-              },
-              "last_modified_timestamp": 1756193484
+              "last_modified_timestamp": 1756278114
             },
             "match_preview": {
               "has_preview": false,
@@ -5684,20 +5684,20 @@
             "odds": {
               "match_winner": {
                 "home": 8.5,
-                "draw": 4.95,
-                "away": 1.33
+                "draw": 5,
+                "away": 1.34
               },
               "over_under": {
                 "total": 3,
-                "over": 2.01,
-                "under": 1.83
+                "over": 1.98,
+                "under": 1.82
               },
               "handicap": {
                 "market": "+1.5",
-                "home": 1.84,
-                "away": 2
+                "home": 1.81,
+                "away": 2.02
               },
-              "last_modified_timestamp": 1756193484
+              "last_modified_timestamp": 1756278114
             },
             "match_preview": {
               "has_preview": false,
@@ -5736,21 +5736,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.1,
-                "draw": 3.4,
-                "away": 3.3
+                "home": 2.05,
+                "draw": 3.5,
+                "away": 3.42
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.83,
-                "under": 2
+                "over": 1.81,
+                "under": 2.01
               },
               "handicap": {
                 "market": -0.5,
-                "home": 2.1,
-                "away": 1.77
+                "home": 2.05,
+                "away": 1.82
               },
-              "last_modified_timestamp": 1756193484
+              "last_modified_timestamp": 1756278114
             },
             "match_preview": {
               "has_preview": false,
@@ -5789,21 +5789,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.77,
+                "home": 1.78,
                 "draw": 3.65,
                 "away": 4.33
               },
               "over_under": {
                 "total": 2.5,
                 "over": 1.89,
-                "under": 1.93
+                "under": 1.92
               },
               "handicap": {
                 "market": -0.5,
                 "home": 1.78,
                 "away": 2.07
               },
-              "last_modified_timestamp": 1756193484
+              "last_modified_timestamp": 1756278114
             },
             "match_preview": {
               "has_preview": false,
@@ -5843,20 +5843,20 @@
             "odds": {
               "match_winner": {
                 "home": 3.3,
-                "draw": 3.58,
-                "away": 2.1
+                "draw": 3.64,
+                "away": 2.06
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.75,
-                "under": 2.09
+                "over": 1.7,
+                "under": 2.1
               },
               "handicap": {
                 "market": "+0.5",
-                "home": 1.78,
-                "away": 2.1
+                "home": 1.82,
+                "away": 2.05
               },
-              "last_modified_timestamp": 1756193484
+              "last_modified_timestamp": 1756278114
             },
             "match_preview": {
               "has_preview": false,
