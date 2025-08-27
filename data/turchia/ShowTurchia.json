@@ -14,19 +14,6 @@
   },
   {
     "data": "30/08/2025",
-    "partita": "Kocaelispor vs Kayserispor",
-    "risultato": "",
-    "previsione": "1 - 1",
-    "p1": "32,12%",
-    "pX": "39,62%",
-    "p2": "28,27%",
-    "pUnder": "58,85%",
-    "pOver": "41,15%",
-    "pGG": "56,28%",
-    "pNG": "43,72%"
-  },
-  {
-    "data": "30/08/2025",
     "partita": "Kasimpasa vs Gaziantep FK",
     "risultato": "",
     "previsione": "2 - 1",
@@ -40,16 +27,16 @@
   },
   {
     "data": "30/08/2025",
-    "partita": "Antalyaspor vs Fatih Karagumruk",
+    "partita": "Kocaelispor vs Kayserispor",
     "risultato": "",
-    "previsione": "2 - 1",
-    "p1": "53,72%",
-    "pX": "17,95%",
-    "p2": "28,33%",
-    "pUnder": "41,15%",
-    "pOver": "58,85%",
-    "pGG": "52,44%",
-    "pNG": "47,56%"
+    "previsione": "1 - 1",
+    "p1": "32,12%",
+    "pX": "39,62%",
+    "p2": "28,27%",
+    "pUnder": "58,85%",
+    "pOver": "41,15%",
+    "pGG": "56,28%",
+    "pNG": "43,72%"
   },
   {
     "data": "30/08/2025",
@@ -63,6 +50,19 @@
     "pOver": "69,08%",
     "pGG": "54,30%",
     "pNG": "45,70%"
+  },
+  {
+    "data": "30/08/2025",
+    "partita": "Antalyaspor vs Fatih Karagumruk",
+    "risultato": "",
+    "previsione": "2 - 1",
+    "p1": "53,72%",
+    "pX": "17,95%",
+    "p2": "28,33%",
+    "pUnder": "41,15%",
+    "pOver": "58,85%",
+    "pGG": "52,44%",
+    "pNG": "47,56%"
   },
   {
     "data": "31/08/2025",
@@ -82,13 +82,13 @@
     "partita": "Istanbul Basaksehir vs Eyupspor",
     "risultato": "",
     "previsione": "2 - 1",
-    "p1": "50,65%",
-    "pX": "20,29%",
-    "p2": "29,06%",
-    "pUnder": "36,30%",
-    "pOver": "63,70%",
-    "pGG": "64,42%",
-    "pNG": "35,58%"
+    "p1": "50,00%",
+    "pX": "20,00%",
+    "p2": "30,00%",
+    "pUnder": "35,71%",
+    "pOver": "64,29%",
+    "pGG": "65,00%",
+    "pNG": "35,00%"
   },
   {
     "data": "31/08/2025",
@@ -108,12 +108,12 @@
     "partita": "Alanyaspor vs Besiktas",
     "risultato": "",
     "previsione": "1 - 1",
-    "p1": "25,11%",
-    "pX": "39,33%",
-    "p2": "35,56%",
-    "pUnder": "66,19%",
-    "pOver": "33,81%",
-    "pGG": "63,21%",
-    "pNG": "36,79%"
+    "p1": "24,71%",
+    "pX": "38,82%",
+    "p2": "36,47%",
+    "pUnder": "65,29%",
+    "pOver": "34,71%",
+    "pGG": "63,82%",
+    "pNG": "36,18%"
   }
 ]
