@@ -9121,7 +9121,7 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.55,
+                "home": 2.58,
                 "draw": 3.5,
                 "away": 2.6
               },
@@ -9135,60 +9135,7 @@
                 "home": 1.9,
                 "away": 1.93
               },
-              "last_modified_timestamp": 1756278100
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955680,
-            "date": "31/08/2025",
-            "time": "12:00",
-            "teams": {
-              "home": {
-                "id": 3039,
-                "name": "Silkeborg"
-              },
-              "away": {
-                "id": 3044,
-                "name": "SonderjyskE"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 1.84,
-                "draw": 3.8,
-                "away": 3.98
-              },
-              "over_under": {
-                "total": 2.75,
-                "over": 1.84,
-                "under": 1.99
-              },
-              "handicap": {
-                "market": -0.5,
-                "home": 1.85,
-                "away": 2
-              },
-              "last_modified_timestamp": 1756278100
+              "last_modified_timestamp": 1756366286
             },
             "match_preview": {
               "has_preview": false,
@@ -9233,7 +9180,7 @@
               },
               "over_under": {
                 "total": 2.75,
-                "over": 1.86,
+                "over": 1.87,
                 "under": 1.96
               },
               "handicap": {
@@ -9241,7 +9188,60 @@
                 "home": 1.78,
                 "away": 2.05
               },
-              "last_modified_timestamp": 1756278100
+              "last_modified_timestamp": 1756366286
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955680,
+            "date": "31/08/2025",
+            "time": "12:00",
+            "teams": {
+              "home": {
+                "id": 3039,
+                "name": "Silkeborg"
+              },
+              "away": {
+                "id": 3044,
+                "name": "SonderjyskE"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 1.91,
+                "draw": 3.7,
+                "away": 3.72
+              },
+              "over_under": {
+                "total": 2.75,
+                "over": 1.87,
+                "under": 1.96
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 1.93,
+                "away": 1.9
+              },
+              "last_modified_timestamp": 1756366286
             },
             "match_preview": {
               "has_preview": false,
@@ -9282,19 +9282,19 @@
               "match_winner": {
                 "home": 2.45,
                 "draw": 3.75,
-                "away": 2.59
+                "away": 2.6
               },
               "over_under": {
                 "total": 3,
-                "over": 1.87,
-                "under": 1.92
+                "over": 1.88,
+                "under": 1.95
               },
               "handicap": {
                 "market": -0.5,
-                "home": 2.42,
-                "away": 1.6
+                "home": 2.46,
+                "away": 1.58
               },
-              "last_modified_timestamp": 1756278100
+              "last_modified_timestamp": 1756366286
             },
             "match_preview": {
               "has_preview": false,
@@ -9335,19 +9335,19 @@
               "match_winner": {
                 "home": 4,
                 "draw": 3.8,
-                "away": 1.81
+                "away": 1.8
               },
               "over_under": {
                 "total": 2.5,
                 "over": 1.73,
-                "under": 2.09
+                "under": 2.08
               },
               "handicap": {
                 "market": "+0.5",
-                "home": 2.05,
-                "away": 1.82
+                "home": 2.04,
+                "away": 1.8
               },
-              "last_modified_timestamp": 1756278100
+              "last_modified_timestamp": 1756366286
             },
             "match_preview": {
               "has_preview": false,
@@ -9387,7 +9387,7 @@
             "odds": {
               "match_winner": {
                 "home": 2.55,
-                "draw": 3.55,
+                "draw": 3.5,
                 "away": 2.6
               },
               "over_under": {
@@ -9398,9 +9398,9 @@
               "handicap": {
                 "market": "+0.0",
                 "home": 1.9,
-                "away": 1.9
+                "away": 1.93
               },
-              "last_modified_timestamp": 1756278100
+              "last_modified_timestamp": 1756366286
             },
             "match_preview": {
               "has_preview": false,

@@ -9067,20 +9067,20 @@
             "odds": {
               "match_winner": {
                 "home": 2.2,
-                "draw": 3.52,
+                "draw": 3.45,
                 "away": 3.1
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.82,
-                "under": 2
+                "over": 1.84,
+                "under": 1.96
               },
               "handicap": {
                 "market": -0.25,
-                "home": 1.92,
+                "home": 1.96,
                 "away": 1.9
               },
-              "last_modified_timestamp": 1756278099
+              "last_modified_timestamp": 1756366285
             },
             "match_preview": {
               "has_preview": false,
@@ -9119,21 +9119,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.7,
+                "home": 1.67,
                 "draw": 3.9,
-                "away": 4.5
+                "away": 4.6
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.77,
-                "under": 2.05
+                "over": 1.75,
+                "under": 2.07
               },
               "handicap": {
                 "market": -0.5,
-                "home": 1.71,
-                "away": 2.15
+                "home": 1.7,
+                "away": 2.2
               },
-              "last_modified_timestamp": 1756278099
+              "last_modified_timestamp": 1756366285
             },
             "match_preview": {
               "has_preview": false,
@@ -9172,61 +9172,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.77,
-                "draw": 3.7,
-                "away": 4.45
+                "home": 1.75,
+                "draw": 3.72,
+                "away": 4.55
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.89,
-                "under": 1.91
+                "over": 1.88,
+                "under": 1.9
               },
               "handicap": {
                 "market": -0.5,
-                "home": 1.77,
-                "away": 2.09
+                "home": 1.75,
+                "away": 2.1
               },
-              "last_modified_timestamp": 1756278099
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 955388,
-            "date": "30/08/2025",
-            "time": "18:45",
-            "teams": {
-              "home": {
-                "id": 3194,
-                "name": "OH Leuven"
-              },
-              "away": {
-                "id": 3905,
-                "name": "Standard Liege"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "last_modified_timestamp": 1756366286
             },
             "match_preview": {
               "has_preview": false,
@@ -9267,19 +9227,72 @@
               "match_winner": {
                 "home": 5,
                 "draw": 4.15,
-                "away": 1.62
+                "away": 1.6
               },
               "over_under": {
                 "total": 3,
                 "over": 1.98,
-                "under": 1.84
+                "under": 1.85
               },
               "handicap": {
                 "market": "+1.0",
                 "home": 1.8,
                 "away": 2.03
               },
-              "last_modified_timestamp": 1756278099
+              "last_modified_timestamp": 1756366286
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 955388,
+            "date": "31/08/2025",
+            "time": "14:00",
+            "teams": {
+              "home": {
+                "id": 3194,
+                "name": "OH Leuven"
+              },
+              "away": {
+                "id": 3905,
+                "name": "Standard Liege"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 2.25,
+                "draw": 3.25,
+                "away": 3.2
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 2.03,
+                "under": 1.78
+              },
+              "handicap": {
+                "market": -0.25,
+                "home": 1.94,
+                "away": 1.9
+              },
+              "last_modified_timestamp": 1756366286
             },
             "match_preview": {
               "has_preview": false,
@@ -9318,21 +9331,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.72,
+                "home": 1.67,
                 "draw": 3.8,
-                "away": 4.65
+                "away": 4.75
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.81,
+                "over": 1.8,
                 "under": 2
               },
               "handicap": {
-                "market": -0.5,
-                "home": 1.72,
-                "away": 2.15
+                "market": -1,
+                "home": 2.12,
+                "away": 1.75
               },
-              "last_modified_timestamp": 1756278100
+              "last_modified_timestamp": 1756366286
             },
             "match_preview": {
               "has_preview": false,
@@ -9371,7 +9384,7 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.39,
+                "home": 1.38,
                 "draw": 4.99,
                 "away": 7
               },
@@ -9385,7 +9398,7 @@
                 "home": 1.83,
                 "away": 1.98
               },
-              "last_modified_timestamp": 1756278100
+              "last_modified_timestamp": 1756366286
             },
             "match_preview": {
               "has_preview": false,

@@ -34,7 +34,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537441,
@@ -43,7 +43,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 1920,
         "name": "Fortuna Sittard",
@@ -100,7 +100,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537442,
@@ -109,7 +109,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 1915,
         "name": "NEC",
@@ -166,7 +166,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537443,
@@ -175,7 +175,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 675,
         "name": "Feyenoord Rotterdam",
@@ -232,7 +232,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537444,
@@ -241,7 +241,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
@@ -298,7 +298,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537445,
@@ -307,7 +307,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -364,7 +364,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537446,
@@ -373,7 +373,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 684,
         "name": "PEC Zwolle",
@@ -430,7 +430,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537447,
@@ -439,7 +439,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -496,7 +496,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537448,
@@ -505,7 +505,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 682,
         "name": "AZ",
@@ -562,7 +562,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537449,
@@ -571,7 +571,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -628,7 +628,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537450,
@@ -637,7 +637,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -694,7 +694,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537452,
@@ -703,7 +703,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -760,7 +760,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537453,
@@ -769,7 +769,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 671,
         "name": "Heracles Almelo",
@@ -826,7 +826,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537451,
@@ -835,7 +835,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 677,
         "name": "FC Groningen",
@@ -892,7 +892,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537454,
@@ -901,7 +901,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 718,
         "name": "Go Ahead Eagles",
@@ -958,7 +958,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537455,
@@ -967,7 +967,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 6806,
         "name": "Sparta Rotterdam",
@@ -1024,7 +1024,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537456,
@@ -1033,7 +1033,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 666,
         "name": "FC Twente '65",
@@ -1090,7 +1090,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537457,
@@ -1099,7 +1099,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 1919,
         "name": "FC Volendam",
@@ -1156,7 +1156,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537458,
@@ -1165,7 +1165,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 681,
         "name": "NAC Breda",
@@ -1222,7 +1222,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537459,
@@ -1231,7 +1231,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 718,
         "name": "Go Ahead Eagles",
@@ -1288,7 +1288,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537460,
@@ -1297,7 +1297,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -1354,7 +1354,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537461,
@@ -1363,7 +1363,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -1420,7 +1420,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537463,
@@ -1429,7 +1429,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
@@ -1486,7 +1486,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537464,
@@ -1495,7 +1495,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -1552,7 +1552,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537465,
@@ -1561,7 +1561,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 1915,
         "name": "NEC",
@@ -1618,7 +1618,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537466,
@@ -1627,7 +1627,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -1684,7 +1684,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537468,
@@ -1743,7 +1743,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537469,
@@ -1752,7 +1752,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 1919,
         "name": "FC Volendam",
@@ -1802,7 +1802,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537470,
@@ -1861,7 +1861,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537471,
@@ -1870,7 +1870,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -1920,7 +1920,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537472,
@@ -1979,7 +1979,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537473,
@@ -2038,7 +2038,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537474,
@@ -2097,7 +2097,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537475,
@@ -2156,7 +2156,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537476,
@@ -2215,7 +2215,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537477,
@@ -2224,7 +2224,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -2274,7 +2274,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537478,
@@ -2333,7 +2333,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537479,
@@ -2342,7 +2342,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 1915,
         "name": "NEC",
@@ -2392,7 +2392,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537480,
@@ -2451,7 +2451,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537481,
@@ -2510,7 +2510,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537482,
@@ -2569,7 +2569,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537483,
@@ -2628,7 +2628,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537484,
@@ -2687,7 +2687,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537485,
@@ -2746,7 +2746,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537467,
@@ -2805,7 +2805,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537486,
@@ -2864,7 +2864,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537487,
@@ -2923,7 +2923,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537488,
@@ -2982,7 +2982,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537489,
@@ -3041,7 +3041,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537490,
@@ -3100,7 +3100,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537491,
@@ -3159,7 +3159,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537492,
@@ -3168,7 +3168,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -3218,7 +3218,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537493,
@@ -3277,7 +3277,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537494,
@@ -3336,7 +3336,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537462,
@@ -3395,7 +3395,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537495,
@@ -3454,7 +3454,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537496,
@@ -3513,7 +3513,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537497,
@@ -3522,7 +3522,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -3572,7 +3572,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537498,
@@ -3631,7 +3631,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537499,
@@ -3640,7 +3640,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -3690,7 +3690,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537500,
@@ -3749,7 +3749,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537501,
@@ -3808,7 +3808,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537502,
@@ -3867,7 +3867,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537503,
@@ -3926,7 +3926,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537504,
@@ -3985,7 +3985,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537505,
@@ -3994,7 +3994,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 6806,
         "name": "Sparta Rotterdam",
@@ -4044,7 +4044,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537506,
@@ -4103,7 +4103,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537507,
@@ -4112,7 +4112,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 684,
         "name": "PEC Zwolle",
@@ -4162,7 +4162,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537508,
@@ -4221,7 +4221,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537509,
@@ -4280,7 +4280,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537510,
@@ -4339,7 +4339,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537511,
@@ -4398,7 +4398,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537512,
@@ -4457,7 +4457,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537513,
@@ -4516,7 +4516,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537514,
@@ -4575,7 +4575,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537515,
@@ -4584,7 +4584,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -4634,7 +4634,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537516,
@@ -4643,7 +4643,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -4693,7 +4693,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537517,
@@ -4752,7 +4752,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537520,
@@ -4811,7 +4811,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537518,
@@ -4870,7 +4870,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537519,
@@ -4929,7 +4929,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537521,
@@ -4988,7 +4988,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537522,
@@ -5047,7 +5047,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537523,
@@ -5106,7 +5106,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537524,
@@ -5165,7 +5165,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537525,
@@ -5224,7 +5224,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537526,
@@ -5283,7 +5283,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537527,
@@ -5292,7 +5292,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 666,
         "name": "FC Twente '65",
@@ -5342,7 +5342,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537528,
@@ -5351,7 +5351,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 675,
         "name": "Feyenoord Rotterdam",
@@ -5401,7 +5401,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537529,
@@ -5460,7 +5460,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537530,
@@ -5519,7 +5519,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537531,
@@ -5528,7 +5528,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -5578,7 +5578,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537532,
@@ -5637,7 +5637,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537533,
@@ -5696,7 +5696,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537534,
@@ -5705,7 +5705,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -5755,7 +5755,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537535,
@@ -5814,7 +5814,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537536,
@@ -5873,7 +5873,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537537,
@@ -5932,7 +5932,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537538,
@@ -5991,7 +5991,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537539,
@@ -6050,7 +6050,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537540,
@@ -6109,7 +6109,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537541,
@@ -6168,7 +6168,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537542,
@@ -6227,7 +6227,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537543,
@@ -6286,7 +6286,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537544,
@@ -6345,7 +6345,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537545,
@@ -6354,7 +6354,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -6404,7 +6404,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537546,
@@ -6413,7 +6413,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 682,
         "name": "AZ",
@@ -6463,7 +6463,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537547,
@@ -6522,7 +6522,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537548,
@@ -6581,7 +6581,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537549,
@@ -6590,7 +6590,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -6640,7 +6640,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537550,
@@ -6699,7 +6699,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537551,
@@ -6758,7 +6758,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537552,
@@ -6817,7 +6817,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537553,
@@ -6876,7 +6876,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537554,
@@ -6885,7 +6885,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 681,
         "name": "NAC Breda",
@@ -6935,7 +6935,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537555,
@@ -6994,7 +6994,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537556,
@@ -7053,7 +7053,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537557,
@@ -7112,7 +7112,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537558,
@@ -7121,7 +7121,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -7171,7 +7171,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537559,
@@ -7230,7 +7230,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537560,
@@ -7289,7 +7289,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537561,
@@ -7348,7 +7348,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537562,
@@ -7407,7 +7407,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537563,
@@ -7466,7 +7466,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537564,
@@ -7475,7 +7475,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -7525,7 +7525,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537565,
@@ -7584,7 +7584,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537566,
@@ -7643,7 +7643,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537567,
@@ -7702,7 +7702,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537568,
@@ -7761,7 +7761,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537569,
@@ -7820,7 +7820,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537570,
@@ -7879,7 +7879,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537571,
@@ -7938,7 +7938,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537572,
@@ -7947,7 +7947,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 1920,
         "name": "Fortuna Sittard",
@@ -7997,7 +7997,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537573,
@@ -8056,7 +8056,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537574,
@@ -8065,7 +8065,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
@@ -8115,7 +8115,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537575,
@@ -8174,7 +8174,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537576,
@@ -8183,7 +8183,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -8233,7 +8233,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537577,
@@ -8292,7 +8292,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537578,
@@ -8351,7 +8351,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537579,
@@ -8410,7 +8410,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537580,
@@ -8469,7 +8469,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537581,
@@ -8478,7 +8478,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -8528,7 +8528,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537582,
@@ -8587,7 +8587,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537583,
@@ -8646,7 +8646,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537584,
@@ -8705,7 +8705,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537585,
@@ -8764,7 +8764,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537586,
@@ -8773,7 +8773,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -8823,7 +8823,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537587,
@@ -8882,7 +8882,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537588,
@@ -8941,7 +8941,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537589,
@@ -9000,7 +9000,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537590,
@@ -9059,7 +9059,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537591,
@@ -9118,7 +9118,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537592,
@@ -9177,7 +9177,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537593,
@@ -9186,7 +9186,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 1915,
         "name": "NEC",
@@ -9236,7 +9236,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537600,
@@ -9295,7 +9295,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537601,
@@ -9304,7 +9304,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -9354,7 +9354,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537602,
@@ -9413,7 +9413,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537594,
@@ -9472,7 +9472,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537595,
@@ -9531,7 +9531,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537596,
@@ -9590,7 +9590,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537597,
@@ -9649,7 +9649,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537598,
@@ -9658,7 +9658,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -9708,7 +9708,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537599,
@@ -9767,7 +9767,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537603,
@@ -9776,7 +9776,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -9826,7 +9826,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537604,
@@ -9885,7 +9885,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537605,
@@ -9944,7 +9944,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537606,
@@ -10003,7 +10003,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537607,
@@ -10012,7 +10012,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 1920,
         "name": "Fortuna Sittard",
@@ -10062,7 +10062,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537608,
@@ -10121,7 +10121,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537609,
@@ -10180,7 +10180,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537610,
@@ -10239,7 +10239,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537611,
@@ -10298,7 +10298,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537612,
@@ -10307,7 +10307,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -10357,7 +10357,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537613,
@@ -10416,7 +10416,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537614,
@@ -10475,7 +10475,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537615,
@@ -10534,7 +10534,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537616,
@@ -10593,7 +10593,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537617,
@@ -10652,7 +10652,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537618,
@@ -10661,7 +10661,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -10711,7 +10711,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537619,
@@ -10770,7 +10770,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537620,
@@ -10829,7 +10829,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537621,
@@ -10888,7 +10888,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537622,
@@ -10897,7 +10897,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -10947,7 +10947,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537623,
@@ -11006,7 +11006,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537624,
@@ -11065,7 +11065,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537625,
@@ -11124,7 +11124,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537626,
@@ -11183,7 +11183,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537627,
@@ -11192,7 +11192,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -11242,7 +11242,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537628,
@@ -11301,7 +11301,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537629,
@@ -11360,7 +11360,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537630,
@@ -11369,7 +11369,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 682,
         "name": "AZ",
@@ -11419,7 +11419,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537631,
@@ -11428,7 +11428,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 677,
         "name": "FC Groningen",
@@ -11478,7 +11478,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537632,
@@ -11537,7 +11537,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537633,
@@ -11596,7 +11596,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537634,
@@ -11655,7 +11655,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537635,
@@ -11714,7 +11714,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537636,
@@ -11773,7 +11773,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537637,
@@ -11832,7 +11832,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537638,
@@ -11891,7 +11891,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537639,
@@ -11900,7 +11900,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -11950,7 +11950,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537640,
@@ -12009,7 +12009,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537641,
@@ -12068,7 +12068,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537642,
@@ -12077,7 +12077,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 1919,
         "name": "FC Volendam",
@@ -12127,7 +12127,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537643,
@@ -12186,7 +12186,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537644,
@@ -12245,7 +12245,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537645,
@@ -12304,7 +12304,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537646,
@@ -12363,7 +12363,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537647,
@@ -12422,7 +12422,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537648,
@@ -12431,7 +12431,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -12481,7 +12481,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537649,
@@ -12540,7 +12540,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537650,
@@ -12599,7 +12599,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537651,
@@ -12658,7 +12658,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537652,
@@ -12717,7 +12717,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537653,
@@ -12776,7 +12776,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537654,
@@ -12835,7 +12835,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537655,
@@ -12844,7 +12844,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -12894,7 +12894,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537656,
@@ -12953,7 +12953,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537657,
@@ -13012,7 +13012,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537658,
@@ -13071,7 +13071,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537659,
@@ -13130,7 +13130,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537660,
@@ -13139,7 +13139,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 671,
         "name": "Heracles Almelo",
@@ -13189,7 +13189,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537661,
@@ -13248,7 +13248,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537662,
@@ -13257,7 +13257,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 684,
         "name": "PEC Zwolle",
@@ -13307,7 +13307,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537663,
@@ -13366,7 +13366,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537664,
@@ -13425,7 +13425,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537665,
@@ -13484,7 +13484,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537666,
@@ -13543,7 +13543,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537667,
@@ -13552,7 +13552,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 677,
         "name": "FC Groningen",
@@ -13602,7 +13602,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537668,
@@ -13661,7 +13661,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537669,
@@ -13720,7 +13720,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537670,
@@ -13779,7 +13779,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537671,
@@ -13838,7 +13838,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537672,
@@ -13897,7 +13897,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537673,
@@ -13906,7 +13906,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -13956,7 +13956,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537674,
@@ -14015,7 +14015,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537675,
@@ -14024,7 +14024,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -14074,7 +14074,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537676,
@@ -14133,7 +14133,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537677,
@@ -14192,7 +14192,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537678,
@@ -14251,7 +14251,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537679,
@@ -14310,7 +14310,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537680,
@@ -14369,7 +14369,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537681,
@@ -14378,7 +14378,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -14428,7 +14428,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537682,
@@ -14487,7 +14487,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537683,
@@ -14546,7 +14546,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537684,
@@ -14605,7 +14605,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537685,
@@ -14664,7 +14664,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537686,
@@ -14673,7 +14673,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 675,
         "name": "Feyenoord Rotterdam",
@@ -14723,7 +14723,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537687,
@@ -14782,7 +14782,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537688,
@@ -14841,7 +14841,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537689,
@@ -14900,7 +14900,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537690,
@@ -14959,7 +14959,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537691,
@@ -15018,7 +15018,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537692,
@@ -15027,7 +15027,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -15077,7 +15077,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537693,
@@ -15086,7 +15086,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -15136,7 +15136,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537694,
@@ -15195,7 +15195,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537695,
@@ -15254,7 +15254,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537696,
@@ -15313,7 +15313,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537697,
@@ -15372,7 +15372,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537698,
@@ -15431,7 +15431,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537699,
@@ -15440,7 +15440,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -15490,7 +15490,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537700,
@@ -15549,7 +15549,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537701,
@@ -15608,7 +15608,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537702,
@@ -15667,7 +15667,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537703,
@@ -15726,7 +15726,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537704,
@@ -15785,7 +15785,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537705,
@@ -15844,7 +15844,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537706,
@@ -15853,7 +15853,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 671,
         "name": "Heracles Almelo",
@@ -15903,7 +15903,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537707,
@@ -15962,7 +15962,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537708,
@@ -16021,7 +16021,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537709,
@@ -16030,7 +16030,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 6806,
         "name": "Sparta Rotterdam",
@@ -16080,7 +16080,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537710,
@@ -16139,7 +16139,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537711,
@@ -16198,7 +16198,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537712,
@@ -16257,7 +16257,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537713,
@@ -16316,7 +16316,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537714,
@@ -16375,7 +16375,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537715,
@@ -16384,7 +16384,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 681,
         "name": "NAC Breda",
@@ -16434,7 +16434,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537716,
@@ -16443,7 +16443,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -16493,7 +16493,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537717,
@@ -16552,7 +16552,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537718,
@@ -16611,7 +16611,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537719,
@@ -16670,7 +16670,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537720,
@@ -16679,7 +16679,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -16729,7 +16729,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537721,
@@ -16788,7 +16788,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537722,
@@ -16847,7 +16847,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537723,
@@ -16906,7 +16906,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537724,
@@ -16965,7 +16965,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537725,
@@ -17024,7 +17024,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537726,
@@ -17083,7 +17083,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537727,
@@ -17142,7 +17142,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537728,
@@ -17201,7 +17201,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537729,
@@ -17210,7 +17210,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -17260,7 +17260,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537730,
@@ -17319,7 +17319,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537731,
@@ -17378,7 +17378,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537732,
@@ -17437,7 +17437,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537733,
@@ -17496,7 +17496,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537734,
@@ -17505,7 +17505,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 718,
         "name": "Go Ahead Eagles",
@@ -17555,7 +17555,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537735,
@@ -17614,7 +17614,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537736,
@@ -17673,7 +17673,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537737,
@@ -17732,7 +17732,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537738,
@@ -17791,7 +17791,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537739,
@@ -17850,7 +17850,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537740,
@@ -17909,7 +17909,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537741,
@@ -17968,7 +17968,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537742,
@@ -18027,7 +18027,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537743,
@@ -18086,7 +18086,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537744,
@@ -18095,7 +18095,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -18145,7 +18145,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537745,
@@ -18154,7 +18154,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-27T00:20:56Z",
+      "lastUpdated": "2025-08-28T00:20:56Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
@@ -18204,7 +18204,7 @@
         "id": 2400,
         "startDate": "2025-08-08",
         "endDate": "2026-05-17",
-        "currentMatchday": 3,
+        "currentMatchday": 4,
         "winner": null
       },
       "id": 537746,
