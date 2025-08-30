@@ -6,7 +6,7 @@
     "count": 306,
     "first": "2025-08-08",
     "last": "2026-05-17",
-    "played": 25
+    "played": 26
   },
   "competition": {
     "id": 2003,
@@ -43,7 +43,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 1920,
         "name": "Fortuna Sittard",
@@ -109,7 +109,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 1915,
         "name": "NEC",
@@ -175,7 +175,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 675,
         "name": "Feyenoord Rotterdam",
@@ -241,7 +241,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
@@ -307,7 +307,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -373,7 +373,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 684,
         "name": "PEC Zwolle",
@@ -439,7 +439,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -505,7 +505,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 682,
         "name": "AZ",
@@ -571,7 +571,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -637,7 +637,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -703,7 +703,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -769,7 +769,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 671,
         "name": "Heracles Almelo",
@@ -835,7 +835,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 677,
         "name": "FC Groningen",
@@ -901,7 +901,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 718,
         "name": "Go Ahead Eagles",
@@ -967,7 +967,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 6806,
         "name": "Sparta Rotterdam",
@@ -1033,7 +1033,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 666,
         "name": "FC Twente '65",
@@ -1099,7 +1099,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 1919,
         "name": "FC Volendam",
@@ -1165,7 +1165,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 681,
         "name": "NAC Breda",
@@ -1231,7 +1231,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 718,
         "name": "Go Ahead Eagles",
@@ -1297,7 +1297,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -1363,7 +1363,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -1429,7 +1429,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
@@ -1495,7 +1495,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -1561,7 +1561,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 1915,
         "name": "NEC",
@@ -1627,7 +1627,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -1689,11 +1689,11 @@
       },
       "id": 537468,
       "utcDate": "2025-08-29T18:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-24T01:32:03Z",
+      "lastUpdated": "2025-08-30T00:20:55Z",
       "homeTeam": {
         "id": 677,
         "name": "FC Groningen",
@@ -1709,21 +1709,28 @@
         "crest": "https://crests.football-data.org/671.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 4,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 17141,
+          "name": "Rob Dieperink",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -1752,7 +1759,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-30T01:32:00Z",
       "homeTeam": {
         "id": 1919,
         "name": "FC Volendam",
@@ -1870,7 +1877,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -1929,7 +1936,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:04Z",
+      "lastUpdated": "2025-08-30T01:32:01Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -2106,7 +2113,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:05Z",
+      "lastUpdated": "2025-08-30T01:32:02Z",
       "homeTeam": {
         "id": 6806,
         "name": "Sparta Rotterdam",
@@ -2165,7 +2172,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:05Z",
+      "lastUpdated": "2025-08-30T01:32:02Z",
       "homeTeam": {
         "id": 681,
         "name": "NAC Breda",
@@ -2224,7 +2231,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -2342,7 +2349,7 @@
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 1915,
         "name": "NEC",
@@ -3168,7 +3175,7 @@
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -3522,7 +3529,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -3640,7 +3647,7 @@
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -3994,7 +4001,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 6806,
         "name": "Sparta Rotterdam",
@@ -4112,7 +4119,7 @@
       "matchday": 8,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 684,
         "name": "PEC Zwolle",
@@ -4584,7 +4591,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -4643,7 +4650,7 @@
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -5292,7 +5299,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 666,
         "name": "FC Twente '65",
@@ -5351,7 +5358,7 @@
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 675,
         "name": "Feyenoord Rotterdam",
@@ -5528,7 +5535,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -5705,7 +5712,7 @@
       "matchday": 11,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -6354,7 +6361,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -6413,7 +6420,7 @@
       "matchday": 12,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 682,
         "name": "AZ",
@@ -6590,7 +6597,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -6885,7 +6892,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 681,
         "name": "NAC Breda",
@@ -7121,7 +7128,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -7475,7 +7482,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -7947,7 +7954,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 1920,
         "name": "Fortuna Sittard",
@@ -8065,7 +8072,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
@@ -8183,7 +8190,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -8478,7 +8485,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -8773,7 +8780,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -9186,7 +9193,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 1915,
         "name": "NEC",
@@ -9304,7 +9311,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -9658,7 +9665,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -9776,7 +9783,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -10012,7 +10019,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 1920,
         "name": "Fortuna Sittard",
@@ -10307,7 +10314,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -10661,7 +10668,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -10897,7 +10904,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -11192,7 +11199,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -11369,7 +11376,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 682,
         "name": "AZ",
@@ -11428,7 +11435,7 @@
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 677,
         "name": "FC Groningen",
@@ -11900,7 +11907,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -12077,7 +12084,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 1919,
         "name": "FC Volendam",
@@ -12431,7 +12438,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -12844,7 +12851,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -13139,7 +13146,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 671,
         "name": "Heracles Almelo",
@@ -13257,7 +13264,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 684,
         "name": "PEC Zwolle",
@@ -13552,7 +13559,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 677,
         "name": "FC Groningen",
@@ -13906,7 +13913,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -14024,7 +14031,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -14378,7 +14385,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -14673,7 +14680,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 675,
         "name": "Feyenoord Rotterdam",
@@ -15027,7 +15034,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -15086,7 +15093,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -15440,7 +15447,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -15853,7 +15860,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 671,
         "name": "Heracles Almelo",
@@ -16030,7 +16037,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 6806,
         "name": "Sparta Rotterdam",
@@ -16384,7 +16391,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 681,
         "name": "NAC Breda",
@@ -16443,7 +16450,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -16679,7 +16686,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -17210,7 +17217,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -17505,7 +17512,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 718,
         "name": "Go Ahead Eagles",
@@ -18095,7 +18102,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -18154,7 +18161,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T00:20:55Z",
+      "lastUpdated": "2025-08-29T05:20:56Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
