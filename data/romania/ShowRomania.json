@@ -2,15 +2,15 @@
   {
     "data": "29/08/2025",
     "partita": "Rapid vs UTA Arad",
-    "risultato": "",
+    "risultato": "2-0",
     "previsione": "1 - 1",
-    "p1": "22,50%",
-    "pX": "57,78%",
-    "p2": "19,72%",
-    "pUnder": "57,78%",
-    "pOver": "42,22%",
-    "pGG": "91,11%",
-    "pNG": "8,89%"
+    "p1": "35,60%",
+    "pX": "50,24%",
+    "p2": "14,17%",
+    "pUnder": "64,52%",
+    "pOver": "35,48%",
+    "pGG": "78,81%",
+    "pNG": "21,19%"
   },
   {
     "data": "30/08/2025",
@@ -76,5 +76,31 @@
     "pOver": "67,16%",
     "pGG": "75,27%",
     "pNG": "24,73%"
+  },
+  {
+    "data": "01/09/2025",
+    "partita": "Csikszereda vs Otelul",
+    "risultato": "",
+    "previsione": "1 - 2",
+    "p1": "15,00%",
+    "pX": "28,57%",
+    "p2": "56,43%",
+    "pUnder": "37,86%",
+    "pOver": "62,14%",
+    "pGG": "67,86%",
+    "pNG": "32,14%"
+  },
+  {
+    "data": "01/09/2025",
+    "partita": "FCV Farul Constanta vs Petrolul 52",
+    "risultato": "",
+    "previsione": "1 - 1",
+    "p1": "39,61%",
+    "pX": "31,32%",
+    "p2": "29,08%",
+    "pUnder": "60,26%",
+    "pOver": "39,74%",
+    "pGG": "57,63%",
+    "pNG": "42,37%"
   }
 ]
