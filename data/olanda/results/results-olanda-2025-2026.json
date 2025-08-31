@@ -6,7 +6,7 @@
     "count": 306,
     "first": "2025-08-08",
     "last": "2026-05-17",
-    "played": 26
+    "played": 30
   },
   "competition": {
     "id": 2003,
@@ -43,7 +43,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 1920,
         "name": "Fortuna Sittard",
@@ -109,7 +109,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 1915,
         "name": "NEC",
@@ -175,7 +175,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 675,
         "name": "Feyenoord Rotterdam",
@@ -241,7 +241,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
@@ -307,7 +307,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -373,7 +373,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 684,
         "name": "PEC Zwolle",
@@ -439,7 +439,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -505,7 +505,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 682,
         "name": "AZ",
@@ -571,7 +571,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -637,7 +637,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -703,7 +703,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -769,7 +769,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 671,
         "name": "Heracles Almelo",
@@ -835,7 +835,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 677,
         "name": "FC Groningen",
@@ -901,7 +901,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 718,
         "name": "Go Ahead Eagles",
@@ -967,7 +967,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 6806,
         "name": "Sparta Rotterdam",
@@ -1033,7 +1033,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 666,
         "name": "FC Twente '65",
@@ -1099,7 +1099,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 1919,
         "name": "FC Volendam",
@@ -1165,7 +1165,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 681,
         "name": "NAC Breda",
@@ -1231,7 +1231,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 718,
         "name": "Go Ahead Eagles",
@@ -1297,7 +1297,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -1363,7 +1363,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 1912,
         "name": "Telstar 1963",
@@ -1429,7 +1429,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
@@ -1495,7 +1495,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 676,
         "name": "FC Utrecht",
@@ -1561,7 +1561,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 1915,
         "name": "NEC",
@@ -1627,7 +1627,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 678,
         "name": "AFC Ajax",
@@ -1693,7 +1693,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 677,
         "name": "FC Groningen",
@@ -1755,11 +1755,11 @@
       },
       "id": 537469,
       "utcDate": "2025-08-30T14:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T01:32:00Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 1919,
         "name": "FC Volendam",
@@ -1775,21 +1775,28 @@
         "crest": "https://crests.football-data.org/678.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 81350,
+          "name": "Alex Bos",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -1814,11 +1821,11 @@
       },
       "id": 537470,
       "utcDate": "2025-08-30T16:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:03Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 673,
         "name": "SC Heerenveen",
@@ -1834,21 +1841,28 @@
         "crest": "https://crests.football-data.org/718.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 9561,
+          "name": "Allard Lindhout",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -1873,11 +1887,11 @@
       },
       "id": 537471,
       "utcDate": "2025-08-30T18:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-29T05:20:56Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 674,
         "name": "PSV",
@@ -1893,21 +1907,28 @@
         "crest": "https://crests.football-data.org/1912.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 2
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 81036,
+          "name": "Robin Hensgens",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -1932,11 +1953,11 @@
       },
       "id": 537472,
       "utcDate": "2025-08-30T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T01:32:01Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 670,
         "name": "SBV Excelsior",
@@ -1952,21 +1973,28 @@
         "crest": "https://crests.football-data.org/666.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 17127,
+          "name": "Ingmar Oostrom",
+          "type": "REFEREE",
+          "nationality": "Netherlands"
+        }
+      ]
     },
     {
       "area": {
@@ -1995,7 +2023,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:04Z",
+      "lastUpdated": "2025-08-31T01:32:00Z",
       "homeTeam": {
         "id": 1920,
         "name": "Fortuna Sittard",
@@ -2172,7 +2200,7 @@
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T01:32:02Z",
+      "lastUpdated": "2025-08-31T01:32:00Z",
       "homeTeam": {
         "id": 681,
         "name": "NAC Breda",

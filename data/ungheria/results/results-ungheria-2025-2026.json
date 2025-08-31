@@ -337,46 +337,6 @@
             }
           },
           {
-            "id": 961417,
-            "date": "26/07/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3135,
-                "name": "Ujpest"
-              },
-              "away": {
-                "id": 3159,
-                "name": "Diosgyor"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 961413,
             "date": "26/07/2025",
             "time": "15:00",
@@ -428,6 +388,46 @@
               "away": {
                 "id": 3153,
                 "name": "Kisvarda"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961417,
+            "date": "26/07/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3135,
+                "name": "Ujpest"
+              },
+              "away": {
+                "id": 3159,
+                "name": "Diosgyor"
               }
             },
             "status": "pre-match",
@@ -2103,17 +2103,17 @@
             }
           },
           {
-            "id": 961421,
+            "id": 961354,
             "date": "02/08/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 5838,
-                "name": "Gyori ETO"
+                "id": 18798,
+                "name": "None"
               },
               "away": {
-                "id": 3135,
-                "name": "Ujpest"
+                "id": 18798,
+                "name": "None"
               }
             },
             "status": "pre-match",
@@ -2183,17 +2183,17 @@
             }
           },
           {
-            "id": 961354,
+            "id": 961421,
             "date": "02/08/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 18798,
-                "name": "None"
+                "id": 5838,
+                "name": "Gyori ETO"
               },
               "away": {
-                "id": 18798,
-                "name": "None"
+                "id": 3135,
+                "name": "Ujpest"
               }
             },
             "status": "pre-match",
@@ -3940,17 +3940,17 @@
             }
           },
           {
-            "id": 961424,
+            "id": 961355,
             "date": "09/08/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3153,
-                "name": "Kisvarda"
+                "id": 18798,
+                "name": "None"
               },
               "away": {
-                "id": 3134,
-                "name": "Puskas"
+                "id": 18798,
+                "name": "None"
               }
             },
             "status": "pre-match",
@@ -3980,17 +3980,17 @@
             }
           },
           {
-            "id": 961355,
+            "id": 961424,
             "date": "09/08/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 18798,
-                "name": "None"
+                "id": 3153,
+                "name": "Kisvarda"
               },
               "away": {
-                "id": 18798,
-                "name": "None"
+                "id": 3134,
+                "name": "Puskas"
               }
             },
             "status": "pre-match",
@@ -4609,6 +4609,237 @@
             }
           },
           {
+            "id": 966931,
+            "date": "10/08/2025",
+            "time": "15:45",
+            "teams": {
+              "home": {
+                "id": 3635,
+                "name": "Zalaegerszegi TE"
+              },
+              "away": {
+                "id": 5838,
+                "name": "Gyori ETO"
+              }
+            },
+            "status": "finished",
+            "minute": -1,
+            "winner": "draw",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 1,
+              "away_ht_goals": 0,
+              "home_ft_goals": 1,
+              "away_ft_goals": 1,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "5",
+                "team": "away",
+                "player": {
+                  "id": 230670,
+                  "name": "M. Huszar"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "19",
+                "team": "away",
+                "player": {
+                  "id": 78944,
+                  "name": "D. Boldor"
+                }
+              },
+              {
+                "event_type": "penalty_goal",
+                "event_minute": "20",
+                "team": "home",
+                "player": {
+                  "id": 34934,
+                  "name": "A. Skribek"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "56",
+                "team": "away",
+                "player_in": {
+                  "id": 229448,
+                  "name": "R. Toth"
+                },
+                "player_out": {
+                  "id": 229472,
+                  "name": "K. Bánáti"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "56",
+                "team": "away",
+                "player_in": {
+                  "id": 142885,
+                  "name": "M. Csinger"
+                },
+                "player_out": {
+                  "id": 43027,
+                  "name": "A. Abrahamsson"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "57",
+                "team": "away",
+                "player_in": {
+                  "id": 40070,
+                  "name": "A. Benbouali"
+                },
+                "player_out": {
+                  "id": 27033,
+                  "name": "S. Ouro"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "66",
+                "team": "home",
+                "player_in": {
+                  "id": 267824,
+                  "name": "Máté Rózsa"
+                },
+                "player_out": {
+                  "id": 34934,
+                  "name": "A. Skribek"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "74",
+                "team": "home",
+                "player_in": {
+                  "id": 29329,
+                  "name": "B. Bakti"
+                },
+                "player_out": {
+                  "id": 105754,
+                  "name": "João Victor"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "74",
+                "team": "home",
+                "player_in": {
+                  "id": 33614,
+                  "name": "A. Huszti"
+                },
+                "player_out": {
+                  "id": 227795,
+                  "name": "C. Denes"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "74",
+                "team": "away",
+                "player_in": {
+                  "id": 26838,
+                  "name": "J. Zivkovic"
+                },
+                "player_out": {
+                  "id": 267648,
+                  "name": "I. Tollár"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "74",
+                "team": "away",
+                "player_in": {
+                  "id": 230670,
+                  "name": "M. Huszar"
+                },
+                "player_out": {
+                  "id": 230670,
+                  "name": "M. Huszar"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "77",
+                "team": "away",
+                "player": {
+                  "id": 26838,
+                  "name": "J. Zivkovic"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "81",
+                "team": "away",
+                "player": {
+                  "id": 230670,
+                  "name": "M. Huszar"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "90",
+                "team": "home",
+                "player_in": {
+                  "id": 33734,
+                  "name": "M. Klausz"
+                },
+                "player_out": {
+                  "id": 28944,
+                  "name": "Y. Croizet"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "75",
+                "team": "away",
+                "player_in": {
+                  "id": 26838,
+                  "name": "J. Zivkovic"
+                },
+                "player_out": {
+                  "id": 267648,
+                  "name": "I. Tollár"
+                }
+              }
+            ],
+            "odds": {
+              "match_winner": {
+                "home": 1.95,
+                "draw": 3.75,
+                "away": 3.28
+              },
+              "over_under": {
+                "total": 2.75,
+                "over": 1.8,
+                "under": 2.01
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 2,
+                "away": 1.83
+              },
+              "last_modified_timestamp": 1754847104
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 966930,
             "date": "10/08/2025",
             "time": "15:45",
@@ -4850,237 +5081,6 @@
                 "market": "+0.5",
                 "home": 1.98,
                 "away": 1.82
-              },
-              "last_modified_timestamp": 1754847104
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 966931,
-            "date": "10/08/2025",
-            "time": "15:45",
-            "teams": {
-              "home": {
-                "id": 3635,
-                "name": "Zalaegerszegi TE"
-              },
-              "away": {
-                "id": 5838,
-                "name": "Gyori ETO"
-              }
-            },
-            "status": "finished",
-            "minute": -1,
-            "winner": "draw",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 1,
-              "away_ht_goals": 0,
-              "home_ft_goals": 1,
-              "away_ft_goals": 1,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [
-              {
-                "event_type": "yellow_card",
-                "event_minute": "5",
-                "team": "away",
-                "player": {
-                  "id": 230670,
-                  "name": "M. Huszar"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "19",
-                "team": "away",
-                "player": {
-                  "id": 78944,
-                  "name": "D. Boldor"
-                }
-              },
-              {
-                "event_type": "penalty_goal",
-                "event_minute": "20",
-                "team": "home",
-                "player": {
-                  "id": 34934,
-                  "name": "A. Skribek"
-                },
-                "assist_player": null
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "56",
-                "team": "away",
-                "player_in": {
-                  "id": 229448,
-                  "name": "R. Toth"
-                },
-                "player_out": {
-                  "id": 229472,
-                  "name": "K. Bánáti"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "56",
-                "team": "away",
-                "player_in": {
-                  "id": 142885,
-                  "name": "M. Csinger"
-                },
-                "player_out": {
-                  "id": 43027,
-                  "name": "A. Abrahamsson"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "57",
-                "team": "away",
-                "player_in": {
-                  "id": 40070,
-                  "name": "A. Benbouali"
-                },
-                "player_out": {
-                  "id": 27033,
-                  "name": "S. Ouro"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "66",
-                "team": "home",
-                "player_in": {
-                  "id": 267824,
-                  "name": "Máté Rózsa"
-                },
-                "player_out": {
-                  "id": 34934,
-                  "name": "A. Skribek"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "74",
-                "team": "home",
-                "player_in": {
-                  "id": 29329,
-                  "name": "B. Bakti"
-                },
-                "player_out": {
-                  "id": 105754,
-                  "name": "João Victor"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "74",
-                "team": "home",
-                "player_in": {
-                  "id": 33614,
-                  "name": "A. Huszti"
-                },
-                "player_out": {
-                  "id": 227795,
-                  "name": "C. Denes"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "74",
-                "team": "away",
-                "player_in": {
-                  "id": 26838,
-                  "name": "J. Zivkovic"
-                },
-                "player_out": {
-                  "id": 267648,
-                  "name": "I. Tollár"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "74",
-                "team": "away",
-                "player_in": {
-                  "id": 230670,
-                  "name": "M. Huszar"
-                },
-                "player_out": {
-                  "id": 230670,
-                  "name": "M. Huszar"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "77",
-                "team": "away",
-                "player": {
-                  "id": 26838,
-                  "name": "J. Zivkovic"
-                }
-              },
-              {
-                "event_type": "goal",
-                "event_minute": "81",
-                "team": "away",
-                "player": {
-                  "id": 230670,
-                  "name": "M. Huszar"
-                },
-                "assist_player": null
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "90",
-                "team": "home",
-                "player_in": {
-                  "id": 33734,
-                  "name": "M. Klausz"
-                },
-                "player_out": {
-                  "id": 28944,
-                  "name": "Y. Croizet"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "75",
-                "team": "away",
-                "player_in": {
-                  "id": 26838,
-                  "name": "J. Zivkovic"
-                },
-                "player_out": {
-                  "id": 267648,
-                  "name": "I. Tollár"
-                }
-              }
-            ],
-            "odds": {
-              "match_winner": {
-                "home": 1.95,
-                "draw": 3.75,
-                "away": 3.28
-              },
-              "over_under": {
-                "total": 2.75,
-                "over": 1.8,
-                "under": 2.01
-              },
-              "handicap": {
-                "market": -0.5,
-                "home": 2,
-                "away": 1.83
               },
               "last_modified_timestamp": 1754847104
             },
@@ -5589,17 +5589,17 @@
             }
           },
           {
-            "id": 961432,
+            "id": 961431,
             "date": "16/08/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4351,
-                "name": "Paksi FC"
+                "id": 5838,
+                "name": "Gyori ETO"
               },
               "away": {
-                "id": 3635,
-                "name": "Zalaegerszegi TE"
+                "id": 3158,
+                "name": "MTK"
               }
             },
             "status": "pre-match",
@@ -5629,17 +5629,17 @@
             }
           },
           {
-            "id": 961431,
+            "id": 961432,
             "date": "16/08/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 5838,
-                "name": "Gyori ETO"
+                "id": 4351,
+                "name": "Paksi FC"
               },
               "away": {
-                "id": 3158,
-                "name": "MTK"
+                "id": 3635,
+                "name": "Zalaegerszegi TE"
               }
             },
             "status": "pre-match",
@@ -6585,6 +6585,59 @@
             }
           },
           {
+            "id": 968229,
+            "date": "17/08/2025",
+            "time": "15:45",
+            "teams": {
+              "home": {
+                "id": 5838,
+                "name": "Gyori ETO"
+              },
+              "away": {
+                "id": 3158,
+                "name": "MTK"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 2.48,
+                "draw": 3.6,
+                "away": 2.45
+              },
+              "over_under": {
+                "total": 3.25,
+                "over": 1.95,
+                "under": 1.82
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 2.02,
+                "away": 1.76
+              },
+              "last_modified_timestamp": 1755273768
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 969176,
             "date": "17/08/2025",
             "time": "15:45",
@@ -6918,59 +6971,6 @@
                 "away": 1.76
               },
               "last_modified_timestamp": 1755455525
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 968229,
-            "date": "17/08/2025",
-            "time": "15:45",
-            "teams": {
-              "home": {
-                "id": 5838,
-                "name": "Gyori ETO"
-              },
-              "away": {
-                "id": 3158,
-                "name": "MTK"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 2.48,
-                "draw": 3.6,
-                "away": 2.45
-              },
-              "over_under": {
-                "total": 3.25,
-                "over": 1.95,
-                "under": 1.82
-              },
-              "handicap": {
-                "market": -0.5,
-                "home": 2.02,
-                "away": 1.76
-              },
-              "last_modified_timestamp": 1755273768
             },
             "match_preview": {
               "has_preview": false,
@@ -7524,86 +7524,6 @@
             }
           },
           {
-            "id": 961433,
-            "date": "23/08/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3131,
-                "name": "Kazincbarcika"
-              },
-              "away": {
-                "id": 5838,
-                "name": "Gyori ETO"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961434,
-            "date": "23/08/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3153,
-                "name": "Kisvarda"
-              },
-              "away": {
-                "id": 2937,
-                "name": "Ferencvaros"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 961435,
             "date": "23/08/2025",
             "time": "15:00",
@@ -7644,6 +7564,46 @@
             }
           },
           {
+            "id": 961433,
+            "date": "23/08/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3131,
+                "name": "Kazincbarcika"
+              },
+              "away": {
+                "id": 5838,
+                "name": "Gyori ETO"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 961437,
             "date": "23/08/2025",
             "time": "15:00",
@@ -7655,6 +7615,46 @@
               "away": {
                 "id": 3796,
                 "name": "Debrecen"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961434,
+            "date": "23/08/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3153,
+                "name": "Kisvarda"
+              },
+              "away": {
+                "id": 2937,
+                "name": "Ferencvaros"
               }
             },
             "status": "pre-match",
@@ -8184,6 +8184,29 @@
                   "id": 44361,
                   "name": "D. Gera"
                 }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "82",
+                "team": "away",
+                "player": {
+                  "id": 272631,
+                  "name": "Bálint Tuska"
+                },
+                "assist_player": {
+                  "id": 29167,
+                  "name": "E. Acolatse"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "88",
+                "team": "away",
+                "player": {
+                  "id": 272631,
+                  "name": "Bálint Tuska"
+                },
+                "assist_player": null
               }
             ],
             "odds": {
@@ -8558,7 +8581,7 @@
               },
               {
                 "event_type": "substitution",
-                "event_minute": "52",
+                "event_minute": "51",
                 "team": "away",
                 "player_in": {
                   "id": 124923,
@@ -8741,6 +8764,276 @@
                 "name": "None"
               }
             },
+            "status": "finished",
+            "minute": -1,
+            "winner": "away",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 2,
+              "home_ft_goals": 1,
+              "away_ft_goals": 2,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "19",
+                "team": "home",
+                "player": {
+                  "id": 166514,
+                  "name": "D. Lopez"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "26",
+                "team": "home",
+                "player": {
+                  "id": 166981,
+                  "name": "N. Szendrei"
+                }
+              },
+              {
+                "event_type": "penalty_goal",
+                "event_minute": "27",
+                "team": "home",
+                "player": {
+                  "id": 32228,
+                  "name": "B. Cipetic"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "45",
+                "team": "home",
+                "player": {
+                  "id": 43814,
+                  "name": "K. Nagy"
+                },
+                "assist_player": {
+                  "id": 124919,
+                  "name": "B. Bíró"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 43771,
+                  "name": "B. Kiss"
+                },
+                "player_out": {
+                  "id": 166514,
+                  "name": "D. Lopez"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 29329,
+                  "name": "B. Bakti"
+                },
+                "player_out": {
+                  "id": 34934,
+                  "name": "A. Skribek"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 33734,
+                  "name": "M. Klausz"
+                },
+                "player_out": {
+                  "id": 105754,
+                  "name": "João Victor"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "66",
+                "team": "home",
+                "player_in": {
+                  "id": 32242,
+                  "name": "K. Kormendi"
+                },
+                "player_out": {
+                  "id": 124919,
+                  "name": "B. Bíró"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "home",
+                "player_in": {
+                  "id": 44336,
+                  "name": "S. Medgyes"
+                },
+                "player_out": {
+                  "id": 33709,
+                  "name": "D. Soltesz"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "home",
+                "player_in": {
+                  "id": 32235,
+                  "name": "A. Jovicic"
+                },
+                "player_out": {
+                  "id": 43814,
+                  "name": "K. Nagy"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "73",
+                "team": "home",
+                "player_in": {
+                  "id": 199213,
+                  "name": "A. Pintér"
+                },
+                "player_out": {
+                  "id": 32356,
+                  "name": "J. Mesanovic"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "75",
+                "team": "home",
+                "player_in": {
+                  "id": 88137,
+                  "name": "Max"
+                },
+                "player_out": {
+                  "id": 59404,
+                  "name": "J. Peraza"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "76",
+                "team": "home",
+                "player": {
+                  "id": 32242,
+                  "name": "K. Kormendi"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "78",
+                "team": "home",
+                "player": {
+                  "id": 33734,
+                  "name": "M. Klausz"
+                },
+                "assist_player": {
+                  "id": 33744,
+                  "name": "C. Papp"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "82",
+                "team": "home",
+                "player": {
+                  "id": 166514,
+                  "name": "D. Lopez"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "83",
+                "team": "home",
+                "player": {
+                  "id": 32228,
+                  "name": "B. Cipetic"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "83",
+                "team": "home",
+                "player": {
+                  "id": 33744,
+                  "name": "C. Papp"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "84",
+                "team": "home",
+                "player_in": {
+                  "id": 32259,
+                  "name": "T. Lippai"
+                },
+                "player_out": {
+                  "id": 32228,
+                  "name": "B. Cipetic"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "87",
+                "team": "home",
+                "player": {
+                  "id": 33541,
+                  "name": "B. Matic"
+                }
+              }
+            ],
+            "odds": {
+              "match_winner": {
+                "home": 2.02,
+                "draw": 3.5,
+                "away": 3.25
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.67,
+                "under": 2.1
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 2.08,
+                "away": 1.79
+              },
+              "last_modified_timestamp": 1756560742
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961438,
+            "date": "30/08/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3796,
+                "name": "Debrecen"
+              },
+              "away": {
+                "id": 2937,
+                "name": "Ferencvaros"
+              }
+            },
             "status": "pre-match",
             "minute": -1,
             "winner": "tbd",
@@ -8758,22 +9051,9 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {
-                "home": 2,
-                "draw": 3.5,
-                "away": 3.4
-              },
-              "over_under": {
-                "total": 2.5,
-                "over": 1.68,
-                "under": 2.1
-              },
-              "handicap": {
-                "market": -0.5,
-                "home": 2.02,
-                "away": 1.81
-              },
-              "last_modified_timestamp": 1756537343
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
             },
             "match_preview": {
               "has_preview": false,
@@ -8834,79 +9114,186 @@
                 "name": "Puskas"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "draw",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
+              "home_ht_goals": 1,
               "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "home_ft_goals": 1,
+              "away_ft_goals": 1,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "own_goal",
+                "event_minute": "12",
+                "team": "away",
+                "player": {
+                  "id": 31938,
+                  "name": "Q. Maceiras"
+                }
+              },
+              {
+                "event_type": "penalty_goal",
+                "event_minute": "49",
+                "team": "away",
+                "player": {
+                  "id": 29307,
+                  "name": "Z. Nagy"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "51",
+                "team": "home",
+                "player": {
+                  "id": 29755,
+                  "name": "A. Roguljic"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "61",
+                "team": "away",
+                "player": {
+                  "id": 213329,
+                  "name": "Ákos Markgráf"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "64",
+                "team": "home",
+                "player_in": {
+                  "id": 44348,
+                  "name": "A. Bényei"
+                },
+                "player_out": {
+                  "id": 29755,
+                  "name": "A. Roguljic"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "64",
+                "team": "home",
+                "player_in": {
+                  "id": 249764,
+                  "name": "B. Szakos"
+                },
+                "player_out": {
+                  "id": 272631,
+                  "name": "Bálint Tuska"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "64",
+                "team": "home",
+                "player_in": {
+                  "id": 26977,
+                  "name": "I. Saponjic"
+                },
+                "player_out": {
+                  "id": 33745,
+                  "name": "M. Sajban"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "78",
+                "team": "home",
+                "player_in": {
+                  "id": 44318,
+                  "name": "S. Bokros"
+                },
+                "player_out": {
+                  "id": 44361,
+                  "name": "D. Gera"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "81",
+                "team": "home",
+                "player_in": {
+                  "id": 44353,
+                  "name": "G. Holdampf"
+                },
+                "player_out": {
+                  "id": 29167,
+                  "name": "E. Acolatse"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "84",
+                "team": "home",
+                "player": {
+                  "id": 44348,
+                  "name": "A. Bényei"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "86",
+                "team": "away",
+                "player_in": {
+                  "id": 27510,
+                  "name": "M. Soisalo"
+                },
+                "player_out": {
+                  "id": 270902,
+                  "name": "Zoárd Nagy"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "88",
+                "team": "away",
+                "player": {
+                  "id": 44368,
+                  "name": "D. Lukács"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "90",
+                "team": "away",
+                "player_in": {
+                  "id": 157543,
+                  "name": "Z. Nagy"
+                },
+                "player_out": {
+                  "id": 29400,
+                  "name": "L. Colley"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
                 "home": 3.3,
-                "draw": 3.74,
-                "away": 2
+                "draw": 3.7,
+                "away": 1.98
               },
               "over_under": {
                 "total": 3,
-                "over": 1.87,
-                "under": 1.84
+                "over": 1.91,
+                "under": 1.9
               },
               "handicap": {
                 "market": "+0.5",
-                "home": 1.83,
+                "home": 1.85,
                 "away": 2
               },
-              "last_modified_timestamp": 1756537343
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961438,
-            "date": "30/08/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3796,
-                "name": "Debrecen"
-              },
-              "away": {
-                "id": 2937,
-                "name": "Ferencvaros"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "last_modified_timestamp": 1756573328
             },
             "match_preview": {
               "has_preview": false,
@@ -8927,39 +9314,251 @@
                 "name": "MTK"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "away",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
+              "home_ht_goals": 1,
               "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "home_ft_goals": 1,
+              "away_ft_goals": 2,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "23",
+                "team": "home",
+                "player": {
+                  "id": 33735,
+                  "name": "A. Matko"
+                },
+                "assist_player": {
+                  "id": 69826,
+                  "name": "M. Tučić"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "38",
+                "team": "away",
+                "player": {
+                  "id": 44307,
+                  "name": "M. Kata"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "away",
+                "player_in": {
+                  "id": 81345,
+                  "name": "R. Polievka"
+                },
+                "player_out": {
+                  "id": 236204,
+                  "name": "V. Vitalyos"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "54",
+                "team": "away",
+                "player": {
+                  "id": 43919,
+                  "name": "R. Lehoczky"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "55",
+                "team": "away",
+                "player": {
+                  "id": 124968,
+                  "name": "Z. Kerezsi"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "58",
+                "team": "home",
+                "player_in": {
+                  "id": 103392,
+                  "name": "M. Ljujić"
+                },
+                "player_out": {
+                  "id": 44876,
+                  "name": "D. Rasak"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "58",
+                "team": "away",
+                "player_in": {
+                  "id": 253909,
+                  "name": "Hunor Németh"
+                },
+                "player_out": {
+                  "id": 67669,
+                  "name": "Á. Zalán"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "68",
+                "team": "away",
+                "player_in": {
+                  "id": 124906,
+                  "name": "J. Szépe"
+                },
+                "player_out": {
+                  "id": 43919,
+                  "name": "R. Lehoczky"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "68",
+                "team": "away",
+                "player_in": {
+                  "id": 44294,
+                  "name": "I. Bognár"
+                },
+                "player_out": {
+                  "id": 124968,
+                  "name": "Z. Kerezsi"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "72",
+                "team": "home",
+                "player_in": {
+                  "id": 59850,
+                  "name": "F. Brodić"
+                },
+                "player_out": {
+                  "id": 33735,
+                  "name": "A. Matko"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "72",
+                "team": "home",
+                "player_in": {
+                  "id": 41616,
+                  "name": "G. Beridze"
+                },
+                "player_out": {
+                  "id": 42346,
+                  "name": "K. Horváth"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "76",
+                "team": "home",
+                "player": {
+                  "id": 41616,
+                  "name": "G. Beridze"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "78",
+                "team": "home",
+                "player_in": {
+                  "id": 40693,
+                  "name": "André Duarte"
+                },
+                "player_out": {
+                  "id": 29185,
+                  "name": "D. Kobouri"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "78",
+                "team": "home",
+                "player_in": {
+                  "id": 24842,
+                  "name": "A. Ademi"
+                },
+                "player_out": {
+                  "id": 64399,
+                  "name": "T. Lacoux"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "away",
+                "player_in": {
+                  "id": 44340,
+                  "name": "K. Németh"
+                },
+                "player_out": {
+                  "id": 44364,
+                  "name": "M. Jurina"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "84",
+                "team": "away",
+                "player": {
+                  "id": 44294,
+                  "name": "I. Bognár"
+                },
+                "assist_player": {
+                  "id": 81345,
+                  "name": "R. Polievka"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "home",
+                "player": {
+                  "id": 69826,
+                  "name": "M. Tučić"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "home",
+                "player": {
+                  "id": 34287,
+                  "name": "Iuri Medeiros"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 1.95,
-                "draw": 3.6,
-                "away": 3.4
+                "home": 1.75,
+                "draw": 3.8,
+                "away": 3.9
               },
               "over_under": {
-                "total": 2.75,
-                "over": 1.79,
-                "under": 1.97
+                "total": 3,
+                "over": 1.98,
+                "under": 1.83
               },
               "handicap": {
                 "market": -0.5,
-                "home": 1.97,
-                "away": 1.85
+                "home": 1.8,
+                "away": 2
               },
-              "last_modified_timestamp": 1756537343
+              "last_modified_timestamp": 1756582317
             },
             "match_preview": {
               "has_preview": false,
@@ -8998,21 +9597,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.65,
-                "draw": 4,
-                "away": 4.5
+                "home": 1.67,
+                "draw": 3.9,
+                "away": 4.4
               },
               "over_under": {
                 "total": 2.75,
-                "over": 1.78,
-                "under": 2
+                "over": 1.79,
+                "under": 2.01
               },
               "handicap": {
                 "market": -1,
-                "home": 2.1,
+                "home": 2.15,
                 "away": 1.7
               },
-              "last_modified_timestamp": 1756537343
+              "last_modified_timestamp": 1756620097
             },
             "match_preview": {
               "has_preview": false,
@@ -9051,21 +9650,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 4.4,
+                "home": 4.2,
                 "draw": 3.9,
-                "away": 1.67
+                "away": 1.69
               },
               "over_under": {
                 "total": 3,
-                "over": 1.95,
-                "under": 1.83
+                "over": 1.91,
+                "under": 1.85
               },
               "handicap": {
-                "market": "+0.75",
-                "home": 1.93,
-                "away": 1.85
+                "market": "+0.5",
+                "home": 2.15,
+                "away": 1.7
               },
-              "last_modified_timestamp": 1756537343
+              "last_modified_timestamp": 1756620097
             },
             "match_preview": {
               "has_preview": false,
@@ -9073,57 +9672,17 @@
             }
           },
           {
-            "id": 961445,
+            "id": 961359,
             "date": "20/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3153,
-                "name": "Kisvarda"
+                "id": 18798,
+                "name": "None"
               },
               "away": {
-                "id": 3796,
-                "name": "Debrecen"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961446,
-            "date": "20/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3158,
-                "name": "MTK"
-              },
-              "away": {
-                "id": 3635,
-                "name": "Zalaegerszegi TE"
+                "id": 18798,
+                "name": "None"
               }
             },
             "status": "pre-match",
@@ -9193,57 +9752,17 @@
             }
           },
           {
-            "id": 961359,
+            "id": 961446,
             "date": "20/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 18798,
-                "name": "None"
+                "id": 3158,
+                "name": "MTK"
               },
               "away": {
-                "id": 18798,
-                "name": "None"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961443,
-            "date": "20/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2937,
-                "name": "Ferencvaros"
-              },
-              "away": {
-                "id": 3159,
-                "name": "Diosgyor"
+                "id": 3635,
+                "name": "Zalaegerszegi TE"
               }
             },
             "status": "pre-match",
@@ -9313,6 +9832,86 @@
             }
           },
           {
+            "id": 961445,
+            "date": "20/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3153,
+                "name": "Kisvarda"
+              },
+              "away": {
+                "id": 3796,
+                "name": "Debrecen"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961443,
+            "date": "20/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2937,
+                "name": "Ferencvaros"
+              },
+              "away": {
+                "id": 3159,
+                "name": "Diosgyor"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 961448,
             "date": "27/09/2025",
             "time": "15:00",
@@ -9324,6 +9923,126 @@
               "away": {
                 "id": 3796,
                 "name": "Debrecen"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961450,
+            "date": "27/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3158,
+                "name": "MTK"
+              },
+              "away": {
+                "id": 3153,
+                "name": "Kisvarda"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961451,
+            "date": "27/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4351,
+                "name": "Paksi FC"
+              },
+              "away": {
+                "id": 3134,
+                "name": "Puskas"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961452,
+            "date": "27/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3135,
+                "name": "Ujpest"
+              },
+              "away": {
+                "id": 6016,
+                "name": "Nyiregyhaza Spartacus"
               }
             },
             "status": "pre-match",
@@ -9433,166 +10152,6 @@
             }
           },
           {
-            "id": 961452,
-            "date": "27/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3135,
-                "name": "Ujpest"
-              },
-              "away": {
-                "id": 6016,
-                "name": "Nyiregyhaza Spartacus"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961451,
-            "date": "27/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4351,
-                "name": "Paksi FC"
-              },
-              "away": {
-                "id": 3134,
-                "name": "Puskas"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961450,
-            "date": "27/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3158,
-                "name": "MTK"
-              },
-              "away": {
-                "id": 3153,
-                "name": "Kisvarda"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961457,
-            "date": "04/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 6016,
-                "name": "Nyiregyhaza Spartacus"
-              },
-              "away": {
-                "id": 3635,
-                "name": "Zalaegerszegi TE"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 961453,
             "date": "04/10/2025",
             "time": "15:00",
@@ -9633,17 +10192,17 @@
             }
           },
           {
-            "id": 961361,
+            "id": 961457,
             "date": "04/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 18798,
-                "name": "None"
+                "id": 6016,
+                "name": "Nyiregyhaza Spartacus"
               },
               "away": {
-                "id": 18798,
-                "name": "None"
+                "id": 3635,
+                "name": "Zalaegerszegi TE"
               }
             },
             "status": "pre-match",
@@ -9764,6 +10323,86 @@
               "away": {
                 "id": 4351,
                 "name": "Paksi FC"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961361,
+            "date": "04/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 18798,
+                "name": "None"
+              },
+              "away": {
+                "id": 18798,
+                "name": "None"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961462,
+            "date": "18/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3135,
+                "name": "Ujpest"
+              },
+              "away": {
+                "id": 2937,
+                "name": "Ferencvaros"
               }
             },
             "status": "pre-match",
@@ -9924,46 +10563,6 @@
               "away": {
                 "id": 3796,
                 "name": "Debrecen"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961462,
-            "date": "18/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3135,
-                "name": "Ujpest"
-              },
-              "away": {
-                "id": 2937,
-                "name": "Ferencvaros"
               }
             },
             "status": "pre-match",

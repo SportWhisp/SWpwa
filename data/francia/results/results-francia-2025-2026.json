@@ -6,7 +6,7 @@
     "count": 306,
     "first": "2025-08-15",
     "last": "2026-05-16",
-    "played": 19
+    "played": 22
   },
   "competition": {
     "id": 2015,
@@ -43,7 +43,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 529,
         "name": "Stade Rennais FC 1901",
@@ -109,7 +109,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 546,
         "name": "Racing Club de Lens",
@@ -175,7 +175,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 548,
         "name": "AS Monaco FC",
@@ -241,7 +241,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 522,
         "name": "OGC Nice",
@@ -307,7 +307,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 512,
         "name": "Stade Brestois 29",
@@ -373,7 +373,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 519,
         "name": "AJ Auxerre",
@@ -439,7 +439,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 545,
         "name": "FC Metz",
@@ -505,7 +505,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 532,
         "name": "Angers SCO",
@@ -571,7 +571,7 @@
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 543,
         "name": "FC Nantes",
@@ -637,7 +637,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 524,
         "name": "Paris Saint-Germain FC",
@@ -703,7 +703,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 516,
         "name": "Olympique de Marseille",
@@ -769,7 +769,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 522,
         "name": "OGC Nice",
@@ -835,7 +835,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 523,
         "name": "Olympique Lyonnais",
@@ -901,7 +901,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 525,
         "name": "FC Lorient",
@@ -967,7 +967,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 533,
         "name": "Le Havre AC",
@@ -1033,7 +1033,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 511,
         "name": "Toulouse FC",
@@ -1099,7 +1099,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 576,
         "name": "RC Strasbourg Alsace",
@@ -1165,7 +1165,7 @@
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 521,
         "name": "Lille OSC",
@@ -1231,7 +1231,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T00:20:55Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 546,
         "name": "Racing Club de Lens",
@@ -1293,11 +1293,11 @@
       },
       "id": 542426,
       "utcDate": "2025-08-30T15:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T01:32:01Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 525,
         "name": "FC Lorient",
@@ -1313,21 +1313,28 @@
         "crest": "https://crests.football-data.org/521.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 7
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 57087,
+          "name": "Romain Lissorgue",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -1352,11 +1359,11 @@
       },
       "id": 542427,
       "utcDate": "2025-08-30T17:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:04Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 543,
         "name": "FC Nantes",
@@ -1372,21 +1379,28 @@
         "crest": "https://crests.football-data.org/519.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 25786,
+          "name": "Stéphanie Frappart",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -1411,11 +1425,11 @@
       },
       "id": 542429,
       "utcDate": "2025-08-30T19:05:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T01:32:01Z",
+      "lastUpdated": "2025-08-31T00:20:53Z",
       "homeTeam": {
         "id": 511,
         "name": "Toulouse FC",
@@ -1431,21 +1445,28 @@
         "crest": "https://crests.football-data.org/524.png"
       },
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 6
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 4
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 57092,
+          "name": "Eric Wattellier",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -1474,7 +1495,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-25T01:32:05Z",
+      "lastUpdated": "2025-08-31T01:32:00Z",
       "homeTeam": {
         "id": 532,
         "name": "Angers SCO",
@@ -1533,7 +1554,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T01:32:02Z",
+      "lastUpdated": "2025-08-31T01:32:00Z",
       "homeTeam": {
         "id": 533,
         "name": "Le Havre AC",
@@ -1592,7 +1613,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T01:32:02Z",
+      "lastUpdated": "2025-08-31T01:32:00Z",
       "homeTeam": {
         "id": 548,
         "name": "AS Monaco FC",
@@ -1710,7 +1731,7 @@
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2025-08-30T01:32:03Z",
+      "lastUpdated": "2025-08-31T01:32:01Z",
       "homeTeam": {
         "id": 523,
         "name": "Olympique Lyonnais",
