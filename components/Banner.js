@@ -26,7 +26,10 @@ export default function Banner({ position = "middle" }) {
   const [isMobile, setIsMobile] = useState(false);
   const pushedRef = useRef(false);
 
-    useEffect(() => {
+  // fallback testuale
+  const bannerSet = ["Pubblicità A", "Pubblicità B", "Pubblicità C", "Pubblicità D", "Pubblicità E"];
+
+  useEffect(() => {
     setIsClient(true);
     setCurrent(Math.floor(Math.random() * bannerSet.length));
 
