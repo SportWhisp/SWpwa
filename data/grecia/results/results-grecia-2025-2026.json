@@ -2488,39 +2488,202 @@
                 "name": "Asteras Tripolis"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "home",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
+              "home_ht_goals": 1,
               "away_ht_goals": 0,
-              "home_ft_goals": 0,
+              "home_ft_goals": 1,
               "away_ft_goals": 0,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "4",
+                "team": "home",
+                "player": {
+                  "id": 26890,
+                  "name": "F. Pierrot"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "23",
+                "team": "away",
+                "player": {
+                  "id": 45125,
+                  "name": "N. Šipčić"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "38",
+                "team": "home",
+                "player": {
+                  "id": 26890,
+                  "name": "F. Pierrot"
+                },
+                "assist_player": {
+                  "id": 30048,
+                  "name": "P. Mantalos"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "62",
+                "team": "away",
+                "player_in": {
+                  "id": 81541,
+                  "name": "J. Mendieta"
+                },
+                "player_out": {
+                  "id": 98699,
+                  "name": "N. Kaltsas"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "63",
+                "team": "away",
+                "player_in": {
+                  "id": 32973,
+                  "name": "E. Yablonskiy"
+                },
+                "player_out": {
+                  "id": 43519,
+                  "name": "Eder González"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "69",
+                "team": "home",
+                "player_in": {
+                  "id": 29414,
+                  "name": "D. Kutesa"
+                },
+                "player_out": {
+                  "id": 40974,
+                  "name": "A. Koita"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "home",
+                "player_in": {
+                  "id": 31371,
+                  "name": "L. Jovic"
+                },
+                "player_out": {
+                  "id": 40264,
+                  "name": "R. Marin"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "71",
+                "team": "away",
+                "player": {
+                  "id": 204804,
+                  "name": "K. Ketu"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "72",
+                "team": "away",
+                "player_in": {
+                  "id": 231994,
+                  "name": "G. Charalampoglou"
+                },
+                "player_out": {
+                  "id": 60164,
+                  "name": "D. Emmanouilidis"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "81",
+                "team": "home",
+                "player": {
+                  "id": 30048,
+                  "name": "P. Mantalos"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "86",
+                "team": "home",
+                "player_in": {
+                  "id": 39378,
+                  "name": "R. Ljubičić"
+                },
+                "player_out": {
+                  "id": 26890,
+                  "name": "F. Pierrot"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "86",
+                "team": "away",
+                "player_in": {
+                  "id": 21757,
+                  "name": "N. Gioacchini"
+                },
+                "player_out": {
+                  "id": 35753,
+                  "name": "F. Macheda"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "86",
+                "team": "away",
+                "player_in": {
+                  "id": 65897,
+                  "name": "R. Ivanov"
+                },
+                "player_out": {
+                  "id": 45125,
+                  "name": "N. Šipčić"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "88",
+                "team": "home",
+                "player": {
+                  "id": 31371,
+                  "name": "L. Jovic"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
                 "home": 1.25,
                 "draw": 5.5,
-                "away": 11
+                "away": 12
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.7,
-                "under": 2.17
+                "over": 1.72,
+                "under": 2.1
               },
               "handicap": {
                 "market": -1.5,
-                "home": 1.8,
-                "away": 2
+                "home": 1.76,
+                "away": 2.05
               },
-              "last_modified_timestamp": 1756620068
+              "last_modified_timestamp": 1756665058
             },
             "match_preview": {
               "has_preview": false,
@@ -2541,39 +2704,233 @@
                 "name": "Atromitos"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "home",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
               "home_ht_goals": 0,
               "away_ht_goals": 0,
-              "home_ft_goals": 0,
+              "home_ft_goals": 1,
               "away_ft_goals": 0,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "34",
+                "team": "away",
+                "player": {
+                  "id": 52039,
+                  "name": "Quini"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "37",
+                "team": "away",
+                "player": {
+                  "id": 33708,
+                  "name": "M. Baku"
+                }
+              },
+              {
+                "event_type": "yellow_red_card",
+                "event_minute": "45",
+                "team": "away",
+                "player": {
+                  "id": 33708,
+                  "name": "M. Baku"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "away",
+                "player_in": {
+                  "id": 43548,
+                  "name": "M. Mountes"
+                },
+                "player_out": {
+                  "id": 58115,
+                  "name": "B. Palmezano"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "61",
+                "team": "home",
+                "player_in": {
+                  "id": 26425,
+                  "name": "Taison"
+                },
+                "player_out": {
+                  "id": 26431,
+                  "name": "A. Zivkovic"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "61",
+                "team": "home",
+                "player_in": {
+                  "id": 40996,
+                  "name": "D. Pelkas"
+                },
+                "player_out": {
+                  "id": 39363,
+                  "name": "L. Ivanušec"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "68",
+                "team": "away",
+                "player_in": {
+                  "id": 43468,
+                  "name": "T. Karamanis"
+                },
+                "player_out": {
+                  "id": 43576,
+                  "name": "G. Tzovaras"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "73",
+                "team": "home",
+                "player": {
+                  "id": 40996,
+                  "name": "D. Pelkas"
+                },
+                "assist_player": {
+                  "id": 41495,
+                  "name": "M. Ozdoev"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "74",
+                "team": "away",
+                "player": {
+                  "id": 43419,
+                  "name": "D. Stavrópoulos"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "75",
+                "team": "away",
+                "player": {
+                  "id": 43468,
+                  "name": "T. Karamanis"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "78",
+                "team": "home",
+                "player_in": {
+                  "id": 52045,
+                  "name": "M. Camara"
+                },
+                "player_out": {
+                  "id": 41495,
+                  "name": "M. Ozdoev"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "home",
+                "player_in": {
+                  "id": 79332,
+                  "name": "F. Chalov"
+                },
+                "player_out": {
+                  "id": 21418,
+                  "name": "G. Giakoumakis"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "away",
+                "player_in": {
+                  "id": 43529,
+                  "name": "D. Jubitana"
+                },
+                "player_out": {
+                  "id": 52039,
+                  "name": "Quini"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "83",
+                "team": "away",
+                "player_in": {
+                  "id": 30080,
+                  "name": "T. van Weert"
+                },
+                "player_out": {
+                  "id": 39037,
+                  "name": "O. Ožegović"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "90",
+                "team": "home",
+                "player_in": {
+                  "id": 66708,
+                  "name": "K. Thymianis"
+                },
+                "player_out": {
+                  "id": 52045,
+                  "name": "M. Camara"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 26411,
+                  "name": "T. Tsingaras"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "home",
+                "player": {
+                  "id": 40996,
+                  "name": "D. Pelkas"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
                 "home": 1.36,
                 "draw": 4.7,
-                "away": 8
+                "away": 7.8
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.78,
-                "under": 2.02
+                "over": 1.75,
+                "under": 2.05
               },
               "handicap": {
                 "market": -1.25,
-                "home": 1.86,
-                "away": 1.97
+                "home": 1.85,
+                "away": 1.98
               },
-              "last_modified_timestamp": 1756620068
+              "last_modified_timestamp": 1756668663
             },
             "match_preview": {
               "has_preview": false,
@@ -2594,198 +2951,198 @@
                 "name": "Levadiakos"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "draw",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
-              "home_ht_goals": 0,
+              "home_ht_goals": 1,
               "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "home_ft_goals": 1,
+              "away_ft_goals": 1,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "1",
+                "team": "home",
+                "player": {
+                  "id": 32405,
+                  "name": "F. Duricic"
+                },
+                "assist_player": {
+                  "id": 69111,
+                  "name": "D. Calabria"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "13",
+                "team": "away",
+                "player": {
+                  "id": 211602,
+                  "name": "Lamarana Jallow"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "away",
+                "player_in": {
+                  "id": 231155,
+                  "name": "H. Layous"
+                },
+                "player_out": {
+                  "id": 211602,
+                  "name": "Lamarana Jallow"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "49",
+                "team": "home",
+                "player": {
+                  "id": 27815,
+                  "name": "A. Bakasetas"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "66",
+                "team": "away",
+                "player_in": {
+                  "id": 109580,
+                  "name": "G. Manthatis"
+                },
+                "player_out": {
+                  "id": 32413,
+                  "name": "S. Palacios"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "66",
+                "team": "away",
+                "player_in": {
+                  "id": 32385,
+                  "name": "B. Verbic"
+                },
+                "player_out": {
+                  "id": 231155,
+                  "name": "H. Layous"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "67",
+                "team": "home",
+                "player_in": {
+                  "id": 64287,
+                  "name": "Renato Sanches"
+                },
+                "player_out": {
+                  "id": 27815,
+                  "name": "A. Bakasetas"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "home",
+                "player_in": {
+                  "id": 43273,
+                  "name": "A. Zaroury"
+                },
+                "player_out": {
+                  "id": 32405,
+                  "name": "F. Duricic"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "home",
+                "player_in": {
+                  "id": 241267,
+                  "name": "Adriano Bregou"
+                },
+                "player_out": {
+                  "id": 32364,
+                  "name": "A. Cerin"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "86",
+                "team": "away",
+                "player": {
+                  "id": 32385,
+                  "name": "B. Verbic"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "87",
+                "team": "home",
+                "player_in": {
+                  "id": 32369,
+                  "name": "D. Mancini"
+                },
+                "player_out": {
+                  "id": 100786,
+                  "name": "Tetê"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "89",
+                "team": "away",
+                "player_in": {
+                  "id": 66507,
+                  "name": "F. Pedrozo"
+                },
+                "player_out": {
+                  "id": 47995,
+                  "name": "A. Ožbolt"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "90",
+                "team": "away",
+                "player_in": {
+                  "id": 36000,
+                  "name": "I. Tsivelekidis"
+                },
+                "player_out": {
+                  "id": 109384,
+                  "name": "I. Kosti"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 1.3,
-                "draw": 5.2,
-                "away": 9
+                "home": 1.4,
+                "draw": 4.46,
+                "away": 7.5
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.68,
-                "under": 2.08
+                "over": 1.83,
+                "under": 1.95
               },
               "handicap": {
                 "market": -1.5,
-                "home": 1.95,
-                "away": 1.85
+                "home": 2.2,
+                "away": 1.65
               },
-              "last_modified_timestamp": 1756620068
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 963909,
-            "date": "13/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3495,
-                "name": "Levadiakos"
-              },
-              "away": {
-                "id": 3181,
-                "name": "AEK Athens"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 9.3,
-                "draw": 4.5,
-                "away": 1.39
-              },
-              "over_under": {
-                "total": 2.5,
-                "over": 1.98,
-                "under": 1.8
-              },
-              "handicap": {
-                "market": "+1.25",
-                "home": 1.95,
-                "away": 1.85
-              },
-              "last_modified_timestamp": 1756620068
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 963910,
-            "date": "13/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3115,
-                "name": "Atromitos"
-              },
-              "away": {
-                "id": 2900,
-                "name": "Aris Women"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 3,
-                "draw": 3.1,
-                "away": 2.57
-              },
-              "over_under": {
-                "total": 2,
-                "over": 1.8,
-                "under": 2.12
-              },
-              "handicap": {
-                "market": "+0.0",
-                "home": 2.05,
-                "away": 1.75
-              },
-              "last_modified_timestamp": 1756620068
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 963911,
-            "date": "13/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4319,
-                "name": "Asteras Tripolis"
-              },
-              "away": {
-                "id": 4318,
-                "name": "Larissa"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 1.8,
-                "draw": 3.3,
-                "away": 5.15
-              },
-              "over_under": {
-                "total": 2,
-                "over": 1.72,
-                "under": 2.2
-              },
-              "handicap": {
-                "market": -0.75,
-                "home": 2.02,
-                "away": 1.88
-              },
-              "last_modified_timestamp": 1756620068
+              "last_modified_timestamp": 1756672252
             },
             "match_preview": {
               "has_preview": false,
@@ -2838,7 +3195,166 @@
                 "home": 1.82,
                 "away": 1.98
               },
-              "last_modified_timestamp": 1756620068
+              "last_modified_timestamp": 1756711841
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 963909,
+            "date": "13/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3495,
+                "name": "Levadiakos"
+              },
+              "away": {
+                "id": 3181,
+                "name": "AEK Athens"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 9.3,
+                "draw": 4.5,
+                "away": 1.39
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 2,
+                "under": 1.8
+              },
+              "handicap": {
+                "market": "+1.25",
+                "home": 1.95,
+                "away": 1.85
+              },
+              "last_modified_timestamp": 1756711841
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 963910,
+            "date": "13/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3115,
+                "name": "Atromitos"
+              },
+              "away": {
+                "id": 2900,
+                "name": "Aris Women"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 3,
+                "draw": 3,
+                "away": 2.57
+              },
+              "over_under": {
+                "total": 2,
+                "over": 1.8,
+                "under": 2.12
+              },
+              "handicap": {
+                "market": "+0.0",
+                "home": 2.05,
+                "away": 1.75
+              },
+              "last_modified_timestamp": 1756711841
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 963911,
+            "date": "13/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4319,
+                "name": "Asteras Tripolis"
+              },
+              "away": {
+                "id": 4318,
+                "name": "Larissa"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 1.8,
+                "draw": 3.25,
+                "away": 5.2
+              },
+              "over_under": {
+                "total": 2,
+                "over": 1.72,
+                "under": 2.2
+              },
+              "handicap": {
+                "market": -0.75,
+                "home": 2.02,
+                "away": 1.88
+              },
+              "last_modified_timestamp": 1756711841
             },
             "match_preview": {
               "has_preview": false,
@@ -2888,10 +3404,10 @@
               },
               "handicap": {
                 "market": "+1.5",
-                "home": 1.89,
+                "home": 1.9,
                 "away": 1.85
               },
-              "last_modified_timestamp": 1756620068
+              "last_modified_timestamp": 1756711841
             },
             "match_preview": {
               "has_preview": false,
@@ -2937,14 +3453,14 @@
               "over_under": {
                 "total": 2.5,
                 "over": 1.73,
-                "under": 2.05
+                "under": 2.1
               },
               "handicap": {
                 "market": "+0.5",
                 "home": 2.22,
                 "away": 1.78
               },
-              "last_modified_timestamp": 1756620068
+              "last_modified_timestamp": 1756711841
             },
             "match_preview": {
               "has_preview": false,
@@ -2997,7 +3513,60 @@
                 "home": 2,
                 "away": 1.8
               },
-              "last_modified_timestamp": 1756620068
+              "last_modified_timestamp": 1756711841
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 963915,
+            "date": "20/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 5065,
+                "name": "Kifisia"
+              },
+              "away": {
+                "id": 2900,
+                "name": "Aris Women"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 3.72,
+                "draw": 3.3,
+                "away": 2.05
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 2.1,
+                "under": 1.7
+              },
+              "handicap": {
+                "market": "+0.25",
+                "home": 2.05,
+                "away": 1.75
+              },
+              "last_modified_timestamp": 1756711841
             },
             "match_preview": {
               "has_preview": false,
@@ -3035,9 +3604,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.62,
+                "draw": 3.25,
+                "away": 2.75
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 2.1,
+                "under": 1.7
+              },
+              "handicap": {
+                "market": "+0.0",
+                "home": 1.85,
+                "away": 1.95
+              },
+              "last_modified_timestamp": 1756711841
             },
             "match_preview": {
               "has_preview": false,
@@ -3075,9 +3657,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.4,
+                "draw": 3.4,
+                "away": 2.9
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 2.05,
+                "under": 1.75
+              },
+              "handicap": {
+                "market": -0.25,
+                "home": 2.05,
+                "away": 1.75
+              },
+              "last_modified_timestamp": 1756711841
             },
             "match_preview": {
               "has_preview": false,
@@ -3115,9 +3710,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 8.5,
+                "draw": 4.75,
+                "away": 1.38
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.73,
+                "under": 2.08
+              },
+              "handicap": {
+                "market": "+1.25",
+                "home": 1.98,
+                "away": 1.82
+              },
+              "last_modified_timestamp": 1756711841
             },
             "match_preview": {
               "has_preview": false,
@@ -3155,9 +3763,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 3.5,
+                "draw": 3.4,
+                "away": 2.1
+              },
+              "over_under": {
+                "total": -1,
+                "over": -1,
+                "under": -1
+              },
+              "handicap": {
+                "market": "+0.25",
+                "home": 2,
+                "away": 1.8
+              },
+              "last_modified_timestamp": 1756711841
             },
             "match_preview": {
               "has_preview": false,
@@ -3195,9 +3816,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 2.88,
+                "draw": 3.2,
+                "away": 2.55
+              },
+              "over_under": {
+                "total": -1,
+                "over": -1,
+                "under": -1
+              },
+              "handicap": {
+                "market": "+0.0",
+                "home": 2.02,
+                "away": 1.78
+              },
+              "last_modified_timestamp": 1756711841
             },
             "match_preview": {
               "has_preview": false,
@@ -3235,9 +3869,22 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "match_winner": {
+                "home": 1.22,
+                "draw": 5.75,
+                "away": 17
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.7,
+                "under": 2.1
+              },
+              "handicap": {
+                "market": -2,
+                "home": 2.1,
+                "away": 1.7
+              },
+              "last_modified_timestamp": 1756711841
             },
             "match_preview": {
               "has_preview": false,
@@ -3245,17 +3892,17 @@
             }
           },
           {
-            "id": 963915,
-            "date": "20/09/2025",
+            "id": 963922,
+            "date": "27/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 5065,
-                "name": "Kifisia"
+                "id": 3115,
+                "name": "Atromitos"
               },
               "away": {
-                "id": 2900,
-                "name": "Aris Women"
+                "id": 4318,
+                "name": "Larissa"
               }
             },
             "status": "pre-match",
@@ -3525,57 +4172,17 @@
             }
           },
           {
-            "id": 963922,
-            "date": "27/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3115,
-                "name": "Atromitos"
-              },
-              "away": {
-                "id": 4318,
-                "name": "Larissa"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 963929,
+            "id": 963928,
             "date": "04/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3524,
-                "name": "OFI"
+                "id": 3495,
+                "name": "Levadiakos"
               },
               "away": {
-                "id": 2900,
-                "name": "Aris Women"
+                "id": 3095,
+                "name": "Panaitolikos"
               }
             },
             "status": "pre-match",
@@ -3685,17 +4292,17 @@
             }
           },
           {
-            "id": 963928,
+            "id": 963929,
             "date": "04/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3495,
-                "name": "Levadiakos"
+                "id": 3524,
+                "name": "OFI"
               },
               "away": {
-                "id": 3095,
-                "name": "Panaitolikos"
+                "id": 2900,
+                "name": "Aris Women"
               }
             },
             "status": "pre-match",
@@ -3845,17 +4452,17 @@
             }
           },
           {
-            "id": 963939,
+            "id": 963936,
             "date": "18/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3115,
-                "name": "Atromitos"
+                "id": 4319,
+                "name": "Asteras Tripolis"
               },
               "away": {
-                "id": 3495,
-                "name": "Levadiakos"
+                "id": 5065,
+                "name": "Kifisia"
               }
             },
             "status": "pre-match",
@@ -3885,17 +4492,57 @@
             }
           },
           {
-            "id": 963936,
+            "id": 963938,
             "date": "18/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4319,
-                "name": "Asteras Tripolis"
+                "id": 4318,
+                "name": "Larissa"
               },
               "away": {
-                "id": 5065,
-                "name": "Kifisia"
+                "id": 3544,
+                "name": "Olympiakos"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 963939,
+            "date": "18/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3115,
+                "name": "Atromitos"
+              },
+              "away": {
+                "id": 3495,
+                "name": "Levadiakos"
               }
             },
             "status": "pre-match",
@@ -3965,17 +4612,17 @@
             }
           },
           {
-            "id": 963938,
+            "id": 963935,
             "date": "18/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4318,
-                "name": "Larissa"
+                "id": 2906,
+                "name": "Volos NFC"
               },
               "away": {
-                "id": 3544,
-                "name": "Olympiakos"
+                "id": 5066,
+                "name": "Panserraikos"
               }
             },
             "status": "pre-match",
@@ -4085,57 +4732,17 @@
             }
           },
           {
-            "id": 963935,
-            "date": "18/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2906,
-                "name": "Volos NFC"
-              },
-              "away": {
-                "id": 5066,
-                "name": "Panserraikos"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 963946,
+            "id": 963945,
             "date": "25/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 5066,
-                "name": "Panserraikos"
+                "id": 3524,
+                "name": "OFI"
               },
               "away": {
-                "id": 4318,
-                "name": "Larissa"
+                "id": 3115,
+                "name": "Atromitos"
               }
             },
             "status": "pre-match",
@@ -4365,17 +4972,17 @@
             }
           },
           {
-            "id": 963945,
+            "id": 963946,
             "date": "25/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3524,
-                "name": "OFI"
+                "id": 5066,
+                "name": "Panserraikos"
               },
               "away": {
-                "id": 3115,
-                "name": "Atromitos"
+                "id": 4318,
+                "name": "Larissa"
               }
             },
             "status": "pre-match",
