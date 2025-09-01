@@ -4,7 +4,7 @@ import path from "path";
 function arrotondaPersonalizzato(numero) {
   const int = Math.floor(numero);
   const decimale = numero - int;
-  return decimale >= 0.66 ? int + 1 : int;
+  return decimale >= 0.75 ? int + 1 : int;
 }
 
 function mediaPrevisione(gfHome, gsAway) {
