@@ -195,31 +195,6 @@ p {
   font-weight: bold;
 }
 
-/* --- FIX centratura e metrica degli slot AdSense --- */
-.banner,
-.banner-middle {
-  display: flex;               /* centra anche quando rende l'iframe */
-  align-items: center;
-  justify-content: center;
-}
-
-.adsbygoogle {
-  display: block !important;   /* evita inline/inline-block strani */
-  line-height: 0 !important;   /* niente baseline che “spinge” il contenuto */
-  font-size: 0 !important;     /* elimina spaziature di testo residue */
-}
-
-/* Se AdSense rende <iframe> o <img>, falli stare al centro senza overflow */
-.banner iframe,
-.banner img,
-.banner-middle iframe,
-.banner-middle img {
-  display: block;
-  margin: 0 auto;
-  max-width: 100%;
-  height: auto;
-}
-
 
 /* —— SOLO su mobile —— */
 @media (max-width: 768px) {
