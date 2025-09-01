@@ -220,6 +220,48 @@ export default function Commenti() {
         </p>
 
               <Banner position="middle" />
+        <h2>Rendicontazione settimanale (29–31 agosto 2025)</h2>
+        <p>
+          Un altro fine settimana intenso per i nostri <strong>WHISP</strong> con ben 20 partite analizzate tra venerdì 
+          e domenica. Il bilancio parla di 11 previsioni centrate e 8 mancate, una percentuale che conferma la solidità 
+          del metodo anche in un turno ricco di sorprese e imprevisti.
+          <br />
+          Il 29 agosto non è iniziato nel migliore dei modi, con due “Gol” mancati in Romania e Ungheria. Rapid–UTA 
+          Arad e Paksi–Kazincbarcika hanno visto gli ospiti troppo sterili in avanti, lasciando cadere previsioni che 
+          sulla carta sembravano affidabili. Un avvio in salita, che però ha trovato riscatto già il giorno dopo.
+          <br />
+          Il 30 agosto, infatti, ha regalato una delle giornate più vivaci di queste settimane. La Dinamo e l’Aris 
+          Women hanno confermato gli Under, la Roma ha blindato il suo 0-1 a Pisa, mentre in Germania e Francia i 
+          mercati “Gol” hanno trovato riscontro pieno. L’Hoffenheim–Eintracht (1-3) e il clamoroso Tolosa–PSG (3-6) 
+          hanno esaltato la bontà della lettura, confermando che quando le squadre scelgono di giocare a viso aperto i 
+          nostri WHISP non tradiscono. Non è mancata, però, la sorpresa più clamorosa: il PSV travolto in casa dal 
+          Telstar (0-2). Un risultato storico e imprevedibile che ha ribaltato ogni logica, con i numeri della 
+          partita che raccontano un dominio olandese interrotto solo dalla scarsa precisione e da un portiere 
+          avversario in stato di grazia.
+          <br />
+          La domenica ha completato il quadro con altre sfide interessanti. Il Benfica e il Fenerbahce hanno 
+          rispettato i pronostici, così come l’Arges e l’Oțelul, a dimostrazione che nei contesti di forza 
+          chiara i WHISP restano una bussola sicura. Anche l’“Under” di Santa Clara–Estrela e il “Gol” di 
+          Servette–Luzern si sono confermati perfetti. Non sono mancati però gli inciampi: il Paris FC ha 
+          ribaltato ogni aspettativa battendo 3-2 il Metz nonostante il “NoGol” fosse tra i più solidi della 
+          settimana, e le sfide in Polonia e Francia hanno tradito i nostri “Over” e “Gol” con match bloccati 
+          e squadre troppo timide davanti.
+          <br />
+          Nel complesso, il quadro è chiaro: i WHISP hanno brillato nei mercati Over e Gol quando il contesto 
+          era realmente aperto, hanno confermato la loro forza negli esiti “secchi” dei grandi club, e hanno s
+          ubito gli imprevisti solo in gare condizionate da episodi particolari o da outsider insolitamente 
+          inconsistenti.
+          <br />
+          Il bilancio finale, con più di metà delle previsioni centrate e diversi colpi esaltanti, conferma che 
+          SportWhisp.it continua a offrire una chiave di lettura affidabile e appassionante del weekend calcistico. 
+          E se anche le sorprese fanno parte del gioco, è proprio in quei momenti che si misura la solidità di un 
+          metodo: saper distinguere gli inciampi fisiologici dalle vere intuizioni vincenti.
+          <br />
+          I nostri <strong>WHISP</strong> restano una guida sicura, e il prossimo turno sarà l’occasione per 
+          trasformare ancora di più i dati in soddisfazioni.
+        </p>        
+        
+        
         <h2>WHISP periodo 22-24/08/2025</h2>
 
         <h3>✅✅✅ WHISP del 22/08/2025 - TUTTI CORRETTI ✅✅✅</h3>
