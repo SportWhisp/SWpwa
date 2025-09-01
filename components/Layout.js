@@ -1,7 +1,6 @@
 import React from "react";
 import Link from "next/link";
 import Banner from "./Banner";
-import CookieConsent from "./CookieConsent";
 
 export default function Layout({ children }) {
   return (
@@ -57,7 +56,6 @@ export default function Layout({ children }) {
         </p>
 
       </footer>
-      <CookieConsent />
     </div>
   );
 }
