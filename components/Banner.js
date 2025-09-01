@@ -26,10 +26,7 @@ export default function Banner({ position = "middle" }) {
   const [isMobile, setIsMobile] = useState(false);
   const pushedRef = useRef(false);
 
-  // fallback testuale
-  const bannerSet = ["Pubblicità A", "Pubblicità B", "Pubblicità C", "Pubblicità D", "Pubblicità E"];
-
-  useEffect(() => {
+    useEffect(() => {
     setIsClient(true);
     setCurrent(Math.floor(Math.random() * bannerSet.length));
 
@@ -78,7 +75,6 @@ useEffect(() => {
       data-ad-slot={adSlot}
       // niente data-ad-format / full-width → non si ridimensiona da solo
     >
-      {bannerSet[current]}
     </ins>
   );
 }
