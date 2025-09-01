@@ -219,7 +219,6 @@ export default function Commenti() {
           loro qualità e rispettano in pieno la previsione.
         </p>
 
-              <Banner position="middle" />
         <h2>Rendicontazione settimanale (29–31 agosto 2025)</h2>
         <p>
           Un altro fine settimana intenso per i nostri <strong>WHISP</strong> con ben 20 partite analizzate tra venerdì 
@@ -261,7 +260,7 @@ export default function Commenti() {
           trasformare ancora di più i dati in soddisfazioni.
         </p>        
         
-        
+              <Banner position="middle" />        
         <h2>WHISP periodo 22-24/08/2025</h2>
 
         <h3>✅✅✅ WHISP del 22/08/2025 - TUTTI CORRETTI ✅✅✅</h3>
