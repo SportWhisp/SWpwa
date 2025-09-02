@@ -242,7 +242,6 @@ export async function getStaticProps() {
     "ShowRomania.json",
     "ShowSvizzera.json",
     "ShowTurchia.json",
-    "ShowUngheria.json",
   ];
 
   return {
