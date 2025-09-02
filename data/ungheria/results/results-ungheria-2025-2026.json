@@ -9626,25 +9626,25 @@
                 "event_minute": "64",
                 "team": "away",
                 "player_in": {
-                  "id": 160344,
-                  "name": "Y. Toma"
-                },
-                "player_out": {
-                  "id": 165747,
-                  "name": "B. Manner"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "64",
-                "team": "away",
-                "player_in": {
                   "id": 39648,
                   "name": "B. Katona"
                 },
                 "player_out": {
                   "id": 52427,
                   "name": "Dorian Babunski"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "65",
+                "team": "away",
+                "player_in": {
+                  "id": 160344,
+                  "name": "Y. Toma"
+                },
+                "player_out": {
+                  "id": 165747,
+                  "name": "B. Manner"
                 }
               },
               {
@@ -9805,6 +9805,15 @@
                 "player_out": {
                   "id": 26685,
                   "name": "M. Hofmann"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "46",
+                "team": "home",
+                "player": {
+                  "id": 269677,
+                  "name": "G. Regenyi"
                 }
               },
               {
