@@ -22,7 +22,7 @@ export default async function handler(req, res) {
     finlandia_ykkonen: 234, francia: 235, fra2: 236, coupe_francia: 238,
     georgia: 240, germania: 241, ger2: 242, dfb_pokal: 243, germania_3: 244,
     grecia: 245, guatemala: 246, honduras: 247, ungheria: 248, islanda: 249,
-    india: 250, indonesia: 251, italia: 253, ita12: 254, coppa_italia: 255,
+    india: 250, indonesia: 251, italia: 253, ita2: 254, coppa_italia: 255,
     giappone: 256, giappone_j2: 257, kazakistan: 258, corea: 259, lettonia: 260,
     lituania: 261, lussemburgo: 262, malesia: 263, malta: 264, messico: 265,
     moldavia: 266, marocco: 267, olanda: 268, ola2: 269, coppa_olanda: 270,
