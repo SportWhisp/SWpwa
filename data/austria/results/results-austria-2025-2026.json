@@ -6487,15 +6487,6 @@
                 }
               },
               {
-                "event_type": "yellow_card",
-                "event_minute": "46",
-                "team": "away",
-                "player": {
-                  "id": 115709,
-                  "name": "C. MBuyi"
-                }
-              },
-              {
                 "event_type": "substitution",
                 "event_minute": "46",
                 "team": "away",
@@ -6506,6 +6497,15 @@
                 "player_out": {
                   "id": 26885,
                   "name": "M. Tilio"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "46",
+                "team": "away",
+                "player": {
+                  "id": 115709,
+                  "name": "C. MBuyi"
                 }
               },
               {
@@ -6558,7 +6558,7 @@
               },
               {
                 "event_type": "substitution",
-                "event_minute": "70",
+                "event_minute": "71",
                 "team": "away",
                 "player_in": {
                   "id": 26783,
@@ -6654,19 +6654,6 @@
                 "player": {
                   "id": 54977,
                   "name": "L. Fridrikas"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "71",
-                "team": "away",
-                "player_in": {
-                  "id": 26783,
-                  "name": "M. Seidl"
-                },
-                "player_out": {
-                  "id": 126192,
-                  "name": "M. Atemengue"
                 }
               }
             ],
@@ -7211,7 +7198,7 @@
                 "home": 2.09,
                 "away": 1.66
               },
-              "last_modified_timestamp": 1756798293
+              "last_modified_timestamp": 1756881089
             },
             "match_preview": {
               "has_preview": false,
@@ -7317,7 +7304,7 @@
                 "home": 1.9,
                 "away": 1.9
               },
-              "last_modified_timestamp": 1756798293
+              "last_modified_timestamp": 1756881089
             },
             "match_preview": {
               "has_preview": false,
@@ -7463,20 +7450,20 @@
             "odds": {
               "match_winner": {
                 "home": 1.59,
-                "draw": 4,
-                "away": 4.9
+                "draw": 4.1,
+                "away": 5
               },
               "over_under": {
                 "total": 2.5,
                 "over": 1.7,
-                "under": 2.1
+                "under": 2.12
               },
               "handicap": {
                 "market": -1,
-                "home": 2,
+                "home": 1.99,
                 "away": 1.8
               },
-              "last_modified_timestamp": 1756798294
+              "last_modified_timestamp": 1756881091
             },
             "match_preview": {
               "has_preview": false,
@@ -7516,8 +7503,8 @@
             "odds": {
               "match_winner": {
                 "home": 3.5,
-                "draw": 3.5,
-                "away": 1.97
+                "draw": 3.55,
+                "away": 2
               },
               "over_under": {
                 "total": 2.5,
@@ -7526,10 +7513,10 @@
               },
               "handicap": {
                 "market": "+0.25",
-                "home": 2.08,
+                "home": 2.07,
                 "away": 1.72
               },
-              "last_modified_timestamp": 1756798294
+              "last_modified_timestamp": 1756881091
             },
             "match_preview": {
               "has_preview": false,
@@ -7568,21 +7555,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.02,
+                "home": 2.05,
                 "draw": 3.6,
-                "away": 3.25
+                "away": 3.3
               },
               "over_under": {
                 "total": 2.5,
                 "over": 1.7,
-                "under": 2.1
+                "under": 2.12
               },
               "handicap": {
                 "market": -0.5,
                 "home": 2.02,
                 "away": 1.78
               },
-              "last_modified_timestamp": 1756798294
+              "last_modified_timestamp": 1756881091
             },
             "match_preview": {
               "has_preview": false,

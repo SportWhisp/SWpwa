@@ -9215,6 +9215,19 @@
                   "id": 39736,
                   "name": "A. Minda"
                 }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "76",
+                "team": "home",
+                "player_in": {
+                  "id": 43502,
+                  "name": "O. Adewumi"
+                },
+                "player_out": {
+                  "id": 43969,
+                  "name": "S. Ngoura"
+                }
               }
             ],
             "odds": {
