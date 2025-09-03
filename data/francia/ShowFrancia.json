@@ -1,32 +1,6 @@
 [
   {
-    "data": "2025-09-14T00:00:00Z",
-    "partita": "AJ Auxerre vs AS Monaco FC",
-    "risultato": "",
-    "previsione": "1 - 1",
-    "p1": "31,56%",
-    "pX": "27,46%",
-    "p2": "40,98%",
-    "pUnder": "45,58%",
-    "pOver": "54,42%",
-    "pGG": "61,52%",
-    "pNG": "38,48%"
-  },
-  {
-    "data": "2025-09-14T00:00:00Z",
-    "partita": "OGC Nice vs FC Nantes",
-    "risultato": "",
-    "previsione": "2 - 1",
-    "p1": "55,71%",
-    "pX": "25,71%",
-    "p2": "18,57%",
-    "pUnder": "45,71%",
-    "pOver": "54,29%",
-    "pGG": "66,43%",
-    "pNG": "33,57%"
-  },
-  {
-    "data": "2025-09-14T00:00:00Z",
+    "data": "2025-09-12T18:45:00Z",
     "partita": "Olympique de Marseille vs FC Lorient",
     "risultato": "",
     "previsione": "2 - 1",
@@ -39,33 +13,20 @@
     "pNG": "28,77%"
   },
   {
-    "data": "2025-09-14T00:00:00Z",
-    "partita": "Lille OSC vs Toulouse FC",
+    "data": "2025-09-13T15:00:00Z",
+    "partita": "OGC Nice vs FC Nantes",
     "risultato": "",
     "previsione": "2 - 1",
-    "p1": "54,28%",
-    "pX": "23,91%",
-    "p2": "21,81%",
-    "pUnder": "45,72%",
-    "pOver": "54,28%",
-    "pGG": "60,80%",
-    "pNG": "39,20%"
+    "p1": "55,71%",
+    "pX": "25,71%",
+    "p2": "18,57%",
+    "pUnder": "45,71%",
+    "pOver": "54,29%",
+    "pGG": "66,43%",
+    "pNG": "33,57%"
   },
   {
-    "data": "2025-09-14T00:00:00Z",
-    "partita": "Paris Saint-Germain FC vs Racing Club de Lens",
-    "risultato": "",
-    "previsione": "2 - 1",
-    "p1": "58,62%",
-    "pX": "16,67%",
-    "p2": "24,71%",
-    "pUnder": "38,48%",
-    "pOver": "61,52%",
-    "pGG": "66,59%",
-    "pNG": "33,41%"
-  },
-  {
-    "data": "2025-09-14T00:00:00Z",
+    "data": "2025-09-13T17:00:00Z",
     "partita": "RC Strasbourg Alsace vs Le Havre AC",
     "risultato": "",
     "previsione": "2 - 1",
@@ -78,17 +39,30 @@
     "pNG": "26,16%"
   },
   {
-    "data": "2025-09-14T00:00:00Z",
-    "partita": "Stade Rennais FC 1901 vs Olympique Lyonnais",
+    "data": "2025-09-13T19:05:00Z",
+    "partita": "AJ Auxerre vs AS Monaco FC",
     "risultato": "",
-    "previsione": "1 - 2",
-    "p1": "34,86%",
-    "pX": "10,87%",
-    "p2": "54,28%",
-    "pUnder": "39,20%",
-    "pOver": "60,80%",
-    "pGG": "54,28%",
-    "pNG": "45,72%"
+    "previsione": "1 - 1",
+    "p1": "31,56%",
+    "pX": "27,46%",
+    "p2": "40,98%",
+    "pUnder": "45,58%",
+    "pOver": "54,42%",
+    "pGG": "61,52%",
+    "pNG": "38,48%"
+  },
+  {
+    "data": "2025-09-14T13:00:00Z",
+    "partita": "Lille OSC vs Toulouse FC",
+    "risultato": "",
+    "previsione": "2 - 1",
+    "p1": "54,28%",
+    "pX": "23,91%",
+    "p2": "21,81%",
+    "pUnder": "45,72%",
+    "pOver": "54,28%",
+    "pGG": "60,80%",
+    "pNG": "39,20%"
   },
   {
     "data": "2025-09-14T15:15:00Z",
@@ -105,6 +79,19 @@
   },
   {
     "data": "2025-09-14T15:15:00Z",
+    "partita": "Paris Saint-Germain FC vs Racing Club de Lens",
+    "risultato": "",
+    "previsione": "2 - 1",
+    "p1": "58,62%",
+    "pX": "16,67%",
+    "p2": "24,71%",
+    "pUnder": "38,48%",
+    "pOver": "61,52%",
+    "pGG": "66,59%",
+    "pNG": "33,41%"
+  },
+  {
+    "data": "2025-09-14T15:15:00Z",
     "partita": "Stade Brestois 29 vs Paris FC",
     "risultato": "",
     "previsione": "2 - 1",
@@ -115,5 +102,18 @@
     "pOver": "64,49%",
     "pGG": "60,70%",
     "pNG": "39,30%"
+  },
+  {
+    "data": "2025-09-14T18:45:00Z",
+    "partita": "Stade Rennais FC 1901 vs Olympique Lyonnais",
+    "risultato": "",
+    "previsione": "1 - 2",
+    "p1": "34,86%",
+    "pX": "10,87%",
+    "p2": "54,28%",
+    "pUnder": "39,20%",
+    "pOver": "60,80%",
+    "pGG": "54,28%",
+    "pNG": "45,72%"
   }
 ]
