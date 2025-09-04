@@ -42,13 +42,13 @@ export default function Layout({ children }) {
         <div className="dropdown">
           <span className="dropbtn">Seconde Divisioni ▾</span>
           <div className="dropdown-content">
-            <Link href="/secondediv/ita2">Serie B - ITA</Link>
-            <Link href="/secondediv/fra2">Ligue 2 - FRA</Link>
-            <Link href="/secondediv/ger2">2. Bundesliga - GER</Link>
-            <Link href="/secondediv/spa2">Segunda Divisiòn - SPA</Link>
-            <Link href="/secondediv/ing2">Championship - ING</Link>
-            <Link href="/secondediv/por2">Segunda Liga - POR</Link>
-            <Link href="/secondediv/ola2">Eerste Divisie - OLA</Link>
+            <Link href="/secondediv/ita2">Serie B</Link>
+            <Link href="/secondediv/fra2">Ligue 2</Link>
+            <Link href="/secondediv/ger2">2. Bundesliga</Link>
+            <Link href="/secondediv/spa2">Segunda Divisiòn</Link>
+            <Link href="/secondediv/ing2">Championship</Link>
+            <Link href="/secondediv/por2">Segunda Liga</Link>
+            <Link href="/secondediv/ola2">Eerste Divisie</Link>
           </div>
         </div>
 
