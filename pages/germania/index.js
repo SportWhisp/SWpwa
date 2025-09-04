@@ -154,7 +154,10 @@ export default function Germania() {
           Consulta la Classifica della Bundesliga
         </a>
       </Link>
-           
+
+            {/* Banner finale */}
+            <Banner position="middle" />
+                       
     </Layout>
   );
 }

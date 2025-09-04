@@ -154,7 +154,10 @@ export default function Spagna() {
           Consulta la Classifica de La Liga
         </a>
       </Link>
-          
+
+            {/* Banner finale */}
+            <Banner position="middle" />
+                      
     </Layout>
   );
 }

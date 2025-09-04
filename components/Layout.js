@@ -37,6 +37,21 @@ export default function Layout({ children }) {
             <Link href="/altricampionati/ungheria">Ungheria</Link>
           </div>
         </div>
+
+        {/* 🔽 Dropdown "Seconde Divisioni" */}
+        <div className="dropdown">
+          <span className="dropbtn">Seconde Divisioni ▾</span>
+          <div className="dropdown-content">
+            <Link href="/secondediv/ita2">Serie B - ITA</Link>
+            <Link href="/secondediv/fra2">Ligue 2 - FRA</Link>
+            <Link href="/secondediv/ger2">2. Bundesliga - GER</Link>
+            <Link href="/secondediv/spa2">Segunda Divisiòn - SPA</Link>
+            <Link href="/secondediv/ing2">Championship - ING</Link>
+            <Link href="/secondediv/por2">Segunda Liga - POR</Link>
+            <Link href="/secondediv/ola2">Eerste Divisie - OLA</Link>
+          </div>
+        </div>
+
         <Link href="/commenti">Whisp Precedenti</Link>
 
       </nav>

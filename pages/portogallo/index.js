@@ -154,7 +154,9 @@ export default function Portogallo() {
           Consulta la Classifica della Primeira Liga
         </a>
       </Link>
-      
+
+            {/* Banner finale */}
+            <Banner position="middle" />      
       
     </Layout>
   );

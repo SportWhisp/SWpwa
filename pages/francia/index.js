@@ -152,7 +152,10 @@ export default function Francia() {
           Consulta la Classifica della Ligue 1
         </a>
       </Link>
-           
+
+            {/* Banner finale */}
+            <Banner position="middle" />
+                       
     </Layout>
   );
 }

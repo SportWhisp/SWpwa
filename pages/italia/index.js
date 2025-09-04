@@ -149,6 +149,9 @@ export default function Italia() {
         </a>
       </Link>
 
+            {/* Banner finale */}
+            <Banner position="middle" />
+            
     </Layout>
   );
 }

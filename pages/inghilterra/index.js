@@ -155,7 +155,10 @@ export default function Inghilterra() {
           Consulta la Classifica della Premier League
         </a>
       </Link>
-            
+
+            {/* Banner finale */}
+            <Banner position="middle" />
+                        
     </Layout>
   );
 }

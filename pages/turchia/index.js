@@ -158,7 +158,10 @@ export default function Turchia() {
           Consulta la Classifica della Süper Lig
         </a>
       </Link>
-      
+
+            {/* Banner finale */}
+            <Banner position="middle" />
+                  
     </Layout>
   );
 }
