@@ -6395,6 +6395,19 @@
                   "name": "S. Jatta"
                 },
                 "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "83",
+                "team": "home",
+                "player_in": {
+                  "id": 135150,
+                  "name": "M. Kreuzriegler"
+                },
+                "player_out": {
+                  "id": 161842,
+                  "name": "R. Harakaté"
+                }
               }
             ],
             "odds": {
@@ -7186,7 +7199,7 @@
               "match_winner": {
                 "home": 2.45,
                 "draw": 3.45,
-                "away": 2.7
+                "away": 2.72
               },
               "over_under": {
                 "total": 2.5,
@@ -7196,9 +7209,9 @@
               "handicap": {
                 "market": -0.25,
                 "home": 2.09,
-                "away": 1.66
+                "away": 1.67
               },
-              "last_modified_timestamp": 1756881089
+              "last_modified_timestamp": 1756967483
             },
             "match_preview": {
               "has_preview": false,
@@ -7291,8 +7304,8 @@
             "odds": {
               "match_winner": {
                 "home": 3.75,
-                "draw": 3.55,
-                "away": 1.9
+                "draw": 3.6,
+                "away": 1.91
               },
               "over_under": {
                 "total": 2.5,
@@ -7304,7 +7317,7 @@
                 "home": 1.9,
                 "away": 1.9
               },
-              "last_modified_timestamp": 1756881089
+              "last_modified_timestamp": 1756967483
             },
             "match_preview": {
               "has_preview": false,
@@ -7463,7 +7476,7 @@
                 "home": 1.99,
                 "away": 1.8
               },
-              "last_modified_timestamp": 1756881091
+              "last_modified_timestamp": 1756967485
             },
             "match_preview": {
               "has_preview": false,
@@ -7516,7 +7529,7 @@
                 "home": 2.07,
                 "away": 1.72
               },
-              "last_modified_timestamp": 1756881091
+              "last_modified_timestamp": 1756967485
             },
             "match_preview": {
               "has_preview": false,
@@ -7569,7 +7582,7 @@
                 "home": 2.02,
                 "away": 1.78
               },
-              "last_modified_timestamp": 1756881091
+              "last_modified_timestamp": 1756967485
             },
             "match_preview": {
               "has_preview": false,
