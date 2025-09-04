@@ -1,0 +1,258 @@
+{
+  "country": {
+    "id": 9,
+    "name": "france"
+  },
+  "league": {
+    "id": 0,
+    "name": "unknown"
+  },
+  "season": {
+    "is_active": false,
+    "year": "2024-2025"
+  },
+  "stage": [
+    {
+      "stage_id": 13457,
+      "stage_name": "Ligue 2: Regular Season",
+      "has_groups": false,
+      "is_active": true,
+      "standings": [
+        {
+          "team_id": 4239,
+          "team_name": "Lorient",
+          "games_played": 34,
+          "points": 71,
+          "wins": 22,
+          "draws": 5,
+          "losses": 7,
+          "goals_for": 68,
+          "goals_against": 31,
+          "position": 1,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4241,
+          "team_name": "Paris FC",
+          "games_played": 34,
+          "points": 69,
+          "wins": 21,
+          "draws": 6,
+          "losses": 7,
+          "goals_for": 55,
+          "goals_against": 33,
+          "position": 2,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4238,
+          "team_name": "Metz",
+          "games_played": 34,
+          "points": 65,
+          "wins": 18,
+          "draws": 11,
+          "losses": 5,
+          "goals_for": 64,
+          "goals_against": 34,
+          "position": 3,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4255,
+          "team_name": "Dunkerque",
+          "games_played": 34,
+          "points": 56,
+          "wins": 17,
+          "draws": 5,
+          "losses": 12,
+          "goals_for": 47,
+          "goals_against": 40,
+          "position": 4,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4237,
+          "team_name": "Guingamp",
+          "games_played": 34,
+          "points": 55,
+          "wins": 17,
+          "draws": 4,
+          "losses": 13,
+          "goals_for": 57,
+          "goals_against": 45,
+          "position": 5,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4259,
+          "team_name": "Annecy",
+          "games_played": 34,
+          "points": 51,
+          "wins": 14,
+          "draws": 9,
+          "losses": 11,
+          "goals_for": 42,
+          "goals_against": 43,
+          "position": 6,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4258,
+          "team_name": "Laval",
+          "games_played": 34,
+          "points": 50,
+          "wins": 14,
+          "draws": 8,
+          "losses": 12,
+          "goals_for": 44,
+          "goals_against": 38,
+          "position": 7,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4256,
+          "team_name": "Bastia",
+          "games_played": 34,
+          "points": 48,
+          "wins": 11,
+          "draws": 15,
+          "losses": 8,
+          "goals_for": 43,
+          "goals_against": 37,
+          "position": 8,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3133,
+          "team_name": "Grenoble Foot 38",
+          "games_played": 34,
+          "points": 46,
+          "wins": 13,
+          "draws": 7,
+          "losses": 14,
+          "goals_for": 43,
+          "goals_against": 44,
+          "position": 9,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3542,
+          "team_name": "Troyes",
+          "games_played": 34,
+          "points": 44,
+          "wins": 13,
+          "draws": 5,
+          "losses": 16,
+          "goals_for": 36,
+          "goals_against": 34,
+          "position": 10,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3471,
+          "team_name": "Amiens SC",
+          "games_played": 34,
+          "points": 43,
+          "wins": 13,
+          "draws": 4,
+          "losses": 17,
+          "goals_for": 38,
+          "goals_against": 50,
+          "position": 11,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4240,
+          "team_name": "Ajaccio",
+          "games_played": 34,
+          "points": 42,
+          "wins": 12,
+          "draws": 6,
+          "losses": 16,
+          "goals_for": 30,
+          "goals_against": 42,
+          "position": 12,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4254,
+          "team_name": "Pau",
+          "games_played": 34,
+          "points": 42,
+          "wins": 10,
+          "draws": 12,
+          "losses": 12,
+          "goals_for": 39,
+          "goals_against": 53,
+          "position": 13,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4252,
+          "team_name": "Rodez",
+          "games_played": 34,
+          "points": 39,
+          "wins": 9,
+          "draws": 12,
+          "losses": 13,
+          "goals_for": 56,
+          "goals_against": 54,
+          "position": 14,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4250,
+          "team_name": "Red Star",
+          "games_played": 34,
+          "points": 38,
+          "wins": 9,
+          "draws": 11,
+          "losses": 14,
+          "goals_for": 37,
+          "goals_against": 51,
+          "position": 15,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 3294,
+          "team_name": "Clermont",
+          "games_played": 34,
+          "points": 33,
+          "wins": 7,
+          "draws": 12,
+          "losses": 15,
+          "goals_for": 30,
+          "goals_against": 46,
+          "position": 16,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 6282,
+          "team_name": "Martigues",
+          "games_played": 34,
+          "points": 32,
+          "wins": 9,
+          "draws": 5,
+          "losses": 20,
+          "goals_for": 29,
+          "goals_against": 56,
+          "position": 17,
+          "position_attribute": ""
+        },
+        {
+          "team_id": 4236,
+          "team_name": "Caen",
+          "games_played": 34,
+          "points": 22,
+          "wins": 5,
+          "draws": 7,
+          "losses": 22,
+          "goals_for": 31,
+          "goals_against": 58,
+          "position": 18,
+          "position_attribute": ""
+        }
+      ]
+    }
+  ]
+}

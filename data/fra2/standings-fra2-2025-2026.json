@@ -1,0 +1,271 @@
+{
+  "country": {
+    "id": 9,
+    "name": "france"
+  },
+  "league": {
+    "id": 236,
+    "name": "Ligue 2"
+  },
+  "season": {
+    "is_active": true,
+    "year": "2025-2026"
+  },
+  "stage": [
+    {
+      "stage_id": 13936,
+      "stage_name": "Ligue 2",
+      "has_groups": false,
+      "is_active": true,
+      "standings": [
+        {
+          "position": 1,
+          "team_id": 3386,
+          "team_name": "Saint-Etienne",
+          "position_attribute": "Promotion",
+          "games_played": 3,
+          "points": 7,
+          "wins": 2,
+          "draws": 1,
+          "losses": 0,
+          "goals_for": 8,
+          "goals_against": 3
+        },
+        {
+          "position": 1,
+          "team_id": 4240,
+          "team_name": "Ajaccio",
+          "position_attribute": "Promotion",
+          "games_played": 0,
+          "points": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "goals_for": 0,
+          "goals_against": 0
+        },
+        {
+          "position": 2,
+          "team_id": 4254,
+          "team_name": "Pau",
+          "position_attribute": "Promotion",
+          "games_played": 3,
+          "points": 7,
+          "wins": 2,
+          "draws": 1,
+          "losses": 0,
+          "goals_for": 5,
+          "goals_against": 1
+        },
+        {
+          "position": 3,
+          "team_id": 4246,
+          "team_name": "Nancy",
+          "position_attribute": "Promotionplayoff",
+          "games_played": 3,
+          "points": 7,
+          "wins": 2,
+          "draws": 1,
+          "losses": 0,
+          "goals_for": 4,
+          "goals_against": 1
+        },
+        {
+          "position": 4,
+          "team_id": 3542,
+          "team_name": "Troyes",
+          "position_attribute": "Promotionplayoff",
+          "games_played": 3,
+          "points": 7,
+          "wins": 2,
+          "draws": 1,
+          "losses": 0,
+          "goals_for": 3,
+          "goals_against": 1
+        },
+        {
+          "position": 5,
+          "team_id": 3294,
+          "team_name": "Clermont",
+          "position_attribute": "Promotionplayoff",
+          "games_played": 3,
+          "points": 5,
+          "wins": 1,
+          "draws": 2,
+          "losses": 0,
+          "goals_for": 4,
+          "goals_against": 3
+        },
+        {
+          "position": 6,
+          "team_id": 4250,
+          "team_name": "Red Star",
+          "position_attribute": "",
+          "games_played": 3,
+          "points": 4,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 6,
+          "goals_against": 4
+        },
+        {
+          "position": 7,
+          "team_id": 3471,
+          "team_name": "Amiens SC",
+          "position_attribute": "",
+          "games_played": 3,
+          "points": 4,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 5,
+          "goals_against": 4
+        },
+        {
+          "position": 8,
+          "team_id": 4253,
+          "team_name": "Le Mans",
+          "position_attribute": "",
+          "games_played": 3,
+          "points": 4,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 5,
+          "goals_against": 5
+        },
+        {
+          "position": 9,
+          "team_id": 3375,
+          "team_name": "Montpellier",
+          "position_attribute": "",
+          "games_played": 3,
+          "points": 4,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 3,
+          "goals_against": 3
+        },
+        {
+          "position": 10,
+          "team_id": 4259,
+          "team_name": "Annecy",
+          "position_attribute": "",
+          "games_played": 3,
+          "points": 4,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 3,
+          "goals_against": 4
+        },
+        {
+          "position": 11,
+          "team_id": 3354,
+          "team_name": "Reims",
+          "position_attribute": "",
+          "games_played": 3,
+          "points": 4,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 3,
+          "goals_against": 4
+        },
+        {
+          "position": 12,
+          "team_id": 4258,
+          "team_name": "Laval",
+          "position_attribute": "",
+          "games_played": 3,
+          "points": 3,
+          "wins": 0,
+          "draws": 3,
+          "losses": 0,
+          "goals_for": 5,
+          "goals_against": 5
+        },
+        {
+          "position": 13,
+          "team_id": 4255,
+          "team_name": "Dunkerque",
+          "position_attribute": "",
+          "games_played": 3,
+          "points": 2,
+          "wins": 0,
+          "draws": 2,
+          "losses": 1,
+          "goals_for": 5,
+          "goals_against": 7
+        },
+        {
+          "position": 14,
+          "team_id": 4252,
+          "team_name": "Rodez",
+          "position_attribute": "",
+          "games_played": 3,
+          "points": 2,
+          "wins": 0,
+          "draws": 2,
+          "losses": 1,
+          "goals_for": 1,
+          "goals_against": 5
+        },
+        {
+          "position": 15,
+          "team_id": 4256,
+          "team_name": "Bastia",
+          "position_attribute": "",
+          "games_played": 2,
+          "points": 1,
+          "wins": 0,
+          "draws": 1,
+          "losses": 1,
+          "goals_for": 1,
+          "goals_against": 2
+        },
+        {
+          "position": 16,
+          "team_id": 3133,
+          "team_name": "Grenoble Foot 38",
+          "position_attribute": "Relegation Playoff",
+          "games_played": 3,
+          "points": 1,
+          "wins": 0,
+          "draws": 1,
+          "losses": 2,
+          "goals_for": 3,
+          "goals_against": 5
+        },
+        {
+          "position": 17,
+          "team_id": 4237,
+          "team_name": "Guingamp",
+          "position_attribute": "Relegation",
+          "games_played": 3,
+          "points": 1,
+          "wins": 0,
+          "draws": 1,
+          "losses": 2,
+          "goals_for": 3,
+          "goals_against": 8
+        },
+        {
+          "position": 18,
+          "team_id": 6406,
+          "team_name": "Boulogne",
+          "position_attribute": "Relegation",
+          "games_played": 2,
+          "points": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 2,
+          "goals_for": 0,
+          "goals_against": 2
+        }
+      ]
+    }
+  ]
+}
