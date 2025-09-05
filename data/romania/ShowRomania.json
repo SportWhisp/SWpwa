@@ -1,16 +1,16 @@
 [
   {
-    "data": "13/09/2025",
-    "partita": "Universitatea Craiova vs FCV Farul Constanta",
+    "data": "12/09/2025",
+    "partita": "Universitatea Cluj vs Rapid",
     "risultato": "",
     "previsione": "1 - 1",
-    "p1": "64,17%",
-    "pX": "19,29%",
-    "p2": "16,55%",
-    "pUnder": "50,24%",
-    "pOver": "49,76%",
-    "pGG": "71,67%",
-    "pNG": "28,33%"
+    "p1": "10,00%",
+    "pX": "45,00%",
+    "p2": "45,00%",
+    "pUnder": "75,00%",
+    "pOver": "25,00%",
+    "pGG": "65,00%",
+    "pNG": "35,00%"
   },
   {
     "data": "13/09/2025",
@@ -66,19 +66,6 @@
   },
   {
     "data": "13/09/2025",
-    "partita": "Universitatea Cluj vs Rapid",
-    "risultato": "",
-    "previsione": "1 - 1",
-    "p1": "10,00%",
-    "pX": "45,00%",
-    "p2": "45,00%",
-    "pUnder": "75,00%",
-    "pOver": "25,00%",
-    "pGG": "65,00%",
-    "pNG": "35,00%"
-  },
-  {
-    "data": "13/09/2025",
     "partita": "FCSB vs Csikszereda",
     "risultato": "",
     "previsione": "2 - 1",
@@ -102,5 +89,18 @@
     "pOver": "42,62%",
     "pGG": "69,29%",
     "pNG": "30,71%"
+  },
+  {
+    "data": "13/09/2025",
+    "partita": "Universitatea Craiova vs FCV Farul Constanta",
+    "risultato": "",
+    "previsione": "1 - 1",
+    "p1": "64,17%",
+    "pX": "19,29%",
+    "p2": "16,55%",
+    "pUnder": "50,24%",
+    "pOver": "49,76%",
+    "pGG": "71,67%",
+    "pNG": "28,33%"
   }
 ]
