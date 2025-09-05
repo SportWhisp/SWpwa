@@ -1,0 +1,149 @@
+name: Aggiorna dati calcio seconde
+
+on:
+  schedule:
+    # 06:20 UTC ≈ 08:20 Italia (CEST).
+    - cron: "20 6 * * *"
+    # 06:40 UTC ≈ 08:40 Italia (CEST)
+    - cron: "40 6 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  update-data2:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: update-data2-main
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Create .env.local from secrets
+        run: |
+          rm -f .env.local
+          {
+            echo "API_FOOTBALL_KEY=${API_FOOTBALL_KEY}"
+            echo "API_FOOTBALLDATA_KEY=${API_FOOTBALLDATA_KEY}"
+            echo "API_SOCCERDATA_KEY=${API_SOCCERDATA_KEY}"
+          } > .env.local
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          API_FOOTBALLDATA_KEY: ${{ secrets.API_FOOTBALLDATA_KEY }}
+          API_SOCCERDATA_KEY: ${{ secrets.API_SOCCERDATA_KEY }}
+
+      - name: Build Next
+        run: npm run build
+
+      - name: Start Next server
+        run: |
+          nohup npm start > server.log 2>&1 &
+          echo "Avvio server..."
+          sleep 15
+
+      # ---- 08:20 IT (06:20 UTC): fetchDataSoc con retry ----
+      - name: Run fetchDataSoc 08-20 IT (retry)
+        if: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '20 6 * * *' }}
+        run: |
+          echo ">>> fetchDataSoc (con retry) per: ita2 ing2 spa2 por2 ger2 ola2 fra2"
+
+          retry() {
+            url="$1"
+            tries=0
+            until [ $tries -ge 3 ]
+            do
+              code=$(curl -sS -o /tmp/resp.json -w "%{http_code}" "$url" || echo "000")
+              echo "URL: $url -> HTTP $code"
+              cat /tmp/resp.json || true
+              echo
+              if [ "$code" = "200" ]; then
+                return 0
+              fi
+              tries=$((tries+1))
+              echo "Retry $tries tra 8s…"
+              sleep 8
+            done
+            return 1
+          }
+
+          for league in ita2 ing2 spa2 por2 ger2 ola2 fra2; do
+            echo "==> SOC fetchData $league"
+            retry "http://localhost:3000/api/fetchDataSoc?league=$league" || { echo "FAILED fetchDataSoc $league"; exit 21; }
+            sleep 1
+          done
+
+      # ---- 08:40 IT (06:40 UTC): fetchResultSoc con retry ----
+      - name: Run fetchResultSoc 08-40 IT (retry)
+        if: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '40 6 * * *' }}
+        run: |
+          echo ">>> fetchResultSoc (con retry) per: ita2 ing2 spa2 por2 ger2 ola2 fra2"
+
+          retry() {
+            url="$1"
+            tries=0
+            until [ $tries -ge 3 ]
+            do
+              code=$(curl -sS -o /tmp/resp.json -w "%{http_code}" "$url" || echo "000")
+              echo "URL: $url -> HTTP $code"
+              cat /tmp/resp.json || true
+              echo
+              if [ "$code" = "200" ]; then
+                return 0
+              fi
+              tries=$((tries+1))
+              echo "Retry $tries tra 8s…"
+              sleep 8
+            done
+            return 1
+          }
+
+          for league in ita2 ing2 spa2 por2 ger2 ola2 fra2; do
+            echo "==> SOC fetchResult $league"
+            retry "http://localhost:3000/api/fetchResultSoc?league=$league&season=2025-2026" || { echo "FAILED fetchResultSoc $league"; exit 22; }
+            sleep 1
+          done
+
+      - name: Log server Next (tail)
+        if: ${{ always() }}
+        run: |
+          echo "=== tail server.log ==="
+          tail -n 200 server.log || echo "server.log non trovato"
+
+      - name: Diagnostica contenuto data e diff
+        if: ${{ always() }}
+        run: |
+          echo "Workspace: $GITHUB_WORKSPACE"
+          find data -maxdepth 3 -type f -name "*.json" -print | sort || true
+          echo "--- changed files ---"
+          git status --porcelain
+
+      - name: Commit JSON changes (rebase su origin/main)
+        if: ${{ success() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica trovata."
+            exit 0
+          fi
+
+          git commit -m "update2: refresh dati JSON automatico (08:20/08:40 IT)"
+
+          git fetch origin main
+          git rebase origin/main || (echo "Rebase fallito, annullo"; git rebase --abort; exit 1)
+
+          git push origin HEAD:main

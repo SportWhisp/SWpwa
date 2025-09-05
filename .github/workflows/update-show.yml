@@ -43,7 +43,7 @@ jobs:
           done
 
           echo ">>> genAnalysisSoc (Altre)"
-          for league in turchia austria belgio danimarca grecia polonia romania svizzera ungheria; do
+          for league in turchia austria belgio danimarca grecia polonia romania svizzera ungheria ita2 ing2 spa2 por2 ger2 ola2 fra2; do
             curl -fSs "http://localhost:3000/api/genAnalysisSoc?league=$league&season=2025-2026"
           done
 
@@ -56,7 +56,7 @@ jobs:
           done
 
           echo ">>> genShowSoc (Altre)"
-          for nazione in turchia austria belgio danimarca grecia polonia romania svizzera ungheria; do
+          for nazione in turchia austria belgio danimarca grecia polonia romania svizzera ungheria ita2 ing2 spa2 por2 ger2 ola2 fra2; do
             curl -fSs "http://localhost:3000/api/genShowSoc?nazione=$nazione"
           done
 
