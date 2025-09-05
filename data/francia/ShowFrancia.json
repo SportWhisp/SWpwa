@@ -26,19 +26,6 @@
     "pNG": "33,57%"
   },
   {
-    "data": "2025-09-13T17:00:00Z",
-    "partita": "RC Strasbourg Alsace vs Le Havre AC",
-    "risultato": "",
-    "previsione": "2 - 1",
-    "p1": "59,35%",
-    "pX": "16,67%",
-    "p2": "23,99%",
-    "pUnder": "30,51%",
-    "pOver": "69,49%",
-    "pGG": "73,84%",
-    "pNG": "26,16%"
-  },
-  {
     "data": "2025-09-13T19:05:00Z",
     "partita": "AJ Auxerre vs AS Monaco FC",
     "risultato": "",
@@ -89,6 +76,19 @@
     "pOver": "61,52%",
     "pGG": "66,59%",
     "pNG": "33,41%"
+  },
+  {
+    "data": "2025-09-14T15:15:00Z",
+    "partita": "RC Strasbourg Alsace vs Le Havre AC",
+    "risultato": "",
+    "previsione": "2 - 1",
+    "p1": "59,35%",
+    "pX": "16,67%",
+    "p2": "23,99%",
+    "pUnder": "30,51%",
+    "pOver": "69,49%",
+    "pGG": "73,84%",
+    "pNG": "26,16%"
   },
   {
     "data": "2025-09-14T15:15:00Z",

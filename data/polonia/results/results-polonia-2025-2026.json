@@ -14619,7 +14619,60 @@
                 "home": -1,
                 "away": -1
               },
-              "last_modified_timestamp": 1756967497
+              "last_modified_timestamp": 1757055738
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 967490,
+            "date": "12/09/2025",
+            "time": "18:30",
+            "teams": {
+              "home": {
+                "id": 2956,
+                "name": "Lech Poznan"
+              },
+              "away": {
+                "id": 3123,
+                "name": "Zaglebie Lubin"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 1.69,
+                "draw": 3.75,
+                "away": 4.66
+              },
+              "over_under": {
+                "total": -1,
+                "over": -1,
+                "under": -1
+              },
+              "handicap": {
+                "market": -101,
+                "home": -1,
+                "away": -1
+              },
+              "last_modified_timestamp": 1757055738
             },
             "match_preview": {
               "has_preview": false,
@@ -14672,60 +14725,7 @@
                 "home": 1.77,
                 "away": 1.94
               },
-              "last_modified_timestamp": 1756967498
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967351,
-            "date": "13/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3190,
-                "name": "Motor Lublin"
-              },
-              "away": {
-                "id": 4713,
-                "name": "Nieciecza"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 2.4,
-                "draw": 3.2,
-                "away": 2.87
-              },
-              "over_under": {
-                "total": -1,
-                "over": -1,
-                "under": -1
-              },
-              "handicap": {
-                "market": "+0.0",
-                "home": 1.7,
-                "away": 2.03
-              },
-              "last_modified_timestamp": 1756967498
+              "last_modified_timestamp": 1757055738
             },
             "match_preview": {
               "has_preview": false,
@@ -14778,7 +14778,7 @@
                 "home": -1,
                 "away": -1
               },
-              "last_modified_timestamp": 1756967498
+              "last_modified_timestamp": 1757055739
             },
             "match_preview": {
               "has_preview": false,
@@ -14786,17 +14786,17 @@
             }
           },
           {
-            "id": 967490,
+            "id": 967351,
             "date": "13/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2956,
-                "name": "Lech Poznan"
+                "id": 3190,
+                "name": "Motor Lublin"
               },
               "away": {
-                "id": 3123,
-                "name": "Zaglebie Lubin"
+                "id": 4713,
+                "name": "Nieciecza"
               }
             },
             "status": "pre-match",
@@ -14817,9 +14817,9 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.69,
-                "draw": 3.75,
-                "away": 4.66
+                "home": 2.4,
+                "draw": 3.2,
+                "away": 2.87
               },
               "over_under": {
                 "total": -1,
@@ -14827,11 +14827,11 @@
                 "under": -1
               },
               "handicap": {
-                "market": -101,
-                "home": -1,
-                "away": -1
+                "market": "+0.0",
+                "home": 1.7,
+                "away": 2.03
               },
-              "last_modified_timestamp": 1756967498
+              "last_modified_timestamp": 1757055739
             },
             "match_preview": {
               "has_preview": false,
@@ -14884,7 +14884,7 @@
                 "home": 1.7,
                 "away": 2.03
               },
-              "last_modified_timestamp": 1756967498
+              "last_modified_timestamp": 1757055738
             },
             "match_preview": {
               "has_preview": false,
@@ -14937,7 +14937,7 @@
                 "home": 1.99,
                 "away": 1.73
               },
-              "last_modified_timestamp": 1756967498
+              "last_modified_timestamp": 1757055738
             },
             "match_preview": {
               "has_preview": false,
@@ -14990,7 +14990,7 @@
                 "home": -1,
                 "away": -1
               },
-              "last_modified_timestamp": 1756967498
+              "last_modified_timestamp": 1757055739
             },
             "match_preview": {
               "has_preview": false,
@@ -15043,7 +15043,7 @@
                 "home": -1,
                 "away": -1
               },
-              "last_modified_timestamp": 1756967498
+              "last_modified_timestamp": 1757055739
             },
             "match_preview": {
               "has_preview": false,
@@ -15411,6 +15411,46 @@
             }
           },
           {
+            "id": 967353,
+            "date": "27/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4710,
+                "name": "Piast Gliwice"
+              },
+              "away": {
+                "id": 4713,
+                "name": "Nieciecza"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 967493,
             "date": "27/09/2025",
             "time": "15:00",
@@ -15491,46 +15531,6 @@
             }
           },
           {
-            "id": 967353,
-            "date": "27/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4710,
-                "name": "Piast Gliwice"
-              },
-              "away": {
-                "id": 4713,
-                "name": "Nieciecza"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 967495,
             "date": "27/09/2025",
             "time": "15:00",
@@ -15542,46 +15542,6 @@
               "away": {
                 "id": 4709,
                 "name": "Arka Gdynia"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967497,
-            "date": "04/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2964,
-                "name": "Radomiak Radom"
-              },
-              "away": {
-                "id": 3123,
-                "name": "Zaglebie Lubin"
               }
             },
             "status": "pre-match",
@@ -15691,17 +15651,17 @@
             }
           },
           {
-            "id": 967496,
+            "id": 967497,
             "date": "04/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3185,
-                "name": "Gornik Zabrze"
+                "id": 2964,
+                "name": "Radomiak Radom"
               },
               "away": {
-                "id": 2899,
-                "name": "Legia Warsaw"
+                "id": 3123,
+                "name": "Zaglebie Lubin"
               }
             },
             "status": "pre-match",
@@ -15731,17 +15691,17 @@
             }
           },
           {
-            "id": 967500,
-            "date": "18/10/2025",
+            "id": 967496,
+            "date": "04/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3186,
-                "name": "Korona Kielce"
-              },
-              "away": {
                 "id": 3185,
                 "name": "Gornik Zabrze"
+              },
+              "away": {
+                "id": 2899,
+                "name": "Legia Warsaw"
               }
             },
             "status": "pre-match",
@@ -15851,17 +15811,17 @@
             }
           },
           {
-            "id": 967498,
+            "id": 967500,
             "date": "18/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3176,
-                "name": "Cracovia"
+                "id": 3186,
+                "name": "Korona Kielce"
               },
               "away": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
+                "id": 3185,
+                "name": "Gornik Zabrze"
               }
             },
             "status": "pre-match",
@@ -15891,17 +15851,17 @@
             }
           },
           {
-            "id": 967356,
-            "date": "25/10/2025",
+            "id": 967498,
+            "date": "18/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4713,
-                "name": "Nieciecza"
+                "id": 3176,
+                "name": "Cracovia"
               },
               "away": {
-                "id": 3123,
-                "name": "Zaglebie Lubin"
+                "id": 3173,
+                "name": "Rakow Czestochowa"
               }
             },
             "status": "pre-match",
@@ -15971,53 +15931,13 @@
             }
           },
           {
-            "id": 961392,
+            "id": 967356,
             "date": "25/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3173,
-                "name": "Rakow Czestochowa"
-              },
-              "away": {
-                "id": 3180,
-                "name": "Lechia Gdansk"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967502,
-            "date": "31/10/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3176,
-                "name": "Cracovia"
+                "id": 4713,
+                "name": "Nieciecza"
               },
               "away": {
                 "id": 3123,
@@ -16051,17 +15971,17 @@
             }
           },
           {
-            "id": 967504,
-            "date": "31/10/2025",
+            "id": 961392,
+            "date": "25/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3185,
-                "name": "Gornik Zabrze"
+                "id": 3173,
+                "name": "Rakow Czestochowa"
               },
               "away": {
-                "id": 4709,
-                "name": "Arka Gdynia"
+                "id": 3180,
+                "name": "Lechia Gdansk"
               }
             },
             "status": "pre-match",
@@ -16131,6 +16051,46 @@
             }
           },
           {
+            "id": 967502,
+            "date": "31/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3176,
+                "name": "Cracovia"
+              },
+              "away": {
+                "id": 3123,
+                "name": "Zaglebie Lubin"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 967357,
             "date": "31/10/2025",
             "time": "15:00",
@@ -16142,6 +16102,46 @@
               "away": {
                 "id": 2967,
                 "name": "GKS Katowice"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 967504,
+            "date": "31/10/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3185,
+                "name": "Gornik Zabrze"
+              },
+              "away": {
+                "id": 4709,
+                "name": "Arka Gdynia"
               }
             },
             "status": "pre-match",

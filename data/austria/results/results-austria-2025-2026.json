@@ -7199,7 +7199,7 @@
               "match_winner": {
                 "home": 2.45,
                 "draw": 3.45,
-                "away": 2.72
+                "away": 2.7
               },
               "over_under": {
                 "total": 2.5,
@@ -7208,10 +7208,10 @@
               },
               "handicap": {
                 "market": -0.25,
-                "home": 2.09,
-                "away": 1.67
+                "home": 2.06,
+                "away": 1.68
               },
-              "last_modified_timestamp": 1756967483
+              "last_modified_timestamp": 1757055724
             },
             "match_preview": {
               "has_preview": false,
@@ -7317,7 +7317,7 @@
                 "home": 1.9,
                 "away": 1.9
               },
-              "last_modified_timestamp": 1756967483
+              "last_modified_timestamp": 1757055724
             },
             "match_preview": {
               "has_preview": false,
@@ -7476,7 +7476,7 @@
                 "home": 1.99,
                 "away": 1.8
               },
-              "last_modified_timestamp": 1756967485
+              "last_modified_timestamp": 1757055726
             },
             "match_preview": {
               "has_preview": false,
@@ -7529,7 +7529,7 @@
                 "home": 2.07,
                 "away": 1.72
               },
-              "last_modified_timestamp": 1756967485
+              "last_modified_timestamp": 1757055726
             },
             "match_preview": {
               "has_preview": false,
@@ -7582,7 +7582,7 @@
                 "home": 2.02,
                 "away": 1.78
               },
-              "last_modified_timestamp": 1756967485
+              "last_modified_timestamp": 1757055726
             },
             "match_preview": {
               "has_preview": false,

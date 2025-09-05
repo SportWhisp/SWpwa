@@ -14920,6 +14920,24 @@
                   "id": 51554,
                   "name": "A. Abeid"
                 }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 30078,
+                  "name": "D. Miculescu"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 29895,
+                  "name": "V. Cretu"
+                }
               }
             ],
             "odds": {
@@ -15395,17 +15413,17 @@
             }
           },
           {
-            "id": 956266,
-            "date": "13/09/2025",
-            "time": "15:00",
+            "id": 956271,
+            "date": "12/09/2025",
+            "time": "18:00",
             "teams": {
               "home": {
-                "id": 2804,
-                "name": "Universitatea Craiova"
+                "id": 4773,
+                "name": "Universitatea Cluj"
               },
               "away": {
-                "id": 3630,
-                "name": "FCV Farul Constanta"
+                "id": 3142,
+                "name": "Rapid"
               }
             },
             "status": "pre-match",
@@ -15426,21 +15444,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.7,
-                "draw": 3.75,
-                "away": 4.68
+                "home": 2.66,
+                "draw": 3.1,
+                "away": 2.69
               },
               "over_under": {
-                "total": 2.5,
-                "over": 1.96,
-                "under": 1.81
+                "total": 2.25,
+                "over": 1.98,
+                "under": 1.72
               },
               "handicap": {
-                "market": -0.75,
-                "home": 1.9,
-                "away": 1.83
+                "market": "+0.0",
+                "home": 1.87,
+                "away": 1.88
               },
-              "last_modified_timestamp": 1756967475
+              "last_modified_timestamp": 1757055714
             },
             "match_preview": {
               "has_preview": false,
@@ -15493,7 +15511,7 @@
                 "home": 1.95,
                 "away": 1.82
               },
-              "last_modified_timestamp": 1756967474
+              "last_modified_timestamp": 1757055714
             },
             "match_preview": {
               "has_preview": false,
@@ -15532,21 +15550,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.81,
-                "draw": 3.25,
-                "away": 4.75
+                "home": 1.82,
+                "draw": 3.3,
+                "away": 4.55
               },
               "over_under": {
                 "total": 2.25,
-                "over": 1.98,
-                "under": 1.72
+                "over": 1.89,
+                "under": 1.8
               },
               "handicap": {
                 "market": -0.75,
                 "home": 2.08,
                 "away": 1.72
               },
-              "last_modified_timestamp": 1756967475
+              "last_modified_timestamp": 1757055715
             },
             "match_preview": {
               "has_preview": false,
@@ -15599,7 +15617,7 @@
                 "home": 1.93,
                 "away": 1.75
               },
-              "last_modified_timestamp": 1756967474
+              "last_modified_timestamp": 1757055715
             },
             "match_preview": {
               "has_preview": false,
@@ -15638,62 +15656,9 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.4,
-                "draw": 3.14,
-                "away": 2.88
-              },
-              "over_under": {
-                "total": 2,
-                "over": 1.72,
-                "under": 1.96
-              },
-              "handicap": {
-                "market": -0.25,
-                "home": 2.05,
-                "away": 1.66
-              },
-              "last_modified_timestamp": 1756967475
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 956271,
-            "date": "13/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4773,
-                "name": "Universitatea Cluj"
-              },
-              "away": {
-                "id": 3142,
-                "name": "Rapid"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 2.54,
-                "draw": 3.1,
-                "away": 2.8
+                "home": 2.75,
+                "draw": 3.16,
+                "away": 2.55
               },
               "over_under": {
                 "total": 2,
@@ -15702,10 +15667,10 @@
               },
               "handicap": {
                 "market": "+0.0",
-                "home": 1.79,
-                "away": 1.97
+                "home": 1.95,
+                "away": 1.81
               },
-              "last_modified_timestamp": 1756967473
+              "last_modified_timestamp": 1757055716
             },
             "match_preview": {
               "has_preview": false,
@@ -15786,19 +15751,72 @@
               "match_winner": {
                 "home": 2.12,
                 "draw": 3.25,
-                "away": 3.34
+                "away": 3.36
               },
               "over_under": {
                 "total": 2.25,
-                "over": 1.91,
-                "under": 1.78
+                "over": 1.9,
+                "under": 1.79
               },
               "handicap": {
                 "market": -0.5,
                 "home": 2.15,
                 "away": 1.75
               },
-              "last_modified_timestamp": 1756967474
+              "last_modified_timestamp": 1757055714
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 956266,
+            "date": "13/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2804,
+                "name": "Universitatea Craiova"
+              },
+              "away": {
+                "id": 3630,
+                "name": "FCV Farul Constanta"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 1.67,
+                "draw": 3.75,
+                "away": 4.75
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 1.97,
+                "under": 1.8
+              },
+              "handicap": {
+                "market": -0.75,
+                "home": 1.9,
+                "away": 1.9
+              },
+              "last_modified_timestamp": 1757055715
             },
             "match_preview": {
               "has_preview": false,
@@ -20357,8 +20375,8 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.3,
-                "draw": 5,
+                "home": 1.28,
+                "draw": 5.2,
                 "away": 10.5
               },
               "over_under": {
@@ -20368,10 +20386,10 @@
               },
               "handicap": {
                 "market": -1.25,
-                "home": 1.63,
-                "away": 2.1
+                "home": 1.57,
+                "away": 2.25
               },
-              "last_modified_timestamp": 1756967475
+              "last_modified_timestamp": 1757055715
             },
             "match_preview": {
               "has_preview": false,

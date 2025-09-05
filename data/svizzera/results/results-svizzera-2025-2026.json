@@ -7390,6 +7390,19 @@
                   "id": 32039,
                   "name": "Joel Monteiro"
                 }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "57",
+                "team": "away",
+                "player_in": {
+                  "id": 220409,
+                  "name": "E. Pihlstrom"
+                },
+                "player_out": {
+                  "id": 43721,
+                  "name": "Daniel dos Santos"
+                }
               }
             ],
             "odds": {
@@ -7461,7 +7474,7 @@
                 "home": 1.95,
                 "away": 1.76
               },
-              "last_modified_timestamp": 1756967509
+              "last_modified_timestamp": 1757055747
             },
             "match_preview": {
               "has_preview": false,
@@ -7514,7 +7527,7 @@
                 "home": 1.85,
                 "away": 1.86
               },
-              "last_modified_timestamp": 1756967509
+              "last_modified_timestamp": 1757055747
             },
             "match_preview": {
               "has_preview": false,
@@ -7555,7 +7568,7 @@
               "match_winner": {
                 "home": 2.3,
                 "draw": 3.55,
-                "away": 2.85
+                "away": 2.82
               },
               "over_under": {
                 "total": 2.75,
@@ -7567,7 +7580,7 @@
                 "home": 1.95,
                 "away": 1.76
               },
-              "last_modified_timestamp": 1756967509
+              "last_modified_timestamp": 1757055747
             },
             "match_preview": {
               "has_preview": false,
@@ -7617,10 +7630,10 @@
               },
               "handicap": {
                 "market": "+0.0",
-                "home": 2.12,
-                "away": 1.7
+                "home": 2.11,
+                "away": 1.71
               },
-              "last_modified_timestamp": 1756967509
+              "last_modified_timestamp": 1757055747
             },
             "match_preview": {
               "has_preview": false,
@@ -7659,9 +7672,9 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.82,
+                "home": 2.84,
                 "draw": 3.55,
-                "away": 2.29
+                "away": 2.3
               },
               "over_under": {
                 "total": 2.75,
@@ -7670,10 +7683,10 @@
               },
               "handicap": {
                 "market": "+0.0",
-                "home": 2.12,
-                "away": 1.7
+                "home": 2.11,
+                "away": 1.71
               },
-              "last_modified_timestamp": 1756967509
+              "last_modified_timestamp": 1757055747
             },
             "match_preview": {
               "has_preview": false,
@@ -7723,10 +7736,10 @@
               },
               "handicap": {
                 "market": "+0.0",
-                "home": 2.12,
-                "away": 1.7
+                "home": 2.11,
+                "away": 1.71
               },
-              "last_modified_timestamp": 1756967509
+              "last_modified_timestamp": 1757055747
             },
             "match_preview": {
               "has_preview": false,

@@ -13,6 +13,19 @@
     "pNG": "36,67%"
   },
   {
+    "data": "12/09/2025",
+    "partita": "Lech Poznan vs Zaglebie Lubin",
+    "risultato": "",
+    "previsione": "1 - 1",
+    "p1": "46,07%",
+    "pX": "39,29%",
+    "p2": "14,64%",
+    "pUnder": "30,71%",
+    "pOver": "69,29%",
+    "pGG": "96,43%",
+    "pNG": "3,57%"
+  },
+  {
     "data": "13/09/2025",
     "partita": "Korona Kielce vs Pogon Szczecin",
     "risultato": "",
@@ -24,19 +37,6 @@
     "pOver": "57,63%",
     "pGG": "62,89%",
     "pNG": "37,11%"
-  },
-  {
-    "data": "13/09/2025",
-    "partita": "Motor Lublin vs Nieciecza",
-    "risultato": "",
-    "previsione": "1 - 1",
-    "p1": "31,79%",
-    "pX": "39,29%",
-    "p2": "28,93%",
-    "pUnder": "73,57%",
-    "pOver": "26,43%",
-    "pGG": "45,00%",
-    "pNG": "55,00%"
   },
   {
     "data": "13/09/2025",
@@ -53,16 +53,16 @@
   },
   {
     "data": "13/09/2025",
-    "partita": "Lech Poznan vs Zaglebie Lubin",
+    "partita": "Motor Lublin vs Nieciecza",
     "risultato": "",
     "previsione": "1 - 1",
-    "p1": "46,07%",
+    "p1": "31,79%",
     "pX": "39,29%",
-    "p2": "14,64%",
-    "pUnder": "30,71%",
-    "pOver": "69,29%",
-    "pGG": "96,43%",
-    "pNG": "3,57%"
+    "p2": "28,93%",
+    "pUnder": "73,57%",
+    "pOver": "26,43%",
+    "pGG": "45,00%",
+    "pNG": "55,00%"
   },
   {
     "data": "13/09/2025",
