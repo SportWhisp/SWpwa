@@ -14,29 +14,16 @@
   },
   {
     "data": "13/09/2025",
-    "partita": "Metaloglobus vs CFR Cluj",
-    "risultato": "",
-    "previsione": "1 - 2",
-    "p1": "16,62%",
-    "pX": "21,62%",
-    "p2": "61,76%",
-    "pUnder": "19,32%",
-    "pOver": "80,68%",
-    "pGG": "80,68%",
-    "pNG": "19,32%"
-  },
-  {
-    "data": "13/09/2025",
-    "partita": "Hermannstadt vs Unirea Slobozia",
+    "partita": "UTA Arad vs Arges",
     "risultato": "",
     "previsione": "1 - 1",
-    "p1": "27,50%",
-    "pX": "45,00%",
-    "p2": "27,50%",
-    "pUnder": "65,00%",
-    "pOver": "35,00%",
-    "pGG": "55,00%",
-    "pNG": "45,00%"
+    "p1": "37,98%",
+    "pX": "28,81%",
+    "p2": "33,21%",
+    "pUnder": "57,38%",
+    "pOver": "42,62%",
+    "pGG": "69,29%",
+    "pNG": "30,71%"
   },
   {
     "data": "13/09/2025",
@@ -50,6 +37,19 @@
     "pOver": "47,50%",
     "pGG": "77,50%",
     "pNG": "22,50%"
+  },
+  {
+    "data": "13/09/2025",
+    "partita": "Universitatea Craiova vs FCV Farul Constanta",
+    "risultato": "",
+    "previsione": "1 - 1",
+    "p1": "64,17%",
+    "pX": "19,29%",
+    "p2": "16,55%",
+    "pUnder": "50,24%",
+    "pOver": "49,76%",
+    "pGG": "71,67%",
+    "pNG": "28,33%"
   },
   {
     "data": "13/09/2025",
@@ -79,28 +79,28 @@
   },
   {
     "data": "13/09/2025",
-    "partita": "UTA Arad vs Arges",
+    "partita": "Hermannstadt vs Unirea Slobozia",
     "risultato": "",
     "previsione": "1 - 1",
-    "p1": "37,98%",
-    "pX": "28,81%",
-    "p2": "33,21%",
-    "pUnder": "57,38%",
-    "pOver": "42,62%",
-    "pGG": "69,29%",
-    "pNG": "30,71%"
+    "p1": "27,50%",
+    "pX": "45,00%",
+    "p2": "27,50%",
+    "pUnder": "65,00%",
+    "pOver": "35,00%",
+    "pGG": "55,00%",
+    "pNG": "45,00%"
   },
   {
     "data": "13/09/2025",
-    "partita": "Universitatea Craiova vs FCV Farul Constanta",
+    "partita": "Metaloglobus vs CFR Cluj",
     "risultato": "",
-    "previsione": "1 - 1",
-    "p1": "64,17%",
-    "pX": "19,29%",
-    "p2": "16,55%",
-    "pUnder": "50,24%",
-    "pOver": "49,76%",
-    "pGG": "71,67%",
-    "pNG": "28,33%"
+    "previsione": "1 - 2",
+    "p1": "16,62%",
+    "pX": "21,62%",
+    "p2": "61,76%",
+    "pUnder": "19,32%",
+    "pOver": "80,68%",
+    "pGG": "80,68%",
+    "pNG": "19,32%"
   }
 ]

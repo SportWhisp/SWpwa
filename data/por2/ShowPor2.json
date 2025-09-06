@@ -1,32 +1,6 @@
 [
   {
-    "data": "14/09/2025",
-    "partita": "Lusitania Lourosa vs Penafiel",
-    "risultato": "",
-    "previsione": "1 - 1",
-    "p1": "44,56%",
-    "pX": "34,41%",
-    "p2": "21,03%",
-    "pUnder": "53,24%",
-    "pOver": "46,76%",
-    "pGG": "67,35%",
-    "pNG": "32,65%"
-  },
-  {
-    "data": "14/09/2025",
-    "partita": "Torreense vs Pacos Ferreira",
-    "risultato": "",
-    "previsione": "1 - 1",
-    "p1": "49,18%",
-    "pX": "25,13%",
-    "p2": "25,69%",
-    "pUnder": "54,66%",
-    "pOver": "45,34%",
-    "pGG": "51,31%",
-    "pNG": "48,69%"
-  },
-  {
-    "data": "14/09/2025",
+    "data": "13/09/2025",
     "partita": "Felgueiras 1932 vs Benfica II",
     "risultato": "",
     "previsione": "1 - 2",
@@ -39,17 +13,30 @@
     "pNG": "32,67%"
   },
   {
-    "data": "14/09/2025",
-    "partita": "Maritimo vs Vizela",
+    "data": "13/09/2025",
+    "partita": "Lusitania Lourosa vs Penafiel",
     "risultato": "",
     "previsione": "1 - 1",
-    "p1": "19,42%",
-    "pX": "38,56%",
-    "p2": "42,02%",
-    "pUnder": "65,96%",
-    "pOver": "34,04%",
-    "pGG": "61,85%",
-    "pNG": "38,15%"
+    "p1": "44,56%",
+    "pX": "34,41%",
+    "p2": "21,03%",
+    "pUnder": "53,24%",
+    "pOver": "46,76%",
+    "pGG": "67,35%",
+    "pNG": "32,65%"
+  },
+  {
+    "data": "13/09/2025",
+    "partita": "Leixoes vs Farense",
+    "risultato": "",
+    "previsione": "1 - 1",
+    "p1": "37,50%",
+    "pX": "33,24%",
+    "p2": "29,26%",
+    "pUnder": "57,94%",
+    "pOver": "42,06%",
+    "pGG": "54,41%",
+    "pNG": "45,59%"
   },
   {
     "data": "14/09/2025",
@@ -79,29 +66,16 @@
   },
   {
     "data": "14/09/2025",
-    "partita": "Leixoes vs Farense",
+    "partita": "Maritimo vs Vizela",
     "risultato": "",
     "previsione": "1 - 1",
-    "p1": "37,50%",
-    "pX": "33,24%",
-    "p2": "29,26%",
-    "pUnder": "57,94%",
-    "pOver": "42,06%",
-    "pGG": "54,41%",
-    "pNG": "45,59%"
-  },
-  {
-    "data": "14/09/2025",
-    "partita": "Chaves vs Feirense",
-    "risultato": "",
-    "previsione": "1 - 1",
-    "p1": "33,12%",
-    "pX": "35,82%",
-    "p2": "31,06%",
-    "pUnder": "65,27%",
-    "pOver": "34,73%",
-    "pGG": "50,21%",
-    "pNG": "49,79%"
+    "p1": "19,42%",
+    "pX": "38,56%",
+    "p2": "42,02%",
+    "pUnder": "65,96%",
+    "pOver": "34,04%",
+    "pGG": "61,85%",
+    "pNG": "38,15%"
   },
   {
     "data": "14/09/2025",
@@ -115,5 +89,31 @@
     "pOver": "49,12%",
     "pGG": "57,94%",
     "pNG": "42,06%"
+  },
+  {
+    "data": "14/09/2025",
+    "partita": "Torreense vs Pacos Ferreira",
+    "risultato": "",
+    "previsione": "1 - 1",
+    "p1": "49,18%",
+    "pX": "25,13%",
+    "p2": "25,69%",
+    "pUnder": "54,66%",
+    "pOver": "45,34%",
+    "pGG": "51,31%",
+    "pNG": "48,69%"
+  },
+  {
+    "data": "14/09/2025",
+    "partita": "Chaves vs Feirense",
+    "risultato": "",
+    "previsione": "1 - 1",
+    "p1": "33,12%",
+    "pX": "35,82%",
+    "p2": "31,06%",
+    "pUnder": "65,27%",
+    "pOver": "34,73%",
+    "pGG": "50,21%",
+    "pNG": "49,79%"
   }
 ]

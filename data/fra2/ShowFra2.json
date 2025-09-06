@@ -1,29 +1,16 @@
 [
   {
     "data": "12/09/2025",
-    "partita": "Amiens SC vs Bastia",
-    "risultato": "",
-    "previsione": "2 - 1",
-    "p1": "46,55%",
-    "pX": "28,17%",
-    "p2": "25,28%",
-    "pUnder": "48,52%",
-    "pOver": "51,48%",
-    "pGG": "57,11%",
-    "pNG": "42,89%"
-  },
-  {
-    "data": "12/09/2025",
-    "partita": "Grenoble Foot 38 vs Dunkerque",
+    "partita": "Guingamp vs Montpellier",
     "risultato": "",
     "previsione": "1 - 1",
-    "p1": "34,74%",
-    "pX": "31,21%",
-    "p2": "34,05%",
-    "pUnder": "59,48%",
-    "pOver": "40,52%",
-    "pGG": "60,86%",
-    "pNG": "39,14%"
+    "p1": "40,52%",
+    "pX": "24,77%",
+    "p2": "34,71%",
+    "pUnder": "39,88%",
+    "pOver": "60,12%",
+    "pGG": "60,81%",
+    "pNG": "39,19%"
   },
   {
     "data": "12/09/2025",
@@ -53,19 +40,6 @@
   },
   {
     "data": "12/09/2025",
-    "partita": "Guingamp vs Montpellier",
-    "risultato": "",
-    "previsione": "1 - 1",
-    "p1": "40,52%",
-    "pX": "24,77%",
-    "p2": "34,71%",
-    "pUnder": "39,88%",
-    "pOver": "60,12%",
-    "pGG": "60,81%",
-    "pNG": "39,19%"
-  },
-  {
-    "data": "12/09/2025",
     "partita": "Troyes vs Nancy",
     "risultato": "",
     "previsione": "1 - 1",
@@ -79,29 +53,16 @@
   },
   {
     "data": "12/09/2025",
-    "partita": "Annecy vs Reims",
+    "partita": "Amiens SC vs Bastia",
     "risultato": "",
-    "previsione": "1 - 1",
-    "p1": "38,46%",
-    "pX": "35,12%",
-    "p2": "26,42%",
-    "pUnder": "71,27%",
-    "pOver": "28,73%",
-    "pGG": "44,76%",
-    "pNG": "55,24%"
-  },
-  {
-    "data": "12/09/2025",
-    "partita": "Clermont vs Saint-Etienne",
-    "risultato": "",
-    "previsione": "1 - 1",
-    "p1": "17,95%",
-    "pX": "48,18%",
-    "p2": "33,86%",
-    "pUnder": "65,23%",
-    "pOver": "34,77%",
-    "pGG": "61,82%",
-    "pNG": "38,18%"
+    "previsione": "2 - 1",
+    "p1": "46,55%",
+    "pX": "28,17%",
+    "p2": "25,28%",
+    "pUnder": "48,52%",
+    "pOver": "51,48%",
+    "pGG": "57,11%",
+    "pNG": "42,89%"
   },
   {
     "data": "12/09/2025",
@@ -115,5 +76,44 @@
     "pOver": "36,18%",
     "pGG": "53,53%",
     "pNG": "46,47%"
+  },
+  {
+    "data": "13/09/2025",
+    "partita": "Annecy vs Reims",
+    "risultato": "",
+    "previsione": "1 - 1",
+    "p1": "38,46%",
+    "pX": "35,12%",
+    "p2": "26,42%",
+    "pUnder": "71,27%",
+    "pOver": "28,73%",
+    "pGG": "44,76%",
+    "pNG": "55,24%"
+  },
+  {
+    "data": "13/09/2025",
+    "partita": "Grenoble Foot 38 vs Dunkerque",
+    "risultato": "",
+    "previsione": "1 - 1",
+    "p1": "34,74%",
+    "pX": "31,21%",
+    "p2": "34,05%",
+    "pUnder": "59,48%",
+    "pOver": "40,52%",
+    "pGG": "60,86%",
+    "pNG": "39,14%"
+  },
+  {
+    "data": "13/09/2025",
+    "partita": "Clermont vs Saint-Etienne",
+    "risultato": "",
+    "previsione": "1 - 1",
+    "p1": "17,95%",
+    "pX": "48,18%",
+    "p2": "33,86%",
+    "pUnder": "65,23%",
+    "pOver": "34,77%",
+    "pGG": "61,82%",
+    "pNG": "38,18%"
   }
 ]
