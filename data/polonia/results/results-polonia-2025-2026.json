@@ -14605,21 +14605,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.1,
-                "draw": 3.2,
-                "away": 3.47
+                "home": 2.15,
+                "draw": 3.8,
+                "away": 2.97
               },
               "over_under": {
-                "total": -1,
-                "over": -1,
-                "under": -1
+                "total": 3,
+                "over": 1.9,
+                "under": 1.87
               },
               "handicap": {
-                "market": -101,
-                "home": -1,
-                "away": -1
+                "market": -0.5,
+                "home": 2.18,
+                "away": 1.68
               },
-              "last_modified_timestamp": 1757055738
+              "last_modified_timestamp": 1757142112
             },
             "match_preview": {
               "has_preview": false,
@@ -14658,21 +14658,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.69,
-                "draw": 3.75,
-                "away": 4.66
+                "home": 1.53,
+                "draw": 4.4,
+                "away": 5.55
               },
               "over_under": {
-                "total": -1,
-                "over": -1,
-                "under": -1
+                "total": 2.75,
+                "over": 1.74,
+                "under": 2
               },
               "handicap": {
-                "market": -101,
-                "home": -1,
-                "away": -1
+                "market": -1,
+                "home": 1.85,
+                "away": 1.95
               },
-              "last_modified_timestamp": 1757055738
+              "last_modified_timestamp": 1757142112
             },
             "match_preview": {
               "has_preview": false,
@@ -14725,7 +14725,7 @@
                 "home": 1.77,
                 "away": 1.94
               },
-              "last_modified_timestamp": 1757055738
+              "last_modified_timestamp": 1757142112
             },
             "match_preview": {
               "has_preview": false,
@@ -14778,7 +14778,7 @@
                 "home": -1,
                 "away": -1
               },
-              "last_modified_timestamp": 1757055739
+              "last_modified_timestamp": 1757142112
             },
             "match_preview": {
               "has_preview": false,
@@ -14831,7 +14831,7 @@
                 "home": 1.7,
                 "away": 2.03
               },
-              "last_modified_timestamp": 1757055739
+              "last_modified_timestamp": 1757142112
             },
             "match_preview": {
               "has_preview": false,
@@ -14884,7 +14884,7 @@
                 "home": 1.7,
                 "away": 2.03
               },
-              "last_modified_timestamp": 1757055738
+              "last_modified_timestamp": 1757142112
             },
             "match_preview": {
               "has_preview": false,
@@ -14937,7 +14937,7 @@
                 "home": 1.99,
                 "away": 1.73
               },
-              "last_modified_timestamp": 1757055738
+              "last_modified_timestamp": 1757142112
             },
             "match_preview": {
               "has_preview": false,
@@ -14990,7 +14990,7 @@
                 "home": -1,
                 "away": -1
               },
-              "last_modified_timestamp": 1757055739
+              "last_modified_timestamp": 1757142112
             },
             "match_preview": {
               "has_preview": false,
@@ -15043,7 +15043,7 @@
                 "home": -1,
                 "away": -1
               },
-              "last_modified_timestamp": 1757055739
+              "last_modified_timestamp": 1757142112
             },
             "match_preview": {
               "has_preview": false,
