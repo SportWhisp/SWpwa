@@ -1673,261 +1673,6 @@
             }
           },
           {
-            "id": 965827,
-            "date": "10/08/2025",
-            "time": "17:00",
-            "teams": {
-              "home": {
-                "id": 4730,
-                "name": "Porto II"
-              },
-              "away": {
-                "id": 3373,
-                "name": "Feirense"
-              }
-            },
-            "status": "finished",
-            "minute": -1,
-            "winner": "draw",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [
-              {
-                "event_type": "yellow_card",
-                "event_minute": "22",
-                "team": "away",
-                "player": {
-                  "id": 114909,
-                  "name": "Tiago Ribeiro"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "27",
-                "team": "home",
-                "player": {
-                  "id": 54276,
-                  "name": "T. Pérez"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "32",
-                "team": "away",
-                "player": {
-                  "id": 270042,
-                  "name": "A. Basit"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "46",
-                "team": "home",
-                "player_in": {
-                  "id": 78126,
-                  "name": "Dinis Rodrigues"
-                },
-                "player_out": {
-                  "id": 42488,
-                  "name": "João Moreira"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "60",
-                "team": "home",
-                "player_in": {
-                  "id": 202525,
-                  "name": "K. Nagata"
-                },
-                "player_out": {
-                  "id": 57369,
-                  "name": "Kauê"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "60",
-                "team": "home",
-                "player_in": {
-                  "id": 262969,
-                  "name": "Tiago Silva"
-                },
-                "player_out": {
-                  "id": 223673,
-                  "name": "T. Alves"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "63",
-                "team": "away",
-                "player_in": {
-                  "id": 98775,
-                  "name": "N. John"
-                },
-                "player_out": {
-                  "id": 251909,
-                  "name": "Daouda Doumbia"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "63",
-                "team": "away",
-                "player_in": {
-                  "id": 270042,
-                  "name": "A. Basit"
-                },
-                "player_out": {
-                  "id": 250455,
-                  "name": "Miguel"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "70",
-                "team": "away",
-                "player_in": {
-                  "id": 163184,
-                  "name": "D. Nketia"
-                },
-                "player_out": {
-                  "id": 79617,
-                  "name": "K. Klimov"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "77",
-                "team": "away",
-                "player_in": {
-                  "id": 45456,
-                  "name": "Bruno Silva"
-                },
-                "player_out": {
-                  "id": 114909,
-                  "name": "Tiago Ribeiro"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "77",
-                "team": "away",
-                "player_in": {
-                  "id": 261426,
-                  "name": "Gui Meira"
-                },
-                "player_out": {
-                  "id": 270042,
-                  "name": "A. Basit"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "77",
-                "team": "home",
-                "player_in": {
-                  "id": 78085,
-                  "name": "António Ribeiro"
-                },
-                "player_out": {
-                  "id": 262969,
-                  "name": "Tiago Silva"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "85",
-                "team": "home",
-                "player_in": {
-                  "id": 223926,
-                  "name": "G. Pinto Martins"
-                },
-                "player_out": {
-                  "id": 78117,
-                  "name": "André Oliveira"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "86",
-                "team": "away",
-                "player": {
-                  "id": 232419,
-                  "name": "Emanuel Fernandes"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "32",
-                "team": "away",
-                "player": {
-                  "id": 270605,
-                  "name": "A. Leal"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "77",
-                "team": "away",
-                "player_in": {
-                  "id": 261426,
-                  "name": "Gui Meira"
-                },
-                "player_out": {
-                  "id": 270605,
-                  "name": "A. Leal"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "77",
-                "team": "home",
-                "player_in": {
-                  "id": 78085,
-                  "name": "António Ribeiro"
-                },
-                "player_out": {
-                  "id": 270702,
-                  "name": "Bernardo Lima"
-                }
-              }
-            ],
-            "odds": {
-              "match_winner": {
-                "home": 1.95,
-                "draw": 3.25,
-                "away": 3.8
-              },
-              "over_under": {
-                "total": 2.5,
-                "over": 2.12,
-                "under": 1.68
-              },
-              "handicap": {
-                "market": -0.5,
-                "home": 1.92,
-                "away": 1.88
-              },
-              "last_modified_timestamp": 1754852465
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 965826,
             "date": "10/08/2025",
             "time": "17:00",
@@ -2222,6 +1967,261 @@
                 "market": -0.5,
                 "home": 2.05,
                 "away": 1.8
+              },
+              "last_modified_timestamp": 1754852465
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 965827,
+            "date": "10/08/2025",
+            "time": "17:00",
+            "teams": {
+              "home": {
+                "id": 4730,
+                "name": "Porto II"
+              },
+              "away": {
+                "id": 3373,
+                "name": "Feirense"
+              }
+            },
+            "status": "finished",
+            "minute": -1,
+            "winner": "draw",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "22",
+                "team": "away",
+                "player": {
+                  "id": 114909,
+                  "name": "Tiago Ribeiro"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "27",
+                "team": "home",
+                "player": {
+                  "id": 54276,
+                  "name": "T. Pérez"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "32",
+                "team": "away",
+                "player": {
+                  "id": 270042,
+                  "name": "A. Basit"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 78126,
+                  "name": "Dinis Rodrigues"
+                },
+                "player_out": {
+                  "id": 42488,
+                  "name": "João Moreira"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "60",
+                "team": "home",
+                "player_in": {
+                  "id": 202525,
+                  "name": "K. Nagata"
+                },
+                "player_out": {
+                  "id": 57369,
+                  "name": "Kauê"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "60",
+                "team": "home",
+                "player_in": {
+                  "id": 262969,
+                  "name": "Tiago Silva"
+                },
+                "player_out": {
+                  "id": 223673,
+                  "name": "T. Alves"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "63",
+                "team": "away",
+                "player_in": {
+                  "id": 98775,
+                  "name": "N. John"
+                },
+                "player_out": {
+                  "id": 251909,
+                  "name": "Daouda Doumbia"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "63",
+                "team": "away",
+                "player_in": {
+                  "id": 270042,
+                  "name": "A. Basit"
+                },
+                "player_out": {
+                  "id": 250455,
+                  "name": "Miguel"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "away",
+                "player_in": {
+                  "id": 163184,
+                  "name": "D. Nketia"
+                },
+                "player_out": {
+                  "id": 79617,
+                  "name": "K. Klimov"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "away",
+                "player_in": {
+                  "id": 45456,
+                  "name": "Bruno Silva"
+                },
+                "player_out": {
+                  "id": 114909,
+                  "name": "Tiago Ribeiro"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "away",
+                "player_in": {
+                  "id": 261426,
+                  "name": "Gui Meira"
+                },
+                "player_out": {
+                  "id": 270042,
+                  "name": "A. Basit"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "home",
+                "player_in": {
+                  "id": 78085,
+                  "name": "António Ribeiro"
+                },
+                "player_out": {
+                  "id": 262969,
+                  "name": "Tiago Silva"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "85",
+                "team": "home",
+                "player_in": {
+                  "id": 223926,
+                  "name": "G. Pinto Martins"
+                },
+                "player_out": {
+                  "id": 78117,
+                  "name": "André Oliveira"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "86",
+                "team": "away",
+                "player": {
+                  "id": 232419,
+                  "name": "Emanuel Fernandes"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "32",
+                "team": "away",
+                "player": {
+                  "id": 270605,
+                  "name": "A. Leal"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "away",
+                "player_in": {
+                  "id": 261426,
+                  "name": "Gui Meira"
+                },
+                "player_out": {
+                  "id": 270605,
+                  "name": "A. Leal"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "home",
+                "player_in": {
+                  "id": 78085,
+                  "name": "António Ribeiro"
+                },
+                "player_out": {
+                  "id": 270702,
+                  "name": "Bernardo Lima"
+                }
+              }
+            ],
+            "odds": {
+              "match_winner": {
+                "home": 1.95,
+                "draw": 3.25,
+                "away": 3.8
+              },
+              "over_under": {
+                "total": 2.5,
+                "over": 2.12,
+                "under": 1.68
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 1.92,
+                "away": 1.88
               },
               "last_modified_timestamp": 1754852465
             },
@@ -9861,89 +9861,9 @@
             }
           },
           {
-            "id": 965863,
-            "date": "14/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 6491,
-                "name": "Lusitania Lourosa"
-              },
-              "away": {
-                "id": 4729,
-                "name": "Penafiel"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 965855,
-            "date": "14/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4739,
-                "name": "Torreense"
-              },
-              "away": {
-                "id": 3779,
-                "name": "Pacos Ferreira"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 965856,
-            "date": "14/09/2025",
-            "time": "15:00",
+            "date": "13/09/2025",
+            "time": "10:00",
             "teams": {
               "home": {
                 "id": 6343,
@@ -9981,17 +9901,57 @@
             }
           },
           {
-            "id": 965857,
-            "date": "14/09/2025",
-            "time": "15:00",
+            "id": 965863,
+            "date": "13/09/2025",
+            "time": "13:00",
             "teams": {
               "home": {
-                "id": 3372,
-                "name": "Maritimo"
+                "id": 6491,
+                "name": "Lusitania Lourosa"
               },
               "away": {
-                "id": 4725,
-                "name": "Vizela"
+                "id": 4729,
+                "name": "Penafiel"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 965860,
+            "date": "13/09/2025",
+            "time": "14:30",
+            "teams": {
+              "home": {
+                "id": 4728,
+                "name": "Leixoes"
+              },
+              "away": {
+                "id": 4723,
+                "name": "Farense"
               }
             },
             "status": "pre-match",
@@ -10101,57 +10061,17 @@
             }
           },
           {
-            "id": 965860,
+            "id": 965857,
             "date": "14/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4728,
-                "name": "Leixoes"
+                "id": 3372,
+                "name": "Maritimo"
               },
               "away": {
-                "id": 4723,
-                "name": "Farense"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 965861,
-            "date": "14/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2893,
-                "name": "Chaves"
-              },
-              "away": {
-                "id": 3373,
-                "name": "Feirense"
+                "id": 4725,
+                "name": "Vizela"
               }
             },
             "status": "pre-match",
@@ -10221,17 +10141,97 @@
             }
           },
           {
-            "id": 965870,
+            "id": 965855,
+            "date": "14/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4739,
+                "name": "Torreense"
+              },
+              "away": {
+                "id": 3779,
+                "name": "Pacos Ferreira"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 965861,
+            "date": "14/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2893,
+                "name": "Chaves"
+              },
+              "away": {
+                "id": 3373,
+                "name": "Feirense"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 965872,
             "date": "28/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 5074,
-                "name": "Uniao de Leiria"
+                "id": 3373,
+                "name": "Feirense"
               },
               "away": {
-                "id": 4732,
-                "name": "UD Oliveirense"
+                "id": 6491,
+                "name": "Lusitania Lourosa"
               }
             },
             "status": "pre-match",
@@ -10461,17 +10461,17 @@
             }
           },
           {
-            "id": 965864,
+            "id": 965870,
             "date": "28/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4723,
-                "name": "Farense"
+                "id": 5074,
+                "name": "Uniao de Leiria"
               },
               "away": {
-                "id": 2893,
-                "name": "Chaves"
+                "id": 4732,
+                "name": "UD Oliveirense"
               }
             },
             "status": "pre-match",
@@ -10541,17 +10541,17 @@
             }
           },
           {
-            "id": 965872,
+            "id": 965864,
             "date": "28/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3373,
-                "name": "Feirense"
+                "id": 4723,
+                "name": "Farense"
               },
               "away": {
-                "id": 6491,
-                "name": "Lusitania Lourosa"
+                "id": 2893,
+                "name": "Chaves"
               }
             },
             "status": "pre-match",
