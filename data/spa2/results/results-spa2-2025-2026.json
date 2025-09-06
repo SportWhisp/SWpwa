@@ -1362,6 +1362,46 @@
             }
           },
           {
+            "id": 961241,
+            "date": "17/08/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 3369,
+                "name": "Granada"
+              },
+              "away": {
+                "id": 4900,
+                "name": "Deportivo La Coruna"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 961245,
             "date": "17/08/2025",
             "time": "15:00",
@@ -1613,57 +1653,17 @@
             }
           },
           {
-            "id": 961241,
+            "id": 961247,
             "date": "17/08/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3369,
-                "name": "Granada"
+                "id": 4899,
+                "name": "Malaga"
               },
               "away": {
-                "id": 4900,
-                "name": "Deportivo La Coruna"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961242,
-            "date": "17/08/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4920,
-                "name": "Burgos"
-              },
-              "away": {
-                "id": 6451,
-                "name": "Cultural Leonesa"
+                "id": 4894,
+                "name": "Eibar"
               }
             },
             "status": "pre-match",
@@ -1733,17 +1733,17 @@
             }
           },
           {
-            "id": 961247,
+            "id": 961242,
             "date": "17/08/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4899,
-                "name": "Malaga"
+                "id": 4920,
+                "name": "Burgos"
               },
               "away": {
-                "id": 4894,
-                "name": "Eibar"
+                "id": 6451,
+                "name": "Cultural Leonesa"
               }
             },
             "status": "pre-match",
@@ -4610,46 +4610,6 @@
             }
           },
           {
-            "id": 961255,
-            "date": "24/08/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3287,
-                "name": "Albacete"
-              },
-              "away": {
-                "id": 4915,
-                "name": "Racing Santander"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 961256,
             "date": "24/08/2025",
             "time": "15:00",
@@ -4848,17 +4808,17 @@
             }
           },
           {
-            "id": 961253,
+            "id": 961255,
             "date": "24/08/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3459,
-                "name": "Ceuta"
+                "id": 3287,
+                "name": "Albacete"
               },
               "away": {
-                "id": 4902,
-                "name": "Sporting Gijon"
+                "id": 4915,
+                "name": "Racing Santander"
               }
             },
             "status": "pre-match",
@@ -4888,17 +4848,17 @@
             }
           },
           {
-            "id": 961252,
+            "id": 961250,
             "date": "24/08/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4919,
-                "name": "Castellon"
+                "id": 4897,
+                "name": "Leganes"
               },
               "away": {
-                "id": 3121,
-                "name": "Real Valladolid"
+                "id": 4889,
+                "name": "Cadiz"
               }
             },
             "status": "pre-match",
@@ -5008,17 +4968,57 @@
             }
           },
           {
-            "id": 961250,
+            "id": 961253,
             "date": "24/08/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4897,
-                "name": "Leganes"
+                "id": 3459,
+                "name": "Ceuta"
               },
               "away": {
-                "id": 4889,
-                "name": "Cadiz"
+                "id": 4902,
+                "name": "Sporting Gijon"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961252,
+            "date": "24/08/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4919,
+                "name": "Castellon"
+              },
+              "away": {
+                "id": 3121,
+                "name": "Real Valladolid"
               }
             },
             "status": "pre-match",
@@ -9088,39 +9088,265 @@
                 "name": "Mirandes"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "away",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
               "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "away_ht_goals": 1,
+              "home_ft_goals": 1,
+              "away_ft_goals": 4,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "7",
+                "team": "away",
+                "player": {
+                  "id": 223042,
+                  "name": "Rafael Bauza"
+                },
+                "assist_player": {
+                  "id": 82274,
+                  "name": "Carlos Fernández"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 50500,
+                  "name": "Álex Meléndez"
+                },
+                "player_out": {
+                  "id": 144181,
+                  "name": "Javi Moreno"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "60",
+                "team": "away",
+                "player": {
+                  "id": 82274,
+                  "name": "Carlos Fernández"
+                },
+                "assist_player": {
+                  "id": 85263,
+                  "name": "T. Helguera"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "64",
+                "team": "home",
+                "player_in": {
+                  "id": 51277,
+                  "name": "Dani Escriche"
+                },
+                "player_out": {
+                  "id": 44012,
+                  "name": "J. Gómez"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "65",
+                "team": "home",
+                "player_in": {
+                  "id": 27330,
+                  "name": "Jefte Betancor"
+                },
+                "player_out": {
+                  "id": 160999,
+                  "name": "Víctor Valverde"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "67",
+                "team": "away",
+                "player_in": {
+                  "id": 241066,
+                  "name": "Aarón Martin Luis"
+                },
+                "player_out": {
+                  "id": 82694,
+                  "name": "Álex Cardero"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "67",
+                "team": "away",
+                "player_in": {
+                  "id": 85309,
+                  "name": "G. Petit"
+                },
+                "player_out": {
+                  "id": 82274,
+                  "name": "Carlos Fernández"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "68",
+                "team": "away",
+                "player": {
+                  "id": 85309,
+                  "name": "G. Petit"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "70",
+                "team": "away",
+                "player": {
+                  "id": 223042,
+                  "name": "Rafael Bauza"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "72",
+                "team": "home",
+                "player": {
+                  "id": 51277,
+                  "name": "Dani Escriche"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "76",
+                "team": "away",
+                "player_in": {
+                  "id": 83125,
+                  "name": "Martín Pascual"
+                },
+                "player_out": {
+                  "id": 34283,
+                  "name": "Hugo Novoa"
+                }
+              },
+              {
+                "event_type": "red_card",
+                "event_minute": "80",
+                "team": "home",
+                "player": {
+                  "id": 87238,
+                  "name": "Jon García"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "81",
+                "team": "home",
+                "player": {
+                  "id": 48730,
+                  "name": "Antonio Puertas"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "83",
+                "team": "home",
+                "player": {
+                  "id": 51277,
+                  "name": "Dani Escriche"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "84",
+                "team": "home",
+                "player_in": {
+                  "id": 82494,
+                  "name": "José Carlos Lazo"
+                },
+                "player_out": {
+                  "id": 48730,
+                  "name": "Antonio Puertas"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "84",
+                "team": "home",
+                "player_in": {
+                  "id": 272325,
+                  "name": "Antonio Velilla Miro"
+                },
+                "player_out": {
+                  "id": 82742,
+                  "name": "Fran Gámez"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "84",
+                "team": "away",
+                "player_in": {
+                  "id": 271777,
+                  "name": "Toni Tamarit"
+                },
+                "player_out": {
+                  "id": 262803,
+                  "name": "Iker Varela"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "84",
+                "team": "away",
+                "player_in": {
+                  "id": 271802,
+                  "name": "M. Illesca"
+                },
+                "player_out": {
+                  "id": 223042,
+                  "name": "Rafael Bauza"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 271802,
+                  "name": "M. Illesca"
+                },
+                "assist_player": {
+                  "id": 85309,
+                  "name": "G. Petit"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 1.93,
+                "home": 1.82,
                 "draw": 3.4,
-                "away": 3.96
+                "away": 4.4
               },
               "over_under": {
                 "total": 2.5,
-                "over": 2.05,
-                "under": 1.8
+                "over": 2.13,
+                "under": 1.7
               },
               "handicap": {
                 "market": -0.5,
-                "home": 1.95,
-                "away": 1.91
+                "home": 1.81,
+                "away": 2
               },
-              "last_modified_timestamp": 1757003454
+              "last_modified_timestamp": 1757100677
             },
             "match_preview": {
               "has_preview": false,
@@ -9141,39 +9367,221 @@
                 "name": "Castellon"
               }
             },
-            "status": "pre-match",
+            "status": "finished",
             "minute": -1,
-            "winner": "tbd",
+            "winner": "home",
             "has_extra_time": false,
             "has_penalties": false,
             "goals": {
               "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
+              "away_ht_goals": 1,
+              "home_ft_goals": 2,
+              "away_ft_goals": 1,
               "home_et_goals": -1,
               "away_et_goals": -1,
               "home_pen_goals": -1,
               "away_pen_goals": -1
             },
-            "events": [],
+            "events": [
+              {
+                "event_type": "substitution",
+                "event_minute": "15",
+                "team": "home",
+                "player_in": {
+                  "id": 32353,
+                  "name": "Kevin Villodres"
+                },
+                "player_out": {
+                  "id": 41488,
+                  "name": "Pedro Ortiz"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "19",
+                "team": "away",
+                "player": {
+                  "id": 27960,
+                  "name": "B. Cipenga"
+                },
+                "assist_player": {
+                  "id": 227670,
+                  "name": "Álex Calatrava"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "45",
+                "team": "home",
+                "player": {
+                  "id": 143879,
+                  "name": "Jacobo González"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "45",
+                "team": "home",
+                "player": {
+                  "id": 82967,
+                  "name": "Cristian Carracedo"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 83291,
+                  "name": "Reque"
+                },
+                "player_out": {
+                  "id": 82967,
+                  "name": "Cristian Carracedo"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 46850,
+                  "name": "Juan Alcedo"
+                },
+                "player_out": {
+                  "id": 51266,
+                  "name": "Ignasi Vilarrasa"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "away",
+                "player_in": {
+                  "id": 236404,
+                  "name": "B. Gerenabarrena"
+                },
+                "player_out": {
+                  "id": 196481,
+                  "name": "Pablo Santiago"
+                }
+              },
+              {
+                "event_type": "penalty_goal",
+                "event_minute": "49",
+                "team": "home",
+                "player": {
+                  "id": 143879,
+                  "name": "Jacobo González"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "away",
+                "player_in": {
+                  "id": 83126,
+                  "name": "Israel Suero"
+                },
+                "player_out": {
+                  "id": 227670,
+                  "name": "Álex Calatrava"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "away",
+                "player_in": {
+                  "id": 83098,
+                  "name": "Alberto Jiménez"
+                },
+                "player_out": {
+                  "id": 161023,
+                  "name": "F. Brignani"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "away",
+                "player_in": {
+                  "id": 40967,
+                  "name": "O. Camara"
+                },
+                "player_out": {
+                  "id": 41905,
+                  "name": "A. Jakobsen"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "73",
+                "team": "home",
+                "player": {
+                  "id": 32353,
+                  "name": "Kevin Villodres"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "82",
+                "team": "away",
+                "player_in": {
+                  "id": 39869,
+                  "name": "T. De Nipoti"
+                },
+                "player_out": {
+                  "id": 83104,
+                  "name": "Salva Ruiz"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "85",
+                "team": "home",
+                "player_in": {
+                  "id": 83135,
+                  "name": "Fuentes"
+                },
+                "player_out": {
+                  "id": 82548,
+                  "name": "Sergi Guardiola"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "85",
+                "team": "home",
+                "player_in": {
+                  "id": 83259,
+                  "name": "Alberto del Moral"
+                },
+                "player_out": {
+                  "id": 208756,
+                  "name": "Théo Zidane"
+                }
+              }
+            ],
             "odds": {
               "match_winner": {
-                "home": 2.25,
-                "draw": 3.43,
-                "away": 2.91
+                "home": 2.21,
+                "draw": 3.5,
+                "away": 3
               },
               "over_under": {
                 "total": 2.75,
-                "over": 1.79,
-                "under": 2
+                "over": 1.85,
+                "under": 2.02
               },
               "handicap": {
-                "market": -0.25,
-                "home": 2.01,
-                "away": 1.82
+                "market": "+0.0",
+                "home": 1.63,
+                "away": 2.3
               },
-              "last_modified_timestamp": 1757003454
+              "last_modified_timestamp": 1757109714
             },
             "match_preview": {
               "has_preview": false,
@@ -9212,21 +9620,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.1,
-                "draw": 3.2,
-                "away": 3.6
+                "home": 1.97,
+                "draw": 3.32,
+                "away": 3.8
               },
               "over_under": {
-                "total": 2.25,
-                "over": 1.9,
-                "under": 1.91
+                "total": 2.5,
+                "over": 1.95,
+                "under": 1.83
               },
               "handicap": {
                 "market": -0.5,
-                "home": 2.1,
-                "away": 1.78
+                "home": 1.98,
+                "away": 1.87
               },
-              "last_modified_timestamp": 1757003454
+              "last_modified_timestamp": 1757138503
             },
             "match_preview": {
               "has_preview": false,
@@ -9266,20 +9674,20 @@
             "odds": {
               "match_winner": {
                 "home": 2.6,
-                "draw": 3.2,
-                "away": 2.73
+                "draw": 3.1,
+                "away": 2.75
               },
               "over_under": {
                 "total": 2.25,
                 "over": 1.95,
-                "under": 1.88
+                "under": 1.9
               },
               "handicap": {
                 "market": "+0.0",
-                "home": 1.87,
-                "away": 1.95
+                "home": 1.83,
+                "away": 1.97
               },
-              "last_modified_timestamp": 1757003454
+              "last_modified_timestamp": 1757138503
             },
             "match_preview": {
               "has_preview": false,
@@ -9320,19 +9728,19 @@
               "match_winner": {
                 "home": 1.95,
                 "draw": 3.25,
-                "away": 4.07
+                "away": 4.06
               },
               "over_under": {
                 "total": 2.25,
-                "over": 2.05,
-                "under": 1.79
+                "over": 2.08,
+                "under": 1.78
               },
               "handicap": {
                 "market": -0.5,
                 "home": 1.95,
-                "away": 1.9
+                "away": 1.85
               },
-              "last_modified_timestamp": 1757003454
+              "last_modified_timestamp": 1757138503
             },
             "match_preview": {
               "has_preview": false,
@@ -9372,20 +9780,20 @@
             "odds": {
               "match_winner": {
                 "home": 2.7,
-                "draw": 3.1,
-                "away": 2.7
+                "draw": 3,
+                "away": 2.75
               },
               "over_under": {
                 "total": 2,
-                "over": 1.88,
-                "under": 1.93
+                "over": 1.9,
+                "under": 1.92
               },
               "handicap": {
                 "market": "+0.0",
-                "home": 1.9,
-                "away": 1.91
+                "home": 1.89,
+                "away": 1.93
               },
-              "last_modified_timestamp": 1757003454
+              "last_modified_timestamp": 1757138503
             },
             "match_preview": {
               "has_preview": false,
@@ -9424,21 +9832,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 3.58,
-                "draw": 3.15,
+                "home": 3.6,
+                "draw": 3.1,
                 "away": 2.15
               },
               "over_under": {
                 "total": 2,
-                "over": 1.79,
-                "under": 2.06
+                "over": 1.76,
+                "under": 2.04
               },
               "handicap": {
-                "market": "+0.5",
-                "home": 1.71,
-                "away": 2.18
+                "market": "+0.25",
+                "home": 1.99,
+                "away": 1.85
               },
-              "last_modified_timestamp": 1757003454
+              "last_modified_timestamp": 1757138503
             },
             "match_preview": {
               "has_preview": false,
@@ -9477,61 +9885,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.33,
-                "draw": 3.1,
-                "away": 3.17
+                "home": 2.4,
+                "draw": 3.05,
+                "away": 3.12
               },
               "over_under": {
                 "total": 2,
-                "over": 1.85,
-                "under": 1.95
+                "over": 1.9,
+                "under": 1.92
               },
               "handicap": {
                 "market": -0.25,
-                "home": 1.99,
-                "away": 1.86
+                "home": 2.01,
+                "away": 1.81
               },
-              "last_modified_timestamp": 1757003454
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 963263,
-            "date": "07/09/2025",
-            "time": "16:00",
-            "teams": {
-              "home": {
-                "id": 4894,
-                "name": "Eibar"
-              },
-              "away": {
-                "id": 5641,
-                "name": "Andorra"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
+              "last_modified_timestamp": 1757138503
             },
             "match_preview": {
               "has_preview": false,
@@ -9579,17 +9947,17 @@
             }
           },
           {
-            "id": 969581,
+            "id": 963263,
             "date": "07/09/2025",
-            "time": "16:30",
+            "time": "16:00",
             "teams": {
               "home": {
-                "id": 6451,
-                "name": "Cultural Leonesa"
+                "id": 4894,
+                "name": "Eibar"
               },
               "away": {
-                "id": 4897,
-                "name": "Leganes"
+                "id": 5641,
+                "name": "Andorra"
               }
             },
             "status": "pre-match",
@@ -9609,22 +9977,9 @@
             },
             "events": [],
             "odds": {
-              "match_winner": {
-                "home": 3.2,
-                "draw": 3.2,
-                "away": 2.3
-              },
-              "over_under": {
-                "total": 2,
-                "over": 1.77,
-                "under": 2.02
-              },
-              "handicap": {
-                "market": "+0.25",
-                "home": 1.86,
-                "away": 1.98
-              },
-              "last_modified_timestamp": 1757003454
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
             },
             "match_preview": {
               "has_preview": false,
@@ -9663,21 +10018,74 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.75,
-                "draw": 3.9,
-                "away": 4.26
+                "home": 1.85,
+                "draw": 3.75,
+                "away": 3.9
               },
               "over_under": {
                 "total": 2.75,
-                "over": 1.75,
-                "under": 2.07
+                "over": 1.76,
+                "under": 2
               },
               "handicap": {
                 "market": -0.5,
-                "home": 1.76,
-                "away": 2.13
+                "home": 1.88,
+                "away": 1.95
               },
-              "last_modified_timestamp": 1757003454
+              "last_modified_timestamp": 1757138503
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 969581,
+            "date": "07/09/2025",
+            "time": "16:30",
+            "teams": {
+              "home": {
+                "id": 6451,
+                "name": "Cultural Leonesa"
+              },
+              "away": {
+                "id": 4897,
+                "name": "Leganes"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 3.17,
+                "draw": 3.2,
+                "away": 2.3
+              },
+              "over_under": {
+                "total": 2.25,
+                "over": 2.06,
+                "under": 1.79
+              },
+              "handicap": {
+                "market": "+0.25",
+                "home": 1.86,
+                "away": 1.99
+              },
+              "last_modified_timestamp": 1757138503
             },
             "match_preview": {
               "has_preview": false,
@@ -9716,21 +10124,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 1.82,
+                "home": 1.83,
                 "draw": 3.35,
                 "away": 4.5
               },
               "over_under": {
                 "total": 2.25,
-                "over": 1.97,
-                "under": 1.84
+                "over": 2.04,
+                "under": 1.81
               },
               "handicap": {
                 "market": -0.5,
                 "home": 1.83,
-                "away": 2.04
+                "away": 2.02
               },
-              "last_modified_timestamp": 1757003454
+              "last_modified_timestamp": 1757138503
             },
             "match_preview": {
               "has_preview": false,
@@ -9778,9 +10186,89 @@
             }
           },
           {
+            "id": 961284,
+            "date": "13/09/2025",
+            "time": "14:15",
+            "teams": {
+              "home": {
+                "id": 4889,
+                "name": "Cadiz"
+              },
+              "away": {
+                "id": 4894,
+                "name": "Eibar"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961286,
+            "date": "13/09/2025",
+            "time": "14:15",
+            "teams": {
+              "home": {
+                "id": 2915,
+                "name": "Mirandes"
+              },
+              "away": {
+                "id": 4900,
+                "name": "Deportivo La Coruna"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 961287,
-            "date": "14/09/2025",
-            "time": "15:00",
+            "date": "13/09/2025",
+            "time": "16:30",
             "teams": {
               "home": {
                 "id": 3502,
@@ -9818,17 +10306,137 @@
             }
           },
           {
-            "id": 961284,
+            "id": 961282,
+            "date": "13/09/2025",
+            "time": "19:00",
+            "teams": {
+              "home": {
+                "id": 3121,
+                "name": "Real Valladolid"
+              },
+              "away": {
+                "id": 4898,
+                "name": "Almeria"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 967339,
             "date": "14/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4889,
-                "name": "Cadiz"
+                "id": 3195,
+                "name": "FC Andorra"
               },
               "away": {
-                "id": 4894,
-                "name": "Eibar"
+                "id": 4911,
+                "name": "Cordoba"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961281,
+            "date": "14/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4902,
+                "name": "Sporting Gijon"
+              },
+              "away": {
+                "id": 4920,
+                "name": "Burgos"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961283,
+            "date": "14/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4915,
+                "name": "Racing Santander"
+              },
+              "away": {
+                "id": 6451,
+                "name": "Cultural Leonesa"
               }
             },
             "status": "pre-match",
@@ -9869,46 +10477,6 @@
               "away": {
                 "id": 3459,
                 "name": "Ceuta"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961286,
-            "date": "14/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2915,
-                "name": "Mirandes"
-              },
-              "away": {
-                "id": 4900,
-                "name": "Deportivo La Coruna"
               }
             },
             "status": "pre-match",
@@ -9989,166 +10557,6 @@
               "away": {
                 "id": 4897,
                 "name": "Leganes"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961281,
-            "date": "14/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4902,
-                "name": "Sporting Gijon"
-              },
-              "away": {
-                "id": 4920,
-                "name": "Burgos"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961282,
-            "date": "14/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3121,
-                "name": "Real Valladolid"
-              },
-              "away": {
-                "id": 4898,
-                "name": "Almeria"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961283,
-            "date": "14/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4915,
-                "name": "Racing Santander"
-              },
-              "away": {
-                "id": 6451,
-                "name": "Cultural Leonesa"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 967339,
-            "date": "14/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3195,
-                "name": "FC Andorra"
-              },
-              "away": {
-                "id": 4911,
-                "name": "Cordoba"
               }
             },
             "status": "pre-match",
@@ -10298,17 +10706,17 @@
             }
           },
           {
-            "id": 961292,
+            "id": 961295,
             "date": "21/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3195,
-                "name": "FC Andorra"
+                "id": 4900,
+                "name": "Deportivo La Coruna"
               },
               "away": {
-                "id": 2915,
-                "name": "Mirandes"
+                "id": 3502,
+                "name": "Huesca"
               }
             },
             "status": "pre-match",
@@ -10378,17 +10786,17 @@
             }
           },
           {
-            "id": 961296,
+            "id": 961297,
             "date": "21/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4899,
-                "name": "Malaga"
+                "id": 3287,
+                "name": "Albacete"
               },
               "away": {
-                "id": 4889,
-                "name": "Cadiz"
+                "id": 3121,
+                "name": "Real Valladolid"
               }
             },
             "status": "pre-match",
@@ -10418,17 +10826,17 @@
             }
           },
           {
-            "id": 961295,
+            "id": 961296,
             "date": "21/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4900,
-                "name": "Deportivo La Coruna"
+                "id": 4899,
+                "name": "Malaga"
               },
               "away": {
-                "id": 3502,
-                "name": "Huesca"
+                "id": 4889,
+                "name": "Cadiz"
               }
             },
             "status": "pre-match",
@@ -10538,17 +10946,17 @@
             }
           },
           {
-            "id": 961297,
+            "id": 961292,
             "date": "21/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3287,
-                "name": "Albacete"
+                "id": 3195,
+                "name": "FC Andorra"
               },
               "away": {
-                "id": 3121,
-                "name": "Real Valladolid"
+                "id": 2915,
+                "name": "Mirandes"
               }
             },
             "status": "pre-match",
@@ -10778,86 +11186,6 @@
             }
           },
           {
-            "id": 961309,
-            "date": "28/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 3502,
-                "name": "Huesca"
-              },
-              "away": {
-                "id": 3369,
-                "name": "Granada"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961308,
-            "date": "28/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4902,
-                "name": "Sporting Gijon"
-              },
-              "away": {
-                "id": 3287,
-                "name": "Albacete"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 961307,
             "date": "28/09/2025",
             "time": "15:00",
@@ -10869,6 +11197,86 @@
               "away": {
                 "id": 6451,
                 "name": "Cultural Leonesa"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961300,
+            "date": "28/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 2915,
+                "name": "Mirandes"
+              },
+              "away": {
+                "id": 4906,
+                "name": "Real Zaragoza"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 961299,
+            "date": "28/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4897,
+                "name": "Leganes"
+              },
+              "away": {
+                "id": 4919,
+                "name": "Castellon"
               }
             },
             "status": "pre-match",
@@ -11018,6 +11426,46 @@
             }
           },
           {
+            "id": 961301,
+            "date": "28/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4915,
+                "name": "Racing Santander"
+              },
+              "away": {
+                "id": 3195,
+                "name": "FC Andorra"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {},
+              "over_under": {},
+              "handicap": {}
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 961303,
             "date": "28/09/2025",
             "time": "15:00",
@@ -11098,17 +11546,17 @@
             }
           },
           {
-            "id": 961301,
+            "id": 961308,
             "date": "28/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 4915,
-                "name": "Racing Santander"
+                "id": 4902,
+                "name": "Sporting Gijon"
               },
               "away": {
-                "id": 3195,
-                "name": "FC Andorra"
+                "id": 3287,
+                "name": "Albacete"
               }
             },
             "status": "pre-match",
@@ -11138,57 +11586,17 @@
             }
           },
           {
-            "id": 961300,
+            "id": 961309,
             "date": "28/09/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 2915,
-                "name": "Mirandes"
+                "id": 3502,
+                "name": "Huesca"
               },
               "away": {
-                "id": 4906,
-                "name": "Real Zaragoza"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {},
-              "over_under": {},
-              "handicap": {}
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 961299,
-            "date": "28/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4897,
-                "name": "Leganes"
-              },
-              "away": {
-                "id": 4919,
-                "name": "Castellon"
+                "id": 3369,
+                "name": "Granada"
               }
             },
             "status": "pre-match",
@@ -12338,17 +12746,17 @@
             }
           },
           {
-            "id": 961334,
+            "id": 961335,
             "date": "19/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3121,
-                "name": "Real Valladolid"
+                "id": 3195,
+                "name": "FC Andorra"
               },
               "away": {
-                "id": 4902,
-                "name": "Sporting Gijon"
+                "id": 3369,
+                "name": "Granada"
               }
             },
             "status": "pre-match",
@@ -12578,17 +12986,17 @@
             }
           },
           {
-            "id": 961335,
+            "id": 961334,
             "date": "19/10/2025",
             "time": "15:00",
             "teams": {
               "home": {
-                "id": 3195,
-                "name": "FC Andorra"
+                "id": 3121,
+                "name": "Real Valladolid"
               },
               "away": {
-                "id": 3369,
-                "name": "Granada"
+                "id": 4902,
+                "name": "Sporting Gijon"
               }
             },
             "status": "pre-match",

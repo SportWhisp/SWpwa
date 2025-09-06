@@ -1752,6 +1752,205 @@
             }
           },
           {
+            "id": 966961,
+            "date": "24/08/2025",
+            "time": "19:00",
+            "teams": {
+              "home": {
+                "id": 2988,
+                "name": "Catanzaro"
+              },
+              "away": {
+                "id": 4433,
+                "name": "Sudtirol"
+              }
+            },
+            "status": "finished",
+            "minute": -1,
+            "winner": "draw",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 1,
+              "home_ft_goals": 1,
+              "away_ft_goals": 1,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [
+              {
+                "event_type": "goal",
+                "event_minute": "13",
+                "team": "away",
+                "player": {
+                  "id": 69622,
+                  "name": "R. Kofler"
+                },
+                "assist_player": {
+                  "id": 69618,
+                  "name": "D. Casiraghi"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "42",
+                "team": "away",
+                "player": {
+                  "id": 69294,
+                  "name": "H. El Kaouakibi"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "57",
+                "team": "home",
+                "player_in": {
+                  "id": 167578,
+                  "name": "A. Cissè"
+                },
+                "player_out": {
+                  "id": 69296,
+                  "name": "P. Nuamah"
+                }
+              },
+              {
+                "event_type": "goal",
+                "event_minute": "61",
+                "team": "home",
+                "player": {
+                  "id": 40773,
+                  "name": "P. Iemmello"
+                },
+                "assist_player": null
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "75",
+                "team": "home",
+                "player_in": {
+                  "id": 167862,
+                  "name": "C. Favasuli"
+                },
+                "player_out": {
+                  "id": 161123,
+                  "name": "R. Frosinini"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "75",
+                "team": "home",
+                "player_in": {
+                  "id": 87022,
+                  "name": "N. Buso"
+                },
+                "player_out": {
+                  "id": 40432,
+                  "name": "M. D'Alessandro"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "76",
+                "team": "away",
+                "player_in": {
+                  "id": 69620,
+                  "name": "F. Tait"
+                },
+                "player_out": {
+                  "id": 69618,
+                  "name": "D. Casiraghi"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "76",
+                "team": "away",
+                "player_in": {
+                  "id": 69632,
+                  "name": "R. Odogwu"
+                },
+                "player_out": {
+                  "id": 69637,
+                  "name": "E. Pecorino"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "82",
+                "team": "away",
+                "player_in": {
+                  "id": 183978,
+                  "name": "J. Martini"
+                },
+                "player_out": {
+                  "id": 39243,
+                  "name": "M. Coulibaly"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "83",
+                "team": "away",
+                "player_in": {
+                  "id": 100500,
+                  "name": "S. Molina"
+                },
+                "player_out": {
+                  "id": 69625,
+                  "name": "S. Tronchin"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "89",
+                "team": "away",
+                "player_in": {
+                  "id": 89557,
+                  "name": "Filipe Bordon"
+                },
+                "player_out": {
+                  "id": 69294,
+                  "name": "H. El Kaouakibi"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "90",
+                "team": "away",
+                "player": {
+                  "id": 69622,
+                  "name": "R. Kofler"
+                }
+              }
+            ],
+            "odds": {
+              "match_winner": {
+                "home": 2.4,
+                "draw": 3.08,
+                "away": 3.1
+              },
+              "over_under": {
+                "total": 2.25,
+                "over": 1.99,
+                "under": 1.85
+              },
+              "handicap": {
+                "market": -0.25,
+                "home": 2.13,
+                "away": 1.78
+              },
+              "last_modified_timestamp": 1756069272
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
             "id": 966967,
             "date": "24/08/2025",
             "time": "19:00",
@@ -2007,205 +2206,6 @@
                 "market": -0.25,
                 "home": 2.07,
                 "away": 1.82
-              },
-              "last_modified_timestamp": 1756069272
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 966961,
-            "date": "24/08/2025",
-            "time": "19:00",
-            "teams": {
-              "home": {
-                "id": 2988,
-                "name": "Catanzaro"
-              },
-              "away": {
-                "id": 4433,
-                "name": "Sudtirol"
-              }
-            },
-            "status": "finished",
-            "minute": -1,
-            "winner": "draw",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 1,
-              "home_ft_goals": 1,
-              "away_ft_goals": 1,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [
-              {
-                "event_type": "goal",
-                "event_minute": "13",
-                "team": "away",
-                "player": {
-                  "id": 69622,
-                  "name": "R. Kofler"
-                },
-                "assist_player": {
-                  "id": 69618,
-                  "name": "D. Casiraghi"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "42",
-                "team": "away",
-                "player": {
-                  "id": 69294,
-                  "name": "H. El Kaouakibi"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "57",
-                "team": "home",
-                "player_in": {
-                  "id": 167578,
-                  "name": "A. Cissè"
-                },
-                "player_out": {
-                  "id": 69296,
-                  "name": "P. Nuamah"
-                }
-              },
-              {
-                "event_type": "goal",
-                "event_minute": "61",
-                "team": "home",
-                "player": {
-                  "id": 40773,
-                  "name": "P. Iemmello"
-                },
-                "assist_player": null
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "75",
-                "team": "home",
-                "player_in": {
-                  "id": 167862,
-                  "name": "C. Favasuli"
-                },
-                "player_out": {
-                  "id": 161123,
-                  "name": "R. Frosinini"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "75",
-                "team": "home",
-                "player_in": {
-                  "id": 87022,
-                  "name": "N. Buso"
-                },
-                "player_out": {
-                  "id": 40432,
-                  "name": "M. D'Alessandro"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "76",
-                "team": "away",
-                "player_in": {
-                  "id": 69620,
-                  "name": "F. Tait"
-                },
-                "player_out": {
-                  "id": 69618,
-                  "name": "D. Casiraghi"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "76",
-                "team": "away",
-                "player_in": {
-                  "id": 69632,
-                  "name": "R. Odogwu"
-                },
-                "player_out": {
-                  "id": 69637,
-                  "name": "E. Pecorino"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "82",
-                "team": "away",
-                "player_in": {
-                  "id": 183978,
-                  "name": "J. Martini"
-                },
-                "player_out": {
-                  "id": 39243,
-                  "name": "M. Coulibaly"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "83",
-                "team": "away",
-                "player_in": {
-                  "id": 100500,
-                  "name": "S. Molina"
-                },
-                "player_out": {
-                  "id": 69625,
-                  "name": "S. Tronchin"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "89",
-                "team": "away",
-                "player_in": {
-                  "id": 89557,
-                  "name": "Filipe Bordon"
-                },
-                "player_out": {
-                  "id": 69294,
-                  "name": "H. El Kaouakibi"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "90",
-                "team": "away",
-                "player": {
-                  "id": 69622,
-                  "name": "R. Kofler"
-                }
-              }
-            ],
-            "odds": {
-              "match_winner": {
-                "home": 2.4,
-                "draw": 3.08,
-                "away": 3.1
-              },
-              "over_under": {
-                "total": 2.25,
-                "over": 1.99,
-                "under": 1.85
-              },
-              "handicap": {
-                "market": -0.25,
-                "home": 2.13,
-                "away": 1.78
               },
               "last_modified_timestamp": 1756069272
             },
@@ -2730,222 +2730,6 @@
             }
           },
           {
-            "id": 966971,
-            "date": "30/08/2025",
-            "time": "17:00",
-            "teams": {
-              "home": {
-                "id": 4428,
-                "name": "Juve Stabia"
-              },
-              "away": {
-                "id": 4416,
-                "name": "Venezia"
-              }
-            },
-            "status": "finished",
-            "minute": -1,
-            "winner": "draw",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [
-              {
-                "event_type": "yellow_card",
-                "event_minute": "16",
-                "team": "home",
-                "player": {
-                  "id": 127150,
-                  "name": "R. Burnete"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "28",
-                "team": "home",
-                "player": {
-                  "id": 126603,
-                  "name": "L. Candellone"
-                }
-              },
-              {
-                "event_type": "red_card",
-                "event_minute": "37",
-                "team": "away",
-                "player": {
-                  "id": 27630,
-                  "name": "J. Yeboah"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "45",
-                "team": "away",
-                "player": {
-                  "id": 226651,
-                  "name": "I. Doumbia"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "60",
-                "team": "away",
-                "player_in": {
-                  "id": 82968,
-                  "name": "Antonio Casas"
-                },
-                "player_out": {
-                  "id": 126377,
-                  "name": "A. Adorante"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "70",
-                "team": "home",
-                "player_in": {
-                  "id": 69568,
-                  "name": "M. Bellich"
-                },
-                "player_out": {
-                  "id": 271807,
-                  "name": "Filippo Reale"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "70",
-                "team": "home",
-                "player_in": {
-                  "id": 126756,
-                  "name": "K. Piscopo"
-                },
-                "player_out": {
-                  "id": 69433,
-                  "name": "L. Carissoni"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "75",
-                "team": "home",
-                "player": {
-                  "id": 261799,
-                  "name": "Alessio Cacciamani"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "76",
-                "team": "away",
-                "player_in": {
-                  "id": 40299,
-                  "name": "M. Venturi"
-                },
-                "player_out": {
-                  "id": 69377,
-                  "name": "B. Bjarkason"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "77",
-                "team": "away",
-                "player_in": {
-                  "id": 69212,
-                  "name": "N.  Lella"
-                },
-                "player_out": {
-                  "id": 31355,
-                  "name": "A. Duncan"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "77",
-                "team": "home",
-                "player_in": {
-                  "id": 200269,
-                  "name": "Mattia Mannini"
-                },
-                "player_out": {
-                  "id": 261799,
-                  "name": "Alessio Cacciamani"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "77",
-                "team": "home",
-                "player_in": {
-                  "id": 252051,
-                  "name": "Giacomo De Pieri"
-                },
-                "player_out": {
-                  "id": 127150,
-                  "name": "R. Burnete"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "85",
-                "team": "away",
-                "player_in": {
-                  "id": 44908,
-                  "name": "R. Sagrado"
-                },
-                "player_out": {
-                  "id": 40491,
-                  "name": "B. Franjić"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "85",
-                "team": "away",
-                "player_in": {
-                  "id": 272734,
-                  "name": "A. Pietrelli"
-                },
-                "player_out": {
-                  "id": 69169,
-                  "name": "A. Hainaut"
-                }
-              }
-            ],
-            "odds": {
-              "match_winner": {
-                "home": 3.2,
-                "draw": 3.14,
-                "away": 2.3
-              },
-              "over_under": {
-                "total": 2.25,
-                "over": 1.98,
-                "under": 1.88
-              },
-              "handicap": {
-                "market": "+0.25",
-                "home": 1.88,
-                "away": 2
-              },
-              "last_modified_timestamp": 1756576919
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 966970,
             "date": "30/08/2025",
             "time": "17:00",
@@ -3207,6 +2991,222 @@
                 "market": -0.5,
                 "home": 2.08,
                 "away": 1.8
+              },
+              "last_modified_timestamp": 1756576919
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 966971,
+            "date": "30/08/2025",
+            "time": "17:00",
+            "teams": {
+              "home": {
+                "id": 4428,
+                "name": "Juve Stabia"
+              },
+              "away": {
+                "id": 4416,
+                "name": "Venezia"
+              }
+            },
+            "status": "finished",
+            "minute": -1,
+            "winner": "draw",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "16",
+                "team": "home",
+                "player": {
+                  "id": 127150,
+                  "name": "R. Burnete"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "28",
+                "team": "home",
+                "player": {
+                  "id": 126603,
+                  "name": "L. Candellone"
+                }
+              },
+              {
+                "event_type": "red_card",
+                "event_minute": "37",
+                "team": "away",
+                "player": {
+                  "id": 27630,
+                  "name": "J. Yeboah"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "45",
+                "team": "away",
+                "player": {
+                  "id": 226651,
+                  "name": "I. Doumbia"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "60",
+                "team": "away",
+                "player_in": {
+                  "id": 82968,
+                  "name": "Antonio Casas"
+                },
+                "player_out": {
+                  "id": 126377,
+                  "name": "A. Adorante"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "home",
+                "player_in": {
+                  "id": 69568,
+                  "name": "M. Bellich"
+                },
+                "player_out": {
+                  "id": 271807,
+                  "name": "Filippo Reale"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "70",
+                "team": "home",
+                "player_in": {
+                  "id": 126756,
+                  "name": "K. Piscopo"
+                },
+                "player_out": {
+                  "id": 69433,
+                  "name": "L. Carissoni"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "75",
+                "team": "home",
+                "player": {
+                  "id": 261799,
+                  "name": "Alessio Cacciamani"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "76",
+                "team": "away",
+                "player_in": {
+                  "id": 40299,
+                  "name": "M. Venturi"
+                },
+                "player_out": {
+                  "id": 69377,
+                  "name": "B. Bjarkason"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "away",
+                "player_in": {
+                  "id": 69212,
+                  "name": "N.  Lella"
+                },
+                "player_out": {
+                  "id": 31355,
+                  "name": "A. Duncan"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "home",
+                "player_in": {
+                  "id": 200269,
+                  "name": "Mattia Mannini"
+                },
+                "player_out": {
+                  "id": 261799,
+                  "name": "Alessio Cacciamani"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "77",
+                "team": "home",
+                "player_in": {
+                  "id": 252051,
+                  "name": "Giacomo De Pieri"
+                },
+                "player_out": {
+                  "id": 127150,
+                  "name": "R. Burnete"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "85",
+                "team": "away",
+                "player_in": {
+                  "id": 44908,
+                  "name": "R. Sagrado"
+                },
+                "player_out": {
+                  "id": 40491,
+                  "name": "B. Franjić"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "85",
+                "team": "away",
+                "player_in": {
+                  "id": 272734,
+                  "name": "A. Pietrelli"
+                },
+                "player_out": {
+                  "id": 69169,
+                  "name": "A. Hainaut"
+                }
+              }
+            ],
+            "odds": {
+              "match_winner": {
+                "home": 3.2,
+                "draw": 3.14,
+                "away": 2.3
+              },
+              "over_under": {
+                "total": 2.25,
+                "over": 1.98,
+                "under": 1.88
+              },
+              "handicap": {
+                "market": "+0.25",
+                "home": 1.88,
+                "away": 2
               },
               "last_modified_timestamp": 1756576919
             },
@@ -3900,231 +3900,6 @@
             }
           },
           {
-            "id": 966976,
-            "date": "31/08/2025",
-            "time": "17:00",
-            "teams": {
-              "home": {
-                "id": 3238,
-                "name": "Carrarese"
-              },
-              "away": {
-                "id": 4423,
-                "name": "Calcio Padova"
-              }
-            },
-            "status": "finished",
-            "minute": -1,
-            "winner": "draw",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [
-              {
-                "event_type": "yellow_card",
-                "event_minute": "15",
-                "team": "away",
-                "player": {
-                  "id": 35606,
-                  "name": "A. Barreca"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "39",
-                "team": "away",
-                "player": {
-                  "id": 69532,
-                  "name": "P. Fusi"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "45",
-                "team": "home",
-                "player": {
-                  "id": 171479,
-                  "name": "Fabio Ruggeri"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "46",
-                "team": "home",
-                "player_in": {
-                  "id": 55283,
-                  "name": "F. Melegoni"
-                },
-                "player_out": {
-                  "id": 213053,
-                  "name": "G. Parlanti"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "58",
-                "team": "home",
-                "player_in": {
-                  "id": 40454,
-                  "name": "D. Bouah"
-                },
-                "player_out": {
-                  "id": 171479,
-                  "name": "Fabio Ruggeri"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "58",
-                "team": "home",
-                "player_in": {
-                  "id": 126884,
-                  "name": "F. Accornero"
-                },
-                "player_out": {
-                  "id": 40796,
-                  "name": "F. Abiuso"
-                }
-              },
-              {
-                "event_type": "yellow_red_card",
-                "event_minute": "60",
-                "team": "away",
-                "player": {
-                  "id": 69532,
-                  "name": "P. Fusi"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "65",
-                "team": "away",
-                "player_in": {
-                  "id": 249639,
-                  "name": "Jonas Harder"
-                },
-                "player_out": {
-                  "id": 270009,
-                  "name": "Luca Di Maggio"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "67",
-                "team": "home",
-                "player": {
-                  "id": 55283,
-                  "name": "F. Melegoni"
-                }
-              },
-              {
-                "event_type": "yellow_card",
-                "event_minute": "69",
-                "team": "home",
-                "player": {
-                  "id": 156554,
-                  "name": "J. Illanes"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "69",
-                "team": "home",
-                "player_in": {
-                  "id": 40483,
-                  "name": "N. Sekulov"
-                },
-                "player_out": {
-                  "id": 45818,
-                  "name": "K. Bozhanaj"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "76",
-                "team": "away",
-                "player_in": {
-                  "id": 40650,
-                  "name": "K. Lasagna"
-                },
-                "player_out": {
-                  "id": 69544,
-                  "name": "M. Bortolussi"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "79",
-                "team": "home",
-                "player_in": {
-                  "id": 126564,
-                  "name": "N. Belloni"
-                },
-                "player_out": {
-                  "id": 127393,
-                  "name": "S. Zanon"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "85",
-                "team": "away",
-                "player_in": {
-                  "id": 40493,
-                  "name": "L. Crisetig"
-                },
-                "player_out": {
-                  "id": 40533,
-                  "name": "D. Baselli"
-                }
-              },
-              {
-                "event_type": "substitution",
-                "event_minute": "85",
-                "team": "away",
-                "player_in": {
-                  "id": 69972,
-                  "name": "G. Favale"
-                },
-                "player_out": {
-                  "id": 35606,
-                  "name": "A. Barreca"
-                }
-              }
-            ],
-            "odds": {
-              "match_winner": {
-                "home": 2.4,
-                "draw": 3,
-                "away": 3.1
-              },
-              "over_under": {
-                "total": 2,
-                "over": 1.78,
-                "under": 2.06
-              },
-              "handicap": {
-                "market": -0.5,
-                "home": 2.42,
-                "away": 1.6
-              },
-              "last_modified_timestamp": 1756665066
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
             "id": 966977,
             "date": "31/08/2025",
             "time": "17:00",
@@ -4373,6 +4148,231 @@
                 "market": -0.25,
                 "home": 1.99,
                 "away": 1.87
+              },
+              "last_modified_timestamp": 1756665066
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 966976,
+            "date": "31/08/2025",
+            "time": "17:00",
+            "teams": {
+              "home": {
+                "id": 3238,
+                "name": "Carrarese"
+              },
+              "away": {
+                "id": 4423,
+                "name": "Calcio Padova"
+              }
+            },
+            "status": "finished",
+            "minute": -1,
+            "winner": "draw",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [
+              {
+                "event_type": "yellow_card",
+                "event_minute": "15",
+                "team": "away",
+                "player": {
+                  "id": 35606,
+                  "name": "A. Barreca"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "39",
+                "team": "away",
+                "player": {
+                  "id": 69532,
+                  "name": "P. Fusi"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "45",
+                "team": "home",
+                "player": {
+                  "id": 171479,
+                  "name": "Fabio Ruggeri"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "46",
+                "team": "home",
+                "player_in": {
+                  "id": 55283,
+                  "name": "F. Melegoni"
+                },
+                "player_out": {
+                  "id": 213053,
+                  "name": "G. Parlanti"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "58",
+                "team": "home",
+                "player_in": {
+                  "id": 40454,
+                  "name": "D. Bouah"
+                },
+                "player_out": {
+                  "id": 171479,
+                  "name": "Fabio Ruggeri"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "58",
+                "team": "home",
+                "player_in": {
+                  "id": 126884,
+                  "name": "F. Accornero"
+                },
+                "player_out": {
+                  "id": 40796,
+                  "name": "F. Abiuso"
+                }
+              },
+              {
+                "event_type": "yellow_red_card",
+                "event_minute": "60",
+                "team": "away",
+                "player": {
+                  "id": 69532,
+                  "name": "P. Fusi"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "65",
+                "team": "away",
+                "player_in": {
+                  "id": 249639,
+                  "name": "Jonas Harder"
+                },
+                "player_out": {
+                  "id": 270009,
+                  "name": "Luca Di Maggio"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "67",
+                "team": "home",
+                "player": {
+                  "id": 55283,
+                  "name": "F. Melegoni"
+                }
+              },
+              {
+                "event_type": "yellow_card",
+                "event_minute": "69",
+                "team": "home",
+                "player": {
+                  "id": 156554,
+                  "name": "J. Illanes"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "69",
+                "team": "home",
+                "player_in": {
+                  "id": 40483,
+                  "name": "N. Sekulov"
+                },
+                "player_out": {
+                  "id": 45818,
+                  "name": "K. Bozhanaj"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "76",
+                "team": "away",
+                "player_in": {
+                  "id": 40650,
+                  "name": "K. Lasagna"
+                },
+                "player_out": {
+                  "id": 69544,
+                  "name": "M. Bortolussi"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "79",
+                "team": "home",
+                "player_in": {
+                  "id": 126564,
+                  "name": "N. Belloni"
+                },
+                "player_out": {
+                  "id": 127393,
+                  "name": "S. Zanon"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "85",
+                "team": "away",
+                "player_in": {
+                  "id": 40493,
+                  "name": "L. Crisetig"
+                },
+                "player_out": {
+                  "id": 40533,
+                  "name": "D. Baselli"
+                }
+              },
+              {
+                "event_type": "substitution",
+                "event_minute": "85",
+                "team": "away",
+                "player_in": {
+                  "id": 69972,
+                  "name": "G. Favale"
+                },
+                "player_out": {
+                  "id": 35606,
+                  "name": "A. Barreca"
+                }
+              }
+            ],
+            "odds": {
+              "match_winner": {
+                "home": 2.4,
+                "draw": 3,
+                "away": 3.1
+              },
+              "over_under": {
+                "total": 2,
+                "over": 1.78,
+                "under": 2.06
+              },
+              "handicap": {
+                "market": -0.5,
+                "home": 2.42,
+                "away": 1.6
               },
               "last_modified_timestamp": 1756665066
             },
@@ -4884,17 +4884,17 @@
             }
           },
           {
-            "id": 966986,
-            "date": "13/09/2025",
-            "time": "15:00",
+            "id": 966988,
+            "date": "12/09/2025",
+            "time": "18:30",
             "teams": {
               "home": {
-                "id": 4423,
-                "name": "Calcio Padova"
+                "id": 7078,
+                "name": "Avellino"
               },
               "away": {
-                "id": 3045,
-                "name": "Frosinone"
+                "id": 2976,
+                "name": "Monza"
               }
             },
             "status": "pre-match",
@@ -4915,21 +4915,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.43,
-                "draw": 3,
-                "away": 3.03
+                "home": 3.24,
+                "draw": 3.24,
+                "away": 2.25
               },
               "over_under": {
                 "total": 2.25,
-                "over": 2.07,
-                "under": 1.78
+                "over": 1.95,
+                "under": 1.88
               },
               "handicap": {
-                "market": -0.25,
-                "home": 2.05,
-                "away": 1.75
+                "market": "+0.25",
+                "home": 1.9,
+                "away": 1.9
               },
-              "last_modified_timestamp": 1757003470
+              "last_modified_timestamp": 1757138518
             },
             "match_preview": {
               "has_preview": false,
@@ -4939,7 +4939,7 @@
           {
             "id": 966985,
             "date": "13/09/2025",
-            "time": "15:00",
+            "time": "13:00",
             "teams": {
               "home": {
                 "id": 4428,
@@ -4970,7 +4970,7 @@
               "match_winner": {
                 "home": 2.15,
                 "draw": 3.05,
-                "away": 3.65
+                "away": 3.64
               },
               "over_under": {
                 "total": 2,
@@ -4979,10 +4979,10 @@
               },
               "handicap": {
                 "market": -0.25,
-                "home": 1.82,
-                "away": 1.98
+                "home": 1.85,
+                "away": 2.01
               },
-              "last_modified_timestamp": 1757003470
+              "last_modified_timestamp": 1757138518
             },
             "match_preview": {
               "has_preview": false,
@@ -4990,17 +4990,70 @@
             }
           },
           {
-            "id": 966984,
+            "id": 966982,
             "date": "13/09/2025",
-            "time": "15:00",
+            "time": "13:00",
             "teams": {
               "home": {
-                "id": 2988,
-                "name": "Catanzaro"
+                "id": 2990,
+                "name": "Modena"
               },
               "away": {
-                "id": 3238,
-                "name": "Carrarese"
+                "id": 4432,
+                "name": "Bari"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 2.45,
+                "draw": 3.06,
+                "away": 3
+              },
+              "over_under": {
+                "total": 2,
+                "over": 1.76,
+                "under": 2.05
+              },
+              "handicap": {
+                "market": "+0.0",
+                "home": 1.73,
+                "away": 2.1
+              },
+              "last_modified_timestamp": 1757138518
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 966986,
+            "date": "13/09/2025",
+            "time": "13:00",
+            "teams": {
+              "home": {
+                "id": 4423,
+                "name": "Calcio Padova"
+              },
+              "away": {
+                "id": 3045,
+                "name": "Frosinone"
               }
             },
             "status": "pre-match",
@@ -5022,20 +5075,20 @@
             "odds": {
               "match_winner": {
                 "home": 2.41,
-                "draw": 2.9,
-                "away": 3.14
+                "draw": 3,
+                "away": 3.03
               },
               "over_under": {
-                "total": 2,
-                "over": 1.84,
-                "under": 1.98
+                "total": 2.25,
+                "over": 2.08,
+                "under": 1.78
               },
               "handicap": {
-                "market": -0.25,
-                "home": 2.02,
-                "away": 1.74
+                "market": "+0.0",
+                "home": 1.7,
+                "away": 2.15
               },
-              "last_modified_timestamp": 1757003471
+              "last_modified_timestamp": 1757138518
             },
             "match_preview": {
               "has_preview": false,
@@ -5043,17 +5096,17 @@
             }
           },
           {
-            "id": 966989,
+            "id": 966981,
             "date": "13/09/2025",
-            "time": "15:00",
+            "time": "13:00",
             "teams": {
               "home": {
-                "id": 2979,
-                "name": "Sampdoria"
+                "id": 4417,
+                "name": "Pescara"
               },
               "away": {
-                "id": 7101,
-                "name": "Cesena"
+                "id": 4416,
+                "name": "Venezia"
               }
             },
             "status": "pre-match",
@@ -5074,21 +5127,74 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.5,
-                "draw": 3,
-                "away": 3
+                "home": 3.9,
+                "draw": 3.4,
+                "away": 1.93
               },
               "over_under": {
-                "total": 2,
-                "over": 1.93,
-                "under": 1.9
+                "total": 2.5,
+                "over": 2.1,
+                "under": 1.73
               },
               "handicap": {
-                "market": -0.25,
-                "home": 2.08,
-                "away": 1.72
+                "market": "+0.5",
+                "home": 1.93,
+                "away": 1.9
               },
-              "last_modified_timestamp": 1757003471
+              "last_modified_timestamp": 1757138518
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 966987,
+            "date": "13/09/2025",
+            "time": "15:00",
+            "teams": {
+              "home": {
+                "id": 4433,
+                "name": "Sudtirol"
+              },
+              "away": {
+                "id": 2985,
+                "name": "Palermo"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 3.6,
+                "draw": 3.14,
+                "away": 2.1
+              },
+              "over_under": {
+                "total": 2.25,
+                "over": 1.93,
+                "under": 1.91
+              },
+              "handicap": {
+                "market": "+0.5",
+                "home": 1.74,
+                "away": 2.12
+              },
+              "last_modified_timestamp": 1757138518
             },
             "match_preview": {
               "has_preview": false,
@@ -5127,180 +5233,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 2.09,
-                "draw": 3.1,
-                "away": 3.76
-              },
-              "over_under": {
-                "total": 2.25,
-                "over": 1.87,
-                "under": 1.92
-              },
-              "handicap": {
-                "market": -0.5,
-                "home": 2.12,
-                "away": 1.75
-              },
-              "last_modified_timestamp": 1757003471
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 966988,
-            "date": "13/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 7078,
-                "name": "Avellino"
-              },
-              "away": {
-                "id": 2976,
-                "name": "Monza"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 3.24,
-                "draw": 3.2,
-                "away": 2.25
-              },
-              "over_under": {
-                "total": 2.25,
-                "over": 1.95,
-                "under": 1.87
-              },
-              "handicap": {
-                "market": "+0.25",
-                "home": 1.88,
-                "away": 1.92
-              },
-              "last_modified_timestamp": 1757003469
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 966982,
-            "date": "13/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 2990,
-                "name": "Modena"
-              },
-              "away": {
-                "id": 4432,
-                "name": "Bari"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 2.5,
-                "draw": 3.06,
-                "away": 2.95
-              },
-              "over_under": {
-                "total": 2,
-                "over": 1.77,
-                "under": 2.07
-              },
-              "handicap": {
-                "market": "+0.0",
-                "home": 1.76,
-                "away": 2.06
-              },
-              "last_modified_timestamp": 1757003470
-            },
-            "match_preview": {
-              "has_preview": false,
-              "word_count": -1
-            }
-          },
-          {
-            "id": 966981,
-            "date": "13/09/2025",
-            "time": "15:00",
-            "teams": {
-              "home": {
-                "id": 4417,
-                "name": "Pescara"
-              },
-              "away": {
-                "id": 4416,
-                "name": "Venezia"
-              }
-            },
-            "status": "pre-match",
-            "minute": -1,
-            "winner": "tbd",
-            "has_extra_time": false,
-            "has_penalties": false,
-            "goals": {
-              "home_ht_goals": 0,
-              "away_ht_goals": 0,
-              "home_ft_goals": 0,
-              "away_ft_goals": 0,
-              "home_et_goals": -1,
-              "away_et_goals": -1,
-              "home_pen_goals": -1,
-              "away_pen_goals": -1
-            },
-            "events": [],
-            "odds": {
-              "match_winner": {
-                "home": 3.95,
-                "draw": 3.4,
-                "away": 1.95
+                "home": 2.06,
+                "draw": 3.15,
+                "away": 3.6
               },
               "over_under": {
                 "total": 2.5,
-                "over": 2.12,
-                "under": 1.72
+                "over": 2.14,
+                "under": 1.69
               },
               "handicap": {
-                "market": "+0.5",
-                "home": 1.94,
-                "away": 1.9
+                "market": -0.5,
+                "home": 2.09,
+                "away": 1.75
               },
-              "last_modified_timestamp": 1757003470
+              "last_modified_timestamp": 1757138518
             },
             "match_preview": {
               "has_preview": false,
@@ -5350,10 +5297,10 @@
               },
               "handicap": {
                 "market": -0.25,
-                "home": 1.98,
-                "away": 1.82
+                "home": 2.01,
+                "away": 1.84
               },
-              "last_modified_timestamp": 1757003472
+              "last_modified_timestamp": 1757138518
             },
             "match_preview": {
               "has_preview": false,
@@ -5361,17 +5308,17 @@
             }
           },
           {
-            "id": 966987,
+            "id": 966984,
             "date": "13/09/2025",
-            "time": "15:00",
+            "time": "15:15",
             "teams": {
               "home": {
-                "id": 4433,
-                "name": "Sudtirol"
+                "id": 2988,
+                "name": "Catanzaro"
               },
               "away": {
-                "id": 2985,
-                "name": "Palermo"
+                "id": 3238,
+                "name": "Carrarese"
               }
             },
             "status": "pre-match",
@@ -5392,21 +5339,74 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 3.7,
-                "draw": 3.15,
-                "away": 2.11
+                "home": 2.4,
+                "draw": 2.85,
+                "away": 3.14
               },
               "over_under": {
-                "total": 2.25,
-                "over": 1.92,
+                "total": 2,
+                "over": 1.84,
+                "under": 1.98
+              },
+              "handicap": {
+                "market": -0.25,
+                "home": 2.02,
+                "away": 1.74
+              },
+              "last_modified_timestamp": 1757138518
+            },
+            "match_preview": {
+              "has_preview": false,
+              "word_count": -1
+            }
+          },
+          {
+            "id": 966989,
+            "date": "13/09/2025",
+            "time": "17:30",
+            "teams": {
+              "home": {
+                "id": 2979,
+                "name": "Sampdoria"
+              },
+              "away": {
+                "id": 7101,
+                "name": "Cesena"
+              }
+            },
+            "status": "pre-match",
+            "minute": -1,
+            "winner": "tbd",
+            "has_extra_time": false,
+            "has_penalties": false,
+            "goals": {
+              "home_ht_goals": 0,
+              "away_ht_goals": 0,
+              "home_ft_goals": 0,
+              "away_ft_goals": 0,
+              "home_et_goals": -1,
+              "away_et_goals": -1,
+              "home_pen_goals": -1,
+              "away_pen_goals": -1
+            },
+            "events": [],
+            "odds": {
+              "match_winner": {
+                "home": 2.5,
+                "draw": 3,
+                "away": 3
+              },
+              "over_under": {
+                "total": 2,
+                "over": 1.93,
                 "under": 1.9
               },
               "handicap": {
-                "market": "+0.25",
-                "home": 2.02,
-                "away": 1.78
+                "market": -0.25,
+                "home": 2.11,
+                "away": 1.75
               },
-              "last_modified_timestamp": 1757003471
+              "last_modified_timestamp": 1757138518
             },
             "match_preview": {
               "has_preview": false,

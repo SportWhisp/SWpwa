@@ -7198,8 +7198,8 @@
             "odds": {
               "match_winner": {
                 "home": 2.45,
-                "draw": 3.45,
-                "away": 2.7
+                "draw": 3.3,
+                "away": 2.85
               },
               "over_under": {
                 "total": 2.5,
@@ -7208,10 +7208,10 @@
               },
               "handicap": {
                 "market": -0.25,
-                "home": 2.06,
-                "away": 1.68
+                "home": 2.1,
+                "away": 1.7
               },
-              "last_modified_timestamp": 1757055724
+              "last_modified_timestamp": 1757142097
             },
             "match_preview": {
               "has_preview": false,
@@ -7303,21 +7303,21 @@
             "events": [],
             "odds": {
               "match_winner": {
-                "home": 3.75,
-                "draw": 3.6,
+                "home": 3.65,
+                "draw": 3.74,
                 "away": 1.91
               },
               "over_under": {
                 "total": 2.5,
-                "over": 1.73,
-                "under": 2.09
+                "over": 1.7,
+                "under": 2.15
               },
               "handicap": {
                 "market": "+0.5",
-                "home": 1.9,
-                "away": 1.9
+                "home": 1.87,
+                "away": 1.95
               },
-              "last_modified_timestamp": 1757055724
+              "last_modified_timestamp": 1757142097
             },
             "match_preview": {
               "has_preview": false,
@@ -7476,7 +7476,7 @@
                 "home": 1.99,
                 "away": 1.8
               },
-              "last_modified_timestamp": 1757055726
+              "last_modified_timestamp": 1757142098
             },
             "match_preview": {
               "has_preview": false,
@@ -7529,7 +7529,7 @@
                 "home": 2.07,
                 "away": 1.72
               },
-              "last_modified_timestamp": 1757055726
+              "last_modified_timestamp": 1757142098
             },
             "match_preview": {
               "has_preview": false,
@@ -7582,7 +7582,7 @@
                 "home": 2.02,
                 "away": 1.78
               },
-              "last_modified_timestamp": 1757055726
+              "last_modified_timestamp": 1757142098
             },
             "match_preview": {
               "has_preview": false,
